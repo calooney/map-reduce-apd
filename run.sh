@@ -1,4 +1,4 @@
 #!/bin/bash
 
-PROC_NUMBER=9
-mpiexec --oversubscribe -n $PROC_NUMBER python3 main.py
+PROC_NUMBER=6
+mpiexec --oversubscribe -n $PROC_NUMBER python3 main.py input_dir output_dir
