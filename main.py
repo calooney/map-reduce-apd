@@ -54,7 +54,10 @@ else:
             mapper_results_dirs.append(response)
 
         # ASIGN REDUCER WORKLOAD
+        
         for reducer in REDUCER_NODES:
+            to_do_letters = get_reducer_letters(reducer, REDUCER_NODES)
+            comm.send(to_do_letters, reducer, tag=COMM_TAG)
             comm.send(mapper_results_dirs, reducer, tag=COMM_TAG)
 
         # WAIT FOR PROCESSING
@@ -100,12 +103,11 @@ else:
         comm.send(current_mapper_dir, dest=MASTER_NODE, tag=COMM_TAG)
 
     elif rank in REDUCER_NODES:
-        mappers_result_dirs = comm.recv(source=MPI.ANY_SOURCE, tag=COMM_TAG)
-
-        to_do_letters = get_reducer_letters(rank, REDUCER_NODES)
+        to_do_letters = comm.recv(source=MPI.ANY_SOURCE, tag=COMM_TAG)
         log_msg = str(rank) + " -> " + str(to_do_letters) + "\n"
         dump_string(log_msg, REDUCER_DATA_DIR + "/reducers_letters.log")
 
+        mappers_result_dirs = comm.recv(source=MPI.ANY_SOURCE, tag=COMM_TAG)
         working_dict = {}
         for mapper_dir in mappers_result_dirs:
             for letter in to_do_letters:
