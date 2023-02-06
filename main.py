@@ -1,5 +1,5 @@
 #/bin/python3
-# mpiexec --oversubscribe -n $PROC_NUMBER python3 main.py <input_dir> <output_dir>
+# mpiexec --oversubscribe -n <PROC_NUMBER> python3 main.py <INPUT_DIR> <OUTPUT_DIR>
 
 from mpi4py import MPI
 from utils import *
@@ -12,14 +12,14 @@ size = comm.Get_size()
 COMM_TAG = 99
 
 # CONFIG
-MASTER_NODE   = 1
-MAPPER_NODES  = [2, 3, 4]
+MASTER_NODE   = 0
+MAPPER_NODES  = [1, 2, 3, 4]
 REDUCER_NODES = [5, 6]
 
-#PRECALCULATION
+# PRECALCULATION
 ROOT_DIR = os.path.abspath(os.getcwd()) + '/'
 DUMP_DIR = ROOT_DIR + "dump"
-MAPPING_DUMP_DIR  = DUMP_DIR + "/input_mapping_dump"
+MAPPING_DUMP_DIR  = DUMP_DIR + "/mapper_input_dataset"
 MAPPER_RESULT_DIR = DUMP_DIR + "/mapper_result_dump"
 REDUCER_DATA_DIR  = DUMP_DIR + "/reducer_input_dataset"
 RESULT_DUMP_DIR   = DUMP_DIR + "/result_dump"
@@ -37,9 +37,8 @@ else:
         # INIT
         cleanup_dump(DUMP_DIR)
 
-        for dir in DUMPS_DIRS:
-            if not os.path.exists(dir):
-                os.makedirs(dir)
+        for directory in DUMPS_DIRS:
+            create_directory(directory)
 
         # ASIGN MAPPER WORKLOAD
         input_file_names = os.listdir(input_dir)
@@ -49,14 +48,14 @@ else:
             comm.send(workload, dest=mapper, tag=COMM_TAG)
 
         # GET MAPPER RESULTS
-        files = []
+        mapper_results_dirs = []
         for mapper in MAPPER_NODES:
-            result_file = comm.recv(source=MPI.ANY_SOURCE, tag=COMM_TAG)
-            files.append(result_file)
+            response = comm.recv(source=MPI.ANY_SOURCE, tag=COMM_TAG)
+            mapper_results_dirs.append(response)
 
         # ASIGN REDUCER WORKLOAD
         for reducer in REDUCER_NODES:
-            comm.send(files, reducer, tag=COMM_TAG)
+            comm.send(mapper_results_dirs, reducer, tag=COMM_TAG)
 
         # WAIT FOR PROCESSING
         for reducer in REDUCER_NODES:
@@ -68,6 +67,8 @@ else:
     elif rank in MAPPER_NODES:
         response = {}
         files = comm.recv(source=MASTER_NODE, tag=COMM_TAG)
+        dump_string(str(rank) + " -> " + str(files) + "\n", MAPPING_DUMP_DIR + "/mappers_workload.log")
+        
         for file_name in files:
             file_path = input_dir + "/" + file_name
             word_map = compute_word_map(file_path)
@@ -77,24 +78,41 @@ else:
             
             response = merge_dict(response, invert_dict(word_map, file_name))
         
-        result_dump_path = MAPPER_RESULT_DIR + "/" + str(rank) + "_result.json"
+        result_dump_path = MAPPER_RESULT_DIR + "/" + str(rank) + "_all_words.json"
         dump_dict(response, result_dump_path)
 
-        comm.send(result_dump_path, dest=MASTER_NODE, tag=COMM_TAG)
+        current_mapper_dir = MAPPER_RESULT_DIR + "/" + str(rank)
+        create_directory(current_mapper_dir)
+
+        letter_dict = {}
+        for word, dict in response.items():
+            key_letter = word[0]
+            current_word_item = {word: dict}
+
+            if (key_letter in letter_dict):
+                letter_dict[key_letter] = merge_dict(letter_dict[key_letter], current_word_item)
+            else:
+                letter_dict[key_letter] = current_word_item
+        
+        for letter in ENGLISH_LETTERS:
+            dump_dict(letter_dict[letter], current_mapper_dir + "/" + letter + ".json")
+
+        comm.send(current_mapper_dir, dest=MASTER_NODE, tag=COMM_TAG)
 
     elif rank in REDUCER_NODES:
-        files = comm.recv(source=MPI.ANY_SOURCE, tag=COMM_TAG)
-        
-        working_dict = {}
-        for file_path in files:
-            working_dict = merge_dict(working_dict, load_dict(file_path))
-        
-        if rank == REDUCER_NODES[0]:
-            dump_dict(working_dict, REDUCER_DATA_DIR + "/reducer_dataset.json")
-    
+        mappers_result_dirs = comm.recv(source=MPI.ANY_SOURCE, tag=COMM_TAG)
+
         to_do_letters = get_reducer_letters(rank, REDUCER_NODES)
         log_msg = str(rank) + " -> " + str(to_do_letters) + "\n"
         dump_string(log_msg, REDUCER_DATA_DIR + "/reducers_letters.log")
+
+        working_dict = {}
+        for mapper_dir in mappers_result_dirs:
+            for letter in to_do_letters:
+                target_letter_path = mapper_dir + "/" + letter + ".json"
+                working_dict = merge_dict(working_dict, load_dict(target_letter_path))
+        
+        dump_dict(working_dict, REDUCER_DATA_DIR + "/reducer_" + str(rank) + "_dataset.json")     
 
         results = {}
         for word, files in working_dict.items():

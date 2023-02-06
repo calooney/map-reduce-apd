@@ -17,6 +17,10 @@ def cleanup_dump(dirpath):
     if os.path.exists(dirpath):
         shutil.rmtree(dirpath)
 
+def create_directory(path):
+    if not os.path.exists(path):
+        os.makedirs(path)
+
 def asign_mappers_workload(input_dir, mapper_nodes):
     file_names = os.listdir(input_dir)
     total_size = 0
