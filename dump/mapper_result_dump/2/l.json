@@ -1,0 +1,2620 @@
+{
+    "like": {
+        "19.txt": 602,
+        "1.txt": 197,
+        "24.txt": 40,
+        "5.txt": 26,
+        "8.txt": 9,
+        "4.txt": 15
+    },
+    "large": {
+        "19.txt": 41,
+        "1.txt": 12,
+        "5.txt": 13,
+        "8.txt": 2
+    },
+    "lawyers": {
+        "19.txt": 7,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "lands": {
+        "19.txt": 3,
+        "1.txt": 8,
+        "8.txt": 3
+    },
+    "life": {
+        "19.txt": 295,
+        "1.txt": 52,
+        "24.txt": 46,
+        "5.txt": 97,
+        "8.txt": 70,
+        "4.txt": 7
+    },
+    "love": {
+        "19.txt": 84,
+        "1.txt": 48,
+        "24.txt": 48,
+        "5.txt": 7,
+        "8.txt": 8,
+        "4.txt": 5
+    },
+    "lara": {
+        "19.txt": 237
+    },
+    "lost": {
+        "19.txt": 60,
+        "1.txt": 21,
+        "24.txt": 7,
+        "5.txt": 8,
+        "8.txt": 7,
+        "4.txt": 5
+    },
+    "leonid": {
+        "19.txt": 1
+    },
+    "later": {
+        "19.txt": 105,
+        "1.txt": 9,
+        "24.txt": 2,
+        "5.txt": 5,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "library": {
+        "19.txt": 17
+    },
+    "letters": {
+        "19.txt": 18,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "lived": {
+        "19.txt": 61,
+        "1.txt": 5,
+        "24.txt": 1,
+        "5.txt": 5,
+        "8.txt": 9
+    },
+    "language": {
+        "19.txt": 17,
+        "24.txt": 8,
+        "5.txt": 6
+    },
+    "literature": {
+        "19.txt": 5,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "ltd": {
+        "19.txt": 1
+    },
+    "london": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "landowner": {
+        "19.txt": 2
+    },
+    "lawyer": {
+        "19.txt": 14,
+        "5.txt": 1
+    },
+    "live": {
+        "19.txt": 56,
+        "1.txt": 34,
+        "24.txt": 1,
+        "5.txt": 12,
+        "8.txt": 3,
+        "4.txt": 3
+    },
+    "larisa": {
+        "19.txt": 43
+    },
+    "lover": {
+        "19.txt": 8,
+        "1.txt": 9
+    },
+    "lavrentii": {
+        "19.txt": 2
+    },
+    "lipa": {
+        "19.txt": 10
+    },
+    "lives": {
+        "19.txt": 30,
+        "1.txt": 12,
+        "24.txt": 3,
+        "5.txt": 8,
+        "8.txt": 6,
+        "4.txt": 1
+    },
+    "last": {
+        "19.txt": 143,
+        "1.txt": 107,
+        "24.txt": 13,
+        "5.txt": 21,
+        "8.txt": 18,
+        "4.txt": 28
+    },
+    "lord": {
+        "19.txt": 22,
+        "8.txt": 80,
+        "4.txt": 2
+    },
+    "lowered": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "lid": {
+        "19.txt": 10,
+        "1.txt": 4
+    },
+    "little": {
+        "19.txt": 133,
+        "1.txt": 84,
+        "24.txt": 8,
+        "5.txt": 15,
+        "8.txt": 12,
+        "4.txt": 27
+    },
+    "landscape": {
+        "19.txt": 8,
+        "1.txt": 1
+    },
+    "lashed": {
+        "19.txt": 4,
+        "8.txt": 1
+    },
+    "led": {
+        "19.txt": 26,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 7,
+        "8.txt": 9,
+        "4.txt": 2
+    },
+    "local": {
+        "19.txt": 43,
+        "1.txt": 1
+    },
+    "level": {
+        "19.txt": 17,
+        "1.txt": 4,
+        "24.txt": 1,
+        "5.txt": 4
+    },
+    "looked": {
+        "19.txt": 123,
+        "1.txt": 6,
+        "24.txt": 3,
+        "5.txt": 3,
+        "8.txt": 2,
+        "4.txt": 6
+    },
+    "leafless": {
+        "19.txt": 2
+    },
+    "lay": {
+        "19.txt": 62,
+        "1.txt": 15,
+        "24.txt": 2,
+        "5.txt": 1,
+        "8.txt": 25,
+        "4.txt": 9
+    },
+    "lit": {
+        "19.txt": 28,
+        "1.txt": 7
+    },
+    "length": {
+        "19.txt": 9,
+        "1.txt": 4,
+        "5.txt": 2,
+        "8.txt": 3
+    },
+    "long": {
+        "19.txt": 214,
+        "1.txt": 89,
+        "24.txt": 15,
+        "5.txt": 21,
+        "8.txt": 34,
+        "4.txt": 12
+    },
+    "leading": {
+        "19.txt": 12,
+        "24.txt": 1,
+        "5.txt": 7,
+        "4.txt": 1
+    },
+    "left": {
+        "19.txt": 186,
+        "1.txt": 69,
+        "24.txt": 11,
+        "5.txt": 8,
+        "8.txt": 17,
+        "4.txt": 4
+    },
+    "lights": {
+        "19.txt": 13,
+        "1.txt": 11
+    },
+    "land": {
+        "19.txt": 30,
+        "1.txt": 6,
+        "5.txt": 5,
+        "8.txt": 40,
+        "4.txt": 2
+    },
+    "legs": {
+        "19.txt": 35,
+        "1.txt": 11,
+        "4.txt": 4
+    },
+    "landlord": {
+        "19.txt": 2
+    },
+    "likes": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "ll": {
+        "19.txt": 559,
+        "1.txt": 3,
+        "8.txt": 1,
+        "4.txt": 4
+    },
+    "lightning": {
+        "19.txt": 8,
+        "1.txt": 1
+    },
+    "living": {
+        "19.txt": 68,
+        "1.txt": 6,
+        "24.txt": 3,
+        "5.txt": 14,
+        "8.txt": 5,
+        "4.txt": 2
+    },
+    "low": {
+        "19.txt": 43,
+        "1.txt": 12,
+        "5.txt": 5,
+        "8.txt": 3,
+        "4.txt": 2
+    },
+    "leave": {
+        "19.txt": 75,
+        "1.txt": 38,
+        "24.txt": 17,
+        "5.txt": 7,
+        "8.txt": 4
+    },
+    "let": {
+        "19.txt": 158,
+        "1.txt": 81,
+        "24.txt": 14,
+        "5.txt": 17,
+        "8.txt": 15,
+        "4.txt": 11
+    },
+    "longer": {
+        "19.txt": 53,
+        "1.txt": 18,
+        "24.txt": 5,
+        "5.txt": 7,
+        "8.txt": 7,
+        "4.txt": 1
+    },
+    "lawns": {
+        "19.txt": 2
+    },
+    "lakes": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "loyalty": {
+        "19.txt": 12,
+        "8.txt": 1
+    },
+    "loyal": {
+        "19.txt": 7,
+        "5.txt": 1,
+        "8.txt": 8
+    },
+    "look": {
+        "19.txt": 163,
+        "1.txt": 104,
+        "24.txt": 8,
+        "5.txt": 15,
+        "8.txt": 5,
+        "4.txt": 7
+    },
+    "lincoln": {
+        "19.txt": 1
+    },
+    "lucky": {
+        "19.txt": 14,
+        "1.txt": 10,
+        "5.txt": 2
+    },
+    "loaded": {
+        "19.txt": 10,
+        "1.txt": 6,
+        "8.txt": 2
+    },
+    "litter": {
+        "19.txt": 2
+    },
+    "lonely": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "8.txt": 3,
+        "4.txt": 1
+    },
+    "lightness": {
+        "19.txt": 1
+    },
+    "lose": {
+        "19.txt": 20,
+        "1.txt": 13,
+        "24.txt": 2,
+        "5.txt": 1,
+        "8.txt": 3,
+        "4.txt": 3
+    },
+    "lime": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 3
+    },
+    "lines": {
+        "19.txt": 22,
+        "1.txt": 6,
+        "5.txt": 4
+    },
+    "lumbering": {
+        "19.txt": 1
+    },
+    "liked": {
+        "19.txt": 18,
+        "1.txt": 4,
+        "24.txt": 1,
+        "5.txt": 4
+    },
+    "loved": {
+        "19.txt": 25,
+        "1.txt": 8,
+        "24.txt": 1,
+        "5.txt": 2,
+        "8.txt": 12,
+        "4.txt": 2
+    },
+    "lavatories": {
+        "19.txt": 1
+    },
+    "ladies": {
+        "19.txt": 10,
+        "1.txt": 3,
+        "5.txt": 3
+    },
+    "lips": {
+        "19.txt": 25,
+        "1.txt": 40
+    },
+    "leaf": {
+        "19.txt": 3,
+        "1.txt": 5,
+        "24.txt": 1
+    },
+    "looking": {
+        "19.txt": 106,
+        "1.txt": 35,
+        "24.txt": 2,
+        "4.txt": 9
+    },
+    "lace": {
+        "19.txt": 4,
+        "1.txt": 2
+    },
+    "law": {
+        "19.txt": 32,
+        "1.txt": 5,
+        "24.txt": 516,
+        "5.txt": 8,
+        "8.txt": 5
+    },
+    "light": {
+        "19.txt": 121,
+        "1.txt": 36,
+        "24.txt": 6,
+        "5.txt": 4,
+        "8.txt": 9
+    },
+    "lenient": {
+        "19.txt": 1
+    },
+    "least": {
+        "19.txt": 20,
+        "1.txt": 62,
+        "24.txt": 53,
+        "5.txt": 7,
+        "8.txt": 1
+    },
+    "late": {
+        "19.txt": 42,
+        "1.txt": 21,
+        "24.txt": 4,
+        "5.txt": 4,
+        "8.txt": 4,
+        "4.txt": 2
+    },
+    "loops": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "lofty": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "leaves": {
+        "19.txt": 32,
+        "1.txt": 45,
+        "24.txt": 3,
+        "5.txt": 1,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "laughed": {
+        "19.txt": 15,
+        "1.txt": 2,
+        "8.txt": 1,
+        "4.txt": 4
+    },
+    "labor": {
+        "19.txt": 21,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "lying": {
+        "19.txt": 27,
+        "1.txt": 13,
+        "24.txt": 1,
+        "8.txt": 5,
+        "4.txt": 6
+    },
+    "lied": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "lovely": {
+        "19.txt": 14,
+        "1.txt": 6
+    },
+    "lilies": {
+        "19.txt": 4,
+        "1.txt": 5
+    },
+    "levitskaia": {
+        "19.txt": 3
+    },
+    "lodgings": {
+        "19.txt": 3
+    },
+    "liking": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 4,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "littered": {
+        "19.txt": 9,
+        "1.txt": 1
+    },
+    "lordship": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "lady": {
+        "19.txt": 20,
+        "1.txt": 5,
+        "8.txt": 4,
+        "4.txt": 1
+    },
+    "lead": {
+        "19.txt": 7,
+        "1.txt": 6,
+        "24.txt": 7,
+        "5.txt": 9,
+        "8.txt": 2,
+        "4.txt": 2
+    },
+    "lurching": {
+        "19.txt": 1
+    },
+    "leg": {
+        "19.txt": 11,
+        "1.txt": 50
+    },
+    "loud": {
+        "19.txt": 18,
+        "1.txt": 14,
+        "8.txt": 3
+    },
+    "lard": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "leisure": {
+        "19.txt": 5,
+        "5.txt": 1
+    },
+    "learning": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 6
+    },
+    "lullaby": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "less": {
+        "19.txt": 41,
+        "1.txt": 26,
+        "24.txt": 10,
+        "5.txt": 27,
+        "8.txt": 11
+    },
+    "lanterns": {
+        "19.txt": 2
+    },
+    "lowering": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "loomed": {
+        "19.txt": 5
+    },
+    "line": {
+        "19.txt": 56,
+        "1.txt": 7,
+        "5.txt": 1,
+        "8.txt": 5
+    },
+    "learned": {
+        "19.txt": 27,
+        "1.txt": 3,
+        "24.txt": 7,
+        "5.txt": 4,
+        "8.txt": 1
+    },
+    "locomotives": {
+        "19.txt": 4
+    },
+    "ladders": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "lapels": {
+        "19.txt": 1
+    },
+    "lot": {
+        "19.txt": 54,
+        "1.txt": 44,
+        "5.txt": 2,
+        "8.txt": 2,
+        "4.txt": 2
+    },
+    "leaning": {
+        "19.txt": 8,
+        "1.txt": 2
+    },
+    "leather": {
+        "19.txt": 8,
+        "1.txt": 9
+    },
+    "lamps": {
+        "19.txt": 9
+    },
+    "lathe": {
+        "19.txt": 2
+    },
+    "lock": {
+        "19.txt": 8,
+        "1.txt": 5
+    },
+    "loose": {
+        "19.txt": 6,
+        "1.txt": 6,
+        "5.txt": 1,
+        "4.txt": 6
+    },
+    "learn": {
+        "19.txt": 5,
+        "1.txt": 5,
+        "24.txt": 4,
+        "5.txt": 3,
+        "8.txt": 1
+    },
+    "listen": {
+        "19.txt": 48,
+        "1.txt": 12
+    },
+    "lout": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "lack": {
+        "19.txt": 8,
+        "1.txt": 3,
+        "24.txt": 1,
+        "5.txt": 7,
+        "8.txt": 2
+    },
+    "lodgers": {
+        "19.txt": 2
+    },
+    "landings": {
+        "19.txt": 2
+    },
+    "landing": {
+        "19.txt": 17,
+        "1.txt": 3
+    },
+    "laugh": {
+        "19.txt": 6,
+        "1.txt": 15,
+        "24.txt": 2,
+        "5.txt": 2,
+        "4.txt": 1
+    },
+    "logs": {
+        "19.txt": 23
+    },
+    "leaden": {
+        "19.txt": 3
+    },
+    "listened": {
+        "19.txt": 22,
+        "1.txt": 1
+    },
+    "leaders": {
+        "19.txt": 8,
+        "5.txt": 11,
+        "8.txt": 1
+    },
+    "lighter": {
+        "19.txt": 7
+    },
+    "luck": {
+        "19.txt": 10,
+        "1.txt": 13,
+        "4.txt": 3
+    },
+    "laughing": {
+        "19.txt": 22,
+        "1.txt": 19,
+        "4.txt": 1
+    },
+    "laden": {
+        "19.txt": 3,
+        "8.txt": 7
+    },
+    "lectures": {
+        "19.txt": 4
+    },
+    "limits": {
+        "19.txt": 9,
+        "24.txt": 16,
+        "5.txt": 4
+    },
+    "lively": {
+        "19.txt": 3,
+        "24.txt": 2
+    },
+    "lion": {
+        "19.txt": 2,
+        "4.txt": 62
+    },
+    "legible": {
+        "19.txt": 2
+    },
+    "lunchtime": {
+        "19.txt": 1
+    },
+    "libretto": {
+        "19.txt": 1
+    },
+    "liberal": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "leisurely": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "linen": {
+        "19.txt": 14
+    },
+    "lifted": {
+        "19.txt": 5,
+        "1.txt": 8,
+        "8.txt": 2,
+        "4.txt": 3
+    },
+    "lovemaking": {
+        "19.txt": 1
+    },
+    "loves": {
+        "19.txt": 3,
+        "1.txt": 2,
+        "5.txt": 2
+    },
+    "loudly": {
+        "19.txt": 12
+    },
+    "lavished": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "locked": {
+        "19.txt": 17,
+        "1.txt": 10,
+        "8.txt": 2
+    },
+    "lightly": {
+        "19.txt": 9,
+        "1.txt": 2,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "listening": {
+        "19.txt": 14,
+        "1.txt": 8,
+        "4.txt": 2
+    },
+    "lovers": {
+        "19.txt": 1,
+        "1.txt": 6
+    },
+    "lightened": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "leeches": {
+        "19.txt": 1
+    },
+    "labored": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "lobby": {
+        "19.txt": 5,
+        "1.txt": 3
+    },
+    "lulled": {
+        "19.txt": 1
+    },
+    "likeness": {
+        "19.txt": 9
+    },
+    "lighted": {
+        "19.txt": 7,
+        "1.txt": 1,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "lamp": {
+        "19.txt": 20
+    },
+    "looks": {
+        "19.txt": 16,
+        "1.txt": 33,
+        "24.txt": 2,
+        "5.txt": 8,
+        "8.txt": 2
+    },
+    "loosened": {
+        "19.txt": 3,
+        "4.txt": 1
+    },
+    "lamplight": {
+        "19.txt": 7
+    },
+    "loosely": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "lacquer": {
+        "19.txt": 1
+    },
+    "liquor": {
+        "19.txt": 4,
+        "1.txt": 3
+    },
+    "lausanne": {
+        "19.txt": 1
+    },
+    "lobar": {
+        "19.txt": 1
+    },
+    "lecture": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "locomotive": {
+        "19.txt": 1
+    },
+    "liver": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "laying": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "letter": {
+        "19.txt": 15,
+        "1.txt": 1,
+        "24.txt": 5,
+        "5.txt": 16
+    },
+    "legacy": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "lupus": {
+        "19.txt": 2
+    },
+    "literally": {
+        "19.txt": 1,
+        "1.txt": 5,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "liaison": {
+        "19.txt": 4
+    },
+    "lecher": {
+        "19.txt": 1
+    },
+    "logic": {
+        "19.txt": 4,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "laughter": {
+        "19.txt": 16,
+        "1.txt": 2,
+        "8.txt": 2,
+        "4.txt": 2
+    },
+    "lesson": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "lots": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "lower": {
+        "19.txt": 18,
+        "1.txt": 4,
+        "24.txt": 8,
+        "5.txt": 1,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "losin": {
+        "19.txt": 1
+    },
+    "lodging": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "landlady": {
+        "19.txt": 1
+    },
+    "latin": {
+        "19.txt": 3,
+        "5.txt": 2
+    },
+    "luggage": {
+        "19.txt": 14
+    },
+    "latest": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "longed": {
+        "19.txt": 6
+    },
+    "layer": {
+        "19.txt": 4,
+        "1.txt": 12
+    },
+    "lantern": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "logical": {
+        "19.txt": 6,
+        "24.txt": 5,
+        "5.txt": 3
+    },
+    "leaving": {
+        "19.txt": 28,
+        "1.txt": 31,
+        "24.txt": 1,
+        "5.txt": 2,
+        "8.txt": 4,
+        "4.txt": 1
+    },
+    "lemonade": {
+        "19.txt": 1
+    },
+    "louder": {
+        "19.txt": 8,
+        "1.txt": 3,
+        "4.txt": 1
+    },
+    "lottery": {
+        "19.txt": 1
+    },
+    "losing": {
+        "19.txt": 6,
+        "1.txt": 9,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "laughingly": {
+        "19.txt": 1
+    },
+    "louts": {
+        "19.txt": 1
+    },
+    "lungs": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "legends": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "lifting": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "liable": {
+        "19.txt": 2
+    },
+    "lodger": {
+        "19.txt": 2
+    },
+    "lions": {
+        "19.txt": 1,
+        "4.txt": 2
+    },
+    "liudmila": {
+        "19.txt": 5
+    },
+    "lagodina": {
+        "19.txt": 2
+    },
+    "lasted": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "lowest": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "leaned": {
+        "19.txt": 10,
+        "1.txt": 1
+    },
+    "limping": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "lining": {
+        "19.txt": 3
+    },
+    "lutsk": {
+        "19.txt": 1
+    },
+    "limbs": {
+        "19.txt": 2,
+        "1.txt": 5,
+        "8.txt": 2
+    },
+    "ligature": {
+        "19.txt": 1
+    },
+    "landed": {
+        "19.txt": 2,
+        "1.txt": 5,
+        "8.txt": 1
+    },
+    "liquid": {
+        "19.txt": 2,
+        "1.txt": 9
+    },
+    "lists": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "lacked": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "lest": {
+        "19.txt": 8,
+        "24.txt": 6,
+        "5.txt": 1,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "lie": {
+        "19.txt": 12,
+        "1.txt": 18,
+        "24.txt": 8,
+        "5.txt": 4,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "liberate": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "lip": {
+        "19.txt": 6,
+        "1.txt": 11
+    },
+    "lieutenant": {
+        "19.txt": 19
+    },
+    "locally": {
+        "19.txt": 1
+    },
+    "laborch": {
+        "19.txt": 1
+    },
+    "lift": {
+        "19.txt": 3,
+        "1.txt": 16,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "lithuanian": {
+        "19.txt": 1
+    },
+    "lipped": {
+        "19.txt": 1
+    },
+    "longing": {
+        "19.txt": 14,
+        "1.txt": 1,
+        "5.txt": 3,
+        "8.txt": 2
+    },
+    "lattice": {
+        "19.txt": 1
+    },
+    "lattices": {
+        "19.txt": 1
+    },
+    "lumps": {
+        "19.txt": 3,
+        "1.txt": 3
+    },
+    "lull": {
+        "19.txt": 2
+    },
+    "lodged": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "listless": {
+        "19.txt": 1
+    },
+    "linguistic": {
+        "19.txt": 1
+    },
+    "liberation": {
+        "19.txt": 7,
+        "5.txt": 5
+    },
+    "literary": {
+        "19.txt": 7,
+        "24.txt": 5
+    },
+    "locusts": {
+        "19.txt": 1
+    },
+    "legislative": {
+        "19.txt": 1,
+        "24.txt": 17
+    },
+    "laborers": {
+        "19.txt": 1
+    },
+    "launched": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "5.txt": 2
+    },
+    "lolling": {
+        "19.txt": 1
+    },
+    "loss": {
+        "19.txt": 11,
+        "1.txt": 3,
+        "24.txt": 4,
+        "8.txt": 3,
+        "4.txt": 2
+    },
+    "linden": {
+        "19.txt": 4,
+        "8.txt": 6
+    },
+    "lanes": {
+        "19.txt": 1
+    },
+    "lined": {
+        "19.txt": 6,
+        "1.txt": 5
+    },
+    "lobster": {
+        "19.txt": 1
+    },
+    "legendary": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "lend": {
+        "19.txt": 6
+    },
+    "laundry": {
+        "19.txt": 10
+    },
+    "looted": {
+        "19.txt": 2
+    },
+    "loan": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "loans": {
+        "19.txt": 1
+    },
+    "listed": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "lashing": {
+        "19.txt": 1
+    },
+    "legless": {
+        "19.txt": 1
+    },
+    "lynching": {
+        "19.txt": 1
+    },
+    "lingering": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "lar": {
+        "19.txt": 1
+    },
+    "locking": {
+        "19.txt": 2
+    },
+    "ledge": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "louse": {
+        "19.txt": 3
+    },
+    "lichen": {
+        "19.txt": 1
+    },
+    "listeners": {
+        "19.txt": 2
+    },
+    "leapt": {
+        "19.txt": 6,
+        "4.txt": 1
+    },
+    "lies": {
+        "19.txt": 9,
+        "1.txt": 12,
+        "24.txt": 4,
+        "5.txt": 9,
+        "8.txt": 5
+    },
+    "liar": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "24.txt": 1,
+        "4.txt": 1
+    },
+    "lanky": {
+        "19.txt": 2
+    },
+    "lazily": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "lisping": {
+        "19.txt": 1
+    },
+    "leftism": {
+        "19.txt": 1
+    },
+    "leafy": {
+        "19.txt": 4
+    },
+    "lids": {
+        "19.txt": 2
+    },
+    "littering": {
+        "19.txt": 1
+    },
+    "lent": {
+        "19.txt": 5,
+        "8.txt": 1
+    },
+    "lap": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "8.txt": 3,
+        "4.txt": 4
+    },
+    "lice": {
+        "19.txt": 2
+    },
+    "libraries": {
+        "19.txt": 2
+    },
+    "laboratory": {
+        "19.txt": 1
+    },
+    "legged": {
+        "19.txt": 1
+    },
+    "lifetime": {
+        "19.txt": 2,
+        "1.txt": 4
+    },
+    "luxury": {
+        "19.txt": 5,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "latter": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "24.txt": 58,
+        "5.txt": 7,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "lyrical": {
+        "19.txt": 2
+    },
+    "lunatic": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "lydia": {
+        "19.txt": 1
+    },
+    "lankiness": {
+        "19.txt": 1
+    },
+    "lagging": {
+        "19.txt": 1
+    },
+    "leaved": {
+        "19.txt": 1
+    },
+    "lawn": {
+        "19.txt": 1
+    },
+    "linseed": {
+        "19.txt": 1
+    },
+    "laid": {
+        "19.txt": 5,
+        "1.txt": 7,
+        "24.txt": 7,
+        "5.txt": 5,
+        "8.txt": 14
+    },
+    "leader": {
+        "19.txt": 9,
+        "5.txt": 4,
+        "8.txt": 15
+    },
+    "larynx": {
+        "19.txt": 1
+    },
+    "loosen": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "load": {
+        "19.txt": 3,
+        "1.txt": 5,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "loads": {
+        "19.txt": 1
+    },
+    "largely": {
+        "19.txt": 2,
+        "1.txt": 3,
+        "5.txt": 5
+    },
+    "licenses": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "layers": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "li": {
+        "19.txt": 2
+    },
+    "lighting": {
+        "19.txt": 6
+    },
+    "leap": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 1
+    },
+    "list": {
+        "19.txt": 5,
+        "1.txt": 4,
+        "24.txt": 3,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "lengths": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "locks": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "lunatics": {
+        "19.txt": 1
+    },
+    "lumped": {
+        "19.txt": 1
+    },
+    "likelihood": {
+        "19.txt": 1
+    },
+    "lampposts": {
+        "19.txt": 2
+    },
+    "liteiny": {
+        "19.txt": 2
+    },
+    "luga": {
+        "19.txt": 1
+    },
+    "labors": {
+        "19.txt": 1
+    },
+    "lifeless": {
+        "19.txt": 4,
+        "8.txt": 3
+    },
+    "luxuriant": {
+        "19.txt": 1
+    },
+    "lacework": {
+        "19.txt": 3
+    },
+    "loaves": {
+        "19.txt": 2,
+        "1.txt": 9
+    },
+    "levelled": {
+        "19.txt": 1
+    },
+    "lateness": {
+        "19.txt": 2
+    },
+    "legal": {
+        "19.txt": 2,
+        "24.txt": 6,
+        "5.txt": 2
+    },
+    "lecherous": {
+        "19.txt": 1
+    },
+    "luminous": {
+        "19.txt": 1
+    },
+    "lousy": {
+        "19.txt": 1
+    },
+    "levied": {
+        "19.txt": 1
+    },
+    "lamb": {
+        "19.txt": 2,
+        "1.txt": 6,
+        "4.txt": 8
+    },
+    "lazy": {
+        "19.txt": 2,
+        "4.txt": 2
+    },
+    "likely": {
+        "19.txt": 3,
+        "1.txt": 10,
+        "24.txt": 2,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "levies": {
+        "19.txt": 1
+    },
+    "leaps": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "loftiest": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "laws": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "24.txt": 93,
+        "5.txt": 3
+    },
+    "log": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "4.txt": 5
+    },
+    "lug": {
+        "19.txt": 1
+    },
+    "lean": {
+        "19.txt": 1,
+        "1.txt": 13,
+        "8.txt": 1
+    },
+    "luckily": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "4.txt": 2
+    },
+    "legend": {
+        "19.txt": 7,
+        "8.txt": 1
+    },
+    "league": {
+        "19.txt": 1,
+        "5.txt": 14
+    },
+    "lever": {
+        "19.txt": 1
+    },
+    "livelihood": {
+        "19.txt": 3
+    },
+    "lame": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "liberius": {
+        "19.txt": 37
+    },
+    "livka": {
+        "19.txt": 3
+    },
+    "leadership": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "lured": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "lily": {
+        "19.txt": 1
+    },
+    "librarian": {
+        "19.txt": 8
+    },
+    "latitude": {
+        "19.txt": 1
+    },
+    "lop": {
+        "19.txt": 2
+    },
+    "lingered": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "lagged": {
+        "19.txt": 1
+    },
+    "lookout": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "lenochka": {
+        "19.txt": 4
+    },
+    "l": {
+        "19.txt": 1
+    },
+    "lengthways": {
+        "19.txt": 1
+    },
+    "lenses": {
+        "19.txt": 1
+    },
+    "loft": {
+        "19.txt": 2
+    },
+    "lynxes": {
+        "19.txt": 2
+    },
+    "lynx": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "limited": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "24.txt": 7,
+        "5.txt": 3
+    },
+    "lump": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "lasting": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 3,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "lensky": {
+        "19.txt": 1
+    },
+    "luxurious": {
+        "19.txt": 1
+    },
+    "largest": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "leafing": {
+        "19.txt": 1
+    },
+    "legitimately": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "lyres": {
+        "19.txt": 1
+    },
+    "labyrinth": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "looting": {
+        "19.txt": 2
+    },
+    "liberated": {
+        "19.txt": 2
+    },
+    "liberating": {
+        "19.txt": 4,
+        "5.txt": 2
+    },
+    "laurels": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "legitimate": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "loaf": {
+        "19.txt": 3,
+        "1.txt": 11
+    },
+    "linked": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "8.txt": 3
+    },
+    "liubeznov": {
+        "19.txt": 1
+    },
+    "literate": {
+        "19.txt": 1
+    },
+    "lilac": {
+        "19.txt": 9
+    },
+    "leibochka": {
+        "19.txt": 1
+    },
+    "lording": {
+        "19.txt": 1
+    },
+    "locksmith": {
+        "19.txt": 1
+    },
+    "limp": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "lajos": {
+        "19.txt": 8
+    },
+    "loving": {
+        "19.txt": 6,
+        "1.txt": 3,
+        "24.txt": 1,
+        "8.txt": 2
+    },
+    "lidochka": {
+        "19.txt": 5
+    },
+    "location": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "lecturer": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "lopping": {
+        "19.txt": 1
+    },
+    "larger": {
+        "19.txt": 3,
+        "1.txt": 3,
+        "5.txt": 5
+    },
+    "locket": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "liberators": {
+        "19.txt": 1
+    },
+    "liberty": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 11
+    },
+    "loathsome": {
+        "19.txt": 1,
+        "8.txt": 7
+    },
+    "letting": {
+        "19.txt": 6,
+        "1.txt": 10,
+        "24.txt": 1
+    },
+    "lash": {
+        "19.txt": 1
+    },
+    "landslide": {
+        "19.txt": 1
+    },
+    "limped": {
+        "19.txt": 1
+    },
+    "lawful": {
+        "19.txt": 1
+    },
+    "longest": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "languish": {
+        "19.txt": 1
+    },
+    "luring": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "lures": {
+        "19.txt": 1
+    },
+    "lynched": {
+        "19.txt": 1
+    },
+    "loofahs": {
+        "19.txt": 1
+    },
+    "leads": {
+        "19.txt": 2,
+        "1.txt": 9,
+        "24.txt": 7,
+        "5.txt": 6,
+        "8.txt": 1
+    },
+    "lengthening": {
+        "19.txt": 1
+    },
+    "lits": {
+        "19.txt": 2
+    },
+    "lumber": {
+        "19.txt": 1
+    },
+    "locksmiths": {
+        "19.txt": 1
+    },
+    "lather": {
+        "19.txt": 2
+    },
+    "lordling": {
+        "19.txt": 1
+    },
+    "lynchings": {
+        "19.txt": 1
+    },
+    "latch": {
+        "19.txt": 1
+    },
+    "lavishing": {
+        "19.txt": 1
+    },
+    "loveliness": {
+        "19.txt": 1
+    },
+    "loathing": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "legalized": {
+        "19.txt": 1
+    },
+    "luxemburg": {
+        "19.txt": 1
+    },
+    "lectured": {
+        "19.txt": 1
+    },
+    "lessons": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "limitation": {
+        "19.txt": 1,
+        "24.txt": 3,
+        "5.txt": 4
+    },
+    "link": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "lengthy": {
+        "19.txt": 1
+    },
+    "liturgy": {
+        "19.txt": 4
+    },
+    "liturgical": {
+        "19.txt": 1
+    },
+    "lust": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "lenten": {
+        "19.txt": 1
+    },
+    "lacking": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "5.txt": 2
+    },
+    "legality": {
+        "19.txt": 1,
+        "24.txt": 7
+    },
+    "lamas": {
+        "19.txt": 1
+    },
+    "laundress": {
+        "19.txt": 1
+    },
+    "laundering": {
+        "19.txt": 2
+    },
+    "leak": {
+        "19.txt": 1
+    },
+    "larusha": {
+        "19.txt": 1
+    },
+    "languages": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "laundered": {
+        "19.txt": 1
+    },
+    "lacy": {
+        "19.txt": 1
+    },
+    "luckless": {
+        "19.txt": 2
+    },
+    "lair": {
+        "19.txt": 2,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "looming": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "lusted": {
+        "19.txt": 1
+    },
+    "livelier": {
+        "19.txt": 1
+    },
+    "lintel": {
+        "19.txt": 1
+    },
+    "ludicrous": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "loneliness": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "lightest": {
+        "19.txt": 1
+    },
+    "lament": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "launch": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "lenin": {
+        "19.txt": 1
+    },
+    "lucidity": {
+        "19.txt": 1
+    },
+    "lodge": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "lukewarm": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "limit": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "levels": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "lettering": {
+        "19.txt": 1
+    },
+    "lamentations": {
+        "19.txt": 1
+    },
+    "lecturing": {
+        "19.txt": 1
+    },
+    "lumberjacks": {
+        "19.txt": 1
+    },
+    "losses": {
+        "19.txt": 1
+    },
+    "lemons": {
+        "19.txt": 1
+    },
+    "ladder": {
+        "19.txt": 2,
+        "1.txt": 6
+    },
+    "literal": {
+        "19.txt": 1
+    },
+    "letup": {
+        "19.txt": 1
+    },
+    "lasts": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "8.txt": 1
+    },
+    "landmarks": {
+        "19.txt": 1
+    },
+    "loosed": {
+        "19.txt": 1
+    },
+    "leant": {
+        "19.txt": 1
+    },
+    "lightnings": {
+        "19.txt": 1
+    },
+    "lindens": {
+        "19.txt": 1
+    },
+    "lance": {
+        "19.txt": 2
+    },
+    "limb": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "littorals": {
+        "19.txt": 1
+    },
+    "lashes": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "lieu": {
+        "19.txt": 1
+    },
+    "languishing": {
+        "19.txt": 1
+    },
+    "lizards": {
+        "19.txt": 1
+    },
+    "ledges": {
+        "19.txt": 1
+    },
+    "legions": {
+        "19.txt": 1
+    },
+    "likhachi": {
+        "19.txt": 1
+    },
+    "lone": {
+        "1.txt": 1
+    },
+    "leaping": {
+        "1.txt": 2
+    },
+    "lets": {
+        "1.txt": 31,
+        "24.txt": 1,
+        "4.txt": 1
+    },
+    "lake": {
+        "1.txt": 35,
+        "4.txt": 2
+    },
+    "lunch": {
+        "1.txt": 9
+    },
+    "leans": {
+        "1.txt": 8
+    },
+    "latecomers": {
+        "1.txt": 1
+    },
+    "laughingstock": {
+        "1.txt": 1
+    },
+    "lane": {
+        "1.txt": 1
+    },
+    "luscious": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "lighten": {
+        "1.txt": 1,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "lunges": {
+        "1.txt": 1
+    },
+    "laughs": {
+        "1.txt": 9
+    },
+    "lifeline": {
+        "1.txt": 2
+    },
+    "leaking": {
+        "1.txt": 1
+    },
+    "lodges": {
+        "1.txt": 2
+    },
+    "loam": {
+        "1.txt": 1
+    },
+    "lipstick": {
+        "1.txt": 1
+    },
+    "lotion": {
+        "1.txt": 2
+    },
+    "loop": {
+        "1.txt": 3
+    },
+    "likable": {
+        "1.txt": 2
+    },
+    "lumpy": {
+        "1.txt": 1
+    },
+    "lookalike": {
+        "1.txt": 1
+    },
+    "lemony": {
+        "1.txt": 1
+    },
+    "linger": {
+        "1.txt": 2
+    },
+    "lightens": {
+        "1.txt": 1
+    },
+    "leniency": {
+        "1.txt": 1
+    },
+    "littler": {
+        "1.txt": 1
+    },
+    "lugging": {
+        "1.txt": 1
+    },
+    "latters": {
+        "1.txt": 1
+    },
+    "longevity": {
+        "1.txt": 1
+    },
+    "lush": {
+        "1.txt": 1
+    },
+    "le": {
+        "1.txt": 1,
+        "5.txt": 3
+    },
+    "lad": {
+        "1.txt": 1
+    },
+    "loses": {
+        "1.txt": 4,
+        "5.txt": 3
+    },
+    "longingly": {
+        "1.txt": 3
+    },
+    "lingers": {
+        "1.txt": 1
+    },
+    "landscapes": {
+        "1.txt": 1
+    },
+    "liven": {
+        "1.txt": 1
+    },
+    "lays": {
+        "1.txt": 2,
+        "24.txt": 3,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "lunge": {
+        "1.txt": 2
+    },
+    "lunched": {
+        "1.txt": 1
+    },
+    "lapdogs": {
+        "1.txt": 1
+    },
+    "lure": {
+        "1.txt": 1
+    },
+    "leftovers": {
+        "1.txt": 1
+    },
+    "locate": {
+        "1.txt": 2
+    },
+    "lifts": {
+        "1.txt": 1
+    },
+    "launchers": {
+        "1.txt": 2
+    },
+    "lullabies": {
+        "1.txt": 1
+    },
+    "lab": {
+        "1.txt": 1
+    },
+    "labs": {
+        "1.txt": 1
+    },
+    "lurch": {
+        "1.txt": 1
+    },
+    "leaching": {
+        "1.txt": 1
+    },
+    "layout": {
+        "1.txt": 1
+    },
+    "launches": {
+        "1.txt": 1
+    },
+    "laughable": {
+        "1.txt": 1
+    },
+    "lopsided": {
+        "1.txt": 1
+    },
+    "layand": {
+        "1.txt": 1
+    },
+    "lessened": {
+        "1.txt": 1
+    },
+    "lonelier": {
+        "1.txt": 2
+    },
+    "lethargy": {
+        "1.txt": 1
+    },
+    "loathe": {
+        "1.txt": 1
+    },
+    "levity": {
+        "1.txt": 1
+    },
+    "lethal": {
+        "1.txt": 1
+    },
+    "lately": {
+        "1.txt": 2
+    },
+    "located": {
+        "1.txt": 1
+    },
+    "licked": {
+        "1.txt": 1,
+        "4.txt": 2
+    },
+    "levers": {
+        "1.txt": 1
+    },
+    "lowers": {
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "likethat": {
+        "1.txt": 1
+    },
+    "lulling": {
+        "1.txt": 1
+    },
+    "licks": {
+        "1.txt": 1
+    },
+    "lessens": {
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "lesser": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "limps": {
+        "1.txt": 1
+    },
+    "liquids": {
+        "1.txt": 1
+    },
+    "lag": {
+        "1.txt": 1
+    },
+    "licet": {
+        "24.txt": 2
+    },
+    "loth": {
+        "24.txt": 1
+    },
+    "labours": {
+        "24.txt": 2,
+        "5.txt": 3,
+        "4.txt": 1
+    },
+    "labour": {
+        "24.txt": 2,
+        "5.txt": 22,
+        "4.txt": 3
+    },
+    "legislation": {
+        "24.txt": 22,
+        "5.txt": 1
+    },
+    "lustful": {
+        "24.txt": 1
+    },
+    "lawfulness": {
+        "24.txt": 1
+    },
+    "lastly": {
+        "24.txt": 2
+    },
+    "limitations": {
+        "24.txt": 2
+    },
+    "latins": {
+        "24.txt": 1
+    },
+    "leagued": {
+        "24.txt": 1
+    },
+    "lawgiver": {
+        "24.txt": 2
+    },
+    "legislating": {
+        "24.txt": 1
+    },
+    "laboured": {
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "leibnitz": {
+        "24.txt": 2
+    },
+    "likewise": {
+        "24.txt": 9,
+        "8.txt": 1
+    },
+    "lunar": {
+        "24.txt": 1
+    },
+    "lucid": {
+        "24.txt": 1
+    },
+    "legitimation": {
+        "24.txt": 1
+    },
+    "lawgiving": {
+        "24.txt": 1
+    },
+    "laborious": {
+        "24.txt": 1
+    },
+    "lamented": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "liveliness": {
+        "24.txt": 1
+    },
+    "lessen": {
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "longings": {
+        "24.txt": 1
+    },
+    "languor": {
+        "24.txt": 1
+    },
+    "leges": {
+        "24.txt": 1
+    },
+    "legibus": {
+        "24.txt": 1
+    },
+    "laudatur": {
+        "24.txt": 1
+    },
+    "limitless": {
+        "24.txt": 1
+    },
+    "loftiness": {
+        "24.txt": 1
+    },
+    "listing": {
+        "24.txt": 1
+    },
+    "louisiana": {
+        "24.txt": 1
+    },
+    "legally": {
+        "24.txt": 2
+    },
+    "liability": {
+        "24.txt": 4
+    },
+    "links": {
+        "24.txt": 1
+    },
+    "license": {
+        "24.txt": 1
+    },
+    "licensed": {
+        "24.txt": 1
+    },
+    "lavish": {
+        "5.txt": 1
+    },
+    "lorentz": {
+        "5.txt": 11
+    },
+    "layman": {
+        "5.txt": 2
+    },
+    "lynhaus": {
+        "5.txt": 1
+    },
+    "lessing": {
+        "5.txt": 2
+    },
+    "learnt": {
+        "5.txt": 3,
+        "4.txt": 1
+    },
+    "lapse": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "loyally": {
+        "5.txt": 1
+    },
+    "ludwig": {
+        "5.txt": 1
+    },
+    "latent": {
+        "5.txt": 1
+    },
+    "logically": {
+        "5.txt": 1
+    },
+    "limiting": {
+        "5.txt": 1
+    },
+    "leyden": {
+        "5.txt": 1
+    },
+    "livings": {
+        "5.txt": 1
+    },
+    "lain": {
+        "5.txt": 2
+    },
+    "lapped": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "lowness": {
+        "5.txt": 1
+    },
+    "lends": {
+        "5.txt": 1
+    },
+    "liberator": {
+        "5.txt": 1
+    },
+    "labourers": {
+        "5.txt": 1
+    },
+    "lightening": {
+        "5.txt": 1
+    },
+    "loosening": {
+        "5.txt": 1
+    },
+    "lo": {
+        "8.txt": 7
+    },
+    "liegemen": {
+        "8.txt": 17
+    },
+    "lauded": {
+        "8.txt": 2
+    },
+    "lordly": {
+        "8.txt": 5
+    },
+    "lurked": {
+        "8.txt": 2
+    },
+    "livelong": {
+        "8.txt": 2
+    },
+    "lorded": {
+        "8.txt": 1
+    },
+    "loathly": {
+        "8.txt": 2
+    },
+    "liege": {
+        "8.txt": 3
+    },
+    "lief": {
+        "8.txt": 2
+    },
+    "loath": {
+        "8.txt": 3
+    },
+    "lustily": {
+        "8.txt": 4
+    },
+    "listeth": {
+        "8.txt": 1
+    },
+    "lusty": {
+        "8.txt": 3
+    },
+    "lamed": {
+        "8.txt": 1
+    },
+    "laved": {
+        "8.txt": 1
+    },
+    "liveth": {
+        "8.txt": 2
+    },
+    "largess": {
+        "8.txt": 2
+    },
+    "likest": {
+        "8.txt": 1
+    },
+    "lordless": {
+        "8.txt": 1
+    },
+    "lafing": {
+        "8.txt": 1
+    },
+    "lov": {
+        "8.txt": 1
+    },
+    "leaped": {
+        "8.txt": 1
+    },
+    "liegeman": {
+        "8.txt": 6
+    },
+    "loosens": {
+        "8.txt": 1
+    },
+    "lapsing": {
+        "8.txt": 2
+    },
+    "lapsed": {
+        "8.txt": 1
+    },
+    "letteth": {
+        "8.txt": 1
+    },
+    "lending": {
+        "8.txt": 1
+    },
+    "lackest": {
+        "8.txt": 1
+    },
+    "landfolk": {
+        "8.txt": 1
+    },
+    "leal": {
+        "8.txt": 2
+    },
+    "langobards": {
+        "8.txt": 1
+    },
+    "landsfolk": {
+        "8.txt": 1
+    },
+    "loaned": {
+        "8.txt": 1
+    },
+    "loathlier": {
+        "8.txt": 1
+    },
+    "loathed": {
+        "8.txt": 1
+    },
+    "lave": {
+        "8.txt": 1
+    },
+    "laggards": {
+        "8.txt": 1
+    },
+    "likeliest": {
+        "8.txt": 1
+    },
+    "lords": {
+        "8.txt": 1
+    },
+    "lyke": {
+        "8.txt": 1
+    },
+    "lilt": {
+        "8.txt": 1
+    },
+    "laud": {
+        "8.txt": 1
+    },
+    "lapdog": {
+        "4.txt": 6
+    },
+    "labourer": {
+        "4.txt": 6
+    },
+    "lapping": {
+        "4.txt": 1
+    },
+    "lambikin": {
+        "4.txt": 1
+    },
+    "lick": {
+        "4.txt": 2
+    }
+}

@@ -1,0 +1,2218 @@
+{
+    "got": {
+        "15.txt": 198,
+        "7.txt": 36,
+        "18.txt": 43,
+        "13.txt": 87,
+        "14.txt": 3,
+        "6.txt": 3
+    },
+    "gone": {
+        "15.txt": 40,
+        "7.txt": 41,
+        "18.txt": 23,
+        "13.txt": 23,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "gave": {
+        "15.txt": 53,
+        "7.txt": 92,
+        "18.txt": 15,
+        "13.txt": 26,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "general": {
+        "15.txt": 10,
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 35,
+        "23.txt": 20,
+        "6.txt": 5
+    },
+    "glory": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 5
+    },
+    "god": {
+        "15.txt": 32,
+        "7.txt": 2,
+        "13.txt": 24,
+        "14.txt": 4,
+        "23.txt": 34,
+        "6.txt": 10
+    },
+    "gold": {
+        "15.txt": 7,
+        "7.txt": 86,
+        "18.txt": 3,
+        "13.txt": 10,
+        "23.txt": 1
+    },
+    "generosity": {
+        "15.txt": 1,
+        "7.txt": 6
+    },
+    "guilty": {
+        "15.txt": 11,
+        "7.txt": 9,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "good": {
+        "15.txt": 118,
+        "7.txt": 118,
+        "18.txt": 74,
+        "13.txt": 39,
+        "14.txt": 91,
+        "23.txt": 17,
+        "6.txt": 14
+    },
+    "growing": {
+        "15.txt": 12,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 2,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "getting": {
+        "15.txt": 19,
+        "7.txt": 7,
+        "18.txt": 15,
+        "13.txt": 15,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "grass": {
+        "15.txt": 8,
+        "18.txt": 2,
+        "13.txt": 13
+    },
+    "grew": {
+        "15.txt": 26,
+        "7.txt": 27,
+        "13.txt": 6
+    },
+    "go": {
+        "15.txt": 247,
+        "7.txt": 112,
+        "18.txt": 112,
+        "13.txt": 72,
+        "14.txt": 2,
+        "23.txt": 1,
+        "6.txt": 8
+    },
+    "graham": {
+        "15.txt": 1
+    },
+    "game": {
+        "15.txt": 10,
+        "7.txt": 7,
+        "18.txt": 16,
+        "13.txt": 4
+    },
+    "goin": {
+        "15.txt": 27,
+        "13.txt": 3
+    },
+    "get": {
+        "15.txt": 200,
+        "7.txt": 35,
+        "18.txt": 131,
+        "13.txt": 76,
+        "14.txt": 9,
+        "6.txt": 5
+    },
+    "giant": {
+        "15.txt": 4,
+        "7.txt": 8,
+        "18.txt": 5,
+        "13.txt": 1
+    },
+    "gate": {
+        "15.txt": 23,
+        "7.txt": 14,
+        "18.txt": 2,
+        "13.txt": 8
+    },
+    "green": {
+        "15.txt": 8,
+        "7.txt": 4,
+        "18.txt": 18,
+        "13.txt": 17,
+        "6.txt": 4
+    },
+    "gray": {
+        "15.txt": 15,
+        "18.txt": 12,
+        "13.txt": 18,
+        "6.txt": 4
+    },
+    "guarded": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "grounds": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 9,
+        "23.txt": 1
+    },
+    "groceries": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "gang": {
+        "15.txt": 4
+    },
+    "gambling": {
+        "15.txt": 3
+    },
+    "glad": {
+        "15.txt": 17,
+        "7.txt": 7,
+        "18.txt": 3,
+        "13.txt": 11,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "going": {
+        "15.txt": 69,
+        "7.txt": 49,
+        "18.txt": 89,
+        "13.txt": 72,
+        "6.txt": 5
+    },
+    "ghosts": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "ground": {
+        "15.txt": 27,
+        "7.txt": 54,
+        "18.txt": 23,
+        "13.txt": 4,
+        "14.txt": 9,
+        "23.txt": 11,
+        "6.txt": 2
+    },
+    "goes": {
+        "15.txt": 14,
+        "7.txt": 4,
+        "18.txt": 21,
+        "13.txt": 6,
+        "14.txt": 4,
+        "6.txt": 1
+    },
+    "gravel": {
+        "15.txt": 3,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "ghost": {
+        "15.txt": 5,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "gouges": {
+        "15.txt": 1
+    },
+    "gettin": {
+        "15.txt": 11
+    },
+    "gonna": {
+        "15.txt": 52
+    },
+    "growled": {
+        "15.txt": 7
+    },
+    "given": {
+        "15.txt": 17,
+        "7.txt": 60,
+        "18.txt": 16,
+        "13.txt": 7,
+        "14.txt": 14,
+        "23.txt": 11,
+        "6.txt": 9
+    },
+    "games": {
+        "15.txt": 2,
+        "18.txt": 56,
+        "13.txt": 1
+    },
+    "grade": {
+        "15.txt": 24,
+        "23.txt": 1
+    },
+    "graders": {
+        "15.txt": 1
+    },
+    "grades": {
+        "15.txt": 1
+    },
+    "guess": {
+        "15.txt": 22,
+        "7.txt": 6,
+        "18.txt": 27,
+        "13.txt": 3,
+        "14.txt": 1
+    },
+    "grudge": {
+        "15.txt": 4,
+        "7.txt": 1
+    },
+    "graciously": {
+        "15.txt": 2,
+        "7.txt": 5
+    },
+    "gained": {
+        "15.txt": 1,
+        "7.txt": 9,
+        "18.txt": 1,
+        "14.txt": 4
+    },
+    "greens": {
+        "15.txt": 1
+    },
+    "give": {
+        "15.txt": 35,
+        "7.txt": 123,
+        "18.txt": 41,
+        "13.txt": 22,
+        "14.txt": 31,
+        "23.txt": 17
+    },
+    "grabbed": {
+        "15.txt": 15,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "grinned": {
+        "15.txt": 21,
+        "7.txt": 1
+    },
+    "greeted": {
+        "15.txt": 2,
+        "7.txt": 8
+    },
+    "generous": {
+        "15.txt": 6,
+        "7.txt": 7,
+        "13.txt": 1
+    },
+    "glass": {
+        "15.txt": 7,
+        "7.txt": 10,
+        "18.txt": 21,
+        "13.txt": 10,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "grammar": {
+        "15.txt": 3
+    },
+    "gotten": {
+        "15.txt": 3,
+        "18.txt": 3,
+        "13.txt": 2
+    },
+    "gently": {
+        "15.txt": 13,
+        "7.txt": 6,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "gentleman": {
+        "15.txt": 10,
+        "7.txt": 1,
+        "13.txt": 4
+    },
+    "guest": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "gratefully": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "gets": {
+        "15.txt": 10,
+        "18.txt": 12,
+        "13.txt": 4
+    },
+    "genuine": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "14.txt": 5
+    },
+    "gallop": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "gloom": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "grace": {
+        "15.txt": 13,
+        "7.txt": 5,
+        "18.txt": 3,
+        "13.txt": 1,
+        "23.txt": 3,
+        "6.txt": 3
+    },
+    "grim": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "granddaddy": {
+        "15.txt": 3
+    },
+    "generations": {
+        "15.txt": 5,
+        "13.txt": 1
+    },
+    "gravely": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "13.txt": 3
+    },
+    "group": {
+        "15.txt": 6,
+        "18.txt": 18,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "gathered": {
+        "15.txt": 4,
+        "7.txt": 11,
+        "13.txt": 5,
+        "23.txt": 2
+    },
+    "gum": {
+        "15.txt": 9
+    },
+    "gargle": {
+        "15.txt": 1
+    },
+    "great": {
+        "15.txt": 9,
+        "7.txt": 171,
+        "18.txt": 10,
+        "13.txt": 29,
+        "14.txt": 10,
+        "23.txt": 20,
+        "6.txt": 8
+    },
+    "gentle": {
+        "15.txt": 7,
+        "7.txt": 3,
+        "18.txt": 2
+    },
+    "grumblings": {
+        "15.txt": 1
+    },
+    "gingerly": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "grown": {
+        "15.txt": 22,
+        "7.txt": 9,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "girl": {
+        "15.txt": 28,
+        "7.txt": 9,
+        "18.txt": 27,
+        "13.txt": 47
+    },
+    "glasses": {
+        "15.txt": 23,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 5
+    },
+    "graces": {
+        "15.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "gulped": {
+        "15.txt": 2
+    },
+    "glassful": {
+        "15.txt": 1
+    },
+    "gothic": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "gossip": {
+        "15.txt": 3,
+        "18.txt": 2,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "girls": {
+        "15.txt": 7,
+        "7.txt": 3,
+        "18.txt": 4,
+        "13.txt": 22,
+        "6.txt": 2
+    },
+    "grains": {
+        "15.txt": 1,
+        "7.txt": 4
+    },
+    "gesture": {
+        "15.txt": 2,
+        "18.txt": 3,
+        "13.txt": 4
+    },
+    "goat": {
+        "15.txt": 2,
+        "18.txt": 2,
+        "23.txt": 1
+    },
+    "gospel": {
+        "15.txt": 1
+    },
+    "grain": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "grimly": {
+        "15.txt": 5
+    },
+    "gracious": {
+        "15.txt": 5,
+        "7.txt": 3
+    },
+    "g": {
+        "15.txt": 2,
+        "13.txt": 3,
+        "14.txt": 9,
+        "6.txt": 2
+    },
+    "gazed": {
+        "15.txt": 4,
+        "7.txt": 5,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "gaped": {
+        "15.txt": 1
+    },
+    "gigantic": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "golly": {
+        "15.txt": 2
+    },
+    "gallon": {
+        "15.txt": 3
+    },
+    "garden": {
+        "15.txt": 4,
+        "7.txt": 37,
+        "18.txt": 2,
+        "13.txt": 25,
+        "6.txt": 8
+    },
+    "galloped": {
+        "15.txt": 3
+    },
+    "gotta": {
+        "15.txt": 8
+    },
+    "glare": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "gamblin": {
+        "15.txt": 1
+    },
+    "gnats": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "grandfather": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "grin": {
+        "15.txt": 4
+    },
+    "guilt": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "giving": {
+        "15.txt": 4,
+        "7.txt": 23,
+        "18.txt": 5,
+        "13.txt": 4,
+        "14.txt": 13,
+        "23.txt": 3
+    },
+    "glistened": {
+        "15.txt": 5
+    },
+    "grunted": {
+        "15.txt": 1
+    },
+    "glanced": {
+        "15.txt": 11,
+        "13.txt": 15,
+        "6.txt": 1
+    },
+    "gradually": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 5,
+        "23.txt": 8
+    },
+    "groggy": {
+        "15.txt": 1
+    },
+    "gushed": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "groups": {
+        "15.txt": 2,
+        "18.txt": 4,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "greatly": {
+        "15.txt": 1,
+        "7.txt": 13,
+        "18.txt": 1,
+        "14.txt": 2,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "gazing": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "6.txt": 1
+    },
+    "gives": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 34,
+        "13.txt": 4,
+        "14.txt": 10,
+        "23.txt": 4,
+        "6.txt": 3
+    },
+    "grievin": {
+        "15.txt": 1
+    },
+    "grieving": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "grow": {
+        "15.txt": 14,
+        "7.txt": 4,
+        "18.txt": 5,
+        "13.txt": 4,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "gastric": {
+        "15.txt": 1
+    },
+    "grandparents": {
+        "15.txt": 2
+    },
+    "gown": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "guilelessness": {
+        "15.txt": 1
+    },
+    "guestroom": {
+        "15.txt": 1
+    },
+    "goings": {
+        "15.txt": 1
+    },
+    "gravitated": {
+        "15.txt": 1
+    },
+    "graduated": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "guests": {
+        "15.txt": 4,
+        "7.txt": 8,
+        "18.txt": 3,
+        "13.txt": 7
+    },
+    "grandma": {
+        "15.txt": 9
+    },
+    "giggled": {
+        "15.txt": 2
+    },
+    "grinning": {
+        "15.txt": 6,
+        "18.txt": 1
+    },
+    "gimme": {
+        "15.txt": 3
+    },
+    "gallantly": {
+        "15.txt": 2
+    },
+    "goodness": {
+        "15.txt": 3,
+        "7.txt": 6,
+        "18.txt": 2,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "generation": {
+        "15.txt": 4,
+        "18.txt": 1,
+        "13.txt": 2,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "garage": {
+        "15.txt": 1,
+        "13.txt": 28
+    },
+    "guns": {
+        "15.txt": 2,
+        "18.txt": 14,
+        "13.txt": 2
+    },
+    "gardens": {
+        "15.txt": 1,
+        "7.txt": 14,
+        "13.txt": 5,
+        "6.txt": 1
+    },
+    "gun": {
+        "15.txt": 11,
+        "18.txt": 20,
+        "13.txt": 2
+    },
+    "gloomily": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "gauze": {
+        "15.txt": 1
+    },
+    "goldfish": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "garbage": {
+        "15.txt": 5,
+        "18.txt": 1
+    },
+    "gift": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "18.txt": 5,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 3
+    },
+    "gaze": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 3,
+        "6.txt": 1
+    },
+    "grimy": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "guff": {
+        "15.txt": 1
+    },
+    "granted": {
+        "15.txt": 2,
+        "7.txt": 15,
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "geological": {
+        "15.txt": 1
+    },
+    "greeting": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "glacier": {
+        "15.txt": 1
+    },
+    "grooves": {
+        "15.txt": 1
+    },
+    "grave": {
+        "15.txt": 6,
+        "7.txt": 14,
+        "18.txt": 3,
+        "13.txt": 5,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "grateful": {
+        "15.txt": 3,
+        "7.txt": 8,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "growin": {
+        "15.txt": 1
+    },
+    "governor": {
+        "15.txt": 5,
+        "7.txt": 2,
+        "14.txt": 1
+    },
+    "gras": {
+        "15.txt": 1
+    },
+    "gambled": {
+        "15.txt": 2
+    },
+    "graves": {
+        "15.txt": 3,
+        "7.txt": 1
+    },
+    "guarding": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "gestures": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "greetings": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "gathering": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 2
+    },
+    "garish": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "gethsemane": {
+        "15.txt": 1
+    },
+    "glinted": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "gust": {
+        "15.txt": 1,
+        "13.txt": 3
+    },
+    "grandaddy": {
+        "15.txt": 2
+    },
+    "glances": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "garments": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 3
+    },
+    "giddy": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "greater": {
+        "15.txt": 1,
+        "7.txt": 8,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 6,
+        "23.txt": 24,
+        "6.txt": 1
+    },
+    "giggle": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "government": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "grubbiness": {
+        "15.txt": 1
+    },
+    "goods": {
+        "15.txt": 1,
+        "7.txt": 13,
+        "18.txt": 3,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "guides": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 3
+    },
+    "gin": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "glove": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "growling": {
+        "15.txt": 1
+    },
+    "glance": {
+        "15.txt": 4,
+        "7.txt": 4,
+        "18.txt": 7,
+        "13.txt": 7
+    },
+    "grab": {
+        "15.txt": 1,
+        "18.txt": 7
+    },
+    "gouging": {
+        "15.txt": 1
+    },
+    "grunt": {
+        "15.txt": 1
+    },
+    "guarantee": {
+        "15.txt": 1,
+        "23.txt": 1
+    },
+    "glee": {
+        "15.txt": 2
+    },
+    "grady": {
+        "15.txt": 1
+    },
+    "graying": {
+        "15.txt": 1
+    },
+    "generals": {
+        "15.txt": 1
+    },
+    "gloves": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "gala": {
+        "15.txt": 1
+    },
+    "gnawing": {
+        "15.txt": 2
+    },
+    "greasy": {
+        "15.txt": 3,
+        "18.txt": 17
+    },
+    "greek": {
+        "15.txt": 1,
+        "7.txt": 16,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "gosh": {
+        "15.txt": 2
+    },
+    "grip": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 4
+    },
+    "gallery": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "6.txt": 1
+    },
+    "gilmer": {
+        "15.txt": 60
+    },
+    "glancing": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "gullet": {
+        "15.txt": 1
+    },
+    "gleaning": {
+        "15.txt": 1
+    },
+    "grubbing": {
+        "15.txt": 1
+    },
+    "geraniums": {
+        "15.txt": 2,
+        "6.txt": 1
+    },
+    "geranium": {
+        "15.txt": 1
+    },
+    "glowing": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 5,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "gavel": {
+        "15.txt": 6
+    },
+    "groan": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "generally": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "13.txt": 2,
+        "14.txt": 13,
+        "23.txt": 4,
+        "6.txt": 3
+    },
+    "genially": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "gardenia": {
+        "15.txt": 1
+    },
+    "glaring": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "grudging": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "gentlemen": {
+        "15.txt": 11,
+        "7.txt": 8,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "guided": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 2,
+        "23.txt": 2
+    },
+    "git": {
+        "15.txt": 1
+    },
+    "goddamn": {
+        "15.txt": 1
+    },
+    "guessed": {
+        "15.txt": 3,
+        "7.txt": 13,
+        "13.txt": 6
+    },
+    "grope": {
+        "15.txt": 1
+    },
+    "gifted": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "6.txt": 3
+    },
+    "glimpsed": {
+        "15.txt": 1
+    },
+    "gripping": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "groaned": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "gladly": {
+        "15.txt": 1,
+        "7.txt": 16,
+        "14.txt": 2
+    },
+    "gee": {
+        "15.txt": 1
+    },
+    "gruffly": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "grimes": {
+        "15.txt": 9
+    },
+    "gertrude": {
+        "15.txt": 6
+    },
+    "grumbled": {
+        "15.txt": 1
+    },
+    "grumbling": {
+        "15.txt": 1
+    },
+    "grumblin": {
+        "15.txt": 1
+    },
+    "gates": {
+        "15.txt": 16,
+        "7.txt": 8
+    },
+    "gratitude": {
+        "15.txt": 2,
+        "7.txt": 16,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "guards": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "18.txt": 21
+    },
+    "goodies": {
+        "15.txt": 1
+    },
+    "gas": {
+        "15.txt": 1,
+        "18.txt": 6,
+        "13.txt": 7
+    },
+    "gloomy": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "grit": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "govamint": {
+        "15.txt": 1
+    },
+    "germany": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "german": {
+        "15.txt": 1,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "gain": {
+        "15.txt": 1,
+        "7.txt": 9,
+        "18.txt": 1,
+        "14.txt": 2,
+        "23.txt": 4
+    },
+    "grudges": {
+        "15.txt": 1
+    },
+    "gather": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 7,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "grand": {
+        "15.txt": 2,
+        "7.txt": 69,
+        "18.txt": 2,
+        "13.txt": 1,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "gallant": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "gait": {
+        "15.txt": 1
+    },
+    "gotcha": {
+        "15.txt": 1
+    },
+    "ghoul": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "grapes": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "garment": {
+        "15.txt": 1,
+        "7.txt": 3
+    },
+    "guts": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "garishly": {
+        "15.txt": 1
+    },
+    "grandchildren": {
+        "7.txt": 1
+    },
+    "george": {
+        "7.txt": 1,
+        "13.txt": 14
+    },
+    "galland": {
+        "7.txt": 3
+    },
+    "ghouls": {
+        "7.txt": 1
+    },
+    "geni": {
+        "7.txt": 1
+    },
+    "ganges": {
+        "7.txt": 1
+    },
+    "grief": {
+        "7.txt": 19,
+        "18.txt": 6,
+        "13.txt": 2
+    },
+    "greatest": {
+        "7.txt": 13,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 10,
+        "23.txt": 13,
+        "6.txt": 1
+    },
+    "gifts": {
+        "7.txt": 8,
+        "18.txt": 1,
+        "14.txt": 3,
+        "23.txt": 1
+    },
+    "grant": {
+        "7.txt": 18
+    },
+    "glorious": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "grants": {
+        "7.txt": 1
+    },
+    "genius": {
+        "7.txt": 87,
+        "18.txt": 1,
+        "23.txt": 5,
+        "6.txt": 3
+    },
+    "genii": {
+        "7.txt": 16
+    },
+    "grieved": {
+        "7.txt": 4,
+        "18.txt": 1
+    },
+    "glow": {
+        "7.txt": 1,
+        "18.txt": 7,
+        "13.txt": 3
+    },
+    "guard": {
+        "7.txt": 10,
+        "18.txt": 14,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "greeks": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "golden": {
+        "7.txt": 28,
+        "18.txt": 2,
+        "13.txt": 5,
+        "6.txt": 2
+    },
+    "groans": {
+        "7.txt": 3
+    },
+    "grocer": {
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "garnished": {
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "gayest": {
+        "7.txt": 1
+    },
+    "giafar": {
+        "7.txt": 12
+    },
+    "gasping": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "greet": {
+        "7.txt": 4,
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "geography": {
+        "7.txt": 2
+    },
+    "governs": {
+        "7.txt": 1
+    },
+    "grammarian": {
+        "7.txt": 1
+    },
+    "glade": {
+        "7.txt": 1
+    },
+    "gentleness": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "gorgeous": {
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 5
+    },
+    "grasped": {
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "grasp": {
+        "7.txt": 6,
+        "18.txt": 6,
+        "13.txt": 1
+    },
+    "glimpses": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "generously": {
+        "7.txt": 4
+    },
+    "gulf": {
+        "7.txt": 2,
+        "6.txt": 1
+    },
+    "grazing": {
+        "7.txt": 1
+    },
+    "grooms": {
+        "7.txt": 5
+    },
+    "ginger": {
+        "7.txt": 1
+    },
+    "gem": {
+        "7.txt": 1
+    },
+    "goodly": {
+        "7.txt": 3
+    },
+    "gangways": {
+        "7.txt": 1
+    },
+    "giants": {
+        "7.txt": 3
+    },
+    "gliding": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "glided": {
+        "7.txt": 1
+    },
+    "grows": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "greedily": {
+        "7.txt": 1
+    },
+    "groped": {
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "glimmer": {
+        "7.txt": 2
+    },
+    "gripped": {
+        "7.txt": 1
+    },
+    "gourds": {
+        "7.txt": 1
+    },
+    "gourd": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "goblin": {
+        "7.txt": 1,
+        "6.txt": 2
+    },
+    "glittered": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "grandeur": {
+        "7.txt": 1
+    },
+    "gallows": {
+        "7.txt": 4,
+        "18.txt": 1
+    },
+    "guiltless": {
+        "7.txt": 1
+    },
+    "goad": {
+        "7.txt": 1
+    },
+    "guide": {
+        "7.txt": 3,
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "governed": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "grievance": {
+        "7.txt": 1
+    },
+    "gloriously": {
+        "7.txt": 1
+    },
+    "genie": {
+        "7.txt": 28
+    },
+    "gratified": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "gnat": {
+        "7.txt": 2
+    },
+    "groom": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "girdle": {
+        "7.txt": 8
+    },
+    "gardener": {
+        "7.txt": 19,
+        "13.txt": 5
+    },
+    "gardeners": {
+        "7.txt": 1
+    },
+    "gasp": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "gaily": {
+        "7.txt": 3
+    },
+    "gutter": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "gentler": {
+        "7.txt": 1
+    },
+    "girdles": {
+        "7.txt": 1
+    },
+    "greed": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "guidance": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "gracefully": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "greedy": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "greatness": {
+        "7.txt": 2
+    },
+    "gay": {
+        "7.txt": 1,
+        "13.txt": 8
+    },
+    "gobbling": {
+        "7.txt": 1
+    },
+    "gladdened": {
+        "7.txt": 1
+    },
+    "guiding": {
+        "7.txt": 1
+    },
+    "goaded": {
+        "7.txt": 1
+    },
+    "gratify": {
+        "7.txt": 1,
+        "23.txt": 2
+    },
+    "grieves": {
+        "7.txt": 1
+    },
+    "gaieties": {
+        "7.txt": 1
+    },
+    "goal": {
+        "7.txt": 1,
+        "18.txt": 3,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "gale": {
+        "18.txt": 236
+    },
+    "groggily": {
+        "18.txt": 1
+    },
+    "gnawed": {
+        "18.txt": 1
+    },
+    "guy": {
+        "18.txt": 4
+    },
+    "girlfriend": {
+        "18.txt": 1
+    },
+    "glue": {
+        "18.txt": 1
+    },
+    "gamemaker": {
+        "18.txt": 4
+    },
+    "greets": {
+        "18.txt": 1
+    },
+    "grasps": {
+        "18.txt": 1
+    },
+    "granary": {
+        "18.txt": 1
+    },
+    "growl": {
+        "18.txt": 2
+    },
+    "genuinely": {
+        "18.txt": 3,
+        "6.txt": 3
+    },
+    "generator": {
+        "18.txt": 1
+    },
+    "grimmer": {
+        "18.txt": 1
+    },
+    "gulps": {
+        "18.txt": 1
+    },
+    "generators": {
+        "18.txt": 1
+    },
+    "genetically": {
+        "18.txt": 1
+    },
+    "gory": {
+        "18.txt": 1
+    },
+    "gurney": {
+        "18.txt": 1
+    },
+    "glimpse": {
+        "18.txt": 3,
+        "13.txt": 3
+    },
+    "giddiness": {
+        "18.txt": 1
+    },
+    "goose": {
+        "18.txt": 2
+    },
+    "gap": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "gruesome": {
+        "18.txt": 1
+    },
+    "gunfire": {
+        "18.txt": 10
+    },
+    "glints": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "garbled": {
+        "18.txt": 1
+    },
+    "gauzy": {
+        "18.txt": 1
+    },
+    "grins": {
+        "18.txt": 3
+    },
+    "gowns": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "gasps": {
+        "18.txt": 1
+    },
+    "grabs": {
+        "18.txt": 1
+    },
+    "gunshot": {
+        "18.txt": 1
+    },
+    "gritting": {
+        "18.txt": 1
+    },
+    "greenish": {
+        "18.txt": 1
+    },
+    "gravy": {
+        "18.txt": 4
+    },
+    "grime": {
+        "18.txt": 1
+    },
+    "gaining": {
+        "18.txt": 1
+    },
+    "gasoline": {
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "gamemakers": {
+        "18.txt": 1
+    },
+    "gravitate": {
+        "18.txt": 1
+    },
+    "gear": {
+        "18.txt": 3
+    },
+    "guys": {
+        "18.txt": 1
+    },
+    "grounded": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "grid": {
+        "18.txt": 4
+    },
+    "glorified": {
+        "18.txt": 1
+    },
+    "grossly": {
+        "18.txt": 1
+    },
+    "grisly": {
+        "18.txt": 2
+    },
+    "grimacing": {
+        "18.txt": 1
+    },
+    "grinding": {
+        "18.txt": 1
+    },
+    "gulp": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "gleaming": {
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "gel": {
+        "18.txt": 1
+    },
+    "growls": {
+        "18.txt": 1
+    },
+    "gush": {
+        "18.txt": 2
+    },
+    "guessing": {
+        "18.txt": 2
+    },
+    "guttural": {
+        "18.txt": 1
+    },
+    "gagging": {
+        "18.txt": 1
+    },
+    "grinder": {
+        "18.txt": 6
+    },
+    "gore": {
+        "18.txt": 2
+    },
+    "grazed": {
+        "18.txt": 1
+    },
+    "gaping": {
+        "18.txt": 2
+    },
+    "gilded": {
+        "18.txt": 1
+    },
+    "grease": {
+        "18.txt": 1
+    },
+    "grotesque": {
+        "18.txt": 1,
+        "13.txt": 6,
+        "6.txt": 1
+    },
+    "guarantees": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "gravelly": {
+        "18.txt": 1
+    },
+    "girlie": {
+        "18.txt": 1
+    },
+    "grind": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "grating": {
+        "18.txt": 1
+    },
+    "gloved": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "grasping": {
+        "18.txt": 1
+    },
+    "gravity": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "grafts": {
+        "18.txt": 1
+    },
+    "gleam": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "gaunt": {
+        "18.txt": 1
+    },
+    "groomed": {
+        "18.txt": 1
+    },
+    "greenhouse": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "glued": {
+        "18.txt": 1
+    },
+    "gunning": {
+        "18.txt": 1
+    },
+    "gamble": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "glistening": {
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "granddaughter": {
+        "18.txt": 3
+    },
+    "gurgling": {
+        "18.txt": 1
+    },
+    "goodbyes": {
+        "18.txt": 1
+    },
+    "gapes": {
+        "18.txt": 1
+    },
+    "gentlest": {
+        "18.txt": 1
+    },
+    "graceful": {
+        "18.txt": 1,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "geese": {
+        "18.txt": 2
+    },
+    "graveyard": {
+        "18.txt": 1
+    },
+    "giver": {
+        "18.txt": 1
+    },
+    "guardian": {
+        "18.txt": 1
+    },
+    "garych": {
+        "18.txt": 1
+    },
+    "groundwork": {
+        "18.txt": 1
+    },
+    "gregor": {
+        "18.txt": 1
+    },
+    "groundbreaking": {
+        "18.txt": 1
+    },
+    "garnered": {
+        "18.txt": 1
+    },
+    "gutenberg": {
+        "13.txt": 25,
+        "14.txt": 38
+    },
+    "gatsby": {
+        "13.txt": 266
+    },
+    "griefs": {
+        "13.txt": 1
+    },
+    "gulls": {
+        "13.txt": 2
+    },
+    "georgian": {
+        "13.txt": 1
+    },
+    "gruff": {
+        "13.txt": 2
+    },
+    "goddard": {
+        "13.txt": 1
+    },
+    "gaiety": {
+        "13.txt": 1
+    },
+    "girlhood": {
+        "13.txt": 1
+    },
+    "garages": {
+        "13.txt": 1
+    },
+    "ghastly": {
+        "13.txt": 2
+    },
+    "gypped": {
+        "13.txt": 1
+    },
+    "groaning": {
+        "13.txt": 5
+    },
+    "grocery": {
+        "13.txt": 2
+    },
+    "gins": {
+        "13.txt": 1
+    },
+    "gaudy": {
+        "13.txt": 1
+    },
+    "glide": {
+        "13.txt": 1
+    },
+    "gypsies": {
+        "13.txt": 1
+    },
+    "gilda": {
+        "13.txt": 1
+    },
+    "golf": {
+        "13.txt": 7
+    },
+    "gayety": {
+        "13.txt": 3
+    },
+    "graceless": {
+        "13.txt": 1
+    },
+    "ghostly": {
+        "13.txt": 6
+    },
+    "gloomiest": {
+        "13.txt": 1
+    },
+    "generalities": {
+        "13.txt": 1
+    },
+    "goats": {
+        "13.txt": 1
+    },
+    "georgia": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "gulick": {
+        "13.txt": 1
+    },
+    "gut": {
+        "13.txt": 1
+    },
+    "gus": {
+        "13.txt": 1
+    },
+    "gloria": {
+        "13.txt": 1
+    },
+    "generalized": {
+        "13.txt": 1
+    },
+    "gnawings": {
+        "13.txt": 1
+    },
+    "gilt": {
+        "13.txt": 1
+    },
+    "girders": {
+        "13.txt": 2
+    },
+    "growths": {
+        "13.txt": 1
+    },
+    "gonnegtion": {
+        "13.txt": 3
+    },
+    "gambler": {
+        "13.txt": 1
+    },
+    "gratulate": {
+        "13.txt": 1
+    },
+    "gaudily": {
+        "13.txt": 1
+    },
+    "gusts": {
+        "13.txt": 1
+    },
+    "glowed": {
+        "13.txt": 2,
+        "6.txt": 3
+    },
+    "gleamed": {
+        "13.txt": 1
+    },
+    "generating": {
+        "13.txt": 1
+    },
+    "gatz": {
+        "13.txt": 11
+    },
+    "gaudiness": {
+        "13.txt": 1
+    },
+    "glamour": {
+        "13.txt": 1
+    },
+    "gasped": {
+        "13.txt": 1
+    },
+    "guiltily": {
+        "13.txt": 1
+    },
+    "gauge": {
+        "13.txt": 1
+    },
+    "gears": {
+        "13.txt": 1
+    },
+    "gibberish": {
+        "13.txt": 1
+    },
+    "ga": {
+        "13.txt": 4
+    },
+    "glazed": {
+        "13.txt": 2
+    },
+    "gruffness": {
+        "13.txt": 1
+    },
+    "grail": {
+        "13.txt": 1
+    },
+    "garrulous": {
+        "13.txt": 1
+    },
+    "gad": {
+        "13.txt": 2
+    },
+    "greenwich": {
+        "13.txt": 1
+    },
+    "gentlemanly": {
+        "13.txt": 1
+    },
+    "gayeties": {
+        "13.txt": 1
+    },
+    "greco": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "gross": {
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "genuineness": {
+        "14.txt": 1
+    },
+    "gratifying": {
+        "14.txt": 1
+    },
+    "gouty": {
+        "14.txt": 1
+    },
+    "gospels": {
+        "14.txt": 1
+    },
+    "generality": {
+        "14.txt": 2,
+        "23.txt": 2
+    },
+    "groping": {
+        "14.txt": 1
+    },
+    "gratification": {
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "govern": {
+        "14.txt": 1
+    },
+    "geometrical": {
+        "23.txt": 2
+    },
+    "geometers": {
+        "23.txt": 4
+    },
+    "gods": {
+        "23.txt": 1
+    },
+    "geometry": {
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "geometer": {
+        "23.txt": 1
+    },
+    "generated": {
+        "23.txt": 1
+    },
+    "grievously": {
+        "23.txt": 1
+    },
+    "germs": {
+        "23.txt": 1
+    },
+    "guitar": {
+        "23.txt": 1
+    },
+    "guinea": {
+        "6.txt": 1
+    },
+    "gram": {
+        "6.txt": 1
+    },
+    "geometries": {
+        "6.txt": 1
+    },
+    "gems": {
+        "6.txt": 1
+    },
+    "growth": {
+        "6.txt": 1
+    },
+    "godhead": {
+        "6.txt": 1
+    },
+    "groucho": {
+        "6.txt": 1
+    },
+    "gris": {
+        "6.txt": 1
+    },
+    "glucose": {
+        "6.txt": 2
+    },
+    "gogh": {
+        "6.txt": 3
+    },
+    "genre": {
+        "6.txt": 2
+    },
+    "galante": {
+        "6.txt": 1
+    },
+    "goghian": {
+        "6.txt": 1
+    },
+    "girlishly": {
+        "6.txt": 1
+    },
+    "gamblers": {
+        "6.txt": 1
+    },
+    "gimcrack": {
+        "6.txt": 1
+    },
+    "gesualdo": {
+        "6.txt": 4
+    },
+    "gulfs": {
+        "6.txt": 1
+    },
+    "gentian": {
+        "6.txt": 1
+    },
+    "glassy": {
+        "6.txt": 1
+    },
+    "glossiest": {
+        "6.txt": 1
+    },
+    "grove": {
+        "6.txt": 1
+    },
+    "guardi": {
+        "6.txt": 1
+    },
+    "goof": {
+        "6.txt": 1
+    },
+    "gratuitous": {
+        "6.txt": 2
+    },
+    "goethe": {
+        "6.txt": 2
+    },
+    "generic": {
+        "6.txt": 1
+    },
+    "gestalt": {
+        "6.txt": 1
+    },
+    "gymnastics": {
+        "6.txt": 1
+    }
+}

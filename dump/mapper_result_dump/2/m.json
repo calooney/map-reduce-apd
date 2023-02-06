@@ -1,0 +1,3434 @@
+{
+    "moving": {
+        "19.txt": 34,
+        "1.txt": 20,
+        "24.txt": 4
+    },
+    "merchants": {
+        "19.txt": 6,
+        "1.txt": 2
+    },
+    "moscow": {
+        "19.txt": 140
+    },
+    "mountains": {
+        "19.txt": 10,
+        "1.txt": 4,
+        "24.txt": 1,
+        "5.txt": 2,
+        "8.txt": 1,
+        "4.txt": 4
+    },
+    "man": {
+        "19.txt": 214,
+        "1.txt": 23,
+        "24.txt": 110,
+        "5.txt": 58,
+        "8.txt": 60,
+        "4.txt": 50
+    },
+    "modern": {
+        "19.txt": 19,
+        "24.txt": 2,
+        "5.txt": 5
+    },
+    "most": {
+        "19.txt": 99,
+        "1.txt": 57,
+        "24.txt": 47,
+        "5.txt": 53,
+        "8.txt": 7,
+        "4.txt": 1
+    },
+    "mayakovsky": {
+        "19.txt": 3
+    },
+    "musician": {
+        "19.txt": 3
+    },
+    "music": {
+        "19.txt": 18,
+        "1.txt": 17,
+        "5.txt": 2,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "marburg": {
+        "19.txt": 1
+    },
+    "mainly": {
+        "19.txt": 2,
+        "1.txt": 3,
+        "8.txt": 1
+    },
+    "meantime": {
+        "19.txt": 7,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "michigan": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "month": {
+        "19.txt": 13,
+        "1.txt": 3,
+        "24.txt": 4
+    },
+    "mr": {
+        "19.txt": 4,
+        "5.txt": 5
+    },
+    "may": {
+        "19.txt": 54,
+        "1.txt": 40,
+        "24.txt": 176,
+        "5.txt": 43,
+        "8.txt": 24,
+        "4.txt": 18
+    },
+    "miles": {
+        "19.txt": 16,
+        "1.txt": 4,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "milano": {
+        "19.txt": 1
+    },
+    "max": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "manya": {
+        "19.txt": 1
+    },
+    "marca": {
+        "19.txt": 1
+    },
+    "maria": {
+        "19.txt": 6
+    },
+    "maternal": {
+        "19.txt": 1
+    },
+    "misha": {
+        "19.txt": 34
+    },
+    "madame": {
+        "19.txt": 16
+    },
+    "mikhailovich": {
+        "19.txt": 2
+    },
+    "mother": {
+        "19.txt": 144,
+        "1.txt": 93,
+        "5.txt": 1,
+        "8.txt": 9,
+        "4.txt": 10
+    },
+    "marfa": {
+        "19.txt": 18
+    },
+    "moslem": {
+        "19.txt": 1
+    },
+    "markel": {
+        "19.txt": 33
+    },
+    "marina": {
+        "19.txt": 34
+    },
+    "marinka": {
+        "19.txt": 3
+    },
+    "made": {
+        "19.txt": 221,
+        "1.txt": 70,
+        "24.txt": 38,
+        "5.txt": 35,
+        "8.txt": 27,
+        "4.txt": 20
+    },
+    "moments": {
+        "19.txt": 30,
+        "1.txt": 11
+    },
+    "mound": {
+        "19.txt": 10,
+        "1.txt": 2
+    },
+    "monastery": {
+        "19.txt": 18
+    },
+    "main": {
+        "19.txt": 31,
+        "1.txt": 5,
+        "24.txt": 2,
+        "5.txt": 6,
+        "8.txt": 5
+    },
+    "mysteriously": {
+        "19.txt": 3
+    },
+    "more": {
+        "19.txt": 348,
+        "1.txt": 170,
+        "24.txt": 66,
+        "5.txt": 79,
+        "8.txt": 27,
+        "4.txt": 11
+    },
+    "millions": {
+        "19.txt": 1
+    },
+    "mysteries": {
+        "19.txt": 3
+    },
+    "me": {
+        "19.txt": 580,
+        "1.txt": 936,
+        "24.txt": 28,
+        "5.txt": 76,
+        "8.txt": 68,
+        "4.txt": 39
+    },
+    "manufacturer": {
+        "19.txt": 2
+    },
+    "midday": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "move": {
+        "19.txt": 38,
+        "1.txt": 47,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 4
+    },
+    "master": {
+        "19.txt": 18,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 19,
+        "4.txt": 17
+    },
+    "merchant": {
+        "19.txt": 12,
+        "1.txt": 3
+    },
+    "make": {
+        "19.txt": 125,
+        "1.txt": 144,
+        "24.txt": 83,
+        "5.txt": 28,
+        "8.txt": 5,
+        "4.txt": 10
+    },
+    "moderate": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "mile": {
+        "19.txt": 8,
+        "1.txt": 2
+    },
+    "mistaken": {
+        "19.txt": 14,
+        "24.txt": 1,
+        "5.txt": 2,
+        "4.txt": 1
+    },
+    "movement": {
+        "19.txt": 25,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "mind": {
+        "19.txt": 98,
+        "1.txt": 35,
+        "24.txt": 46,
+        "5.txt": 23,
+        "8.txt": 18,
+        "4.txt": 1
+    },
+    "moved": {
+        "19.txt": 66,
+        "1.txt": 8,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "meaning": {
+        "19.txt": 23,
+        "1.txt": 3,
+        "24.txt": 3,
+        "5.txt": 8,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "might": {
+        "19.txt": 82,
+        "1.txt": 78,
+        "24.txt": 37,
+        "5.txt": 17,
+        "8.txt": 37,
+        "4.txt": 6
+    },
+    "manuscript": {
+        "19.txt": 2,
+        "5.txt": 2
+    },
+    "making": {
+        "19.txt": 51,
+        "1.txt": 28,
+        "24.txt": 12,
+        "5.txt": 9,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "mud": {
+        "19.txt": 18,
+        "1.txt": 29,
+        "5.txt": 1
+    },
+    "must": {
+        "19.txt": 221,
+        "1.txt": 124,
+        "24.txt": 226,
+        "5.txt": 75,
+        "8.txt": 23,
+        "4.txt": 6
+    },
+    "maid": {
+        "19.txt": 9,
+        "8.txt": 2
+    },
+    "manager": {
+        "19.txt": 14
+    },
+    "millionaire": {
+        "19.txt": 5
+    },
+    "men": {
+        "19.txt": 138,
+        "1.txt": 2,
+        "24.txt": 40,
+        "5.txt": 56,
+        "8.txt": 102,
+        "4.txt": 11
+    },
+    "mediocrities": {
+        "19.txt": 1
+    },
+    "marx": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "many": {
+        "19.txt": 105,
+        "1.txt": 31,
+        "24.txt": 15,
+        "5.txt": 34,
+        "8.txt": 48,
+        "4.txt": 11
+    },
+    "my": {
+        "19.txt": 571,
+        "1.txt": 1632,
+        "24.txt": 63,
+        "5.txt": 101,
+        "8.txt": 95,
+        "4.txt": 30
+    },
+    "mocking": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 1
+    },
+    "mathematical": {
+        "19.txt": 1,
+        "24.txt": 4,
+        "5.txt": 4
+    },
+    "monuments": {
+        "19.txt": 1
+    },
+    "marble": {
+        "19.txt": 3
+    },
+    "metaphysics": {
+        "19.txt": 1,
+        "24.txt": 5
+    },
+    "metal": {
+        "19.txt": 8,
+        "1.txt": 22,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "middle": {
+        "19.txt": 47,
+        "1.txt": 9,
+        "5.txt": 2,
+        "8.txt": 4,
+        "4.txt": 2
+    },
+    "marsh": {
+        "19.txt": 2
+    },
+    "moist": {
+        "19.txt": 2
+    },
+    "motionless": {
+        "19.txt": 6,
+        "1.txt": 3
+    },
+    "memories": {
+        "19.txt": 12,
+        "1.txt": 5,
+        "4.txt": 1
+    },
+    "meadows": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "musical": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "m": {
+        "19.txt": 178,
+        "1.txt": 6,
+        "5.txt": 3,
+        "4.txt": 1
+    },
+    "mansions": {
+        "19.txt": 1
+    },
+    "mercy": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "5.txt": 1,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "missing": {
+        "19.txt": 10,
+        "1.txt": 5
+    },
+    "marking": {
+        "19.txt": 3
+    },
+    "motion": {
+        "19.txt": 3,
+        "1.txt": 4,
+        "24.txt": 7
+    },
+    "mechanism": {
+        "19.txt": 1,
+        "24.txt": 16,
+        "5.txt": 2
+    },
+    "mechanisms": {
+        "19.txt": 1
+    },
+    "mainspring": {
+        "19.txt": 1
+    },
+    "morbidly": {
+        "19.txt": 2
+    },
+    "moreover": {
+        "19.txt": 12,
+        "24.txt": 12,
+        "5.txt": 4,
+        "8.txt": 1
+    },
+    "mean": {
+        "19.txt": 49,
+        "1.txt": 42,
+        "24.txt": 11,
+        "5.txt": 6,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "mess": {
+        "19.txt": 7,
+        "1.txt": 5
+    },
+    "madman": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "much": {
+        "19.txt": 144,
+        "1.txt": 105,
+        "24.txt": 41,
+        "5.txt": 34,
+        "8.txt": 4,
+        "4.txt": 11
+    },
+    "mark": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 3,
+        "8.txt": 2
+    },
+    "mental": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "24.txt": 9,
+        "5.txt": 7
+    },
+    "meadow": {
+        "19.txt": 3,
+        "1.txt": 10,
+        "8.txt": 1
+    },
+    "moment": {
+        "19.txt": 155,
+        "1.txt": 96,
+        "24.txt": 7,
+        "5.txt": 11,
+        "8.txt": 2,
+        "4.txt": 6
+    },
+    "moral": {
+        "19.txt": 11,
+        "24.txt": 338,
+        "5.txt": 36
+    },
+    "months": {
+        "19.txt": 25,
+        "1.txt": 9,
+        "5.txt": 7,
+        "4.txt": 1
+    },
+    "minerals": {
+        "19.txt": 1
+    },
+    "magistrate": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "minutes": {
+        "19.txt": 12,
+        "1.txt": 27
+    },
+    "morning": {
+        "19.txt": 80,
+        "1.txt": 43,
+        "5.txt": 3,
+        "8.txt": 9,
+        "4.txt": 4
+    },
+    "meddle": {
+        "19.txt": 4
+    },
+    "meant": {
+        "19.txt": 41,
+        "1.txt": 12,
+        "24.txt": 7,
+        "5.txt": 2,
+        "8.txt": 6
+    },
+    "marry": {
+        "19.txt": 5,
+        "1.txt": 2
+    },
+    "misogyny": {
+        "19.txt": 1
+    },
+    "mad": {
+        "19.txt": 29,
+        "1.txt": 7,
+        "8.txt": 1
+    },
+    "magic": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "military": {
+        "19.txt": 28,
+        "5.txt": 20
+    },
+    "met": {
+        "19.txt": 34,
+        "1.txt": 8,
+        "24.txt": 4,
+        "5.txt": 2,
+        "8.txt": 5,
+        "4.txt": 5
+    },
+    "montenegro": {
+        "19.txt": 9
+    },
+    "machines": {
+        "19.txt": 12,
+        "24.txt": 1
+    },
+    "modulated": {
+        "19.txt": 2
+    },
+    "modestovich": {
+        "19.txt": 2
+    },
+    "magazines": {
+        "19.txt": 1
+    },
+    "models": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "mouth": {
+        "19.txt": 22,
+        "1.txt": 55,
+        "8.txt": 2,
+        "4.txt": 16
+    },
+    "measurements": {
+        "19.txt": 1
+    },
+    "muttered": {
+        "19.txt": 8
+    },
+    "mama": {
+        "19.txt": 5
+    },
+    "mincing": {
+        "19.txt": 1
+    },
+    "mechanics": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "management": {
+        "19.txt": 2
+    },
+    "maple": {
+        "19.txt": 4
+    },
+    "melted": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "8.txt": 4
+    },
+    "mending": {
+        "19.txt": 3
+    },
+    "merely": {
+        "19.txt": 20,
+        "1.txt": 4,
+        "24.txt": 104,
+        "5.txt": 25,
+        "8.txt": 3
+    },
+    "money": {
+        "19.txt": 44,
+        "1.txt": 17,
+        "24.txt": 11,
+        "5.txt": 6,
+        "8.txt": 1,
+        "4.txt": 2
+    },
+    "myself": {
+        "19.txt": 52,
+        "1.txt": 161,
+        "24.txt": 12,
+        "5.txt": 8,
+        "4.txt": 2
+    },
+    "minute": {
+        "19.txt": 26,
+        "1.txt": 25,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "manner": {
+        "19.txt": 11,
+        "1.txt": 3,
+        "24.txt": 23,
+        "5.txt": 7,
+        "8.txt": 3,
+        "4.txt": 1
+    },
+    "mist": {
+        "19.txt": 17
+    },
+    "married": {
+        "19.txt": 23,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "mechanic": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "misfortunes": {
+        "19.txt": 3
+    },
+    "mister": {
+        "19.txt": 3
+    },
+    "mandrel": {
+        "19.txt": 1
+    },
+    "meddler": {
+        "19.txt": 1
+    },
+    "mangy": {
+        "19.txt": 2
+    },
+    "marched": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "8.txt": 3
+    },
+    "meetings": {
+        "19.txt": 13,
+        "5.txt": 1
+    },
+    "mug": {
+        "19.txt": 4
+    },
+    "manifesto": {
+        "19.txt": 3,
+        "5.txt": 2
+    },
+    "marseillaise": {
+        "19.txt": 1
+    },
+    "message": {
+        "19.txt": 7,
+        "1.txt": 6,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "mentioned": {
+        "19.txt": 10,
+        "1.txt": 4,
+        "24.txt": 3,
+        "5.txt": 2
+    },
+    "motioned": {
+        "19.txt": 2
+    },
+    "meeting": {
+        "19.txt": 35,
+        "1.txt": 4,
+        "5.txt": 3,
+        "8.txt": 2,
+        "4.txt": 3
+    },
+    "minor": {
+        "19.txt": 4,
+        "1.txt": 4,
+        "24.txt": 2
+    },
+    "minding": {
+        "19.txt": 1
+    },
+    "marchers": {
+        "19.txt": 1
+    },
+    "murder": {
+        "19.txt": 10,
+        "1.txt": 2,
+        "8.txt": 10
+    },
+    "manes": {
+        "19.txt": 1
+    },
+    "massacre": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "mimicking": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "mounted": {
+        "19.txt": 9,
+        "8.txt": 1
+    },
+    "mount": {
+        "19.txt": 5,
+        "1.txt": 2,
+        "4.txt": 1
+    },
+    "murderers": {
+        "19.txt": 1
+    },
+    "mischief": {
+        "19.txt": 1
+    },
+    "minister": {
+        "19.txt": 4,
+        "5.txt": 2
+    },
+    "mikhaelises": {
+        "19.txt": 1
+    },
+    "motia": {
+        "19.txt": 1
+    },
+    "mania": {
+        "19.txt": 2
+    },
+    "modesty": {
+        "19.txt": 2
+    },
+    "meet": {
+        "19.txt": 20,
+        "1.txt": 9,
+        "24.txt": 2,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 3
+    },
+    "mooed": {
+        "19.txt": 1
+    },
+    "mysticism": {
+        "19.txt": 3,
+        "24.txt": 3
+    },
+    "moves": {
+        "19.txt": 4,
+        "1.txt": 7,
+        "24.txt": 1
+    },
+    "mystery": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "5.txt": 4
+    },
+    "maxims": {
+        "19.txt": 1,
+        "24.txt": 56
+    },
+    "mortals": {
+        "19.txt": 4,
+        "5.txt": 3,
+        "8.txt": 2
+    },
+    "meaningful": {
+        "19.txt": 7
+    },
+    "motivating": {
+        "19.txt": 1
+    },
+    "mammoths": {
+        "19.txt": 1
+    },
+    "memory": {
+        "19.txt": 22,
+        "1.txt": 6,
+        "5.txt": 1
+    },
+    "mankind": {
+        "19.txt": 6,
+        "24.txt": 4,
+        "5.txt": 8,
+        "8.txt": 3
+    },
+    "market": {
+        "19.txt": 10,
+        "1.txt": 11,
+        "24.txt": 1,
+        "5.txt": 1,
+        "4.txt": 4
+    },
+    "mass": {
+        "19.txt": 10,
+        "5.txt": 3
+    },
+    "mothers": {
+        "19.txt": 7,
+        "1.txt": 12,
+        "5.txt": 1
+    },
+    "matching": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "massive": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "members": {
+        "19.txt": 13,
+        "1.txt": 3,
+        "24.txt": 2,
+        "5.txt": 14,
+        "4.txt": 4
+    },
+    "magnificent": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "meddling": {
+        "19.txt": 1
+    },
+    "male": {
+        "19.txt": 5,
+        "1.txt": 2
+    },
+    "monastic": {
+        "19.txt": 1
+    },
+    "mornings": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "mend": {
+        "19.txt": 3
+    },
+    "messages": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "mauve": {
+        "19.txt": 5
+    },
+    "mirror": {
+        "19.txt": 6,
+        "1.txt": 6,
+        "5.txt": 2
+    },
+    "mood": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "8.txt": 15
+    },
+    "mere": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "24.txt": 53,
+        "5.txt": 3,
+        "8.txt": 7
+    },
+    "mischievous": {
+        "19.txt": 3
+    },
+    "makes": {
+        "19.txt": 33,
+        "1.txt": 63,
+        "24.txt": 32,
+        "5.txt": 9,
+        "8.txt": 2
+    },
+    "masha": {
+        "19.txt": 6
+    },
+    "mourn": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "militia": {
+        "19.txt": 6
+    },
+    "malleable": {
+        "19.txt": 1
+    },
+    "madam": {
+        "19.txt": 8
+    },
+    "malice": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "mines": {
+        "19.txt": 6,
+        "1.txt": 16
+    },
+    "mustard": {
+        "19.txt": 1
+    },
+    "mixed": {
+        "19.txt": 20,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "masculine": {
+        "19.txt": 1
+    },
+    "marriages": {
+        "19.txt": 2
+    },
+    "mathematics": {
+        "19.txt": 5,
+        "24.txt": 14,
+        "5.txt": 4
+    },
+    "mrs": {
+        "19.txt": 3
+    },
+    "mutes": {
+        "19.txt": 2
+    },
+    "musicians": {
+        "19.txt": 1
+    },
+    "mam": {
+        "19.txt": 1
+    },
+    "mopping": {
+        "19.txt": 3
+    },
+    "meat": {
+        "19.txt": 5,
+        "1.txt": 28,
+        "4.txt": 6
+    },
+    "matriona": {
+        "19.txt": 1
+    },
+    "meals": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "4.txt": 1
+    },
+    "muscles": {
+        "19.txt": 3,
+        "1.txt": 11,
+        "5.txt": 1
+    },
+    "match": {
+        "19.txt": 8,
+        "1.txt": 1
+    },
+    "meanwhile": {
+        "19.txt": 4,
+        "8.txt": 1
+    },
+    "mysterious": {
+        "19.txt": 11,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "mistress": {
+        "19.txt": 5,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "matter": {
+        "19.txt": 34,
+        "1.txt": 33,
+        "24.txt": 35,
+        "5.txt": 13
+    },
+    "ma": {
+        "19.txt": 1
+    },
+    "mahogany": {
+        "19.txt": 2
+    },
+    "medicine": {
+        "19.txt": 11,
+        "1.txt": 24,
+        "24.txt": 1
+    },
+    "melancholy": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "mortuary": {
+        "19.txt": 1
+    },
+    "molding": {
+        "19.txt": 1
+    },
+    "minds": {
+        "19.txt": 11,
+        "1.txt": 5,
+        "24.txt": 4,
+        "5.txt": 4,
+        "8.txt": 1
+    },
+    "meaningless": {
+        "19.txt": 6,
+        "5.txt": 1
+    },
+    "manifestation": {
+        "19.txt": 2
+    },
+    "means": {
+        "19.txt": 27,
+        "1.txt": 35,
+        "24.txt": 85,
+        "5.txt": 10,
+        "8.txt": 1,
+        "4.txt": 7
+    },
+    "muttering": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "4.txt": 1
+    },
+    "modest": {
+        "19.txt": 5,
+        "24.txt": 1,
+        "5.txt": 3
+    },
+    "muddle": {
+        "19.txt": 4,
+        "4.txt": 1
+    },
+    "medallions": {
+        "19.txt": 1
+    },
+    "mauled": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "mustn": {
+        "19.txt": 11
+    },
+    "madness": {
+        "19.txt": 10,
+        "1.txt": 1
+    },
+    "manifested": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "monotonous": {
+        "19.txt": 4
+    },
+    "mingled": {
+        "19.txt": 5,
+        "8.txt": 1
+    },
+    "methods": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 12
+    },
+    "member": {
+        "19.txt": 15,
+        "1.txt": 1,
+        "5.txt": 7
+    },
+    "marksman": {
+        "19.txt": 2
+    },
+    "marrying": {
+        "19.txt": 1
+    },
+    "madly": {
+        "19.txt": 3,
+        "1.txt": 4
+    },
+    "moodiness": {
+        "19.txt": 1
+    },
+    "mauser": {
+        "19.txt": 1
+    },
+    "muff": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "merrymakers": {
+        "19.txt": 1
+    },
+    "marriage": {
+        "19.txt": 10,
+        "4.txt": 1
+    },
+    "medal": {
+        "19.txt": 1,
+        "1.txt": 4
+    },
+    "mimeographed": {
+        "19.txt": 1
+    },
+    "milled": {
+        "19.txt": 2
+    },
+    "magi": {
+        "19.txt": 3
+    },
+    "milling": {
+        "19.txt": 2
+    },
+    "mixture": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "24.txt": 2
+    },
+    "mortification": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "martyr": {
+        "19.txt": 2,
+        "5.txt": 2
+    },
+    "mattered": {
+        "19.txt": 4,
+        "1.txt": 3
+    },
+    "mighty": {
+        "19.txt": 7,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 6,
+        "8.txt": 27,
+        "4.txt": 1
+    },
+    "matters": {
+        "19.txt": 10,
+        "24.txt": 5,
+        "5.txt": 4,
+        "8.txt": 1
+    },
+    "mourning": {
+        "19.txt": 3,
+        "8.txt": 4
+    },
+    "meanderings": {
+        "19.txt": 1
+    },
+    "mold": {
+        "19.txt": 2
+    },
+    "meditates": {
+        "19.txt": 1
+    },
+    "mouse": {
+        "19.txt": 2,
+        "4.txt": 24
+    },
+    "malingerer": {
+        "19.txt": 1
+    },
+    "marvel": {
+        "19.txt": 5,
+        "8.txt": 1
+    },
+    "mouthfuls": {
+        "19.txt": 2
+    },
+    "ministerial": {
+        "19.txt": 1
+    },
+    "melodramas": {
+        "19.txt": 1
+    },
+    "mine": {
+        "19.txt": 17,
+        "1.txt": 29,
+        "5.txt": 4,
+        "8.txt": 17,
+        "4.txt": 1
+    },
+    "memorable": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "monday": {
+        "19.txt": 2
+    },
+    "maiden": {
+        "19.txt": 1,
+        "8.txt": 1,
+        "4.txt": 4
+    },
+    "manage": {
+        "19.txt": 17,
+        "1.txt": 12,
+        "5.txt": 2,
+        "4.txt": 2
+    },
+    "missed": {
+        "19.txt": 13,
+        "1.txt": 4,
+        "24.txt": 1,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "miss": {
+        "19.txt": 5,
+        "1.txt": 17,
+        "24.txt": 2,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "maternity": {
+        "19.txt": 2
+    },
+    "midwife": {
+        "19.txt": 3
+    },
+    "mammoth": {
+        "19.txt": 1
+    },
+    "misery": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "8.txt": 3
+    },
+    "misleading": {
+        "19.txt": 3,
+        "24.txt": 1
+    },
+    "mistake": {
+        "19.txt": 12,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "mortal": {
+        "19.txt": 7,
+        "24.txt": 1,
+        "5.txt": 2,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "masts": {
+        "19.txt": 1
+    },
+    "medical": {
+        "19.txt": 27,
+        "1.txt": 5,
+        "5.txt": 6
+    },
+    "marfutka": {
+        "19.txt": 4
+    },
+    "migration": {
+        "19.txt": 2
+    },
+    "mission": {
+        "19.txt": 3,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "meritorious": {
+        "19.txt": 1,
+        "24.txt": 5
+    },
+    "magnanimity": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "melodrama": {
+        "19.txt": 1
+    },
+    "misunderstood": {
+        "19.txt": 3
+    },
+    "motherly": {
+        "19.txt": 1
+    },
+    "moods": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "mail": {
+        "19.txt": 3,
+        "8.txt": 9
+    },
+    "mezo": {
+        "19.txt": 1
+    },
+    "mostly": {
+        "19.txt": 6,
+        "1.txt": 7,
+        "5.txt": 3
+    },
+    "measured": {
+        "19.txt": 5,
+        "5.txt": 2,
+        "8.txt": 4
+    },
+    "makings": {
+        "19.txt": 1
+    },
+    "misanthrope": {
+        "19.txt": 1
+    },
+    "meal": {
+        "19.txt": 5,
+        "1.txt": 20,
+        "4.txt": 6
+    },
+    "miracle": {
+        "19.txt": 22,
+        "1.txt": 2
+    },
+    "mice": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "4.txt": 5
+    },
+    "mutual": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 7,
+        "8.txt": 1
+    },
+    "mutilation": {
+        "19.txt": 1
+    },
+    "mastered": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "mobile": {
+        "19.txt": 2
+    },
+    "mutilated": {
+        "19.txt": 1
+    },
+    "monstrous": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "8.txt": 2
+    },
+    "mangled": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "miraculously": {
+        "19.txt": 2
+    },
+    "midst": {
+        "19.txt": 7,
+        "24.txt": 1,
+        "5.txt": 1,
+        "4.txt": 2
+    },
+    "medals": {
+        "19.txt": 2
+    },
+    "misanthropy": {
+        "19.txt": 1
+    },
+    "myth": {
+        "19.txt": 2,
+        "8.txt": 2
+    },
+    "moralists": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "meanings": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "mediocre": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "mentality": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "mediocrity": {
+        "19.txt": 2
+    },
+    "martyrdom": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "mocked": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "massacred": {
+        "19.txt": 1
+    },
+    "mikhail": {
+        "19.txt": 1
+    },
+    "mechanically": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "misinterpret": {
+        "19.txt": 1
+    },
+    "murmuring": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "misfortune": {
+        "19.txt": 20,
+        "24.txt": 1,
+        "4.txt": 2
+    },
+    "masses": {
+        "19.txt": 7,
+        "5.txt": 6
+    },
+    "merciful": {
+        "19.txt": 6
+    },
+    "meliuzeievo": {
+        "19.txt": 26
+    },
+    "mushrooms": {
+        "19.txt": 4
+    },
+    "measures": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "5.txt": 3,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "morale": {
+        "19.txt": 3
+    },
+    "marked": {
+        "19.txt": 14,
+        "1.txt": 4,
+        "24.txt": 3,
+        "8.txt": 6
+    },
+    "miraculous": {
+        "19.txt": 3
+    },
+    "miller": {
+        "19.txt": 1
+    },
+    "millennial": {
+        "19.txt": 2
+    },
+    "mademoiselle": {
+        "19.txt": 24
+    },
+    "matchmaking": {
+        "19.txt": 1
+    },
+    "maliciousness": {
+        "19.txt": 1
+    },
+    "mindedness": {
+        "19.txt": 5,
+        "5.txt": 1
+    },
+    "mute": {
+        "19.txt": 8
+    },
+    "martial": {
+        "19.txt": 4,
+        "8.txt": 1
+    },
+    "march": {
+        "19.txt": 8,
+        "5.txt": 4,
+        "8.txt": 6
+    },
+    "menace": {
+        "19.txt": 3
+    },
+    "matched": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "murky": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "moon": {
+        "19.txt": 14,
+        "1.txt": 9,
+        "8.txt": 1
+    },
+    "mill": {
+        "19.txt": 3,
+        "24.txt": 1
+    },
+    "mown": {
+        "19.txt": 1
+    },
+    "mooing": {
+        "19.txt": 1
+    },
+    "moonlit": {
+        "19.txt": 2
+    },
+    "municipality": {
+        "19.txt": 1
+    },
+    "mensheviks": {
+        "19.txt": 3
+    },
+    "menshevik": {
+        "19.txt": 1
+    },
+    "marvellous": {
+        "19.txt": 5,
+        "24.txt": 2,
+        "5.txt": 7
+    },
+    "miserable": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "motive": {
+        "19.txt": 2,
+        "24.txt": 34,
+        "5.txt": 1
+    },
+    "motives": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "24.txt": 22,
+        "5.txt": 1
+    },
+    "misunderstanding": {
+        "19.txt": 4,
+        "5.txt": 1
+    },
+    "merged": {
+        "19.txt": 2
+    },
+    "mechanical": {
+        "19.txt": 6,
+        "24.txt": 6,
+        "5.txt": 2
+    },
+    "managed": {
+        "19.txt": 16,
+        "1.txt": 6,
+        "4.txt": 1
+    },
+    "murmurs": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "murdering": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "multitude": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "marbles": {
+        "19.txt": 1
+    },
+    "muffling": {
+        "19.txt": 1
+    },
+    "marksmanship": {
+        "19.txt": 1
+    },
+    "maxim": {
+        "19.txt": 1,
+        "24.txt": 59
+    },
+    "maybe": {
+        "19.txt": 3,
+        "1.txt": 92
+    },
+    "mason": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "melt": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "mobilized": {
+        "19.txt": 3
+    },
+    "majority": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "5.txt": 7
+    },
+    "minority": {
+        "19.txt": 1,
+        "5.txt": 5
+    },
+    "merging": {
+        "19.txt": 1
+    },
+    "merry": {
+        "19.txt": 1,
+        "8.txt": 3
+    },
+    "mindedly": {
+        "19.txt": 3
+    },
+    "misadventures": {
+        "19.txt": 1
+    },
+    "muffled": {
+        "19.txt": 8
+    },
+    "measure": {
+        "19.txt": 11,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 3,
+        "8.txt": 2
+    },
+    "marvelling": {
+        "19.txt": 1
+    },
+    "miroshka": {
+        "19.txt": 1
+    },
+    "miroshkas": {
+        "19.txt": 2
+    },
+    "mayn": {
+        "19.txt": 1
+    },
+    "mumbling": {
+        "19.txt": 2
+    },
+    "mustache": {
+        "19.txt": 6
+    },
+    "megaphone": {
+        "19.txt": 1
+    },
+    "memoirs": {
+        "19.txt": 1
+    },
+    "materialism": {
+        "19.txt": 2
+    },
+    "milieu": {
+        "19.txt": 1
+    },
+    "machine": {
+        "19.txt": 2,
+        "1.txt": 3,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "moderates": {
+        "19.txt": 1
+    },
+    "medicines": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "magpies": {
+        "19.txt": 4
+    },
+    "masters": {
+        "19.txt": 5,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "marxism": {
+        "19.txt": 8
+    },
+    "molchanovka": {
+        "19.txt": 2
+    },
+    "monster": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "8.txt": 23,
+        "4.txt": 2
+    },
+    "maneuver": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "microscope": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "milk": {
+        "19.txt": 13,
+        "1.txt": 11,
+        "4.txt": 3
+    },
+    "mineral": {
+        "19.txt": 2
+    },
+    "mistook": {
+        "19.txt": 5
+    },
+    "masterful": {
+        "19.txt": 3
+    },
+    "mephistophelean": {
+        "19.txt": 1
+    },
+    "millet": {
+        "19.txt": 3
+    },
+    "minuet": {
+        "19.txt": 1
+    },
+    "morals": {
+        "19.txt": 1,
+        "24.txt": 11
+    },
+    "manageress": {
+        "19.txt": 1
+    },
+    "meshchanskaia": {
+        "19.txt": 1
+    },
+    "mary": {
+        "19.txt": 8
+    },
+    "magdalene": {
+        "19.txt": 7
+    },
+    "mikulitsyn": {
+        "19.txt": 28
+    },
+    "measuring": {
+        "19.txt": 2
+    },
+    "movements": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "macaroni": {
+        "19.txt": 1
+    },
+    "matches": {
+        "19.txt": 5,
+        "1.txt": 3
+    },
+    "mothballs": {
+        "19.txt": 1
+    },
+    "materials": {
+        "19.txt": 3,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "murderous": {
+        "19.txt": 2,
+        "5.txt": 1,
+        "8.txt": 4
+    },
+    "mislead": {
+        "19.txt": 1
+    },
+    "mob": {
+        "19.txt": 2
+    },
+    "monks": {
+        "19.txt": 4
+    },
+    "malmyzh": {
+        "19.txt": 1
+    },
+    "markets": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "mention": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "24.txt": 3
+    },
+    "millstones": {
+        "19.txt": 3
+    },
+    "mobilization": {
+        "19.txt": 2
+    },
+    "mobilize": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "mounds": {
+        "19.txt": 1
+    },
+    "mountain": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "24.txt": 1,
+        "8.txt": 2,
+        "4.txt": 2
+    },
+    "melodious": {
+        "19.txt": 1
+    },
+    "melting": {
+        "19.txt": 4
+    },
+    "moisture": {
+        "19.txt": 1
+    },
+    "mining": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "misheard": {
+        "19.txt": 2
+    },
+    "midnight": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "24.txt": 2,
+        "8.txt": 2
+    },
+    "magical": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "metallic": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "marva": {
+        "19.txt": 1
+    },
+    "maze": {
+        "19.txt": 4
+    },
+    "maps": {
+        "19.txt": 1
+    },
+    "mishap": {
+        "19.txt": 1
+    },
+    "muddy": {
+        "19.txt": 3,
+        "1.txt": 4,
+        "4.txt": 2
+    },
+    "modelled": {
+        "19.txt": 1
+    },
+    "messengers": {
+        "19.txt": 1
+    },
+    "mutiny": {
+        "19.txt": 3
+    },
+    "manners": {
+        "19.txt": 5,
+        "1.txt": 5,
+        "5.txt": 3
+    },
+    "material": {
+        "19.txt": 5,
+        "1.txt": 2,
+        "24.txt": 14,
+        "5.txt": 14,
+        "8.txt": 1
+    },
+    "morshansk": {
+        "19.txt": 1
+    },
+    "mane": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "movie": {
+        "19.txt": 2
+    },
+    "moreau": {
+        "19.txt": 5
+    },
+    "machinery": {
+        "19.txt": 4,
+        "24.txt": 2,
+        "5.txt": 11
+    },
+    "marxist": {
+        "19.txt": 1
+    },
+    "mutually": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "municipal": {
+        "19.txt": 2
+    },
+    "mikulitsyns": {
+        "19.txt": 14
+    },
+    "murders": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "marine": {
+        "19.txt": 1
+    },
+    "mare": {
+        "19.txt": 5
+    },
+    "marvelled": {
+        "19.txt": 1
+    },
+    "minded": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "5.txt": 10,
+        "8.txt": 8
+    },
+    "mekhonoshin": {
+        "19.txt": 1
+    },
+    "mikulich": {
+        "19.txt": 2
+    },
+    "mikulichna": {
+        "19.txt": 2
+    },
+    "misunderstand": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "madhouse": {
+        "19.txt": 2
+    },
+    "manured": {
+        "19.txt": 1
+    },
+    "magician": {
+        "19.txt": 2
+    },
+    "mainstay": {
+        "19.txt": 1
+    },
+    "motherhood": {
+        "19.txt": 2
+    },
+    "magnify": {
+        "19.txt": 2
+    },
+    "muddled": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "meter": {
+        "19.txt": 4
+    },
+    "mythologism": {
+        "19.txt": 1
+    },
+    "mistakes": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "mellowing": {
+        "19.txt": 1
+    },
+    "metaphor": {
+        "19.txt": 1
+    },
+    "modulations": {
+        "19.txt": 1
+    },
+    "manuals": {
+        "19.txt": 1
+    },
+    "muses": {
+        "19.txt": 1
+    },
+    "masks": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "mythological": {
+        "19.txt": 1
+    },
+    "masonry": {
+        "19.txt": 1
+    },
+    "momentum": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "marginal": {
+        "19.txt": 1
+    },
+    "maples": {
+        "19.txt": 1
+    },
+    "mosquitoes": {
+        "19.txt": 1,
+        "4.txt": 5
+    },
+    "maundy": {
+        "19.txt": 2
+    },
+    "manhood": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "marriageable": {
+        "19.txt": 1
+    },
+    "misogynist": {
+        "19.txt": 1
+    },
+    "mended": {
+        "19.txt": 4
+    },
+    "magidson": {
+        "19.txt": 1
+    },
+    "modykh": {
+        "19.txt": 1
+    },
+    "merciless": {
+        "19.txt": 1
+    },
+    "massed": {
+        "19.txt": 1
+    },
+    "murmured": {
+        "19.txt": 2
+    },
+    "medvedikha": {
+        "19.txt": 1
+    },
+    "militarist": {
+        "19.txt": 1
+    },
+    "morose": {
+        "19.txt": 1
+    },
+    "mistaking": {
+        "19.txt": 3
+    },
+    "mongol": {
+        "19.txt": 1
+    },
+    "mentally": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "membership": {
+        "19.txt": 2,
+        "5.txt": 3
+    },
+    "maly": {
+        "19.txt": 2
+    },
+    "motherland": {
+        "19.txt": 1
+    },
+    "miliukov": {
+        "19.txt": 2
+    },
+    "manifestations": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "militiamen": {
+        "19.txt": 1
+    },
+    "moaning": {
+        "19.txt": 3,
+        "1.txt": 3,
+        "4.txt": 1
+    },
+    "mayor": {
+        "19.txt": 1,
+        "1.txt": 9,
+        "5.txt": 1
+    },
+    "marches": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "manure": {
+        "19.txt": 2
+    },
+    "medics": {
+        "19.txt": 3
+    },
+    "mowed": {
+        "19.txt": 2
+    },
+    "mutter": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "marks": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "4.txt": 1
+    },
+    "mock": {
+        "19.txt": 1
+    },
+    "molded": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "melancholia": {
+        "19.txt": 1
+    },
+    "moor": {
+        "19.txt": 2,
+        "8.txt": 4
+    },
+    "mythical": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "medieval": {
+        "19.txt": 1
+    },
+    "marching": {
+        "19.txt": 2,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "merit": {
+        "19.txt": 1,
+        "24.txt": 8,
+        "5.txt": 1
+    },
+    "murmur": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "moss": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "mimicry": {
+        "19.txt": 2
+    },
+    "monk": {
+        "19.txt": 1
+    },
+    "mentioning": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "model": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "maltreatment": {
+        "19.txt": 1
+    },
+    "mockery": {
+        "19.txt": 2
+    },
+    "maddened": {
+        "19.txt": 2
+    },
+    "martyrs": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "manufacture": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "miseries": {
+        "19.txt": 1
+    },
+    "milking": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "margesta": {
+        "19.txt": 1
+    },
+    "mettle": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "marten": {
+        "19.txt": 1
+    },
+    "matchlessly": {
+        "19.txt": 1
+    },
+    "magnified": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "meted": {
+        "19.txt": 1
+    },
+    "midair": {
+        "19.txt": 1
+    },
+    "mouths": {
+        "19.txt": 1,
+        "1.txt": 4
+    },
+    "moan": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "mop": {
+        "19.txt": 1
+    },
+    "map": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "mortuaries": {
+        "19.txt": 1
+    },
+    "mowing": {
+        "19.txt": 1
+    },
+    "mistrustful": {
+        "19.txt": 1
+    },
+    "merrily": {
+        "19.txt": 1
+    },
+    "merest": {
+        "19.txt": 1
+    },
+    "males": {
+        "19.txt": 2
+    },
+    "martyred": {
+        "19.txt": 1
+    },
+    "mutterings": {
+        "19.txt": 1
+    },
+    "mingling": {
+        "19.txt": 2
+    },
+    "mails": {
+        "19.txt": 2
+    },
+    "million": {
+        "19.txt": 2,
+        "1.txt": 6,
+        "24.txt": 4
+    },
+    "morally": {
+        "19.txt": 1,
+        "24.txt": 24,
+        "5.txt": 1
+    },
+    "manly": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "marvels": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "moderation": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "misdirected": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "miassky": {
+        "19.txt": 1
+    },
+    "marketeers": {
+        "19.txt": 1
+    },
+    "miracles": {
+        "19.txt": 3
+    },
+    "moses": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "multitudes": {
+        "19.txt": 1
+    },
+    "mastering": {
+        "19.txt": 1
+    },
+    "marys": {
+        "19.txt": 1
+    },
+    "moonless": {
+        "19.txt": 1
+    },
+    "mild": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "milder": {
+        "19.txt": 1
+    },
+    "misjudge": {
+        "19.txt": 1
+    },
+    "maritime": {
+        "19.txt": 1
+    },
+    "merkulovs": {
+        "19.txt": 1
+    },
+    "mongolia": {
+        "19.txt": 6
+    },
+    "mongolian": {
+        "19.txt": 2
+    },
+    "maniac": {
+        "19.txt": 1
+    },
+    "magnetic": {
+        "19.txt": 1
+    },
+    "mortally": {
+        "19.txt": 1
+    },
+    "mercilessly": {
+        "19.txt": 1
+    },
+    "mutton": {
+        "19.txt": 1
+    },
+    "mislaid": {
+        "19.txt": 2
+    },
+    "mournful": {
+        "19.txt": 1,
+        "8.txt": 3
+    },
+    "muzzles": {
+        "19.txt": 2
+    },
+    "mistiness": {
+        "19.txt": 1
+    },
+    "mushroom": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "manger": {
+        "19.txt": 4,
+        "4.txt": 4
+    },
+    "ministry": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "monologue": {
+        "19.txt": 3
+    },
+    "morbidity": {
+        "19.txt": 1
+    },
+    "mourned": {
+        "19.txt": 1,
+        "8.txt": 5
+    },
+    "magnificence": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "method": {
+        "19.txt": 2,
+        "24.txt": 17,
+        "5.txt": 6
+    },
+    "metaphysical": {
+        "19.txt": 1,
+        "24.txt": 5
+    },
+    "monstrously": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "martialed": {
+        "19.txt": 1
+    },
+    "misdeeds": {
+        "19.txt": 1
+    },
+    "misted": {
+        "19.txt": 1
+    },
+    "margins": {
+        "19.txt": 2
+    },
+    "malaia": {
+        "19.txt": 1
+    },
+    "meekly": {
+        "19.txt": 1
+    },
+    "motivated": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "mature": {
+        "19.txt": 2
+    },
+    "muscle": {
+        "19.txt": 1
+    },
+    "microscopic": {
+        "19.txt": 1
+    },
+    "manuscripts": {
+        "19.txt": 4
+    },
+    "motor": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "mourners": {
+        "19.txt": 4
+    },
+    "markelovna": {
+        "19.txt": 1
+    },
+    "monologues": {
+        "19.txt": 1
+    },
+    "mode": {
+        "19.txt": 1,
+        "24.txt": 9,
+        "5.txt": 1
+    },
+    "major": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "monument": {
+        "19.txt": 1
+    },
+    "mortars": {
+        "19.txt": 1
+    },
+    "manifest": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 4
+    },
+    "murderer": {
+        "19.txt": 4,
+        "8.txt": 4,
+        "4.txt": 1
+    },
+    "metaphorical": {
+        "19.txt": 2
+    },
+    "murk": {
+        "19.txt": 6
+    },
+    "milkmaid": {
+        "19.txt": 1,
+        "4.txt": 3
+    },
+    "millennium": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "murmurings": {
+        "19.txt": 1
+    },
+    "mired": {
+        "19.txt": 1
+    },
+    "mate": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "mirrorous": {
+        "19.txt": 1
+    },
+    "maw": {
+        "19.txt": 1
+    },
+    "midges": {
+        "19.txt": 1
+    },
+    "melts": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "museums": {
+        "19.txt": 1
+    },
+    "milldam": {
+        "19.txt": 1
+    },
+    "mica": {
+        "19.txt": 1
+    },
+    "motes": {
+        "19.txt": 1
+    },
+    "moonbeam": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "moths": {
+        "19.txt": 1
+    },
+    "majestic": {
+        "19.txt": 1
+    },
+    "myrrh": {
+        "19.txt": 1
+    },
+    "morrow": {
+        "19.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "milky": {
+        "19.txt": 1
+    },
+    "majesty": {
+        "19.txt": 1,
+        "24.txt": 5,
+        "4.txt": 5
+    },
+    "mattress": {
+        "1.txt": 1
+    },
+    "mashed": {
+        "1.txt": 3
+    },
+    "mouser": {
+        "1.txt": 1
+    },
+    "miners": {
+        "1.txt": 5
+    },
+    "mask": {
+        "1.txt": 1,
+        "8.txt": 2,
+        "4.txt": 3
+    },
+    "mm": {
+        "1.txt": 2
+    },
+    "mimics": {
+        "1.txt": 1
+    },
+    "maniacally": {
+        "1.txt": 1
+    },
+    "medicinal": {
+        "1.txt": 1
+    },
+    "mesh": {
+        "1.txt": 3
+    },
+    "mayors": {
+        "1.txt": 4
+    },
+    "madge": {
+        "1.txt": 11
+    },
+    "messing": {
+        "1.txt": 3
+    },
+    "madges": {
+        "1.txt": 5
+    },
+    "meager": {
+        "1.txt": 2
+    },
+    "mandatory": {
+        "1.txt": 2,
+        "5.txt": 3
+    },
+    "manages": {
+        "1.txt": 1
+    },
+    "molest": {
+        "1.txt": 1
+    },
+    "mellark": {
+        "1.txt": 17
+    },
+    "medium": {
+        "1.txt": 2,
+        "24.txt": 6,
+        "5.txt": 1
+    },
+    "mint": {
+        "1.txt": 9
+    },
+    "muck": {
+        "1.txt": 1
+    },
+    "mesmerized": {
+        "1.txt": 2
+    },
+    "motions": {
+        "1.txt": 3,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "mellarks": {
+        "1.txt": 2
+    },
+    "muscled": {
+        "1.txt": 1
+    },
+    "maces": {
+        "1.txt": 1
+    },
+    "mercifully": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "mined": {
+        "1.txt": 2
+    },
+    "math": {
+        "1.txt": 1
+    },
+    "muttations": {
+        "1.txt": 3
+    },
+    "mutts": {
+        "1.txt": 20
+    },
+    "memorize": {
+        "1.txt": 1
+    },
+    "mated": {
+        "1.txt": 1
+    },
+    "mockingbirds": {
+        "1.txt": 1
+    },
+    "melodies": {
+        "1.txt": 2
+    },
+    "mimic": {
+        "1.txt": 4
+    },
+    "mans": {
+        "1.txt": 3
+    },
+    "multiple": {
+        "1.txt": 2
+    },
+    "mockingjays": {
+        "1.txt": 10
+    },
+    "mockingjay": {
+        "1.txt": 14
+    },
+    "mounts": {
+        "1.txt": 1
+    },
+    "mentor": {
+        "1.txt": 11
+    },
+    "mouthful": {
+        "1.txt": 6
+    },
+    "misjudged": {
+        "1.txt": 3
+    },
+    "mush": {
+        "1.txt": 4
+    },
+    "miner": {
+        "1.txt": 5
+    },
+    "makeup": {
+        "1.txt": 9
+    },
+    "minimal": {
+        "1.txt": 1
+    },
+    "mansion": {
+        "1.txt": 2
+    },
+    "massage": {
+        "1.txt": 1
+    },
+    "massaging": {
+        "1.txt": 1
+    },
+    "mat": {
+        "1.txt": 2
+    },
+    "menu": {
+        "1.txt": 1
+    },
+    "mouthpiece": {
+        "1.txt": 1
+    },
+    "maimed": {
+        "1.txt": 1
+    },
+    "mutilate": {
+        "1.txt": 1
+    },
+    "misty": {
+        "1.txt": 2,
+        "8.txt": 2
+    },
+    "moisturized": {
+        "1.txt": 1
+    },
+    "melon": {
+        "1.txt": 1
+    },
+    "mace": {
+        "1.txt": 1
+    },
+    "mentors": {
+        "1.txt": 4
+    },
+    "mumbles": {
+        "1.txt": 1
+    },
+    "mischievously": {
+        "1.txt": 2
+    },
+    "materialized": {
+        "1.txt": 1
+    },
+    "menacing": {
+        "1.txt": 2
+    },
+    "manageable": {
+        "1.txt": 2
+    },
+    "mystified": {
+        "1.txt": 1
+    },
+    "mix": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "maintain": {
+        "1.txt": 2,
+        "24.txt": 7,
+        "5.txt": 4,
+        "8.txt": 1
+    },
+    "misses": {
+        "1.txt": 1
+    },
+    "muffles": {
+        "1.txt": 1
+    },
+    "mid": {
+        "1.txt": 1,
+        "8.txt": 7
+    },
+    "materializes": {
+        "1.txt": 3
+    },
+    "mileage": {
+        "1.txt": 1
+    },
+    "moisten": {
+        "1.txt": 1
+    },
+    "mistreats": {
+        "1.txt": 1
+    },
+    "materialize": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "motivation": {
+        "1.txt": 2
+    },
+    "messily": {
+        "1.txt": 1
+    },
+    "manipulate": {
+        "1.txt": 1
+    },
+    "mayhem": {
+        "1.txt": 1
+    },
+    "mentions": {
+        "1.txt": 1
+    },
+    "martin": {
+        "1.txt": 2
+    },
+    "misgivings": {
+        "1.txt": 1
+    },
+    "marshy": {
+        "1.txt": 1,
+        "4.txt": 1
+    },
+    "mulling": {
+        "1.txt": 1
+    },
+    "meticulous": {
+        "1.txt": 1
+    },
+    "melody": {
+        "1.txt": 4
+    },
+    "melodic": {
+        "1.txt": 1
+    },
+    "momentarily": {
+        "1.txt": 3
+    },
+    "moonlight": {
+        "1.txt": 2,
+        "4.txt": 1
+    },
+    "matted": {
+        "1.txt": 1
+    },
+    "mutters": {
+        "1.txt": 1
+    },
+    "manufactured": {
+        "1.txt": 1
+    },
+    "mash": {
+        "1.txt": 3
+    },
+    "mince": {
+        "1.txt": 1
+    },
+    "managing": {
+        "1.txt": 1
+    },
+    "moth": {
+        "1.txt": 1
+    },
+    "mishmash": {
+        "1.txt": 1
+    },
+    "midway": {
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "mutt": {
+        "1.txt": 10
+    },
+    "murdered": {
+        "1.txt": 1,
+        "8.txt": 2
+    },
+    "moans": {
+        "1.txt": 1
+    },
+    "masked": {
+        "1.txt": 1
+    },
+    "monitored": {
+        "1.txt": 1
+    },
+    "makeshift": {
+        "1.txt": 1
+    },
+    "musty": {
+        "1.txt": 1
+    },
+    "moldy": {
+        "1.txt": 1
+    },
+    "misguided": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "misled": {
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "monitoring": {
+        "1.txt": 1
+    },
+    "matthew": {
+        "24.txt": 1
+    },
+    "morality": {
+        "24.txt": 82,
+        "5.txt": 7
+    },
+    "misapprehension": {
+        "24.txt": 2
+    },
+    "metaphysic": {
+        "24.txt": 3
+    },
+    "mathematician": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "mag": {
+        "24.txt": 1
+    },
+    "misconception": {
+        "24.txt": 4
+    },
+    "modality": {
+        "24.txt": 3
+    },
+    "meditation": {
+        "24.txt": 1
+    },
+    "methodology": {
+        "24.txt": 11
+    },
+    "manifests": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "magnitude": {
+        "24.txt": 5
+    },
+    "milan": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "maintained": {
+        "24.txt": 5
+    },
+    "montaigne": {
+        "24.txt": 1
+    },
+    "mandeville": {
+        "24.txt": 1
+    },
+    "mildest": {
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "mali": {
+        "24.txt": 2
+    },
+    "malum": {
+        "24.txt": 2
+    },
+    "moderns": {
+        "24.txt": 1
+    },
+    "modes": {
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "manifold": {
+        "24.txt": 8
+    },
+    "modi": {
+        "24.txt": 1
+    },
+    "militant": {
+        "24.txt": 1
+    },
+    "magnanimous": {
+        "24.txt": 4
+    },
+    "moderately": {
+        "24.txt": 1
+    },
+    "methodical": {
+        "24.txt": 2
+    },
+    "maintains": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "materiale": {
+        "24.txt": 1
+    },
+    "modification": {
+        "24.txt": 2
+    },
+    "modifications": {
+        "24.txt": 2
+    },
+    "marionette": {
+        "24.txt": 1
+    },
+    "mendelssohn": {
+        "24.txt": 1
+    },
+    "meets": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "mischiefs": {
+        "24.txt": 1
+    },
+    "mastery": {
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "misinterpretation": {
+        "24.txt": 1
+    },
+    "misapplied": {
+        "24.txt": 1
+    },
+    "mediate": {
+        "24.txt": 1
+    },
+    "mohammed": {
+        "24.txt": 1
+    },
+    "mystics": {
+        "24.txt": 1
+    },
+    "monstrosities": {
+        "24.txt": 1
+    },
+    "meanness": {
+        "24.txt": 1
+    },
+    "museum": {
+        "24.txt": 1
+    },
+    "mathematically": {
+        "24.txt": 1
+    },
+    "methodically": {
+        "24.txt": 1
+    },
+    "maine": {
+        "24.txt": 1
+    },
+    "massachusetts": {
+        "24.txt": 1
+    },
+    "mississippi": {
+        "24.txt": 1
+    },
+    "missouri": {
+        "24.txt": 1
+    },
+    "montana": {
+        "24.txt": 1
+    },
+    "mexico": {
+        "24.txt": 1
+    },
+    "ms": {
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "maximum": {
+        "24.txt": 1
+    },
+    "michael": {
+        "24.txt": 6
+    },
+    "merchantability": {
+        "24.txt": 1
+    },
+    "modify": {
+        "24.txt": 1
+    },
+    "mosaic": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "munich": {
+        "5.txt": 4
+    },
+    "metaphysicians": {
+        "5.txt": 1
+    },
+    "monograph": {
+        "5.txt": 1
+    },
+    "mitigates": {
+        "5.txt": 1
+    },
+    "medi\u00e6val": {
+        "5.txt": 1
+    },
+    "morbid": {
+        "5.txt": 2
+    },
+    "maxwell": {
+        "5.txt": 1
+    },
+    "mitigate": {
+        "5.txt": 1
+    },
+    "mimosa": {
+        "5.txt": 1
+    },
+    "muscular": {
+        "5.txt": 1
+    },
+    "materialistic": {
+        "5.txt": 4
+    },
+    "mouthpieces": {
+        "5.txt": 1
+    },
+    "mediator": {
+        "5.txt": 1
+    },
+    "menaced": {
+        "5.txt": 1
+    },
+    "mussolini": {
+        "5.txt": 1
+    },
+    "momentary": {
+        "5.txt": 2
+    },
+    "minotaur": {
+        "5.txt": 1
+    },
+    "maidens": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "minimize": {
+        "5.txt": 1
+    },
+    "mould": {
+        "5.txt": 1
+    },
+    "mercenary": {
+        "5.txt": 1
+    },
+    "mercenaries": {
+        "5.txt": 1
+    },
+    "minorities": {
+        "5.txt": 5
+    },
+    "militaristic": {
+        "5.txt": 1
+    },
+    "monarchy": {
+        "5.txt": 1
+    },
+    "militarily": {
+        "5.txt": 1
+    },
+    "mechanization": {
+        "5.txt": 1
+    },
+    "misused": {
+        "5.txt": 1
+    },
+    "mercies": {
+        "5.txt": 1
+    },
+    "militarists": {
+        "5.txt": 1
+    },
+    "munitions": {
+        "5.txt": 1
+    },
+    "motto": {
+        "5.txt": 1
+    },
+    "minimum": {
+        "5.txt": 4
+    },
+    "mediating": {
+        "5.txt": 1
+    },
+    "m4y": {
+        "5.txt": 1
+    },
+    "materially": {
+        "5.txt": 2
+    },
+    "monopolistic": {
+        "5.txt": 1
+    },
+    "maintenance": {
+        "5.txt": 1
+    },
+    "monopolies": {
+        "5.txt": 1
+    },
+    "monetary": {
+        "5.txt": 1
+    },
+    "majorities": {
+        "5.txt": 2
+    },
+    "militarism": {
+        "5.txt": 1
+    },
+    "mongering": {
+        "5.txt": 5
+    },
+    "muzzled": {
+        "5.txt": 1
+    },
+    "mer": {
+        "5.txt": 2
+    },
+    "miniature": {
+        "5.txt": 1
+    },
+    "media": {
+        "5.txt": 1
+    },
+    "mead": {
+        "8.txt": 17
+    },
+    "mandate": {
+        "8.txt": 2
+    },
+    "mast": {
+        "8.txt": 3
+    },
+    "mightier": {
+        "8.txt": 1
+    },
+    "moorland": {
+        "8.txt": 3
+    },
+    "minstrel": {
+        "8.txt": 1
+    },
+    "morn": {
+        "8.txt": 5
+    },
+    "moorlands": {
+        "8.txt": 1
+    },
+    "mightiest": {
+        "8.txt": 1
+    },
+    "monarch": {
+        "8.txt": 3
+    },
+    "mailed": {
+        "8.txt": 5
+    },
+    "mickle": {
+        "8.txt": 1
+    },
+    "messenger": {
+        "8.txt": 1
+    },
+    "methinks": {
+        "8.txt": 1
+    },
+    "minstrels": {
+        "8.txt": 1
+    },
+    "monsters": {
+        "8.txt": 5
+    },
+    "molested": {
+        "8.txt": 1
+    },
+    "mindful": {
+        "8.txt": 5
+    },
+    "mingle": {
+        "8.txt": 1
+    },
+    "maker": {
+        "8.txt": 6
+    },
+    "mete": {
+        "8.txt": 1
+    },
+    "manfully": {
+        "8.txt": 1
+    },
+    "marries": {
+        "8.txt": 1
+    },
+    "mildness": {
+        "8.txt": 1
+    },
+    "maned": {
+        "8.txt": 1
+    },
+    "meanest": {
+        "8.txt": 1
+    },
+    "minish": {
+        "8.txt": 1
+    },
+    "moaned": {
+        "8.txt": 3
+    },
+    "mistrusted": {
+        "8.txt": 1
+    },
+    "meed": {
+        "8.txt": 1
+    },
+    "marred": {
+        "8.txt": 1
+    },
+    "memorial": {
+        "8.txt": 3
+    },
+    "merriment": {
+        "8.txt": 1
+    },
+    "merowings": {
+        "8.txt": 1
+    },
+    "mirth": {
+        "8.txt": 1
+    },
+    "mightily": {
+        "8.txt": 1
+    },
+    "miser": {
+        "4.txt": 4
+    },
+    "mastiffs": {
+        "4.txt": 1
+    },
+    "moulting": {
+        "4.txt": 1
+    },
+    "morsel": {
+        "4.txt": 3
+    },
+    "moiling": {
+        "4.txt": 1
+    },
+    "muzzle": {
+        "4.txt": 1
+    },
+    "mire": {
+        "4.txt": 1
+    }
+}

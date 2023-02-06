@@ -1,0 +1,2457 @@
+{
+    "with": {
+        "15.txt": 613,
+        "7.txt": 941,
+        "18.txt": 536,
+        "13.txt": 429,
+        "14.txt": 189,
+        "23.txt": 135,
+        "6.txt": 135
+    },
+    "were": {
+        "15.txt": 442,
+        "7.txt": 367,
+        "18.txt": 94,
+        "13.txt": 174,
+        "14.txt": 35,
+        "23.txt": 67,
+        "6.txt": 47
+    },
+    "when": {
+        "15.txt": 519,
+        "7.txt": 511,
+        "18.txt": 276,
+        "13.txt": 147,
+        "14.txt": 54,
+        "23.txt": 58,
+        "6.txt": 38
+    },
+    "was": {
+        "15.txt": 1877,
+        "7.txt": 1475,
+        "18.txt": 299,
+        "13.txt": 770,
+        "14.txt": 25,
+        "23.txt": 114,
+        "6.txt": 160
+    },
+    "walked": {
+        "15.txt": 65,
+        "7.txt": 17,
+        "18.txt": 1,
+        "13.txt": 23,
+        "6.txt": 3
+    },
+    "we": {
+        "15.txt": 704,
+        "7.txt": 378,
+        "18.txt": 600,
+        "13.txt": 235,
+        "14.txt": 282,
+        "23.txt": 98,
+        "6.txt": 65
+    },
+    "who": {
+        "15.txt": 203,
+        "7.txt": 482,
+        "18.txt": 169,
+        "13.txt": 114,
+        "14.txt": 39,
+        "23.txt": 68,
+        "6.txt": 36
+    },
+    "wanted": {
+        "15.txt": 51,
+        "7.txt": 8,
+        "18.txt": 18,
+        "13.txt": 27
+    },
+    "would": {
+        "15.txt": 310,
+        "7.txt": 248,
+        "18.txt": 125,
+        "13.txt": 53,
+        "14.txt": 125,
+        "23.txt": 48,
+        "6.txt": 35
+    },
+    "where": {
+        "15.txt": 102,
+        "7.txt": 197,
+        "18.txt": 102,
+        "13.txt": 60,
+        "14.txt": 9,
+        "23.txt": 13,
+        "6.txt": 16
+    },
+    "whose": {
+        "15.txt": 16,
+        "7.txt": 47,
+        "18.txt": 9,
+        "13.txt": 9,
+        "14.txt": 14,
+        "23.txt": 18,
+        "6.txt": 7
+    },
+    "worked": {
+        "15.txt": 13,
+        "7.txt": 2,
+        "18.txt": 6,
+        "13.txt": 4
+    },
+    "way": {
+        "15.txt": 181,
+        "7.txt": 145,
+        "18.txt": 112,
+        "13.txt": 78,
+        "14.txt": 24,
+        "23.txt": 29,
+        "6.txt": 14
+    },
+    "wesley": {
+        "15.txt": 1
+    },
+    "words": {
+        "15.txt": 20,
+        "7.txt": 96,
+        "18.txt": 37,
+        "13.txt": 15,
+        "14.txt": 11,
+        "23.txt": 9,
+        "6.txt": 19
+    },
+    "what": {
+        "15.txt": 432,
+        "7.txt": 363,
+        "18.txt": 294,
+        "13.txt": 147,
+        "14.txt": 87,
+        "23.txt": 67,
+        "6.txt": 95
+    },
+    "wife": {
+        "15.txt": 12,
+        "7.txt": 118,
+        "13.txt": 23,
+        "6.txt": 3
+    },
+    "wheat": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "well": {
+        "15.txt": 159,
+        "7.txt": 114,
+        "18.txt": 93,
+        "13.txt": 70,
+        "14.txt": 23,
+        "23.txt": 18,
+        "6.txt": 10
+    },
+    "went": {
+        "15.txt": 193,
+        "7.txt": 162,
+        "18.txt": 13,
+        "13.txt": 91,
+        "23.txt": 1,
+        "6.txt": 5
+    },
+    "wondering": {
+        "15.txt": 7,
+        "7.txt": 10,
+        "18.txt": 7,
+        "13.txt": 4
+    },
+    "wrongful": {
+        "15.txt": 1
+    },
+    "witnesses": {
+        "15.txt": 12,
+        "7.txt": 1
+    },
+    "worth": {
+        "15.txt": 6,
+        "7.txt": 7,
+        "18.txt": 3,
+        "13.txt": 3,
+        "14.txt": 48,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "weather": {
+        "15.txt": 7,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 5
+    },
+    "wilted": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "wide": {
+        "15.txt": 12,
+        "7.txt": 2,
+        "18.txt": 21,
+        "13.txt": 7,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "why": {
+        "15.txt": 162,
+        "7.txt": 51,
+        "18.txt": 63,
+        "13.txt": 45,
+        "14.txt": 9,
+        "23.txt": 4,
+        "6.txt": 3
+    },
+    "wasn": {
+        "15.txt": 49,
+        "18.txt": 31,
+        "13.txt": 39,
+        "6.txt": 1
+    },
+    "won": {
+        "15.txt": 70,
+        "7.txt": 6,
+        "18.txt": 43,
+        "13.txt": 17
+    },
+    "within": {
+        "15.txt": 7,
+        "7.txt": 11,
+        "18.txt": 3,
+        "13.txt": 9,
+        "14.txt": 9,
+        "23.txt": 5,
+        "6.txt": 11
+    },
+    "whom": {
+        "15.txt": 6,
+        "7.txt": 93,
+        "18.txt": 1,
+        "13.txt": 9,
+        "14.txt": 4,
+        "23.txt": 17,
+        "6.txt": 8
+    },
+    "wire": {
+        "15.txt": 13,
+        "18.txt": 2,
+        "13.txt": 10,
+        "14.txt": 1
+    },
+    "wonder": {
+        "15.txt": 12,
+        "7.txt": 11,
+        "18.txt": 17,
+        "13.txt": 8,
+        "14.txt": 1,
+        "6.txt": 3
+    },
+    "wore": {
+        "15.txt": 28,
+        "7.txt": 6,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "white": {
+        "15.txt": 64,
+        "7.txt": 23,
+        "18.txt": 31,
+        "13.txt": 47,
+        "6.txt": 8
+    },
+    "works": {
+        "15.txt": 7,
+        "7.txt": 1,
+        "18.txt": 8,
+        "13.txt": 2,
+        "14.txt": 3,
+        "23.txt": 1,
+        "6.txt": 5
+    },
+    "warnings": {
+        "15.txt": 1
+    },
+    "water": {
+        "15.txt": 26,
+        "7.txt": 68,
+        "18.txt": 27,
+        "13.txt": 8,
+        "23.txt": 4,
+        "6.txt": 2
+    },
+    "walking": {
+        "15.txt": 20,
+        "7.txt": 7,
+        "18.txt": 3,
+        "13.txt": 9,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "windows": {
+        "15.txt": 22,
+        "7.txt": 11,
+        "18.txt": 10,
+        "13.txt": 20,
+        "23.txt": 1
+    },
+    "work": {
+        "15.txt": 30,
+        "7.txt": 18,
+        "18.txt": 24,
+        "13.txt": 15,
+        "14.txt": 9,
+        "23.txt": 9,
+        "6.txt": 8
+    },
+    "whistle": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "welcome": {
+        "15.txt": 3,
+        "7.txt": 15,
+        "18.txt": 3,
+        "13.txt": 4,
+        "14.txt": 1
+    },
+    "worshiped": {
+        "15.txt": 2
+    },
+    "ways": {
+        "15.txt": 22,
+        "7.txt": 7,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 4,
+        "23.txt": 5,
+        "6.txt": 2
+    },
+    "warned": {
+        "15.txt": 5,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 3,
+        "14.txt": 1
+    },
+    "whiskey": {
+        "15.txt": 10,
+        "13.txt": 7
+    },
+    "wrong": {
+        "15.txt": 24,
+        "7.txt": 7,
+        "18.txt": 17,
+        "13.txt": 9,
+        "14.txt": 3,
+        "23.txt": 1,
+        "6.txt": 4
+    },
+    "wouldn": {
+        "15.txt": 59,
+        "18.txt": 11,
+        "13.txt": 22
+    },
+    "word": {
+        "15.txt": 29,
+        "7.txt": 25,
+        "18.txt": 23,
+        "13.txt": 25,
+        "14.txt": 13,
+        "23.txt": 3,
+        "6.txt": 7
+    },
+    "weekdays": {
+        "15.txt": 2
+    },
+    "whole": {
+        "15.txt": 23,
+        "7.txt": 49,
+        "18.txt": 32,
+        "13.txt": 17,
+        "14.txt": 13,
+        "23.txt": 8,
+        "6.txt": 6
+    },
+    "wiped": {
+        "15.txt": 6,
+        "7.txt": 2,
+        "13.txt": 4
+    },
+    "walk": {
+        "15.txt": 33,
+        "7.txt": 6,
+        "18.txt": 10,
+        "13.txt": 5,
+        "6.txt": 2
+    },
+    "wear": {
+        "15.txt": 5,
+        "7.txt": 8,
+        "18.txt": 9,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "wooden": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "watching": {
+        "15.txt": 21,
+        "7.txt": 11,
+        "18.txt": 22,
+        "13.txt": 3
+    },
+    "woke": {
+        "15.txt": 5,
+        "7.txt": 6,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "window": {
+        "15.txt": 44,
+        "7.txt": 18,
+        "18.txt": 16,
+        "13.txt": 19,
+        "6.txt": 5
+    },
+    "waked": {
+        "15.txt": 3
+    },
+    "walks": {
+        "15.txt": 1,
+        "18.txt": 6,
+        "13.txt": 1
+    },
+    "wash": {
+        "15.txt": 7,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "weren": {
+        "15.txt": 17,
+        "18.txt": 5,
+        "13.txt": 8
+    },
+    "without": {
+        "15.txt": 42,
+        "7.txt": 125,
+        "18.txt": 45,
+        "13.txt": 31,
+        "14.txt": 72,
+        "23.txt": 48,
+        "6.txt": 22
+    },
+    "want": {
+        "15.txt": 79,
+        "7.txt": 17,
+        "18.txt": 67,
+        "13.txt": 60,
+        "14.txt": 10,
+        "23.txt": 5,
+        "6.txt": 1
+    },
+    "waiting": {
+        "15.txt": 21,
+        "7.txt": 19,
+        "18.txt": 24,
+        "13.txt": 7,
+        "6.txt": 2
+    },
+    "week": {
+        "15.txt": 20,
+        "7.txt": 2,
+        "18.txt": 7,
+        "13.txt": 16
+    },
+    "wintertime": {
+        "15.txt": 2
+    },
+    "wriggling": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "winston": {
+        "15.txt": 3
+    },
+    "warm": {
+        "15.txt": 14,
+        "7.txt": 6,
+        "18.txt": 11,
+        "13.txt": 11
+    },
+    "worms": {
+        "15.txt": 3
+    },
+    "wallowing": {
+        "15.txt": 1
+    },
+    "worry": {
+        "15.txt": 24,
+        "18.txt": 14,
+        "13.txt": 2
+    },
+    "wanta": {
+        "15.txt": 18
+    },
+    "waving": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 3
+    },
+    "which": {
+        "15.txt": 73,
+        "7.txt": 576,
+        "18.txt": 57,
+        "13.txt": 66,
+        "14.txt": 462,
+        "23.txt": 344,
+        "6.txt": 91
+    },
+    "writing": {
+        "15.txt": 9,
+        "7.txt": 13,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 5
+    },
+    "write": {
+        "15.txt": 18,
+        "7.txt": 6,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "walter": {
+        "15.txt": 60,
+        "13.txt": 4
+    },
+    "wallows": {
+        "15.txt": 2
+    },
+    "worn": {
+        "15.txt": 6,
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 4
+    },
+    "winter": {
+        "15.txt": 11,
+        "18.txt": 7,
+        "13.txt": 3,
+        "23.txt": 2
+    },
+    "whispered": {
+        "15.txt": 27,
+        "7.txt": 4,
+        "18.txt": 2,
+        "13.txt": 13,
+        "14.txt": 1
+    },
+    "while": {
+        "15.txt": 62,
+        "7.txt": 103,
+        "18.txt": 58,
+        "13.txt": 49,
+        "14.txt": 16,
+        "23.txt": 16,
+        "6.txt": 2
+    },
+    "worries": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "watch": {
+        "15.txt": 33,
+        "7.txt": 5,
+        "18.txt": 33,
+        "13.txt": 9,
+        "6.txt": 2
+    },
+    "watched": {
+        "15.txt": 18,
+        "7.txt": 8,
+        "18.txt": 8,
+        "13.txt": 5
+    },
+    "wrinkled": {
+        "15.txt": 1
+    },
+    "wpa": {
+        "15.txt": 2
+    },
+    "willing": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "18.txt": 4,
+        "13.txt": 2,
+        "14.txt": 4,
+        "23.txt": 4,
+        "6.txt": 2
+    },
+    "whipped": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "watery": {
+        "15.txt": 2
+    },
+    "wonderment": {
+        "15.txt": 1
+    },
+    "wants": {
+        "15.txt": 14,
+        "7.txt": 9,
+        "18.txt": 10,
+        "13.txt": 10,
+        "14.txt": 9
+    },
+    "wait": {
+        "15.txt": 21,
+        "7.txt": 29,
+        "18.txt": 20,
+        "13.txt": 15,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "wrought": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "14.txt": 1
+    },
+    "wondered": {
+        "15.txt": 31,
+        "7.txt": 4,
+        "13.txt": 6,
+        "14.txt": 1
+    },
+    "waited": {
+        "15.txt": 32,
+        "7.txt": 19,
+        "18.txt": 1,
+        "13.txt": 16
+    },
+    "weary": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "wandered": {
+        "15.txt": 2,
+        "7.txt": 15,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "watchpocket": {
+        "15.txt": 2
+    },
+    "wisteria": {
+        "15.txt": 2
+    },
+    "wanting": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "will": {
+        "15.txt": 50,
+        "7.txt": 441,
+        "18.txt": 178,
+        "13.txt": 23,
+        "14.txt": 319,
+        "23.txt": 46,
+        "6.txt": 21
+    },
+    "wax": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "winking": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "withdrew": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "wrappers": {
+        "15.txt": 2
+    },
+    "wrigley": {
+        "15.txt": 1
+    },
+    "wad": {
+        "15.txt": 4,
+        "13.txt": 1
+    },
+    "wedding": {
+        "15.txt": 3,
+        "7.txt": 8,
+        "18.txt": 16,
+        "13.txt": 5
+    },
+    "woman": {
+        "15.txt": 19,
+        "7.txt": 58,
+        "18.txt": 20,
+        "13.txt": 21
+    },
+    "weeks": {
+        "15.txt": 7,
+        "7.txt": 4,
+        "18.txt": 12,
+        "13.txt": 9
+    },
+    "wrapping": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "wedged": {
+        "15.txt": 3
+    },
+    "worst": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "woven": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "whittled": {
+        "15.txt": 1
+    },
+    "wasted": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "widow": {
+        "15.txt": 3
+    },
+    "weeds": {
+        "15.txt": 2
+    },
+    "witnessing": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "wind": {
+        "15.txt": 10,
+        "7.txt": 9,
+        "18.txt": 2,
+        "13.txt": 14,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "whenever": {
+        "15.txt": 5,
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 7,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "world": {
+        "15.txt": 31,
+        "7.txt": 30,
+        "18.txt": 27,
+        "13.txt": 35,
+        "14.txt": 72,
+        "23.txt": 13,
+        "6.txt": 47
+    },
+    "washing": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "washers": {
+        "15.txt": 3
+    },
+    "woods": {
+        "15.txt": 9,
+        "7.txt": 3,
+        "18.txt": 27
+    },
+    "women": {
+        "15.txt": 19,
+        "7.txt": 30,
+        "18.txt": 1,
+        "13.txt": 16,
+        "6.txt": 7
+    },
+    "worse": {
+        "15.txt": 7,
+        "7.txt": 5,
+        "18.txt": 12,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "worrying": {
+        "15.txt": 4
+    },
+    "wheeler": {
+        "15.txt": 1
+    },
+    "wished": {
+        "15.txt": 7,
+        "7.txt": 48,
+        "13.txt": 1,
+        "23.txt": 5,
+        "6.txt": 1
+    },
+    "wall": {
+        "15.txt": 19,
+        "7.txt": 13,
+        "18.txt": 25,
+        "13.txt": 11,
+        "6.txt": 8
+    },
+    "whistled": {
+        "15.txt": 2
+    },
+    "witness": {
+        "15.txt": 47,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "weight": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "18.txt": 5,
+        "23.txt": 1
+    },
+    "whatever": {
+        "15.txt": 9,
+        "7.txt": 20,
+        "18.txt": 26,
+        "13.txt": 6,
+        "14.txt": 18,
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "wake": {
+        "15.txt": 10,
+        "7.txt": 7,
+        "18.txt": 5,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "width": {
+        "15.txt": 1
+    },
+    "whisper": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 10,
+        "13.txt": 3
+    },
+    "wrist": {
+        "15.txt": 5,
+        "18.txt": 9
+    },
+    "waitin": {
+        "15.txt": 3
+    },
+    "widened": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "wakefulness": {
+        "15.txt": 1
+    },
+    "waning": {
+        "15.txt": 1
+    },
+    "wrenched": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "wishful": {
+        "15.txt": 1
+    },
+    "wordlessly": {
+        "15.txt": 1
+    },
+    "waved": {
+        "15.txt": 10,
+        "13.txt": 5
+    },
+    "whittles": {
+        "15.txt": 1
+    },
+    "winners": {
+        "15.txt": 1
+    },
+    "whoever": {
+        "15.txt": 4,
+        "7.txt": 6,
+        "18.txt": 8,
+        "13.txt": 1,
+        "14.txt": 4,
+        "23.txt": 1
+    },
+    "wha": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "wrote": {
+        "15.txt": 8,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 3,
+        "6.txt": 3
+    },
+    "working": {
+        "15.txt": 4,
+        "7.txt": 5,
+        "18.txt": 15,
+        "13.txt": 2,
+        "14.txt": 1,
+        "6.txt": 3
+    },
+    "written": {
+        "15.txt": 3,
+        "7.txt": 11,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 2,
+        "23.txt": 5,
+        "6.txt": 5
+    },
+    "war": {
+        "15.txt": 6,
+        "18.txt": 27,
+        "13.txt": 13,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "watered": {
+        "15.txt": 2,
+        "7.txt": 2
+    },
+    "wasting": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 2
+    },
+    "woodpile": {
+        "15.txt": 1
+    },
+    "waistline": {
+        "15.txt": 1
+    },
+    "wood": {
+        "15.txt": 6,
+        "7.txt": 19,
+        "18.txt": 1
+    },
+    "warmer": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "wailed": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "worried": {
+        "15.txt": 4,
+        "18.txt": 2,
+        "13.txt": 5
+    },
+    "woolen": {
+        "15.txt": 2
+    },
+    "wearing": {
+        "15.txt": 8,
+        "7.txt": 5,
+        "18.txt": 5,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "whoa": {
+        "15.txt": 3
+    },
+    "whooped": {
+        "15.txt": 1
+    },
+    "win": {
+        "15.txt": 8,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "whip": {
+        "15.txt": 2,
+        "7.txt": 6,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "ward": {
+        "15.txt": 1
+    },
+    "wary": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "widows": {
+        "15.txt": 1
+    },
+    "whichever": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "wonderful": {
+        "15.txt": 2,
+        "7.txt": 12,
+        "18.txt": 5,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 5
+    },
+    "wives": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "wild": {
+        "15.txt": 5,
+        "7.txt": 3,
+        "18.txt": 10,
+        "13.txt": 11
+    },
+    "wiping": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "whore": {
+        "15.txt": 4
+    },
+    "whether": {
+        "15.txt": 8,
+        "7.txt": 15,
+        "18.txt": 8,
+        "13.txt": 3,
+        "14.txt": 49,
+        "23.txt": 7
+    },
+    "whatsoever": {
+        "15.txt": 1
+    },
+    "wheeled": {
+        "15.txt": 4,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "warn": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 6,
+        "13.txt": 1
+    },
+    "whatcha": {
+        "15.txt": 6
+    },
+    "wrap": {
+        "15.txt": 1,
+        "18.txt": 5
+    },
+    "warning": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "waste": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 7,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "wadn": {
+        "15.txt": 3
+    },
+    "wickedly": {
+        "15.txt": 1
+    },
+    "wheelchair": {
+        "15.txt": 2
+    },
+    "wraps": {
+        "15.txt": 1,
+        "18.txt": 4
+    },
+    "wrathful": {
+        "15.txt": 1
+    },
+    "wave": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 14,
+        "13.txt": 2
+    },
+    "wars": {
+        "15.txt": 2,
+        "23.txt": 1
+    },
+    "wheels": {
+        "15.txt": 1,
+        "18.txt": 4,
+        "23.txt": 2
+    },
+    "wish": {
+        "15.txt": 5,
+        "7.txt": 51,
+        "18.txt": 6,
+        "13.txt": 4,
+        "14.txt": 16,
+        "23.txt": 7,
+        "6.txt": 1
+    },
+    "wildly": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "worship": {
+        "15.txt": 1,
+        "6.txt": 5
+    },
+    "watchful": {
+        "15.txt": 1
+    },
+    "washstand": {
+        "15.txt": 1
+    },
+    "wet": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 11
+    },
+    "wound": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 5
+    },
+    "warms": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "windy": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "wads": {
+        "15.txt": 1
+    },
+    "waxy": {
+        "15.txt": 1
+    },
+    "wisdom": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "washed": {
+        "15.txt": 3,
+        "7.txt": 9
+    },
+    "wrapped": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 3,
+        "13.txt": 2
+    },
+    "waist": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "welcomed": {
+        "15.txt": 2,
+        "7.txt": 2
+    },
+    "waists": {
+        "15.txt": 1
+    },
+    "weekday": {
+        "15.txt": 1
+    },
+    "walls": {
+        "15.txt": 6,
+        "7.txt": 5,
+        "18.txt": 9,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "withholding": {
+        "15.txt": 1
+    },
+    "workin": {
+        "15.txt": 1
+    },
+    "welfare": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "14.txt": 6
+    },
+    "wittedness": {
+        "15.txt": 1
+    },
+    "william": {
+        "15.txt": 2,
+        "6.txt": 3
+    },
+    "wyatt": {
+        "15.txt": 1
+    },
+    "wagon": {
+        "15.txt": 4,
+        "13.txt": 4
+    },
+    "whispering": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "warily": {
+        "15.txt": 1
+    },
+    "worryin": {
+        "15.txt": 3
+    },
+    "weirdest": {
+        "15.txt": 1
+    },
+    "w": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "womanhood": {
+        "15.txt": 1
+    },
+    "wine": {
+        "15.txt": 1,
+        "7.txt": 27,
+        "13.txt": 1,
+        "6.txt": 3
+    },
+    "whispers": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 8,
+        "13.txt": 2
+    },
+    "wriggled": {
+        "15.txt": 1
+    },
+    "waves": {
+        "15.txt": 1,
+        "7.txt": 8,
+        "18.txt": 10,
+        "13.txt": 2
+    },
+    "winning": {
+        "15.txt": 1,
+        "18.txt": 4,
+        "14.txt": 1
+    },
+    "wagonload": {
+        "15.txt": 2
+    },
+    "wool": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "waller": {
+        "15.txt": 1
+    },
+    "wickedness": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "wagons": {
+        "15.txt": 1
+    },
+    "weddin": {
+        "15.txt": 2
+    },
+    "whitley": {
+        "15.txt": 1
+    },
+    "wispy": {
+        "15.txt": 1
+    },
+    "warranted": {
+        "15.txt": 1
+    },
+    "wreck": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "13.txt": 4
+    },
+    "wipe": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 4
+    },
+    "wholehearted": {
+        "15.txt": 1
+    },
+    "whaddya": {
+        "15.txt": 1
+    },
+    "wrathfully": {
+        "15.txt": 2
+    },
+    "wearily": {
+        "15.txt": 2
+    },
+    "whining": {
+        "15.txt": 1
+    },
+    "whites": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "wonderin": {
+        "15.txt": 2
+    },
+    "wh": {
+        "15.txt": 1
+    },
+    "weave": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "west": {
+        "15.txt": 1,
+        "13.txt": 39,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "warrant": {
+        "15.txt": 1
+    },
+    "washington": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "womenfolk": {
+        "15.txt": 1
+    },
+    "wisely": {
+        "15.txt": 2
+    },
+    "wise": {
+        "15.txt": 2,
+        "7.txt": 11,
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "wallow": {
+        "15.txt": 1
+    },
+    "weep": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "18.txt": 1
+    },
+    "weapon": {
+        "15.txt": 1,
+        "18.txt": 7
+    },
+    "wryly": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "wins": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "workbasket": {
+        "15.txt": 1
+    },
+    "writin": {
+        "15.txt": 2
+    },
+    "wishing": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "18.txt": 2,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "walkin": {
+        "15.txt": 2
+    },
+    "warmth": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 2,
+        "23.txt": 2
+    },
+    "wretch": {
+        "15.txt": 1,
+        "7.txt": 7
+    },
+    "wholeheartedly": {
+        "15.txt": 1
+    },
+    "whalebone": {
+        "15.txt": 1
+    },
+    "wherever": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "wandering": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "washin": {
+        "15.txt": 1
+    },
+    "weekly": {
+        "15.txt": 1
+    },
+    "writings": {
+        "15.txt": 2,
+        "23.txt": 7
+    },
+    "wicked": {
+        "15.txt": 1,
+        "7.txt": 15,
+        "18.txt": 2,
+        "14.txt": 1
+    },
+    "wearer": {
+        "15.txt": 1
+    },
+    "wheek": {
+        "15.txt": 2
+    },
+    "wheezed": {
+        "15.txt": 1
+    },
+    "wring": {
+        "15.txt": 1
+    },
+    "whiteness": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "winked": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "woes": {
+        "15.txt": 1
+    },
+    "willed": {
+        "15.txt": 1,
+        "14.txt": 2
+    },
+    "wonders": {
+        "7.txt": 7
+    },
+    "wearisome": {
+        "7.txt": 1
+    },
+    "writers": {
+        "7.txt": 1
+    },
+    "weeping": {
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "warmly": {
+        "7.txt": 4
+    },
+    "wishes": {
+        "7.txt": 26,
+        "14.txt": 8,
+        "6.txt": 1
+    },
+    "willingly": {
+        "7.txt": 8,
+        "23.txt": 1
+    },
+    "wealth": {
+        "7.txt": 18,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "wallet": {
+        "7.txt": 4,
+        "13.txt": 3
+    },
+    "walnut": {
+        "7.txt": 1
+    },
+    "whilst": {
+        "7.txt": 24,
+        "23.txt": 2
+    },
+    "wept": {
+        "7.txt": 9,
+        "13.txt": 1
+    },
+    "widower": {
+        "7.txt": 1
+    },
+    "wrath": {
+        "7.txt": 6
+    },
+    "whence": {
+        "7.txt": 11,
+        "14.txt": 3,
+        "23.txt": 7
+    },
+    "warmed": {
+        "7.txt": 1
+    },
+    "wiles": {
+        "7.txt": 2
+    },
+    "weak": {
+        "7.txt": 3,
+        "18.txt": 4,
+        "14.txt": 3,
+        "6.txt": 1
+    },
+    "wand": {
+        "7.txt": 1
+    },
+    "whereupon": {
+        "7.txt": 8,
+        "13.txt": 8
+    },
+    "wounded": {
+        "7.txt": 4,
+        "18.txt": 16
+    },
+    "weighed": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "whoso": {
+        "7.txt": 1
+    },
+    "wiser": {
+        "7.txt": 3,
+        "14.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "waver": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "whither": {
+        "7.txt": 2
+    },
+    "winding": {
+        "7.txt": 1
+    },
+    "waggon": {
+        "7.txt": 1
+    },
+    "waters": {
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "worthy": {
+        "7.txt": 18,
+        "14.txt": 7,
+        "23.txt": 6
+    },
+    "wolf": {
+        "7.txt": 2,
+        "18.txt": 4,
+        "14.txt": 1
+    },
+    "worm": {
+        "7.txt": 1
+    },
+    "wings": {
+        "7.txt": 9,
+        "18.txt": 10,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "wears": {
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "wills": {
+        "7.txt": 1,
+        "14.txt": 9
+    },
+    "wearied": {
+        "7.txt": 2,
+        "14.txt": 1
+    },
+    "wilt": {
+        "7.txt": 1
+    },
+    "wouldest": {
+        "7.txt": 1
+    },
+    "woe": {
+        "7.txt": 2
+    },
+    "wit": {
+        "7.txt": 5,
+        "13.txt": 1,
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "wines": {
+        "7.txt": 2,
+        "23.txt": 1
+    },
+    "workmanship": {
+        "7.txt": 1
+    },
+    "warble": {
+        "7.txt": 1
+    },
+    "weariness": {
+        "7.txt": 4,
+        "14.txt": 1
+    },
+    "whale": {
+        "7.txt": 3
+    },
+    "warehouses": {
+        "7.txt": 2
+    },
+    "withers": {
+        "7.txt": 1
+    },
+    "wearying": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "wading": {
+        "7.txt": 2
+    },
+    "winds": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "wander": {
+        "7.txt": 2,
+        "18.txt": 4,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "workman": {
+        "7.txt": 2
+    },
+    "wadded": {
+        "7.txt": 1
+    },
+    "wealthy": {
+        "7.txt": 1,
+        "13.txt": 3
+    },
+    "wretched": {
+        "7.txt": 6,
+        "18.txt": 1
+    },
+    "wended": {
+        "7.txt": 1
+    },
+    "wrecked": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "wreckage": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "wildest": {
+        "7.txt": 1
+    },
+    "ware": {
+        "7.txt": 1
+    },
+    "wholly": {
+        "7.txt": 1,
+        "14.txt": 19,
+        "23.txt": 18,
+        "6.txt": 4
+    },
+    "wilful": {
+        "7.txt": 1
+    },
+    "worshipful": {
+        "7.txt": 1
+    },
+    "wholesale": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "wares": {
+        "7.txt": 4
+    },
+    "wails": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "wounds": {
+        "7.txt": 3
+    },
+    "weigh": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "wardrobe": {
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "wager": {
+        "7.txt": 1
+    },
+    "withstand": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "waking": {
+        "7.txt": 4,
+        "18.txt": 4,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "witch": {
+        "7.txt": 1
+    },
+    "warmest": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "wing": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "warehouse": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "withdraw": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "withdrawing": {
+        "7.txt": 1
+    },
+    "wards": {
+        "7.txt": 1
+    },
+    "wringing": {
+        "7.txt": 1
+    },
+    "witnessed": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "wouldst": {
+        "7.txt": 1
+    },
+    "withhold": {
+        "7.txt": 1
+    },
+    "wasteful": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "wagged": {
+        "7.txt": 1
+    },
+    "widely": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "whereas": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 8,
+        "23.txt": 3
+    },
+    "wanderer": {
+        "7.txt": 1
+    },
+    "weddings": {
+        "7.txt": 1
+    },
+    "wayside": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "wrapt": {
+        "7.txt": 1
+    },
+    "weapons": {
+        "18.txt": 20
+    },
+    "wanders": {
+        "18.txt": 3
+    },
+    "weakness": {
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "wilderness": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "whistles": {
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "workday": {
+        "18.txt": 1
+    },
+    "wailing": {
+        "18.txt": 5,
+        "13.txt": 1
+    },
+    "weird": {
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "whistling": {
+        "18.txt": 1
+    },
+    "wrists": {
+        "18.txt": 10
+    },
+    "whipping": {
+        "18.txt": 1
+    },
+    "wry": {
+        "18.txt": 1
+    },
+    "web": {
+        "18.txt": 3,
+        "14.txt": 2
+    },
+    "wordless": {
+        "18.txt": 1
+    },
+    "wildfire": {
+        "18.txt": 1
+    },
+    "wedge": {
+        "18.txt": 3
+    },
+    "wriggle": {
+        "18.txt": 2
+    },
+    "whimpers": {
+        "18.txt": 1
+    },
+    "wavering": {
+        "18.txt": 1
+    },
+    "wanly": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "wherewithal": {
+        "18.txt": 2
+    },
+    "waging": {
+        "18.txt": 1
+    },
+    "weaves": {
+        "18.txt": 2
+    },
+    "waged": {
+        "18.txt": 1
+    },
+    "wiggle": {
+        "18.txt": 1
+    },
+    "wiggling": {
+        "18.txt": 1
+    },
+    "wired": {
+        "18.txt": 1
+    },
+    "waxen": {
+        "18.txt": 1
+    },
+    "wakes": {
+        "18.txt": 1
+    },
+    "whir": {
+        "18.txt": 1
+    },
+    "waylaid": {
+        "18.txt": 1
+    },
+    "widen": {
+        "18.txt": 1
+    },
+    "widening": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "wildlife": {
+        "18.txt": 1
+    },
+    "workers": {
+        "18.txt": 3
+    },
+    "wrested": {
+        "18.txt": 1
+    },
+    "warring": {
+        "18.txt": 1
+    },
+    "warded": {
+        "18.txt": 1
+    },
+    "withheld": {
+        "18.txt": 1
+    },
+    "windowsill": {
+        "18.txt": 2
+    },
+    "weakened": {
+        "18.txt": 1
+    },
+    "wires": {
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "wove": {
+        "18.txt": 1
+    },
+    "wattage": {
+        "18.txt": 1
+    },
+    "whips": {
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "warren": {
+        "18.txt": 1
+    },
+    "wince": {
+        "18.txt": 1
+    },
+    "writer": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "wheel": {
+        "18.txt": 1,
+        "13.txt": 10
+    },
+    "whatnot": {
+        "18.txt": 1
+    },
+    "weaponry": {
+        "18.txt": 2
+    },
+    "withdrawal": {
+        "18.txt": 4
+    },
+    "wipes": {
+        "18.txt": 1
+    },
+    "workouts": {
+        "18.txt": 2
+    },
+    "weaknesses": {
+        "18.txt": 4
+    },
+    "writes": {
+        "18.txt": 1
+    },
+    "wrench": {
+        "18.txt": 1
+    },
+    "whirl": {
+        "18.txt": 1
+    },
+    "workout": {
+        "18.txt": 1
+    },
+    "weaving": {
+        "18.txt": 3
+    },
+    "woken": {
+        "18.txt": 2
+    },
+    "worthless": {
+        "18.txt": 3,
+        "23.txt": 1
+    },
+    "weighs": {
+        "18.txt": 1
+    },
+    "watches": {
+        "18.txt": 2
+    },
+    "worrisome": {
+        "18.txt": 1
+    },
+    "wrenching": {
+        "18.txt": 1
+    },
+    "wig": {
+        "18.txt": 5
+    },
+    "whiz": {
+        "18.txt": 1
+    },
+    "washboard": {
+        "18.txt": 1
+    },
+    "weighing": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "wrinkles": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "workmen": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "whoosh": {
+        "18.txt": 1
+    },
+    "wolflike": {
+        "18.txt": 1
+    },
+    "weeps": {
+        "18.txt": 1
+    },
+    "wigs": {
+        "18.txt": 3
+    },
+    "whiskers": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "whereabouts": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "whisked": {
+        "18.txt": 1
+    },
+    "warns": {
+        "18.txt": 1
+    },
+    "welcoming": {
+        "18.txt": 1
+    },
+    "whimpering": {
+        "18.txt": 1
+    },
+    "wail": {
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "wielding": {
+        "18.txt": 1
+    },
+    "weighted": {
+        "18.txt": 1
+    },
+    "waits": {
+        "18.txt": 2
+    },
+    "winces": {
+        "18.txt": 1
+    },
+    "wasteland": {
+        "18.txt": 1
+    },
+    "wherein": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "wrest": {
+        "18.txt": 1
+    },
+    "wean": {
+        "18.txt": 1
+    },
+    "wheelbarrow": {
+        "18.txt": 1
+    },
+    "willow": {
+        "18.txt": 1
+    },
+    "www": {
+        "18.txt": 1,
+        "14.txt": 2
+    },
+    "winded": {
+        "13.txt": 1
+    },
+    "western": {
+        "13.txt": 3
+    },
+    "wingless": {
+        "13.txt": 1
+    },
+    "wistfully": {
+        "13.txt": 1
+    },
+    "wistfulness": {
+        "13.txt": 1
+    },
+    "witty": {
+        "13.txt": 1
+    },
+    "wreath": {
+        "13.txt": 3
+    },
+    "wan": {
+        "13.txt": 4
+    },
+    "wedging": {
+        "13.txt": 1
+    },
+    "wicker": {
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "westchester": {
+        "13.txt": 1
+    },
+    "wavered": {
+        "13.txt": 2
+    },
+    "wag": {
+        "13.txt": 1
+    },
+    "whomsoever": {
+        "13.txt": 1
+    },
+    "whitewashed": {
+        "13.txt": 2
+    },
+    "wilson": {
+        "13.txt": 77
+    },
+    "worldly": {
+        "13.txt": 1
+    },
+    "wilhelm": {
+        "13.txt": 1
+    },
+    "watcher": {
+        "13.txt": 1
+    },
+    "whisperings": {
+        "13.txt": 1
+    },
+    "wanderers": {
+        "13.txt": 1
+    },
+    "windowed": {
+        "13.txt": 1
+    },
+    "wayward": {
+        "13.txt": 1
+    },
+    "wafer": {
+        "13.txt": 1
+    },
+    "westward": {
+        "13.txt": 1
+    },
+    "warwick": {
+        "13.txt": 1
+    },
+    "webster": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "willie": {
+        "13.txt": 1
+    },
+    "whosoever": {
+        "13.txt": 1
+    },
+    "whitebait": {
+        "13.txt": 1
+    },
+    "waize": {
+        "13.txt": 1
+    },
+    "wolfshiem": {
+        "13.txt": 32
+    },
+    "waiter": {
+        "13.txt": 5
+    },
+    "womb": {
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "weights": {
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "whe": {
+        "13.txt": 1
+    },
+    "watchfully": {
+        "13.txt": 1
+    },
+    "waltz": {
+        "13.txt": 1
+    },
+    "wed": {
+        "13.txt": 1
+    },
+    "wisp": {
+        "13.txt": 2
+    },
+    "wrinkle": {
+        "13.txt": 1
+    },
+    "weedy": {
+        "13.txt": 1
+    },
+    "wised": {
+        "13.txt": 1
+    },
+    "whimpered": {
+        "13.txt": 1
+    },
+    "winced": {
+        "13.txt": 1
+    },
+    "withered": {
+        "13.txt": 1
+    },
+    "whim": {
+        "13.txt": 1
+    },
+    "wholesome": {
+        "13.txt": 1
+    },
+    "watchers": {
+        "13.txt": 1
+    },
+    "winebrenner": {
+        "13.txt": 1
+    },
+    "wisconsin": {
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "wreaths": {
+        "13.txt": 1
+    },
+    "winters": {
+        "13.txt": 1
+    },
+    "westerners": {
+        "13.txt": 1
+    },
+    "warranty": {
+        "13.txt": 2,
+        "14.txt": 2
+    },
+    "warranties": {
+        "13.txt": 2,
+        "14.txt": 3
+    },
+    "wont": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "weighty": {
+        "14.txt": 1
+    },
+    "withdrawn": {
+        "14.txt": 2,
+        "23.txt": 2
+    },
+    "whit": {
+        "14.txt": 2
+    },
+    "whereby": {
+        "14.txt": 2,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "wretchedness": {
+        "14.txt": 1
+    },
+    "weaken": {
+        "14.txt": 2
+    },
+    "withal": {
+        "14.txt": 1
+    },
+    "withdraws": {
+        "14.txt": 1
+    },
+    "wrests": {
+        "14.txt": 1
+    },
+    "wyoming": {
+        "14.txt": 1
+    },
+    "worlds": {
+        "23.txt": 1,
+        "6.txt": 7
+    },
+    "windpipe": {
+        "23.txt": 1
+    },
+    "wider": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "warming": {
+        "23.txt": 1
+    },
+    "weaker": {
+        "23.txt": 1
+    },
+    "windus": {
+        "6.txt": 1
+    },
+    "weir": {
+        "6.txt": 1
+    },
+    "whack": {
+        "6.txt": 1
+    },
+    "workings": {
+        "6.txt": 2
+    },
+    "watertight": {
+        "6.txt": 1
+    },
+    "wordsworth": {
+        "6.txt": 3
+    },
+    "writhes": {
+        "6.txt": 1
+    },
+    "watteau": {
+        "6.txt": 1
+    },
+    "worshipped": {
+        "6.txt": 1
+    },
+    "wintry": {
+        "6.txt": 1
+    },
+    "waistcoat": {
+        "6.txt": 1
+    },
+    "whiskered": {
+        "6.txt": 1
+    },
+    "weltanschauung": {
+        "6.txt": 1
+    },
+    "willy": {
+        "6.txt": 1
+    },
+    "wedded": {
+        "6.txt": 1
+    },
+    "whitman": {
+        "6.txt": 1
+    },
+    "wentz": {
+        "6.txt": 1
+    },
+    "wrongs": {
+        "6.txt": 1
+    },
+    "wells": {
+        "6.txt": 2
+    },
+    "whisky": {
+        "6.txt": 1
+    },
+    "widespread": {
+        "6.txt": 1
+    },
+    "widest": {
+        "6.txt": 1
+    },
+    "worshipers": {
+        "6.txt": 1
+    },
+    "weekends": {
+        "6.txt": 1
+    }
+}

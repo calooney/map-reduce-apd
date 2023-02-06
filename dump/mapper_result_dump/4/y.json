@@ -1,0 +1,289 @@
+{
+    "years": {
+        "15.txt": 54,
+        "7.txt": 36,
+        "18.txt": 30,
+        "13.txt": 39,
+        "14.txt": 2,
+        "23.txt": 10,
+        "6.txt": 10
+    },
+    "yet": {
+        "15.txt": 39,
+        "7.txt": 22,
+        "18.txt": 15,
+        "13.txt": 9,
+        "14.txt": 49,
+        "23.txt": 31,
+        "6.txt": 19
+    },
+    "younger": {
+        "15.txt": 9,
+        "7.txt": 7,
+        "18.txt": 4,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "year": {
+        "15.txt": 42,
+        "7.txt": 35,
+        "18.txt": 13,
+        "13.txt": 21,
+        "14.txt": 4
+    },
+    "yard": {
+        "15.txt": 91,
+        "7.txt": 2,
+        "18.txt": 4,
+        "13.txt": 5
+    },
+    "yourself": {
+        "15.txt": 12,
+        "7.txt": 45,
+        "18.txt": 9,
+        "13.txt": 7
+    },
+    "you": {
+        "15.txt": 1723,
+        "7.txt": 1376,
+        "18.txt": 675,
+        "13.txt": 567,
+        "14.txt": 61,
+        "23.txt": 2,
+        "6.txt": 20
+    },
+    "yonder": {
+        "15.txt": 34,
+        "7.txt": 1
+    },
+    "yours": {
+        "15.txt": 9,
+        "7.txt": 13,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "your": {
+        "15.txt": 210,
+        "7.txt": 421,
+        "18.txt": 108,
+        "13.txt": 77,
+        "14.txt": 14,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "y": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "yes": {
+        "15.txt": 95,
+        "7.txt": 20,
+        "18.txt": 27,
+        "13.txt": 24,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "yellow": {
+        "15.txt": 12,
+        "7.txt": 4,
+        "18.txt": 10,
+        "13.txt": 22,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "yeah": {
+        "15.txt": 20,
+        "18.txt": 11,
+        "13.txt": 3
+    },
+    "yeb": {
+        "15.txt": 1
+    },
+    "yo": {
+        "15.txt": 3
+    },
+    "yessum": {
+        "15.txt": 9
+    },
+    "ye": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "yawning": {
+        "15.txt": 1
+    },
+    "yawl": {
+        "15.txt": 3
+    },
+    "yelled": {
+        "15.txt": 21,
+        "18.txt": 1
+    },
+    "yelling": {
+        "15.txt": 3,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "yell": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 4
+    },
+    "young": {
+        "15.txt": 15,
+        "7.txt": 88,
+        "18.txt": 14,
+        "13.txt": 45,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "yesterday": {
+        "15.txt": 2,
+        "7.txt": 10,
+        "18.txt": 5,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "yawned": {
+        "15.txt": 3,
+        "13.txt": 4
+    },
+    "yourselves": {
+        "15.txt": 4,
+        "7.txt": 3
+    },
+    "yielded": {
+        "15.txt": 1,
+        "7.txt": 5
+    },
+    "yankees": {
+        "15.txt": 3
+    },
+    "yanked": {
+        "15.txt": 8
+    },
+    "yards": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 8,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "yessir": {
+        "15.txt": 3
+    },
+    "yoo": {
+        "15.txt": 1
+    },
+    "yearly": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "ya": {
+        "15.txt": 1
+    },
+    "yelped": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "yappy": {
+        "15.txt": 1
+    },
+    "yap": {
+        "15.txt": 1
+    },
+    "yaws": {
+        "15.txt": 1
+    },
+    "yarns": {
+        "15.txt": 1
+    },
+    "yankee": {
+        "15.txt": 1
+    },
+    "youthful": {
+        "15.txt": 1
+    },
+    "yielding": {
+        "7.txt": 3
+    },
+    "youth": {
+        "7.txt": 10,
+        "13.txt": 4,
+        "14.txt": 1,
+        "23.txt": 3
+    },
+    "yield": {
+        "7.txt": 7,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "yellowish": {
+        "7.txt": 1
+    },
+    "yon": {
+        "7.txt": 1
+    },
+    "youngest": {
+        "7.txt": 5
+    },
+    "yanks": {
+        "18.txt": 5
+    },
+    "yank": {
+        "18.txt": 4
+    },
+    "yells": {
+        "18.txt": 2
+    },
+    "yields": {
+        "18.txt": 1
+    },
+    "york": {
+        "18.txt": 6,
+        "13.txt": 35,
+        "14.txt": 1
+    },
+    "yarn": {
+        "18.txt": 2
+    },
+    "yawns": {
+        "18.txt": 2
+    },
+    "yanking": {
+        "18.txt": 1
+    },
+    "yale": {
+        "13.txt": 4
+    },
+    "yolks": {
+        "13.txt": 1
+    },
+    "yachting": {
+        "13.txt": 3
+    },
+    "yacht": {
+        "13.txt": 5
+    },
+    "yukon": {
+        "13.txt": 1
+    },
+    "yellowy": {
+        "13.txt": 1
+    },
+    "yea": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "yellowing": {
+        "13.txt": 1
+    },
+    "yearning": {
+        "6.txt": 1
+    },
+    "yggdrasil": {
+        "6.txt": 1
+    }
+}

@@ -1,0 +1,3049 @@
+{
+    "header": {
+        "10.txt": 1
+    },
+    "humans": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "hundreds": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "3.txt": 4,
+        "17.txt": 3
+    },
+    "have": {
+        "10.txt": 1057,
+        "2.txt": 522,
+        "3.txt": 408,
+        "12.txt": 119,
+        "21.txt": 279,
+        "17.txt": 171
+    },
+    "has": {
+        "10.txt": 346,
+        "2.txt": 278,
+        "3.txt": 134,
+        "12.txt": 26,
+        "21.txt": 73,
+        "17.txt": 78
+    },
+    "hour": {
+        "10.txt": 57,
+        "2.txt": 24,
+        "3.txt": 12,
+        "12.txt": 39,
+        "17.txt": 6
+    },
+    "hours": {
+        "10.txt": 34,
+        "2.txt": 31,
+        "3.txt": 33,
+        "12.txt": 20,
+        "21.txt": 1,
+        "17.txt": 9
+    },
+    "how": {
+        "10.txt": 222,
+        "2.txt": 220,
+        "3.txt": 73,
+        "12.txt": 102,
+        "21.txt": 23,
+        "17.txt": 62
+    },
+    "hundred": {
+        "10.txt": 14,
+        "2.txt": 15,
+        "3.txt": 13,
+        "12.txt": 20,
+        "17.txt": 8
+    },
+    "hart": {
+        "10.txt": 4
+    },
+    "here": {
+        "10.txt": 272,
+        "2.txt": 118,
+        "3.txt": 24,
+        "12.txt": 106,
+        "21.txt": 35,
+        "17.txt": 54
+    },
+    "hold": {
+        "10.txt": 32,
+        "2.txt": 46,
+        "3.txt": 20,
+        "12.txt": 19,
+        "21.txt": 8,
+        "17.txt": 9
+    },
+    "harmless": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "however": {
+        "10.txt": 103,
+        "2.txt": 7,
+        "3.txt": 11,
+        "12.txt": 2,
+        "21.txt": 20,
+        "17.txt": 3
+    },
+    "hypertext": {
+        "10.txt": 2
+    },
+    "honor": {
+        "10.txt": 12,
+        "2.txt": 7,
+        "17.txt": 2
+    },
+    "harker": {
+        "10.txt": 166
+    },
+    "had": {
+        "10.txt": 1032,
+        "2.txt": 148,
+        "3.txt": 24,
+        "12.txt": 226,
+        "21.txt": 48,
+        "17.txt": 52
+    },
+    "hotel": {
+        "10.txt": 12,
+        "3.txt": 6,
+        "12.txt": 4
+    },
+    "he": {
+        "10.txt": 2570,
+        "2.txt": 1166,
+        "3.txt": 56,
+        "12.txt": 840,
+        "21.txt": 56,
+        "17.txt": 245
+    },
+    "hendl": {
+        "10.txt": 1
+    },
+    "having": {
+        "10.txt": 32,
+        "2.txt": 31,
+        "3.txt": 23,
+        "12.txt": 6,
+        "21.txt": 33,
+        "17.txt": 7
+    },
+    "hardly": {
+        "10.txt": 26,
+        "2.txt": 15,
+        "3.txt": 1,
+        "12.txt": 4,
+        "21.txt": 3
+    },
+    "huns": {
+        "10.txt": 3
+    },
+    "horseshoe": {
+        "10.txt": 1
+    },
+    "howling": {
+        "10.txt": 24,
+        "2.txt": 1
+    },
+    "hurry": {
+        "10.txt": 10,
+        "2.txt": 8,
+        "3.txt": 2,
+        "17.txt": 3
+    },
+    "hills": {
+        "10.txt": 10,
+        "12.txt": 4
+    },
+    "home": {
+        "10.txt": 82,
+        "2.txt": 96,
+        "3.txt": 34,
+        "12.txt": 27,
+        "17.txt": 14
+    },
+    "hats": {
+        "10.txt": 3,
+        "2.txt": 2,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "heavy": {
+        "10.txt": 52,
+        "2.txt": 15,
+        "3.txt": 21,
+        "12.txt": 2,
+        "17.txt": 7
+    },
+    "high": {
+        "10.txt": 39,
+        "2.txt": 26,
+        "3.txt": 48,
+        "12.txt": 8,
+        "21.txt": 2,
+        "17.txt": 5
+    },
+    "hair": {
+        "10.txt": 22,
+        "2.txt": 75,
+        "3.txt": 10,
+        "12.txt": 11,
+        "17.txt": 14
+    },
+    "havoc": {
+        "10.txt": 1
+    },
+    "herr": {
+        "10.txt": 7
+    },
+    "her": {
+        "10.txt": 1060,
+        "2.txt": 444,
+        "3.txt": 15,
+        "12.txt": 220,
+        "21.txt": 1,
+        "17.txt": 146
+    },
+    "happy": {
+        "10.txt": 48,
+        "2.txt": 18,
+        "3.txt": 2,
+        "12.txt": 20,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "him": {
+        "10.txt": 950,
+        "2.txt": 447,
+        "3.txt": 28,
+        "12.txt": 196,
+        "21.txt": 20,
+        "17.txt": 102
+    },
+    "his": {
+        "10.txt": 1460,
+        "2.txt": 658,
+        "3.txt": 29,
+        "12.txt": 495,
+        "21.txt": 25,
+        "17.txt": 163
+    },
+    "hysterical": {
+        "10.txt": 5,
+        "2.txt": 4,
+        "12.txt": 2
+    },
+    "head": {
+        "10.txt": 105,
+        "2.txt": 134,
+        "3.txt": 26,
+        "12.txt": 35,
+        "21.txt": 7,
+        "17.txt": 32
+    },
+    "horizon": {
+        "10.txt": 9,
+        "2.txt": 2,
+        "12.txt": 2
+    },
+    "hear": {
+        "10.txt": 100,
+        "2.txt": 85,
+        "3.txt": 7,
+        "12.txt": 21,
+        "21.txt": 3,
+        "17.txt": 15
+    },
+    "hell": {
+        "10.txt": 20,
+        "2.txt": 1,
+        "3.txt": 7,
+        "12.txt": 16
+    },
+    "hearted": {
+        "10.txt": 5
+    },
+    "horses": {
+        "10.txt": 56,
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "hillsides": {
+        "10.txt": 1
+    },
+    "haste": {
+        "10.txt": 5
+    },
+    "hospadars": {
+        "10.txt": 1
+    },
+    "hasten": {
+        "10.txt": 5
+    },
+    "hill": {
+        "10.txt": 13,
+        "2.txt": 5,
+        "3.txt": 8,
+        "12.txt": 1
+    },
+    "himself": {
+        "10.txt": 121,
+        "2.txt": 21,
+        "12.txt": 48,
+        "21.txt": 12,
+        "17.txt": 7
+    },
+    "held": {
+        "10.txt": 73,
+        "2.txt": 8,
+        "3.txt": 9,
+        "12.txt": 26,
+        "21.txt": 7,
+        "17.txt": 4
+    },
+    "hay": {
+        "10.txt": 2,
+        "12.txt": 4
+    },
+    "homecoming": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "happening": {
+        "10.txt": 3,
+        "2.txt": 7,
+        "3.txt": 4,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "hard": {
+        "10.txt": 50,
+        "2.txt": 44,
+        "3.txt": 19,
+        "12.txt": 6,
+        "21.txt": 1,
+        "17.txt": 13
+    },
+    "hat": {
+        "10.txt": 13,
+        "3.txt": 6,
+        "12.txt": 2
+    },
+    "hide": {
+        "10.txt": 8,
+        "2.txt": 6,
+        "3.txt": 2,
+        "12.txt": 7
+    },
+    "heard": {
+        "10.txt": 91,
+        "2.txt": 23,
+        "3.txt": 5,
+        "12.txt": 33,
+        "17.txt": 3
+    },
+    "handed": {
+        "10.txt": 19,
+        "2.txt": 3,
+        "3.txt": 4,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "helping": {
+        "10.txt": 6,
+        "2.txt": 4,
+        "3.txt": 3
+    },
+    "hand": {
+        "10.txt": 209,
+        "2.txt": 115,
+        "3.txt": 13,
+        "12.txt": 72,
+        "21.txt": 10,
+        "17.txt": 30
+    },
+    "howl": {
+        "10.txt": 8,
+        "2.txt": 1
+    },
+    "horse": {
+        "10.txt": 13,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1,
+        "21.txt": 3
+    },
+    "hemmed": {
+        "10.txt": 1
+    },
+    "howled": {
+        "10.txt": 2
+    },
+    "horrors": {
+        "10.txt": 8,
+        "2.txt": 1
+    },
+    "helplessly": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "hoping": {
+        "10.txt": 2,
+        "2.txt": 12,
+        "12.txt": 2
+    },
+    "horrible": {
+        "10.txt": 27,
+        "2.txt": 5,
+        "12.txt": 1
+    },
+    "house": {
+        "10.txt": 133,
+        "2.txt": 51,
+        "3.txt": 44,
+        "12.txt": 86,
+        "21.txt": 1,
+        "17.txt": 7
+    },
+    "holding": {
+        "10.txt": 29,
+        "2.txt": 30,
+        "12.txt": 5,
+        "21.txt": 2,
+        "17.txt": 2
+    },
+    "happiness": {
+        "10.txt": 14,
+        "2.txt": 6,
+        "12.txt": 4,
+        "17.txt": 1
+    },
+    "handshake": {
+        "10.txt": 1
+    },
+    "heavily": {
+        "10.txt": 11,
+        "2.txt": 2,
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "hearth": {
+        "10.txt": 2,
+        "2.txt": 6
+    },
+    "halted": {
+        "10.txt": 1
+    },
+    "hollow": {
+        "10.txt": 8,
+        "2.txt": 7,
+        "3.txt": 2,
+        "12.txt": 2
+    },
+    "half": {
+        "10.txt": 67,
+        "2.txt": 29,
+        "3.txt": 33,
+        "12.txt": 32,
+        "21.txt": 1,
+        "17.txt": 4
+    },
+    "hunger": {
+        "10.txt": 3,
+        "2.txt": 32,
+        "12.txt": 3,
+        "21.txt": 6,
+        "17.txt": 12
+    },
+    "hasty": {
+        "10.txt": 1
+    },
+    "host": {
+        "10.txt": 6,
+        "3.txt": 8,
+        "17.txt": 1
+    },
+    "hawkins": {
+        "10.txt": 25
+    },
+    "hitherto": {
+        "10.txt": 8,
+        "21.txt": 8
+    },
+    "hands": {
+        "10.txt": 103,
+        "2.txt": 91,
+        "3.txt": 6,
+        "12.txt": 59,
+        "21.txt": 11,
+        "17.txt": 24
+    },
+    "hairs": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "hunter": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "hot": {
+        "10.txt": 9,
+        "2.txt": 19,
+        "3.txt": 19,
+        "12.txt": 9,
+        "17.txt": 4
+    },
+    "hearty": {
+        "10.txt": 6,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "hangings": {
+        "10.txt": 1
+    },
+    "hampton": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "history": {
+        "10.txt": 5,
+        "2.txt": 3,
+        "3.txt": 9,
+        "12.txt": 8,
+        "17.txt": 4
+    },
+    "heart": {
+        "10.txt": 139,
+        "2.txt": 27,
+        "3.txt": 3,
+        "12.txt": 11,
+        "17.txt": 5
+    },
+    "hoped": {
+        "10.txt": 8,
+        "2.txt": 2,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "humanity": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "hears": {
+        "10.txt": 4,
+        "2.txt": 1
+    },
+    "ha": {
+        "10.txt": 4
+    },
+    "happened": {
+        "10.txt": 28,
+        "2.txt": 39,
+        "3.txt": 1,
+        "12.txt": 8,
+        "21.txt": 1,
+        "17.txt": 6
+    },
+    "hidden": {
+        "10.txt": 8,
+        "2.txt": 4,
+        "3.txt": 7,
+        "12.txt": 13,
+        "17.txt": 2
+    },
+    "hungarian": {
+        "10.txt": 5
+    },
+    "hordes": {
+        "10.txt": 1
+    },
+    "help": {
+        "10.txt": 98,
+        "2.txt": 60,
+        "3.txt": 53,
+        "12.txt": 15,
+        "21.txt": 2,
+        "17.txt": 23
+    },
+    "habit": {
+        "10.txt": 23,
+        "2.txt": 5,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 9,
+        "17.txt": 2
+    },
+    "houses": {
+        "10.txt": 13,
+        "2.txt": 9,
+        "3.txt": 11,
+        "12.txt": 17,
+        "17.txt": 3
+    },
+    "habitable": {
+        "10.txt": 1
+    },
+    "hung": {
+        "10.txt": 5,
+        "2.txt": 6,
+        "3.txt": 3,
+        "12.txt": 6
+    },
+    "helplessness": {
+        "10.txt": 2
+    },
+    "helpless": {
+        "10.txt": 9,
+        "2.txt": 4
+    },
+    "hinges": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "honfoglalas": {
+        "10.txt": 1
+    },
+    "hapsburgs": {
+        "10.txt": 1
+    },
+    "horribly": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "hamlet": {
+        "10.txt": 2,
+        "12.txt": 2
+    },
+    "harwich": {
+        "10.txt": 1
+    },
+    "herren": {
+        "10.txt": 1
+    },
+    "handle": {
+        "10.txt": 4,
+        "2.txt": 8,
+        "3.txt": 5,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "hope": {
+        "10.txt": 66,
+        "2.txt": 25,
+        "3.txt": 5,
+        "12.txt": 4,
+        "21.txt": 6,
+        "17.txt": 4
+    },
+    "hearing": {
+        "10.txt": 6,
+        "2.txt": 4,
+        "12.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "hole": {
+        "10.txt": 5,
+        "2.txt": 7,
+        "3.txt": 12,
+        "12.txt": 7,
+        "17.txt": 2
+    },
+    "hall": {
+        "10.txt": 32,
+        "2.txt": 7,
+        "3.txt": 7,
+        "12.txt": 14,
+        "17.txt": 10
+    },
+    "harder": {
+        "10.txt": 4,
+        "2.txt": 10,
+        "17.txt": 2
+    },
+    "hate": {
+        "10.txt": 11,
+        "2.txt": 13,
+        "12.txt": 7,
+        "17.txt": 4
+    },
+    "hateful": {
+        "10.txt": 2
+    },
+    "haunted": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "human": {
+        "10.txt": 12,
+        "2.txt": 5,
+        "3.txt": 5,
+        "12.txt": 1,
+        "21.txt": 24,
+        "17.txt": 6
+    },
+    "honey": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 4,
+        "12.txt": 1,
+        "21.txt": 2
+    },
+    "heaving": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "hurled": {
+        "10.txt": 5
+    },
+    "horror": {
+        "10.txt": 28,
+        "2.txt": 4,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "hurried": {
+        "10.txt": 12,
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "hungary": {
+        "10.txt": 1
+    },
+    "hospitality": {
+        "10.txt": 3,
+        "3.txt": 1
+    },
+    "hetman": {
+        "10.txt": 1
+    },
+    "henceforth": {
+        "10.txt": 5,
+        "21.txt": 3
+    },
+    "handles": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "handled": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "heap": {
+        "10.txt": 6,
+        "2.txt": 3,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "hypnotised": {
+        "10.txt": 1
+    },
+    "herself": {
+        "10.txt": 31,
+        "2.txt": 17,
+        "12.txt": 4,
+        "17.txt": 3
+    },
+    "harsh": {
+        "10.txt": 4,
+        "2.txt": 2
+    },
+    "hereafter": {
+        "10.txt": 9,
+        "21.txt": 1
+    },
+    "heavier": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 5
+    },
+    "holes": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 7
+    },
+    "hopes": {
+        "10.txt": 5,
+        "2.txt": 3,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "hark": {
+        "10.txt": 3
+    },
+    "happier": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "hammered": {
+        "10.txt": 2
+    },
+    "horrid": {
+        "10.txt": 16
+    },
+    "hid": {
+        "10.txt": 7,
+        "2.txt": 1,
+        "12.txt": 7
+    },
+    "hopelessly": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "hammering": {
+        "10.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "handsome": {
+        "10.txt": 2,
+        "2.txt": 4,
+        "17.txt": 1
+    },
+    "haired": {
+        "10.txt": 4,
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "holmwood": {
+        "10.txt": 16
+    },
+    "humbly": {
+        "10.txt": 1
+    },
+    "husband": {
+        "10.txt": 74,
+        "2.txt": 4,
+        "3.txt": 1,
+        "12.txt": 10
+    },
+    "hesitation": {
+        "10.txt": 4,
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "honestly": {
+        "10.txt": 2,
+        "2.txt": 4,
+        "17.txt": 1
+    },
+    "hitch": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 13
+    },
+    "harness": {
+        "10.txt": 2
+    },
+    "hood": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "humoured": {
+        "10.txt": 1
+    },
+    "hitching": {
+        "10.txt": 1,
+        "3.txt": 9
+    },
+    "honest": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "heresy": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "honesty": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "hasn": {
+        "10.txt": 3,
+        "2.txt": 5,
+        "3.txt": 2,
+        "12.txt": 2,
+        "17.txt": 2
+    },
+    "hallucination": {
+        "10.txt": 1
+    },
+    "hon": {
+        "10.txt": 4
+    },
+    "holmood": {
+        "10.txt": 1
+    },
+    "healths": {
+        "10.txt": 1
+    },
+    "healed": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "health": {
+        "10.txt": 12,
+        "3.txt": 19,
+        "12.txt": 2,
+        "21.txt": 6,
+        "17.txt": 1
+    },
+    "hearts": {
+        "10.txt": 16,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "happiest": {
+        "10.txt": 2
+    },
+    "harbour": {
+        "10.txt": 25
+    },
+    "headland": {
+        "10.txt": 2
+    },
+    "herrin": {
+        "10.txt": 1
+    },
+    "hobbled": {
+        "10.txt": 3,
+        "12.txt": 1
+    },
+    "hurrying": {
+        "10.txt": 5
+    },
+    "hafflin": {
+        "10.txt": 1
+    },
+    "holdin": {
+        "10.txt": 1
+    },
+    "heads": {
+        "10.txt": 1,
+        "2.txt": 10,
+        "3.txt": 5,
+        "12.txt": 7,
+        "17.txt": 3
+    },
+    "haped": {
+        "10.txt": 1
+    },
+    "hap": {
+        "10.txt": 1
+    },
+    "hated": {
+        "10.txt": 3,
+        "2.txt": 4,
+        "12.txt": 2
+    },
+    "heaven": {
+        "10.txt": 6,
+        "3.txt": 2,
+        "21.txt": 3
+    },
+    "hump": {
+        "10.txt": 1
+    },
+    "harm": {
+        "10.txt": 18,
+        "2.txt": 3,
+        "3.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "hurt": {
+        "10.txt": 10,
+        "2.txt": 14,
+        "3.txt": 3,
+        "12.txt": 6,
+        "21.txt": 3,
+        "17.txt": 3
+    },
+    "haven": {
+        "10.txt": 2,
+        "2.txt": 29,
+        "3.txt": 6,
+        "12.txt": 23,
+        "17.txt": 3
+    },
+    "hoofs": {
+        "10.txt": 1
+    },
+    "hobby": {
+        "10.txt": 2,
+        "3.txt": 4,
+        "12.txt": 1
+    },
+    "homicidal": {
+        "10.txt": 6
+    },
+    "humming": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 7
+    },
+    "hopeless": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "hang": {
+        "10.txt": 3,
+        "2.txt": 11,
+        "3.txt": 13,
+        "12.txt": 1,
+        "17.txt": 4
+    },
+    "hooal": {
+        "10.txt": 1
+    },
+    "hoast": {
+        "10.txt": 1
+    },
+    "holiday": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "heat": {
+        "10.txt": 6,
+        "2.txt": 11,
+        "3.txt": 7,
+        "12.txt": 3,
+        "21.txt": 23,
+        "17.txt": 4
+    },
+    "hug": {
+        "10.txt": 1,
+        "2.txt": 3
+    },
+    "harmony": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "headlong": {
+        "10.txt": 2
+    },
+    "helm": {
+        "10.txt": 6
+    },
+    "hammer": {
+        "10.txt": 8,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "hangs": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "12.txt": 1,
+        "17.txt": 4
+    },
+    "heights": {
+        "10.txt": 2,
+        "3.txt": 4
+    },
+    "honourable": {
+        "10.txt": 1
+    },
+    "hiding": {
+        "10.txt": 4,
+        "2.txt": 2,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "hatchways": {
+        "10.txt": 1
+    },
+    "handspike": {
+        "10.txt": 2
+    },
+    "haggard": {
+        "10.txt": 5,
+        "2.txt": 1
+    },
+    "hoarsely": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "hatchway": {
+        "10.txt": 2
+    },
+    "honour": {
+        "10.txt": 2
+    },
+    "hero": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "heed": {
+        "10.txt": 4,
+        "21.txt": 1
+    },
+    "harshly": {
+        "10.txt": 1,
+        "2.txt": 4
+    },
+    "heroic": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "happen": {
+        "10.txt": 13,
+        "2.txt": 12,
+        "3.txt": 2,
+        "12.txt": 13,
+        "21.txt": 7,
+        "17.txt": 5
+    },
+    "hesitated": {
+        "10.txt": 3,
+        "12.txt": 3
+    },
+    "harmed": {
+        "10.txt": 3
+    },
+    "headache": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "handkerchief": {
+        "10.txt": 4,
+        "2.txt": 2
+    },
+    "heal": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "herewith": {
+        "10.txt": 3
+    },
+    "heel": {
+        "10.txt": 1,
+        "2.txt": 10,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "humour": {
+        "10.txt": 3,
+        "12.txt": 1
+    },
+    "hospital": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "3.txt": 18,
+        "12.txt": 2,
+        "17.txt": 38
+    },
+    "haughty": {
+        "10.txt": 1
+    },
+    "hint": {
+        "10.txt": 7,
+        "2.txt": 2,
+        "3.txt": 2,
+        "12.txt": 2,
+        "17.txt": 3
+    },
+    "hull": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "hamburg": {
+        "10.txt": 1
+    },
+    "hurting": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "12.txt": 3,
+        "17.txt": 2
+    },
+    "happens": {
+        "10.txt": 1,
+        "2.txt": 18,
+        "3.txt": 5,
+        "21.txt": 3,
+        "17.txt": 3
+    },
+    "hillingham": {
+        "10.txt": 8
+    },
+    "hadn": {
+        "10.txt": 6,
+        "2.txt": 18,
+        "3.txt": 1,
+        "12.txt": 8,
+        "17.txt": 6
+    },
+    "hesitate": {
+        "10.txt": 4,
+        "2.txt": 5,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "helsing": {
+        "10.txt": 321
+    },
+    "holds": {
+        "10.txt": 4,
+        "2.txt": 31,
+        "3.txt": 3,
+        "21.txt": 3,
+        "17.txt": 8
+    },
+    "humble": {
+        "10.txt": 5
+    },
+    "harvest": {
+        "10.txt": 1,
+        "2.txt": 8,
+        "3.txt": 3
+    },
+    "hedged": {
+        "10.txt": 1
+    },
+    "husbandman": {
+        "10.txt": 3
+    },
+    "husbandry": {
+        "10.txt": 1
+    },
+    "healing": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "horrified": {
+        "10.txt": 5,
+        "12.txt": 1
+    },
+    "hers": {
+        "10.txt": 9,
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "humorous": {
+        "10.txt": 1
+    },
+    "hiss": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "12.txt": 3,
+        "17.txt": 3
+    },
+    "heaved": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "himmel": {
+        "10.txt": 1
+    },
+    "hypodermic": {
+        "10.txt": 1
+    },
+    "hush": {
+        "10.txt": 9,
+        "17.txt": 2
+    },
+    "haarlem": {
+        "10.txt": 2
+    },
+    "herb": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "handful": {
+        "10.txt": 4,
+        "2.txt": 16,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 4
+    },
+    "ho": {
+        "10.txt": 5,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "hissing": {
+        "10.txt": 1
+    },
+    "healthy": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 2,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "hospitable": {
+        "10.txt": 2
+    },
+    "hyenas": {
+        "10.txt": 1
+    },
+    "humor": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "17.txt": 2
+    },
+    "hup": {
+        "10.txt": 2
+    },
+    "hirritated": {
+        "10.txt": 1
+    },
+    "hout": {
+        "10.txt": 1
+    },
+    "hevening": {
+        "10.txt": 1
+    },
+    "huntin": {
+        "10.txt": 1
+    },
+    "hazard": {
+        "10.txt": 4,
+        "3.txt": 1
+    },
+    "hisself": {
+        "10.txt": 1
+    },
+    "hidin": {
+        "10.txt": 1
+    },
+    "hinfant": {
+        "10.txt": 1
+    },
+    "handing": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "happily": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "12.txt": 2,
+        "21.txt": 1
+    },
+    "hilllingham": {
+        "10.txt": 1
+    },
+    "hanging": {
+        "10.txt": 2,
+        "2.txt": 13,
+        "3.txt": 4,
+        "17.txt": 1
+    },
+    "hit": {
+        "10.txt": 2,
+        "2.txt": 18,
+        "3.txt": 7,
+        "12.txt": 12,
+        "17.txt": 10
+    },
+    "helped": {
+        "10.txt": 7,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 4
+    },
+    "heated": {
+        "10.txt": 1,
+        "3.txt": 3
+    },
+    "housekeeping": {
+        "10.txt": 1
+    },
+    "hennessey": {
+        "10.txt": 3
+    },
+    "hinder": {
+        "10.txt": 3
+    },
+    "havin": {
+        "10.txt": 1
+    },
+    "hardy": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "harris": {
+        "10.txt": 1,
+        "12.txt": 2
+    },
+    "helps": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "3.txt": 11,
+        "17.txt": 3
+    },
+    "harshness": {
+        "10.txt": 1
+    },
+    "household": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "hostile": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "harrowing": {
+        "10.txt": 4
+    },
+    "huskily": {
+        "10.txt": 1
+    },
+    "heartily": {
+        "10.txt": 2
+    },
+    "hyde": {
+        "10.txt": 1,
+        "3.txt": 3
+    },
+    "hailed": {
+        "10.txt": 1
+    },
+    "hansom": {
+        "10.txt": 1
+    },
+    "hysterics": {
+        "10.txt": 3
+    },
+    "holy": {
+        "10.txt": 13,
+        "3.txt": 3,
+        "21.txt": 3
+    },
+    "hampstead": {
+        "10.txt": 8
+    },
+    "headlines": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "heath": {
+        "10.txt": 6
+    },
+    "height": {
+        "10.txt": 4,
+        "2.txt": 2,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "haunts": {
+        "10.txt": 2,
+        "17.txt": 2
+    },
+    "holland": {
+        "10.txt": 1,
+        "3.txt": 4,
+        "21.txt": 1
+    },
+    "helper": {
+        "10.txt": 2
+    },
+    "hurriedly": {
+        "10.txt": 6
+    },
+    "hunt": {
+        "10.txt": 8,
+        "2.txt": 11,
+        "3.txt": 4,
+        "12.txt": 2,
+        "17.txt": 5
+    },
+    "hue": {
+        "10.txt": 2
+    },
+    "hints": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "hypnotism": {
+        "10.txt": 4
+    },
+    "headstones": {
+        "10.txt": 2
+    },
+    "hostility": {
+        "10.txt": 1
+    },
+    "hunting": {
+        "10.txt": 3,
+        "2.txt": 26,
+        "3.txt": 8,
+        "12.txt": 1,
+        "17.txt": 7
+    },
+    "heavens": {
+        "10.txt": 2,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "hesitatingly": {
+        "10.txt": 1
+    },
+    "humanizing": {
+        "10.txt": 1
+    },
+    "heartless": {
+        "10.txt": 1
+    },
+    "hungry": {
+        "10.txt": 4,
+        "2.txt": 8,
+        "3.txt": 2,
+        "12.txt": 7,
+        "17.txt": 3
+    },
+    "hardened": {
+        "10.txt": 1
+    },
+    "households": {
+        "10.txt": 1
+    },
+    "hideous": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "hence": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 3,
+        "21.txt": 10
+    },
+    "housekeeper": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "horrorstruck": {
+        "10.txt": 1
+    },
+    "horrify": {
+        "10.txt": 1
+    },
+    "harbor": {
+        "10.txt": 2,
+        "3.txt": 4
+    },
+    "haunting": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "hunted": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "honored": {
+        "10.txt": 3
+    },
+    "henceforward": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "hun": {
+        "10.txt": 1
+    },
+    "hairbreadth": {
+        "10.txt": 1
+    },
+    "habitation": {
+        "10.txt": 2
+    },
+    "hermanstadt": {
+        "10.txt": 1
+    },
+    "hindrance": {
+        "10.txt": 1
+    },
+    "heredity": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "humanitarian": {
+        "10.txt": 1
+    },
+    "highest": {
+        "10.txt": 4,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "hobnails": {
+        "10.txt": 1
+    },
+    "huge": {
+        "10.txt": 3,
+        "2.txt": 12,
+        "3.txt": 8,
+        "12.txt": 5,
+        "17.txt": 2
+    },
+    "headed": {
+        "10.txt": 1,
+        "2.txt": 10,
+        "3.txt": 5,
+        "12.txt": 2
+    },
+    "headpiece": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "hieroglyphical": {
+        "10.txt": 1
+    },
+    "hired": {
+        "10.txt": 2
+    },
+    "helpers": {
+        "10.txt": 1
+    },
+    "honorable": {
+        "10.txt": 1
+    },
+    "harked": {
+        "10.txt": 1
+    },
+    "harkers": {
+        "10.txt": 2
+    },
+    "higher": {
+        "10.txt": 3,
+        "2.txt": 5,
+        "3.txt": 7,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "haemorrhage": {
+        "10.txt": 1
+    },
+    "hellish": {
+        "10.txt": 4
+    },
+    "harming": {
+        "10.txt": 1
+    },
+    "housebreaker": {
+        "10.txt": 1
+    },
+    "heraldic": {
+        "10.txt": 1
+    },
+    "holiest": {
+        "10.txt": 2
+    },
+    "hastened": {
+        "10.txt": 1
+    },
+    "hotly": {
+        "10.txt": 2
+    },
+    "hither": {
+        "10.txt": 1
+    },
+    "hourly": {
+        "10.txt": 1
+    },
+    "hunters": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "hypnotize": {
+        "10.txt": 12
+    },
+    "halt": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "12.txt": 4,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "hypnotic": {
+        "10.txt": 16,
+        "12.txt": 1
+    },
+    "hesitancy": {
+        "10.txt": 1
+    },
+    "heartbreak": {
+        "10.txt": 1
+    },
+    "holily": {
+        "10.txt": 1
+    },
+    "hoodwink": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "heir": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "hoarse": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "hotch": {
+        "10.txt": 1
+    },
+    "hastening": {
+        "10.txt": 1
+    },
+    "h": {
+        "10.txt": 2,
+        "3.txt": 4,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "hopeful": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "hilt": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "helpful": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "hans": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "hav": {
+        "10.txt": 1
+    },
+    "hawser": {
+        "10.txt": 1
+    },
+    "hapgood": {
+        "10.txt": 1
+    },
+    "hail": {
+        "10.txt": 1
+    },
+    "hinderin": {
+        "10.txt": 1
+    },
+    "heave": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "hildesheim": {
+        "10.txt": 5
+    },
+    "hebrew": {
+        "10.txt": 1
+    },
+    "hazardous": {
+        "10.txt": 1
+    },
+    "handy": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 4,
+        "12.txt": 1
+    },
+    "horn": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "12.txt": 1
+    },
+    "horsemen": {
+        "10.txt": 3
+    },
+    "hypnotized": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "heaviness": {
+        "10.txt": 2
+    },
+    "hardening": {
+        "10.txt": 1
+    },
+    "historical": {
+        "10.txt": 1,
+        "3.txt": 3
+    },
+    "harnessed": {
+        "10.txt": 1
+    },
+    "horns": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "hawthorne": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "haul": {
+        "2.txt": 7,
+        "3.txt": 3
+    },
+    "hum": {
+        "2.txt": 2,
+        "12.txt": 3,
+        "17.txt": 2
+    },
+    "hazelle": {
+        "2.txt": 32,
+        "17.txt": 1
+    },
+    "hugs": {
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "hob": {
+        "2.txt": 18,
+        "17.txt": 1
+    },
+    "hip": {
+        "2.txt": 4,
+        "3.txt": 16,
+        "17.txt": 1
+    },
+    "haymitch": {
+        "2.txt": 312,
+        "17.txt": 44
+    },
+    "hm": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "hallway": {
+        "2.txt": 6,
+        "17.txt": 1
+    },
+    "homework": {
+        "2.txt": 1
+    },
+    "hits": {
+        "2.txt": 20,
+        "3.txt": 2,
+        "12.txt": 2,
+        "17.txt": 4
+    },
+    "headaches": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "hiccups": {
+        "2.txt": 1
+    },
+    "heels": {
+        "2.txt": 8,
+        "12.txt": 1
+    },
+    "hey": {
+        "2.txt": 9,
+        "12.txt": 3,
+        "17.txt": 2
+    },
+    "hike": {
+        "2.txt": 4,
+        "12.txt": 1
+    },
+    "honking": {
+        "2.txt": 1
+    },
+    "hairdo": {
+        "2.txt": 1
+    },
+    "hurries": {
+        "2.txt": 2
+    },
+    "halfhearted": {
+        "2.txt": 1
+    },
+    "hop": {
+        "2.txt": 1,
+        "3.txt": 6
+    },
+    "highly": {
+        "2.txt": 4,
+        "3.txt": 9,
+        "21.txt": 1
+    },
+    "hangover": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "huh": {
+        "2.txt": 1
+    },
+    "horrific": {
+        "2.txt": 2
+    },
+    "herds": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "hairband": {
+        "2.txt": 1
+    },
+    "hunched": {
+        "2.txt": 2
+    },
+    "hesitates": {
+        "2.txt": 4
+    },
+    "halls": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "hardships": {
+        "2.txt": 3
+    },
+    "haze": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "halfway": {
+        "2.txt": 4,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "hysterically": {
+        "2.txt": 1
+    },
+    "heavensbee": {
+        "2.txt": 11,
+        "17.txt": 2
+    },
+    "hustles": {
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "hello": {
+        "2.txt": 6,
+        "3.txt": 1,
+        "12.txt": 5,
+        "17.txt": 4
+    },
+    "homemade": {
+        "2.txt": 1,
+        "3.txt": 4,
+        "17.txt": 1
+    },
+    "hopping": {
+        "2.txt": 1,
+        "3.txt": 3
+    },
+    "hushed": {
+        "2.txt": 3
+    },
+    "hoists": {
+        "2.txt": 2
+    },
+    "hoisted": {
+        "2.txt": 1
+    },
+    "herbs": {
+        "2.txt": 2
+    },
+    "healer": {
+        "2.txt": 2
+    },
+    "herbal": {
+        "2.txt": 2
+    },
+    "hungriest": {
+        "2.txt": 1
+    },
+    "hatred": {
+        "2.txt": 4,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "homes": {
+        "2.txt": 4,
+        "3.txt": 2,
+        "12.txt": 4,
+        "17.txt": 2
+    },
+    "heading": {
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 2,
+        "17.txt": 2
+    },
+    "hire": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "hovercraft": {
+        "2.txt": 13,
+        "17.txt": 16
+    },
+    "housed": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "huddle": {
+        "2.txt": 1
+    },
+    "headquarters": {
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "hanged": {
+        "2.txt": 2
+    },
+    "hassock": {
+        "2.txt": 1
+    },
+    "herbalist": {
+        "2.txt": 1
+    },
+    "histrionics": {
+        "2.txt": 1
+    },
+    "hairless": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "hurts": {
+        "2.txt": 3,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "hunches": {
+        "2.txt": 1
+    },
+    "hollers": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "hysteria": {
+        "2.txt": 2
+    },
+    "humiliated": {
+        "2.txt": 1
+    },
+    "hates": {
+        "2.txt": 2,
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "hungover": {
+        "2.txt": 1
+    },
+    "heartsick": {
+        "2.txt": 1
+    },
+    "haunt": {
+        "2.txt": 1
+    },
+    "hugging": {
+        "2.txt": 1
+    },
+    "hedges": {
+        "2.txt": 1
+    },
+    "hedge": {
+        "2.txt": 1
+    },
+    "headlamps": {
+        "2.txt": 1
+    },
+    "highlights": {
+        "2.txt": 1
+    },
+    "headdress": {
+        "2.txt": 1
+    },
+    "huddled": {
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "hallways": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "hammocks": {
+        "2.txt": 1
+    },
+    "hammock": {
+        "2.txt": 1
+    },
+    "hook": {
+        "2.txt": 2,
+        "3.txt": 2
+    },
+    "hitting": {
+        "2.txt": 7,
+        "3.txt": 1
+    },
+    "heartbroken": {
+        "2.txt": 1
+    },
+    "hastens": {
+        "2.txt": 1
+    },
+    "humiliation": {
+        "2.txt": 1
+    },
+    "highlighted": {
+        "2.txt": 1
+    },
+    "herd": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "harried": {
+        "2.txt": 1
+    },
+    "hammers": {
+        "2.txt": 1
+    },
+    "het": {
+        "2.txt": 1
+    },
+    "harden": {
+        "2.txt": 1
+    },
+    "hurling": {
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "hormones": {
+        "2.txt": 1
+    },
+    "handling": {
+        "2.txt": 2,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "hopefully": {
+        "2.txt": 2
+    },
+    "herding": {
+        "2.txt": 1
+    },
+    "humid": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "hotter": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "hut": {
+        "2.txt": 5
+    },
+    "hoisting": {
+        "2.txt": 1
+    },
+    "hardwood": {
+        "2.txt": 1
+    },
+    "hauling": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "hauls": {
+        "2.txt": 1
+    },
+    "hobbles": {
+        "2.txt": 1
+    },
+    "hees": {
+        "2.txt": 1
+    },
+    "handfuls": {
+        "2.txt": 1
+    },
+    "hackles": {
+        "2.txt": 1
+    },
+    "hacking": {
+        "2.txt": 1
+    },
+    "huff": {
+        "2.txt": 1
+    },
+    "hisses": {
+        "2.txt": 2
+    },
+    "herbelt": {
+        "2.txt": 1
+    },
+    "heedless": {
+        "2.txt": 1
+    },
+    "hurl": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "hunching": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "harnessing": {
+        "2.txt": 1
+    },
+    "hued": {
+        "2.txt": 1
+    },
+    "howls": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "hooked": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "hoffman": {
+        "3.txt": 4
+    },
+    "hiking": {
+        "3.txt": 4
+    },
+    "housing": {
+        "3.txt": 13
+    },
+    "helmets": {
+        "3.txt": 5,
+        "12.txt": 1
+    },
+    "handguns": {
+        "3.txt": 5
+    },
+    "headings": {
+        "3.txt": 1
+    },
+    "hoods": {
+        "3.txt": 1
+    },
+    "heisting": {
+        "3.txt": 2
+    },
+    "holiness": {
+        "3.txt": 1
+    },
+    "haber": {
+        "3.txt": 1
+    },
+    "harvard": {
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "hack": {
+        "3.txt": 4
+    },
+    "huey": {
+        "3.txt": 1
+    },
+    "houdini": {
+        "3.txt": 1
+    },
+    "homer": {
+        "3.txt": 2
+    },
+    "hanoi": {
+        "3.txt": 2
+    },
+    "hog": {
+        "3.txt": 3
+    },
+    "heists": {
+        "3.txt": 2
+    },
+    "hustle": {
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "hors": {
+        "3.txt": 2
+    },
+    "hamburgers": {
+        "3.txt": 1
+    },
+    "heist": {
+        "3.txt": 2
+    },
+    "headwaiter": {
+        "3.txt": 1
+    },
+    "hassle": {
+        "3.txt": 12
+    },
+    "hurdle": {
+        "3.txt": 2
+    },
+    "handbag": {
+        "3.txt": 2
+    },
+    "hustled": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "hustlers": {
+        "3.txt": 1
+    },
+    "hikes": {
+        "3.txt": 1
+    },
+    "ham": {
+        "3.txt": 2
+    },
+    "hock": {
+        "3.txt": 1
+    },
+    "hedonist": {
+        "3.txt": 1
+    },
+    "homeless": {
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "heartline": {
+        "3.txt": 1
+    },
+    "highway": {
+        "3.txt": 8,
+        "12.txt": 2
+    },
+    "hiker": {
+        "3.txt": 1
+    },
+    "hitches": {
+        "3.txt": 1
+    },
+    "hassles": {
+        "3.txt": 4
+    },
+    "hippies": {
+        "3.txt": 2
+    },
+    "hitchin": {
+        "3.txt": 1
+    },
+    "highways": {
+        "3.txt": 1,
+        "12.txt": 4
+    },
+    "hassled": {
+        "3.txt": 2
+    },
+    "hoof": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "hitchhiking": {
+        "3.txt": 2
+    },
+    "hollywood": {
+        "3.txt": 10
+    },
+    "hydro": {
+        "3.txt": 1
+    },
+    "hops": {
+        "3.txt": 2,
+        "12.txt": 2
+    },
+    "honky": {
+        "3.txt": 2
+    },
+    "hoses": {
+        "3.txt": 1
+    },
+    "hikers": {
+        "3.txt": 1
+    },
+    "hose": {
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "hopper": {
+        "3.txt": 3
+    },
+    "headsets": {
+        "3.txt": 1
+    },
+    "handcrafts": {
+        "3.txt": 1
+    },
+    "handcuffs": {
+        "3.txt": 2
+    },
+    "homesteading": {
+        "3.txt": 1
+    },
+    "hermit": {
+        "3.txt": 1
+    },
+    "homestead": {
+        "3.txt": 1
+    },
+    "harrisburg": {
+        "3.txt": 2
+    },
+    "hwy": {
+        "3.txt": 3
+    },
+    "hiawatha": {
+        "3.txt": 1
+    },
+    "hustling": {
+        "3.txt": 3
+    },
+    "headhunts": {
+        "3.txt": 1
+    },
+    "harassment": {
+        "3.txt": 1
+    },
+    "heating": {
+        "3.txt": 1
+    },
+    "homesteads": {
+        "3.txt": 1
+    },
+    "harry": {
+        "3.txt": 3
+    },
+    "heliotrope": {
+        "3.txt": 1
+    },
+    "hospitals": {
+        "3.txt": 4,
+        "17.txt": 1
+    },
+    "hormonal": {
+        "3.txt": 1
+    },
+    "hawaii": {
+        "3.txt": 1
+    },
+    "horrendous": {
+        "3.txt": 1
+    },
+    "harmful": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "hepatitis": {
+        "3.txt": 4
+    },
+    "hep": {
+        "3.txt": 2
+    },
+    "hones": {
+        "3.txt": 1
+    },
+    "hardware": {
+        "3.txt": 9
+    },
+    "harassed": {
+        "3.txt": 1
+    },
+    "hardhats": {
+        "3.txt": 1
+    },
+    "hanger": {
+        "3.txt": 1
+    },
+    "headset": {
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "housecleaning": {
+        "3.txt": 1
+    },
+    "horning": {
+        "3.txt": 1
+    },
+    "heaviest": {
+        "3.txt": 2
+    },
+    "haircut": {
+        "3.txt": 1
+    },
+    "helicopter": {
+        "3.txt": 1,
+        "12.txt": 8
+    },
+    "hash": {
+        "3.txt": 1
+    },
+    "heroin": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "hunk": {
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "hammond": {
+        "3.txt": 1
+    },
+    "hotels": {
+        "3.txt": 1
+    },
+    "houston": {
+        "3.txt": 8
+    },
+    "headline": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "hunks": {
+        "3.txt": 1
+    },
+    "hawkers": {
+        "3.txt": 1
+    },
+    "hackensack": {
+        "3.txt": 1
+    },
+    "hudson": {
+        "3.txt": 3
+    },
+    "haight": {
+        "3.txt": 5
+    },
+    "hts": {
+        "3.txt": 1
+    },
+    "herald": {
+        "3.txt": 2
+    },
+    "helena": {
+        "3.txt": 1
+    },
+    "halsted": {
+        "3.txt": 11
+    },
+    "highland": {
+        "3.txt": 1
+    },
+    "hips": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "harbinger": {
+        "3.txt": 1
+    },
+    "hapt": {
+        "3.txt": 2
+    },
+    "howe": {
+        "3.txt": 1
+    },
+    "hampshire": {
+        "3.txt": 1
+    },
+    "hotchai": {
+        "3.txt": 1
+    },
+    "huset": {
+        "3.txt": 1
+    },
+    "horeb": {
+        "3.txt": 1
+    },
+    "hairier": {
+        "3.txt": 1
+    },
+    "helium": {
+        "3.txt": 1
+    },
+    "hi": {
+        "3.txt": 4
+    },
+    "handbook": {
+        "3.txt": 3
+    },
+    "hollowed": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "helmet": {
+        "3.txt": 8,
+        "12.txt": 4,
+        "17.txt": 3
+    },
+    "hercules": {
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "holsters": {
+        "3.txt": 1
+    },
+    "honkers": {
+        "3.txt": 1
+    },
+    "hydroxide": {
+        "3.txt": 1
+    },
+    "hardens": {
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "halo": {
+        "3.txt": 1
+    },
+    "heartbeat": {
+        "3.txt": 1
+    },
+    "hartford": {
+        "3.txt": 1
+    },
+    "hamden": {
+        "3.txt": 1
+    },
+    "haymarket": {
+        "3.txt": 1
+    },
+    "hoover": {
+        "3.txt": 2
+    },
+    "huntington": {
+        "3.txt": 1
+    },
+    "homosexuality": {
+        "3.txt": 1
+    },
+    "hauled": {
+        "3.txt": 1
+    },
+    "hijacked": {
+        "3.txt": 1
+    },
+    "hayes": {
+        "3.txt": 1
+    },
+    "hangers": {
+        "3.txt": 1
+    },
+    "hooks": {
+        "3.txt": 1
+    },
+    "heisters": {
+        "3.txt": 1
+    },
+    "hems": {
+        "3.txt": 1
+    },
+    "hectic": {
+        "3.txt": 1
+    },
+    "handbags": {
+        "3.txt": 1
+    },
+    "halloween": {
+        "3.txt": 1
+    },
+    "hearse": {
+        "3.txt": 1
+    },
+    "henry": {
+        "3.txt": 2
+    },
+    "helms": {
+        "3.txt": 1
+    },
+    "handgun": {
+        "3.txt": 4
+    },
+    "harvey": {
+        "3.txt": 1
+    },
+    "heroes": {
+        "3.txt": 1
+    },
+    "handshakes": {
+        "3.txt": 1
+    },
+    "hooper": {
+        "3.txt": 1
+    },
+    "habits": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "hangouts": {
+        "3.txt": 1
+    },
+    "handwritten": {
+        "3.txt": 1
+    },
+    "hari": {
+        "3.txt": 1
+    },
+    "harlem": {
+        "3.txt": 3
+    },
+    "hy": {
+        "3.txt": 3
+    },
+    "hardship": {
+        "3.txt": 1
+    },
+    "holidays": {
+        "3.txt": 3
+    },
+    "hylan": {
+        "3.txt": 1
+    },
+    "holten": {
+        "3.txt": 1
+    },
+    "hamilton": {
+        "3.txt": 1
+    },
+    "highbridge": {
+        "3.txt": 1
+    },
+    "hopkinson": {
+        "3.txt": 1
+    },
+    "hulbert": {
+        "3.txt": 1
+    },
+    "hispanic": {
+        "3.txt": 1
+    },
+    "heavyweights": {
+        "3.txt": 1
+    },
+    "holtzer": {
+        "3.txt": 1
+    },
+    "hillel": {
+        "3.txt": 1
+    },
+    "halloway": {
+        "3.txt": 1
+    },
+    "harvester": {
+        "3.txt": 1
+    },
+    "harper": {
+        "3.txt": 2
+    },
+    "hawk": {
+        "3.txt": 1
+    },
+    "hq": {
+        "3.txt": 1
+    },
+    "hoggers": {
+        "3.txt": 1
+    },
+    "hilgard": {
+        "3.txt": 1
+    },
+    "hayvenhurst": {
+        "3.txt": 1
+    },
+    "hancock": {
+        "3.txt": 2
+    },
+    "hubert": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "harlow": {
+        "3.txt": 1
+    },
+    "hersholt": {
+        "3.txt": 1
+    },
+    "huckleberry": {
+        "3.txt": 1
+    },
+    "handymen": {
+        "12.txt": 1
+    },
+    "heck": {
+        "12.txt": 1
+    },
+    "helen": {
+        "12.txt": 4
+    },
+    "hotness": {
+        "12.txt": 2
+    },
+    "hardness": {
+        "12.txt": 1,
+        "21.txt": 2
+    },
+    "halves": {
+        "12.txt": 1
+    },
+    "hound": {
+        "12.txt": 57
+    },
+    "hub": {
+        "12.txt": 1
+    },
+    "hummed": {
+        "12.txt": 2
+    },
+    "heritage": {
+        "12.txt": 1
+    },
+    "histories": {
+        "12.txt": 2
+    },
+    "hatchets": {
+        "12.txt": 1
+    },
+    "hating": {
+        "12.txt": 1
+    },
+    "helicopters": {
+        "12.txt": 11
+    },
+    "heaps": {
+        "12.txt": 1
+    },
+    "haltingly": {
+        "12.txt": 1
+    },
+    "hissed": {
+        "12.txt": 4
+    },
+    "hotbeds": {
+        "12.txt": 1
+    },
+    "historians": {
+        "12.txt": 2
+    },
+    "harlequin": {
+        "12.txt": 1
+    },
+    "hive": {
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "husbands": {
+        "12.txt": 2
+    },
+    "homely": {
+        "12.txt": 1
+    },
+    "hoag": {
+        "12.txt": 2
+    },
+    "hem": {
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "hath": {
+        "12.txt": 1
+    },
+    "haggle": {
+        "12.txt": 1
+    },
+    "honed": {
+        "12.txt": 1
+    },
+    "harps": {
+        "12.txt": 1
+    },
+    "holier": {
+        "12.txt": 1
+    },
+    "hurtling": {
+        "12.txt": 2
+    },
+    "hopped": {
+        "12.txt": 2
+    },
+    "headlights": {
+        "12.txt": 3
+    },
+    "hooting": {
+        "12.txt": 1
+    },
+    "hurrahing": {
+        "12.txt": 1
+    },
+    "hobo": {
+        "12.txt": 1
+    },
+    "hovering": {
+        "12.txt": 2
+    },
+    "hounds": {
+        "12.txt": 1
+    },
+    "hovered": {
+        "12.txt": 1
+    },
+    "hayloft": {
+        "12.txt": 1
+    },
+    "homing": {
+        "12.txt": 1
+    },
+    "halfsecond": {
+        "12.txt": 1
+    },
+    "hives": {
+        "12.txt": 1
+    },
+    "haldane": {
+        "21.txt": 2
+    },
+    "howbeit": {
+        "21.txt": 1
+    },
+    "heats": {
+        "21.txt": 1
+    },
+    "hippogryphs": {
+        "21.txt": 1
+    },
+    "hurtful": {
+        "21.txt": 5
+    },
+    "hyperbolical": {
+        "21.txt": 1
+    },
+    "holder": {
+        "21.txt": 1
+    },
+    "hallucinating": {
+        "17.txt": 1
+    },
+    "heartbeats": {
+        "17.txt": 1
+    },
+    "hoverplanes": {
+        "17.txt": 5
+    },
+    "herded": {
+        "17.txt": 1
+    },
+    "hosts": {
+        "17.txt": 1
+    },
+    "hawthornes": {
+        "17.txt": 1
+    },
+    "healthier": {
+        "17.txt": 1
+    },
+    "hoarding": {
+        "17.txt": 1
+    },
+    "hinting": {
+        "17.txt": 1
+    },
+    "halfnaked": {
+        "17.txt": 1
+    },
+    "hosed": {
+        "17.txt": 1
+    },
+    "handheld": {
+        "17.txt": 1
+    },
+    "huddles": {
+        "17.txt": 1
+    },
+    "hummingbirds": {
+        "17.txt": 1
+    },
+    "hover": {
+        "17.txt": 1
+    },
+    "hummingbird": {
+        "17.txt": 2
+    },
+    "hefts": {
+        "17.txt": 1
+    },
+    "hairstyle": {
+        "17.txt": 1
+    },
+    "halfknotted": {
+        "17.txt": 1
+    },
+    "hangar": {
+        "17.txt": 3
+    },
+    "hatched": {
+        "17.txt": 1
+    },
+    "hoax": {
+        "17.txt": 1
+    },
+    "horrifying": {
+        "17.txt": 2
+    },
+    "hoverplane": {
+        "17.txt": 1
+    },
+    "hunkered": {
+        "17.txt": 1
+    },
+    "highlight": {
+        "17.txt": 1
+    },
+    "hollering": {
+        "17.txt": 1
+    },
+    "headgear": {
+        "17.txt": 1
+    }
+}

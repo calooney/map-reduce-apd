@@ -1,0 +1,2923 @@
+{
+    "for": {
+        "25.txt": 1713,
+        "16.txt": 819,
+        "11.txt": 436,
+        "20.txt": 209,
+        "22.txt": 186,
+        "9.txt": 85
+    },
+    "file": {
+        "25.txt": 4,
+        "16.txt": 4
+    },
+    "future": {
+        "25.txt": 38,
+        "16.txt": 14,
+        "11.txt": 4,
+        "20.txt": 9,
+        "22.txt": 3,
+        "9.txt": 2
+    },
+    "first": {
+        "25.txt": 208,
+        "16.txt": 82,
+        "11.txt": 60,
+        "20.txt": 36,
+        "22.txt": 36,
+        "9.txt": 12
+    },
+    "free": {
+        "25.txt": 78,
+        "16.txt": 46,
+        "11.txt": 7,
+        "20.txt": 4,
+        "22.txt": 3,
+        "9.txt": 2
+    },
+    "further": {
+        "25.txt": 28,
+        "16.txt": 14,
+        "11.txt": 11,
+        "20.txt": 1,
+        "22.txt": 8,
+        "9.txt": 4
+    },
+    "foundation": {
+        "25.txt": 110,
+        "16.txt": 1,
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "from": {
+        "25.txt": 1235,
+        "16.txt": 347,
+        "11.txt": 242,
+        "20.txt": 147,
+        "22.txt": 192,
+        "9.txt": 30
+    },
+    "final": {
+        "25.txt": 12,
+        "16.txt": 3,
+        "11.txt": 4,
+        "20.txt": 4
+    },
+    "follows": {
+        "25.txt": 121,
+        "16.txt": 7,
+        "11.txt": 2,
+        "22.txt": 2
+    },
+    "ftp": {
+        "25.txt": 2,
+        "16.txt": 4
+    },
+    "five": {
+        "25.txt": 13,
+        "16.txt": 3,
+        "11.txt": 1,
+        "20.txt": 23,
+        "22.txt": 3
+    },
+    "filename": {
+        "25.txt": 1
+    },
+    "fifty": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 2,
+        "20.txt": 11,
+        "9.txt": 1
+    },
+    "files": {
+        "25.txt": 2,
+        "16.txt": 6
+    },
+    "funding": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "florida": {
+        "25.txt": 1,
+        "20.txt": 1
+    },
+    "filed": {
+        "25.txt": 1
+    },
+    "fund": {
+        "25.txt": 2
+    },
+    "feel": {
+        "25.txt": 19,
+        "16.txt": 2,
+        "11.txt": 11,
+        "20.txt": 29,
+        "22.txt": 1,
+        "9.txt": 13
+    },
+    "finishing": {
+        "25.txt": 2,
+        "9.txt": 2
+    },
+    "fundraising": {
+        "25.txt": 2
+    },
+    "forward": {
+        "25.txt": 9,
+        "16.txt": 3,
+        "11.txt": 11,
+        "20.txt": 10,
+        "22.txt": 1,
+        "9.txt": 7
+    },
+    "fault": {
+        "25.txt": 5,
+        "16.txt": 11,
+        "11.txt": 1,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "forth": {
+        "25.txt": 11,
+        "16.txt": 10,
+        "11.txt": 4,
+        "20.txt": 11,
+        "22.txt": 3
+    },
+    "form": {
+        "25.txt": 300,
+        "16.txt": 16,
+        "11.txt": 19,
+        "20.txt": 2,
+        "22.txt": 7,
+        "9.txt": 1
+    },
+    "fees": {
+        "25.txt": 3,
+        "16.txt": 2
+    },
+    "fitness": {
+        "25.txt": 3,
+        "16.txt": 1
+    },
+    "following": {
+        "25.txt": 62,
+        "16.txt": 7,
+        "11.txt": 18,
+        "20.txt": 1,
+        "22.txt": 2
+    },
+    "fee": {
+        "25.txt": 2,
+        "16.txt": 2,
+        "20.txt": 1
+    },
+    "freely": {
+        "25.txt": 4,
+        "16.txt": 11,
+        "11.txt": 8,
+        "22.txt": 4
+    },
+    "faculty": {
+        "25.txt": 209,
+        "16.txt": 20,
+        "11.txt": 3,
+        "22.txt": 1
+    },
+    "falls": {
+        "25.txt": 15,
+        "16.txt": 5,
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "field": {
+        "25.txt": 43,
+        "16.txt": 4,
+        "20.txt": 2
+    },
+    "finds": {
+        "25.txt": 13,
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 3
+    },
+    "far": {
+        "25.txt": 279,
+        "16.txt": 20,
+        "11.txt": 49,
+        "20.txt": 30,
+        "22.txt": 22,
+        "9.txt": 1
+    },
+    "fashion": {
+        "25.txt": 5,
+        "16.txt": 5,
+        "11.txt": 1,
+        "20.txt": 2,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "forlorn": {
+        "25.txt": 1
+    },
+    "forsaken": {
+        "25.txt": 1
+    },
+    "found": {
+        "25.txt": 112,
+        "16.txt": 19,
+        "11.txt": 45,
+        "20.txt": 11,
+        "22.txt": 35,
+        "9.txt": 2
+    },
+    "fell": {
+        "25.txt": 5,
+        "16.txt": 4,
+        "11.txt": 19,
+        "20.txt": 22,
+        "9.txt": 1
+    },
+    "fallen": {
+        "25.txt": 3,
+        "16.txt": 4,
+        "11.txt": 2,
+        "20.txt": 1,
+        "22.txt": 3
+    },
+    "fall": {
+        "25.txt": 18,
+        "16.txt": 22,
+        "11.txt": 6,
+        "20.txt": 11,
+        "22.txt": 7,
+        "9.txt": 1
+    },
+    "fact": {
+        "25.txt": 133,
+        "16.txt": 4,
+        "11.txt": 28,
+        "20.txt": 3,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "footnote": {
+        "25.txt": 82
+    },
+    "fame": {
+        "25.txt": 2,
+        "16.txt": 13,
+        "20.txt": 3,
+        "22.txt": 1
+    },
+    "firmly": {
+        "25.txt": 7,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "finally": {
+        "25.txt": 36,
+        "16.txt": 1,
+        "11.txt": 7,
+        "20.txt": 8,
+        "22.txt": 8
+    },
+    "flatter": {
+        "25.txt": 3,
+        "16.txt": 3
+    },
+    "faculties": {
+        "25.txt": 36,
+        "16.txt": 7,
+        "11.txt": 6
+    },
+    "fancies": {
+        "25.txt": 6,
+        "16.txt": 12,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "find": {
+        "25.txt": 150,
+        "16.txt": 47,
+        "11.txt": 32,
+        "20.txt": 13,
+        "22.txt": 14,
+        "9.txt": 3
+    },
+    "furnished": {
+        "25.txt": 6,
+        "16.txt": 2,
+        "22.txt": 1
+    },
+    "fulfil": {
+        "25.txt": 5
+    },
+    "fully": {
+        "25.txt": 27,
+        "16.txt": 8,
+        "11.txt": 13,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "furnish": {
+        "25.txt": 12
+    },
+    "full": {
+        "25.txt": 17,
+        "16.txt": 20,
+        "11.txt": 29,
+        "20.txt": 14,
+        "22.txt": 7,
+        "9.txt": 9
+    },
+    "forms": {
+        "25.txt": 81,
+        "16.txt": 3,
+        "11.txt": 3,
+        "20.txt": 1,
+        "22.txt": 4
+    },
+    "forming": {
+        "25.txt": 18,
+        "11.txt": 2,
+        "22.txt": 1
+    },
+    "formed": {
+        "25.txt": 19,
+        "16.txt": 1,
+        "11.txt": 7,
+        "20.txt": 1,
+        "22.txt": 5,
+        "9.txt": 1
+    },
+    "fit": {
+        "25.txt": 3,
+        "16.txt": 17,
+        "11.txt": 3,
+        "20.txt": 1,
+        "9.txt": 3
+    },
+    "follow": {
+        "25.txt": 64,
+        "16.txt": 21,
+        "11.txt": 14,
+        "20.txt": 5,
+        "22.txt": 8,
+        "9.txt": 1
+    },
+    "fresh": {
+        "25.txt": 3,
+        "16.txt": 8,
+        "11.txt": 16,
+        "20.txt": 10,
+        "22.txt": 1
+    },
+    "formal": {
+        "25.txt": 69,
+        "16.txt": 4,
+        "11.txt": 3
+    },
+    "former": {
+        "25.txt": 198,
+        "16.txt": 9,
+        "11.txt": 5,
+        "22.txt": 8
+    },
+    "flashed": {
+        "25.txt": 1,
+        "11.txt": 3,
+        "20.txt": 3,
+        "9.txt": 2
+    },
+    "figure": {
+        "25.txt": 24,
+        "16.txt": 2,
+        "11.txt": 7,
+        "20.txt": 2
+    },
+    "followed": {
+        "25.txt": 12,
+        "16.txt": 2,
+        "11.txt": 33,
+        "20.txt": 8,
+        "22.txt": 5,
+        "9.txt": 6
+    },
+    "fortune": {
+        "25.txt": 8,
+        "16.txt": 9,
+        "11.txt": 1,
+        "22.txt": 7
+    },
+    "fix": {
+        "25.txt": 5,
+        "16.txt": 6,
+        "11.txt": 3,
+        "20.txt": 3,
+        "22.txt": 1
+    },
+    "fill": {
+        "25.txt": 9,
+        "11.txt": 2,
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "force": {
+        "25.txt": 19,
+        "16.txt": 7,
+        "11.txt": 14,
+        "20.txt": 1,
+        "22.txt": 6
+    },
+    "forever": {
+        "25.txt": 1,
+        "20.txt": 11,
+        "9.txt": 2
+    },
+    "fundamental": {
+        "25.txt": 40,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "falling": {
+        "25.txt": 4,
+        "16.txt": 3,
+        "11.txt": 9,
+        "20.txt": 3,
+        "22.txt": 3
+    },
+    "freedom": {
+        "25.txt": 91,
+        "16.txt": 4,
+        "11.txt": 5,
+        "22.txt": 5
+    },
+    "flow": {
+        "25.txt": 5,
+        "16.txt": 4,
+        "22.txt": 8,
+        "9.txt": 1
+    },
+    "fancied": {
+        "25.txt": 3,
+        "11.txt": 2,
+        "22.txt": 2
+    },
+    "feeling": {
+        "25.txt": 9,
+        "16.txt": 7,
+        "11.txt": 14,
+        "20.txt": 12,
+        "22.txt": 1,
+        "9.txt": 16
+    },
+    "finespun": {
+        "25.txt": 1
+    },
+    "favour": {
+        "25.txt": 17,
+        "16.txt": 8,
+        "11.txt": 4
+    },
+    "fatalism": {
+        "25.txt": 1
+    },
+    "fanaticism": {
+        "25.txt": 2,
+        "16.txt": 1
+    },
+    "firm": {
+        "25.txt": 11,
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 3,
+        "9.txt": 1
+    },
+    "fixed": {
+        "25.txt": 5,
+        "16.txt": 3,
+        "11.txt": 21,
+        "20.txt": 7,
+        "22.txt": 2
+    },
+    "fitted": {
+        "25.txt": 1,
+        "16.txt": 3,
+        "11.txt": 1,
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "failed": {
+        "25.txt": 7,
+        "16.txt": 3,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "fetters": {
+        "25.txt": 1
+    },
+    "fail": {
+        "25.txt": 8,
+        "16.txt": 3,
+        "20.txt": 3,
+        "22.txt": 4
+    },
+    "fiction": {
+        "25.txt": 8
+    },
+    "fashionable": {
+        "25.txt": 1
+    },
+    "friends": {
+        "25.txt": 2,
+        "16.txt": 21,
+        "11.txt": 10,
+        "20.txt": 15,
+        "22.txt": 3,
+        "9.txt": 17
+    },
+    "fourth": {
+        "25.txt": 10,
+        "16.txt": 3,
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "few": {
+        "25.txt": 11,
+        "16.txt": 21,
+        "11.txt": 32,
+        "20.txt": 25,
+        "22.txt": 6,
+        "9.txt": 7
+    },
+    "fewer": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "frequent": {
+        "25.txt": 2,
+        "16.txt": 5,
+        "11.txt": 3,
+        "22.txt": 1
+    },
+    "fortuitous": {
+        "25.txt": 1
+    },
+    "forces": {
+        "25.txt": 19,
+        "11.txt": 11,
+        "22.txt": 1
+    },
+    "flattering": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "fictions": {
+        "25.txt": 7
+    },
+    "flight": {
+        "25.txt": 1,
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "feels": {
+        "25.txt": 3,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "fate": {
+        "25.txt": 6,
+        "16.txt": 3,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "finish": {
+        "25.txt": 1,
+        "11.txt": 2,
+        "20.txt": 2
+    },
+    "frees": {
+        "25.txt": 2
+    },
+    "flatters": {
+        "25.txt": 2
+    },
+    "foreign": {
+        "25.txt": 11,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "fallacious": {
+        "25.txt": 10
+    },
+    "fingers": {
+        "25.txt": 3,
+        "11.txt": 3,
+        "20.txt": 14,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "fore": {
+        "25.txt": 1
+    },
+    "fills": {
+        "25.txt": 6,
+        "11.txt": 1
+    },
+    "formula": {
+        "25.txt": 6
+    },
+    "facilitate": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "formidable": {
+        "25.txt": 1
+    },
+    "firmness": {
+        "25.txt": 1
+    },
+    "fruitfulness": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "furnishes": {
+        "25.txt": 5
+    },
+    "farther": {
+        "25.txt": 11,
+        "11.txt": 2,
+        "22.txt": 9
+    },
+    "fairly": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "11.txt": 2,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "feelings": {
+        "25.txt": 8,
+        "16.txt": 1,
+        "11.txt": 6,
+        "20.txt": 2,
+        "9.txt": 2
+    },
+    "firstly": {
+        "25.txt": 5
+    },
+    "foregoing": {
+        "25.txt": 10
+    },
+    "founded": {
+        "25.txt": 19,
+        "16.txt": 4,
+        "11.txt": 7,
+        "22.txt": 3
+    },
+    "fruitful": {
+        "25.txt": 4
+    },
+    "falsification": {
+        "25.txt": 1
+    },
+    "forced": {
+        "25.txt": 6,
+        "16.txt": 5,
+        "11.txt": 3,
+        "20.txt": 3,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "formerly": {
+        "25.txt": 8,
+        "11.txt": 1,
+        "22.txt": 4
+    },
+    "finite": {
+        "25.txt": 25
+    },
+    "function": {
+        "25.txt": 28,
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "fantasy": {
+        "25.txt": 1,
+        "20.txt": 1,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "facto": {
+        "25.txt": 2
+    },
+    "false": {
+        "25.txt": 34,
+        "16.txt": 14,
+        "20.txt": 1,
+        "22.txt": 14,
+        "9.txt": 4
+    },
+    "freed": {
+        "25.txt": 2,
+        "20.txt": 1
+    },
+    "functions": {
+        "25.txt": 31,
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "four": {
+        "25.txt": 15,
+        "16.txt": 6,
+        "11.txt": 9,
+        "20.txt": 26,
+        "22.txt": 3,
+        "9.txt": 5
+    },
+    "formation": {
+        "25.txt": 8
+    },
+    "filled": {
+        "25.txt": 6,
+        "16.txt": 2,
+        "11.txt": 6,
+        "20.txt": 13
+    },
+    "facti": {
+        "25.txt": 2
+    },
+    "fountain": {
+        "25.txt": 1,
+        "16.txt": 9,
+        "20.txt": 3
+    },
+    "fragmentary": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "forethought": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "faultiness": {
+        "25.txt": 1
+    },
+    "figures": {
+        "25.txt": 6,
+        "11.txt": 2,
+        "22.txt": 2,
+        "9.txt": 2
+    },
+    "frequently": {
+        "25.txt": 6,
+        "22.txt": 7
+    },
+    "figurative": {
+        "25.txt": 5
+    },
+    "freezing": {
+        "25.txt": 1
+    },
+    "fluidity": {
+        "25.txt": 1
+    },
+    "formaliter": {
+        "25.txt": 2
+    },
+    "formulae": {
+        "25.txt": 7
+    },
+    "failing": {
+        "25.txt": 5,
+        "11.txt": 1
+    },
+    "footed": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "filling": {
+        "25.txt": 7,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "falsehood": {
+        "25.txt": 6,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "fitting": {
+        "25.txt": 2,
+        "16.txt": 7,
+        "11.txt": 9,
+        "20.txt": 1
+    },
+    "forestall": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "flowing": {
+        "25.txt": 2,
+        "16.txt": 3,
+        "22.txt": 4,
+        "9.txt": 1
+    },
+    "fire": {
+        "25.txt": 4,
+        "16.txt": 15,
+        "11.txt": 7,
+        "20.txt": 11,
+        "22.txt": 4,
+        "9.txt": 2
+    },
+    "float": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "fancy": {
+        "25.txt": 5,
+        "16.txt": 11,
+        "11.txt": 3,
+        "22.txt": 1
+    },
+    "fictitious": {
+        "25.txt": 7,
+        "22.txt": 2
+    },
+    "facts": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "11.txt": 7,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "formative": {
+        "25.txt": 1
+    },
+    "filings": {
+        "25.txt": 1
+    },
+    "falsely": {
+        "25.txt": 7,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "fatum": {
+        "25.txt": 2
+    },
+    "forbids": {
+        "25.txt": 6
+    },
+    "figuratively": {
+        "25.txt": 1
+    },
+    "fog": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 34
+    },
+    "fanciful": {
+        "25.txt": 1
+    },
+    "forthcoming": {
+        "25.txt": 2
+    },
+    "fulfils": {
+        "25.txt": 2
+    },
+    "formulas": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "forcing": {
+        "25.txt": 2,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "fluency": {
+        "25.txt": 1
+    },
+    "followers": {
+        "25.txt": 1,
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "frame": {
+        "25.txt": 4,
+        "11.txt": 3
+    },
+    "forbid": {
+        "25.txt": 2,
+        "16.txt": 1
+    },
+    "foot": {
+        "25.txt": 2,
+        "16.txt": 5,
+        "11.txt": 3,
+        "20.txt": 8,
+        "9.txt": 3
+    },
+    "feet": {
+        "25.txt": 3,
+        "16.txt": 4,
+        "11.txt": 17,
+        "20.txt": 26,
+        "22.txt": 1,
+        "9.txt": 3
+    },
+    "fling": {
+        "25.txt": 1
+    },
+    "frustrated": {
+        "25.txt": 1
+    },
+    "falsity": {
+        "25.txt": 2,
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "favourable": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "favouring": {
+        "25.txt": 1
+    },
+    "figurae": {
+        "25.txt": 2
+    },
+    "famous": {
+        "25.txt": 1,
+        "16.txt": 15,
+        "20.txt": 1
+    },
+    "furnishing": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "fruitless": {
+        "25.txt": 5
+    },
+    "futility": {
+        "25.txt": 2
+    },
+    "fortified": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "fair": {
+        "25.txt": 2,
+        "16.txt": 10,
+        "11.txt": 6,
+        "9.txt": 4
+    },
+    "fourthly": {
+        "25.txt": 2,
+        "16.txt": 2
+    },
+    "fought": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "forbidden": {
+        "25.txt": 1
+    },
+    "fighting": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 2,
+        "20.txt": 2,
+        "9.txt": 3
+    },
+    "foundations": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "11.txt": 3,
+        "20.txt": 2,
+        "22.txt": 6
+    },
+    "failure": {
+        "25.txt": 2,
+        "9.txt": 1
+    },
+    "forgets": {
+        "25.txt": 1
+    },
+    "felt": {
+        "25.txt": 4,
+        "16.txt": 2,
+        "11.txt": 47,
+        "20.txt": 30,
+        "22.txt": 1,
+        "9.txt": 3
+    },
+    "fortunately": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "fiery": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "faith": {
+        "25.txt": 3,
+        "16.txt": 6,
+        "11.txt": 1,
+        "20.txt": 2,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "familiar": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 3,
+        "20.txt": 3,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "fear": {
+        "25.txt": 9,
+        "16.txt": 32,
+        "11.txt": 28,
+        "20.txt": 1,
+        "22.txt": 2,
+        "9.txt": 2
+    },
+    "frankly": {
+        "25.txt": 1,
+        "20.txt": 1
+    },
+    "fallible": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "favoured": {
+        "25.txt": 2
+    },
+    "footsteps": {
+        "25.txt": 2,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "fallacy": {
+        "25.txt": 9,
+        "22.txt": 1
+    },
+    "finitude": {
+        "25.txt": 2
+    },
+    "fourfold": {
+        "25.txt": 1
+    },
+    "father": {
+        "25.txt": 1,
+        "16.txt": 25,
+        "11.txt": 7,
+        "20.txt": 28,
+        "9.txt": 13
+    },
+    "farthest": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "fortunae": {
+        "25.txt": 1
+    },
+    "frivolity": {
+        "25.txt": 1
+    },
+    "forgetting": {
+        "25.txt": 1,
+        "20.txt": 1
+    },
+    "factitious": {
+        "25.txt": 1
+    },
+    "faint": {
+        "25.txt": 3,
+        "16.txt": 1,
+        "11.txt": 6,
+        "20.txt": 5
+    },
+    "framed": {
+        "25.txt": 7,
+        "16.txt": 1,
+        "20.txt": 2
+    },
+    "fallacies": {
+        "25.txt": 9,
+        "16.txt": 1
+    },
+    "footing": {
+        "25.txt": 4
+    },
+    "forbidding": {
+        "25.txt": 1
+    },
+    "fails": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "fecundity": {
+        "25.txt": 2
+    },
+    "favours": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "finding": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "faultless": {
+        "25.txt": 1
+    },
+    "focus": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "formarum": {
+        "25.txt": 3
+    },
+    "family": {
+        "25.txt": 1,
+        "16.txt": 6,
+        "11.txt": 21,
+        "20.txt": 3,
+        "9.txt": 1
+    },
+    "flattened": {
+        "25.txt": 1
+    },
+    "finalis": {
+        "25.txt": 1
+    },
+    "flattening": {
+        "25.txt": 1
+    },
+    "fluid": {
+        "25.txt": 2,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "forcibly": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "finality": {
+        "25.txt": 5,
+        "20.txt": 1
+    },
+    "fields": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 3,
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "fortunate": {
+        "25.txt": 1
+    },
+    "fosters": {
+        "25.txt": 1
+    },
+    "favourite": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "fantastic": {
+        "25.txt": 1,
+        "20.txt": 3
+    },
+    "faulty": {
+        "25.txt": 2
+    },
+    "fare": {
+        "25.txt": 1
+    },
+    "fraternal": {
+        "25.txt": 1
+    },
+    "foregone": {
+        "25.txt": 1
+    },
+    "falsify": {
+        "25.txt": 1
+    },
+    "fatal": {
+        "25.txt": 2,
+        "16.txt": 5,
+        "11.txt": 2
+    },
+    "fairness": {
+        "25.txt": 1
+    },
+    "fight": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "11.txt": 12,
+        "22.txt": 2,
+        "9.txt": 2
+    },
+    "fierce": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 4,
+        "20.txt": 5
+    },
+    "flat": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "20.txt": 8,
+        "9.txt": 3
+    },
+    "facta": {
+        "25.txt": 3
+    },
+    "facia": {
+        "25.txt": 1
+    },
+    "framing": {
+        "25.txt": 1
+    },
+    "falseness": {
+        "25.txt": 1
+    },
+    "fulfilled": {
+        "25.txt": 2,
+        "16.txt": 4
+    },
+    "founds": {
+        "25.txt": 1
+    },
+    "frustrate": {
+        "25.txt": 1
+    },
+    "fast": {
+        "25.txt": 1,
+        "16.txt": 4,
+        "11.txt": 3,
+        "20.txt": 5,
+        "9.txt": 1
+    },
+    "foreseen": {
+        "25.txt": 1
+    },
+    "fifth": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "20.txt": 3,
+        "22.txt": 1
+    },
+    "follower": {
+        "25.txt": 1
+    },
+    "footpath": {
+        "25.txt": 1
+    },
+    "forwards": {
+        "16.txt": 3
+    },
+    "font": {
+        "16.txt": 2
+    },
+    "fonts": {
+        "16.txt": 1
+    },
+    "folder": {
+        "16.txt": 1
+    },
+    "fine": {
+        "16.txt": 9,
+        "11.txt": 17,
+        "20.txt": 19,
+        "22.txt": 10,
+        "9.txt": 18
+    },
+    "faustina": {
+        "16.txt": 10
+    },
+    "fiercest": {
+        "16.txt": 1
+    },
+    "factions": {
+        "16.txt": 3
+    },
+    "face": {
+        "16.txt": 6,
+        "11.txt": 51,
+        "20.txt": 30,
+        "9.txt": 13
+    },
+    "frontier": {
+        "16.txt": 1
+    },
+    "floods": {
+        "16.txt": 1
+    },
+    "famine": {
+        "16.txt": 1
+    },
+    "foe": {
+        "16.txt": 2,
+        "11.txt": 1
+    },
+    "feeble": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "22.txt": 4,
+        "9.txt": 1
+    },
+    "fond": {
+        "16.txt": 2,
+        "11.txt": 1,
+        "9.txt": 4
+    },
+    "faces": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 16,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "ferocious": {
+        "16.txt": 1
+    },
+    "fatherless": {
+        "16.txt": 1
+    },
+    "faithful": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "founder": {
+        "16.txt": 5
+    },
+    "fusei": {
+        "16.txt": 1
+    },
+    "fantasias": {
+        "16.txt": 1
+    },
+    "fantasia": {
+        "16.txt": 1
+    },
+    "fellow": {
+        "16.txt": 7,
+        "11.txt": 5,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "friendship": {
+        "16.txt": 6,
+        "20.txt": 2
+    },
+    "faults": {
+        "16.txt": 2
+    },
+    "frankness": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "forgiven": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "faithfully": {
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "friend": {
+        "16.txt": 13,
+        "11.txt": 18,
+        "20.txt": 6,
+        "9.txt": 8
+    },
+    "foresaw": {
+        "16.txt": 1
+    },
+    "frontiers": {
+        "16.txt": 1
+    },
+    "forbear": {
+        "16.txt": 5
+    },
+    "fly": {
+        "16.txt": 9,
+        "11.txt": 1,
+        "20.txt": 6,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "fondly": {
+        "16.txt": 2
+    },
+    "fencers": {
+        "16.txt": 1
+    },
+    "flatterer": {
+        "16.txt": 2
+    },
+    "fawning": {
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "fronto": {
+        "16.txt": 41
+    },
+    "fraud": {
+        "16.txt": 1
+    },
+    "forgive": {
+        "16.txt": 1,
+        "11.txt": 6,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "foresee": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "flattery": {
+        "16.txt": 2
+    },
+    "flattered": {
+        "16.txt": 1
+    },
+    "forefathers": {
+        "16.txt": 2
+    },
+    "fits": {
+        "16.txt": 3,
+        "20.txt": 1
+    },
+    "fruition": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "flower": {
+        "16.txt": 2,
+        "20.txt": 2
+    },
+    "flesh": {
+        "16.txt": 8,
+        "11.txt": 4,
+        "20.txt": 6,
+        "9.txt": 1
+    },
+    "fro": {
+        "16.txt": 3,
+        "11.txt": 3
+    },
+    "fates": {
+        "16.txt": 8
+    },
+    "fears": {
+        "16.txt": 1,
+        "11.txt": 3
+    },
+    "fifthly": {
+        "16.txt": 2
+    },
+    "feignedly": {
+        "16.txt": 1
+    },
+    "feared": {
+        "16.txt": 2,
+        "11.txt": 5
+    },
+    "figs": {
+        "16.txt": 4
+    },
+    "fairest": {
+        "16.txt": 1
+    },
+    "froth": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "foaming": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "familiarly": {
+        "16.txt": 3,
+        "11.txt": 1
+    },
+    "foretold": {
+        "16.txt": 3
+    },
+    "fain": {
+        "16.txt": 3,
+        "11.txt": 1
+    },
+    "fortitude": {
+        "16.txt": 4
+    },
+    "foul": {
+        "16.txt": 1,
+        "11.txt": 3
+    },
+    "festered": {
+        "16.txt": 1
+    },
+    "families": {
+        "16.txt": 2,
+        "20.txt": 3
+    },
+    "fellowship": {
+        "16.txt": 1
+    },
+    "fiercely": {
+        "16.txt": 1
+    },
+    "forgotten": {
+        "16.txt": 12,
+        "11.txt": 4,
+        "20.txt": 7,
+        "9.txt": 1
+    },
+    "fig": {
+        "16.txt": 5
+    },
+    "furthered": {
+        "16.txt": 1
+    },
+    "frankincense": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "fruit": {
+        "16.txt": 10,
+        "20.txt": 4,
+        "22.txt": 1
+    },
+    "fraudulent": {
+        "16.txt": 1
+    },
+    "fugitive": {
+        "16.txt": 5
+    },
+    "flies": {
+        "16.txt": 2,
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "food": {
+        "16.txt": 7,
+        "11.txt": 1,
+        "20.txt": 10,
+        "22.txt": 2,
+        "9.txt": 2
+    },
+    "feasting": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "fretting": {
+        "16.txt": 1
+    },
+    "fabulous": {
+        "16.txt": 2,
+        "20.txt": 2
+    },
+    "flood": {
+        "16.txt": 4,
+        "20.txt": 1
+    },
+    "fools": {
+        "16.txt": 2,
+        "20.txt": 1
+    },
+    "fabius": {
+        "16.txt": 2
+    },
+    "findest": {
+        "16.txt": 2
+    },
+    "fruits": {
+        "16.txt": 3,
+        "22.txt": 3
+    },
+    "fulfilling": {
+        "16.txt": 1
+    },
+    "fomentations": {
+        "16.txt": 1
+    },
+    "flux": {
+        "16.txt": 3,
+        "20.txt": 2
+    },
+    "fasten": {
+        "16.txt": 2,
+        "20.txt": 1
+    },
+    "feasible": {
+        "16.txt": 1
+    },
+    "fool": {
+        "16.txt": 3,
+        "20.txt": 4
+    },
+    "foster": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "fathers": {
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "frozen": {
+        "16.txt": 1,
+        "20.txt": 3
+    },
+    "fortuit": {
+        "16.txt": 2
+    },
+    "fish": {
+        "16.txt": 4,
+        "11.txt": 1,
+        "20.txt": 7
+    },
+    "flocks": {
+        "16.txt": 5,
+        "11.txt": 1
+    },
+    "fluxes": {
+        "16.txt": 1
+    },
+    "feed": {
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 3,
+        "22.txt": 1
+    },
+    "friendly": {
+        "16.txt": 4,
+        "11.txt": 5
+    },
+    "forbearing": {
+        "16.txt": 1
+    },
+    "frightened": {
+        "16.txt": 1,
+        "11.txt": 9,
+        "20.txt": 2
+    },
+    "folded": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "furtherance": {
+        "16.txt": 2
+    },
+    "frailty": {
+        "16.txt": 2
+    },
+    "fastened": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "fishes": {
+        "16.txt": 1,
+        "11.txt": 3
+    },
+    "foolish": {
+        "16.txt": 4,
+        "11.txt": 2
+    },
+    "fashioned": {
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "feareth": {
+        "16.txt": 6
+    },
+    "filth": {
+        "16.txt": 2,
+        "9.txt": 1
+    },
+    "festivals": {
+        "16.txt": 1
+    },
+    "fairs": {
+        "16.txt": 1
+    },
+    "forty": {
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 8
+    },
+    "fickle": {
+        "16.txt": 2
+    },
+    "fluctuant": {
+        "16.txt": 1
+    },
+    "foil": {
+        "16.txt": 2
+    },
+    "frost": {
+        "16.txt": 2
+    },
+    "fetch": {
+        "16.txt": 2,
+        "20.txt": 2
+    },
+    "flieth": {
+        "16.txt": 1
+    },
+    "falleth": {
+        "16.txt": 1
+    },
+    "fornication": {
+        "16.txt": 1
+    },
+    "fables": {
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "facility": {
+        "16.txt": 1,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "foolery": {
+        "16.txt": 1
+    },
+    "fort": {
+        "16.txt": 1
+    },
+    "furiously": {
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "forget": {
+        "16.txt": 4,
+        "11.txt": 2,
+        "20.txt": 3,
+        "9.txt": 3
+    },
+    "friendships": {
+        "16.txt": 1
+    },
+    "fusive": {
+        "16.txt": 1
+    },
+    "filthy": {
+        "16.txt": 1,
+        "20.txt": 1,
+        "9.txt": 6
+    },
+    "factiously": {
+        "16.txt": 1
+    },
+    "forsake": {
+        "16.txt": 4,
+        "22.txt": 1
+    },
+    "faeces": {
+        "16.txt": 1
+    },
+    "fooleries": {
+        "16.txt": 1
+    },
+    "farewell": {
+        "16.txt": 11,
+        "20.txt": 1
+    },
+    "forsakes": {
+        "16.txt": 1
+    },
+    "flings": {
+        "16.txt": 1
+    },
+    "forceth": {
+        "16.txt": 1
+    },
+    "flame": {
+        "16.txt": 1,
+        "11.txt": 3,
+        "20.txt": 5,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "felicity": {
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "foiled": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "fareth": {
+        "16.txt": 1
+    },
+    "fetcheth": {
+        "16.txt": 1
+    },
+    "flying": {
+        "16.txt": 1,
+        "11.txt": 9,
+        "20.txt": 5
+    },
+    "forehead": {
+        "16.txt": 1,
+        "11.txt": 4
+    },
+    "foolishness": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "flock": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "fable": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "fright": {
+        "16.txt": 1,
+        "11.txt": 3,
+        "20.txt": 1
+    },
+    "fellows": {
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "flowed": {
+        "16.txt": 1
+    },
+    "furniture": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 3,
+        "9.txt": 1
+    },
+    "familiarity": {
+        "16.txt": 1
+    },
+    "fights": {
+        "16.txt": 2,
+        "20.txt": 2
+    },
+    "flexible": {
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "followeth": {
+        "16.txt": 1
+    },
+    "fragments": {
+        "16.txt": 1,
+        "11.txt": 7
+    },
+    "forbearance": {
+        "16.txt": 1
+    },
+    "finisht": {
+        "16.txt": 2
+    },
+    "farces": {
+        "16.txt": 1
+    },
+    "fount": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "farmer": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "fibs": {
+        "16.txt": 1
+    },
+    "filched": {
+        "16.txt": 1
+    },
+    "fleeting": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "fork": {
+        "16.txt": 2
+    },
+    "fane": {
+        "16.txt": 1
+    },
+    "forgiving": {
+        "16.txt": 1
+    },
+    "ferment": {
+        "16.txt": 1
+    },
+    "fin": {
+        "16.txt": 2
+    },
+    "formality": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "finger": {
+        "16.txt": 1,
+        "11.txt": 2,
+        "20.txt": 6
+    },
+    "feathers": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "faithfulness": {
+        "16.txt": 1
+    },
+    "fawn": {
+        "16.txt": 1
+    },
+    "feign": {
+        "16.txt": 1
+    },
+    "fearlessly": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "fatuous": {
+        "16.txt": 1
+    },
+    "fusiz": {
+        "16.txt": 1
+    },
+    "frag": {
+        "16.txt": 5
+    },
+    "f": {
+        "16.txt": 1,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "factiones": {
+        "16.txt": 1
+    },
+    "fl": {
+        "16.txt": 1
+    },
+    "freedman": {
+        "16.txt": 1
+    },
+    "fated": {
+        "16.txt": 1
+    },
+    "fired": {
+        "11.txt": 5,
+        "20.txt": 4
+    },
+    "farm": {
+        "11.txt": 27,
+        "9.txt": 2
+    },
+    "forbears": {
+        "11.txt": 1
+    },
+    "festivities": {
+        "11.txt": 4
+    },
+    "flew": {
+        "11.txt": 8,
+        "20.txt": 1
+    },
+    "flag": {
+        "11.txt": 2
+    },
+    "front": {
+        "11.txt": 7,
+        "20.txt": 7,
+        "9.txt": 3
+    },
+    "furthest": {
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "familiarisation": {
+        "11.txt": 1
+    },
+    "freehold": {
+        "11.txt": 1
+    },
+    "fortifications": {
+        "11.txt": 1
+    },
+    "furtively": {
+        "11.txt": 1
+    },
+    "fete": {
+        "11.txt": 1
+    },
+    "farriery": {
+        "11.txt": 1
+    },
+    "fur": {
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "forest": {
+        "11.txt": 3,
+        "20.txt": 3,
+        "22.txt": 2
+    },
+    "foreknowledge": {
+        "11.txt": 1
+    },
+    "fens": {
+        "11.txt": 1
+    },
+    "flourished": {
+        "11.txt": 3,
+        "20.txt": 2
+    },
+    "finished": {
+        "11.txt": 3,
+        "20.txt": 6,
+        "22.txt": 4,
+        "9.txt": 1
+    },
+    "fending": {
+        "11.txt": 1
+    },
+    "forgo": {
+        "11.txt": 2
+    },
+    "flamed": {
+        "11.txt": 2,
+        "9.txt": 1
+    },
+    "fainted": {
+        "11.txt": 4
+    },
+    "feeding": {
+        "11.txt": 1,
+        "20.txt": 3
+    },
+    "factotum": {
+        "11.txt": 1
+    },
+    "finder": {
+        "11.txt": 1
+    },
+    "frighten": {
+        "11.txt": 3,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "farmyard": {
+        "11.txt": 1
+    },
+    "fury": {
+        "11.txt": 5,
+        "20.txt": 1
+    },
+    "furious": {
+        "11.txt": 4
+    },
+    "fervent": {
+        "11.txt": 1
+    },
+    "freshly": {
+        "11.txt": 1
+    },
+    "fever": {
+        "11.txt": 2,
+        "20.txt": 10
+    },
+    "fascinated": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "forgot": {
+        "11.txt": 4,
+        "20.txt": 1
+    },
+    "fondle": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "foliage": {
+        "11.txt": 1
+    },
+    "france": {
+        "11.txt": 3,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "feebler": {
+        "11.txt": 1
+    },
+    "fiercer": {
+        "11.txt": 1
+    },
+    "forgetfulness": {
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "flooded": {
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "farmers": {
+        "11.txt": 4
+    },
+    "flown": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "factor": {
+        "11.txt": 1
+    },
+    "forebears": {
+        "11.txt": 1
+    },
+    "fascination": {
+        "11.txt": 1
+    },
+    "fearsome": {
+        "11.txt": 1
+    },
+    "fungi": {
+        "11.txt": 1
+    },
+    "flawless": {
+        "11.txt": 1
+    },
+    "frail": {
+        "11.txt": 1
+    },
+    "flaming": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "festival": {
+        "11.txt": 1
+    },
+    "furthering": {
+        "11.txt": 1
+    },
+    "fervid": {
+        "11.txt": 1
+    },
+    "flouted": {
+        "11.txt": 1
+    },
+    "forsook": {
+        "11.txt": 1
+    },
+    "forests": {
+        "11.txt": 1
+    },
+    "flog": {
+        "11.txt": 1
+    },
+    "fuel": {
+        "11.txt": 1
+    },
+    "frightens": {
+        "11.txt": 1
+    },
+    "froid": {
+        "11.txt": 1
+    },
+    "flapping": {
+        "11.txt": 2
+    },
+    "finely": {
+        "11.txt": 1
+    },
+    "filtered": {
+        "11.txt": 1
+    },
+    "flash": {
+        "11.txt": 5,
+        "20.txt": 3
+    },
+    "forthwith": {
+        "11.txt": 1
+    },
+    "fortress": {
+        "11.txt": 1
+    },
+    "floor": {
+        "11.txt": 8,
+        "20.txt": 15,
+        "9.txt": 8
+    },
+    "frontage": {
+        "11.txt": 1
+    },
+    "flaw": {
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "ferocity": {
+        "11.txt": 2
+    },
+    "fingered": {
+        "11.txt": 1
+    },
+    "forewarned": {
+        "11.txt": 1
+    },
+    "forearmed": {
+        "11.txt": 2
+    },
+    "faugh": {
+        "11.txt": 1
+    },
+    "foothold": {
+        "11.txt": 1
+    },
+    "frightful": {
+        "11.txt": 2
+    },
+    "fathomless": {
+        "11.txt": 1
+    },
+    "fearless": {
+        "11.txt": 2
+    },
+    "friendliness": {
+        "11.txt": 1
+    },
+    "flirt": {
+        "11.txt": 1
+    },
+    "flaws": {
+        "11.txt": 1
+    },
+    "fresher": {
+        "11.txt": 1
+    },
+    "funking": {
+        "11.txt": 1
+    },
+    "feminine": {
+        "11.txt": 3
+    },
+    "foreground": {
+        "11.txt": 1
+    },
+    "faced": {
+        "11.txt": 1,
+        "20.txt": 3
+    },
+    "fatherly": {
+        "11.txt": 1
+    },
+    "facilities": {
+        "11.txt": 1
+    },
+    "fins": {
+        "11.txt": 1
+    },
+    "folds": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "footfalls": {
+        "11.txt": 1
+    },
+    "fanned": {
+        "11.txt": 1
+    },
+    "footmen": {
+        "11.txt": 3
+    },
+    "fullest": {
+        "11.txt": 1
+    },
+    "flung": {
+        "11.txt": 1,
+        "20.txt": 4
+    },
+    "fillip": {
+        "11.txt": 1
+    },
+    "financial": {
+        "11.txt": 1
+    },
+    "friction": {
+        "11.txt": 1
+    },
+    "fuse": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "formally": {
+        "11.txt": 1
+    },
+    "farmhouse": {
+        "11.txt": 1
+    },
+    "forenoon": {
+        "11.txt": 1
+    },
+    "flourishing": {
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "fainting": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "features": {
+        "11.txt": 1
+    },
+    "fixedly": {
+        "11.txt": 1
+    },
+    "fettered": {
+        "11.txt": 1
+    },
+    "flooding": {
+        "11.txt": 1
+    },
+    "frock": {
+        "11.txt": 1
+    },
+    "flush": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "fixedness": {
+        "11.txt": 1
+    },
+    "flagstaff": {
+        "11.txt": 1
+    },
+    "floated": {
+        "11.txt": 1
+    },
+    "fiendishly": {
+        "11.txt": 1
+    },
+    "fascinate": {
+        "11.txt": 1
+    },
+    "feverish": {
+        "11.txt": 1,
+        "20.txt": 4
+    },
+    "fingering": {
+        "11.txt": 1
+    },
+    "fastening": {
+        "11.txt": 1
+    },
+    "fearful": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "flashes": {
+        "11.txt": 2
+    },
+    "faster": {
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "flames": {
+        "11.txt": 3,
+        "20.txt": 1
+    },
+    "fat": {
+        "11.txt": 1
+    },
+    "flickering": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "fringes": {
+        "11.txt": 1
+    },
+    "fissures": {
+        "11.txt": 1
+    },
+    "fissure": {
+        "11.txt": 1
+    },
+    "funeral": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "flasks": {
+        "20.txt": 1
+    },
+    "froze": {
+        "20.txt": 5
+    },
+    "fireworks": {
+        "20.txt": 3
+    },
+    "flares": {
+        "20.txt": 1
+    },
+    "fade": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "fifteen": {
+        "20.txt": 4,
+        "9.txt": 1
+    },
+    "footfall": {
+        "20.txt": 1
+    },
+    "feverdream": {
+        "20.txt": 6
+    },
+    "fluttered": {
+        "20.txt": 4
+    },
+    "fingernails": {
+        "20.txt": 4
+    },
+    "flickerings": {
+        "20.txt": 1
+    },
+    "faintly": {
+        "20.txt": 4
+    },
+    "fiddle": {
+        "20.txt": 1
+    },
+    "finest": {
+        "20.txt": 1
+    },
+    "favoring": {
+        "20.txt": 1
+    },
+    "furies": {
+        "20.txt": 1
+    },
+    "fading": {
+        "20.txt": 1
+    },
+    "folding": {
+        "20.txt": 2
+    },
+    "frowning": {
+        "20.txt": 1
+    },
+    "fluttering": {
+        "20.txt": 2
+    },
+    "folk": {
+        "20.txt": 1
+    },
+    "fie": {
+        "20.txt": 1
+    },
+    "faindy": {
+        "20.txt": 1
+    },
+    "flodden": {
+        "20.txt": 2
+    },
+    "feverishly": {
+        "20.txt": 2
+    },
+    "flushed": {
+        "20.txt": 5
+    },
+    "favorite": {
+        "20.txt": 1
+    },
+    "famiiar": {
+        "20.txt": 1
+    },
+    "farewells": {
+        "20.txt": 1
+    },
+    "furs": {
+        "20.txt": 1
+    },
+    "fires": {
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "fence": {
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "film": {
+        "20.txt": 7,
+        "9.txt": 8
+    },
+    "flickered": {
+        "20.txt": 4
+    },
+    "flee": {
+        "20.txt": 2
+    },
+    "fled": {
+        "20.txt": 2
+    },
+    "ferns": {
+        "20.txt": 1
+    },
+    "floats": {
+        "20.txt": 1
+    },
+    "flowers": {
+        "20.txt": 2
+    },
+    "franchise": {
+        "20.txt": 1
+    },
+    "finicky": {
+        "20.txt": 1
+    },
+    "foxes": {
+        "20.txt": 2
+    },
+    "fox": {
+        "20.txt": 1
+    },
+    "fun": {
+        "20.txt": 3
+    },
+    "figured": {
+        "20.txt": 1
+    },
+    "fluids": {
+        "20.txt": 1
+    },
+    "faded": {
+        "20.txt": 2
+    },
+    "forearms": {
+        "20.txt": 1
+    },
+    "forfeit": {
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "fumbled": {
+        "20.txt": 3
+    },
+    "freshness": {
+        "20.txt": 1
+    },
+    "failures": {
+        "20.txt": 1
+    },
+    "furnace": {
+        "20.txt": 3
+    },
+    "foghorn": {
+        "20.txt": 5
+    },
+    "fathomsray": {
+        "20.txt": 1
+    },
+    "foam": {
+        "20.txt": 1
+    },
+    "funny": {
+        "20.txt": 3,
+        "9.txt": 4
+    },
+    "flashing": {
+        "20.txt": 1
+    },
+    "fairy": {
+        "20.txt": 1
+    },
+    "flicker": {
+        "20.txt": 3
+    },
+    "fogs": {
+        "20.txt": 1
+    },
+    "flicked": {
+        "20.txt": 6
+    },
+    "fearfully": {
+        "20.txt": 1
+    },
+    "framework": {
+        "20.txt": 1
+    },
+    "futurity": {
+        "20.txt": 1
+    },
+    "formidible": {
+        "20.txt": 1
+    },
+    "futilely": {
+        "20.txt": 1
+    },
+    "fists": {
+        "20.txt": 4
+    },
+    "finesse": {
+        "20.txt": 1
+    },
+    "fed": {
+        "20.txt": 3,
+        "9.txt": 1
+    },
+    "french": {
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "fry": {
+        "20.txt": 1
+    },
+    "frantic": {
+        "20.txt": 1
+    },
+    "faraway": {
+        "20.txt": 1
+    },
+    "fountains": {
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "fantasies": {
+        "20.txt": 1
+    },
+    "fireflies": {
+        "20.txt": 1
+    },
+    "flights": {
+        "20.txt": 1
+    },
+    "flue": {
+        "20.txt": 3
+    },
+    "forbade": {
+        "20.txt": 1
+    },
+    "feast": {
+        "20.txt": 1
+    },
+    "fruitcake": {
+        "20.txt": 2
+    },
+    "freudian": {
+        "20.txt": 1
+    },
+    "fatherland": {
+        "20.txt": 1
+    },
+    "floors": {
+        "20.txt": 1
+    },
+    "freud": {
+        "20.txt": 1
+    },
+    "founts": {
+        "20.txt": 1
+    },
+    "fairies": {
+        "20.txt": 1
+    },
+    "fourteen": {
+        "20.txt": 1
+    },
+    "fold": {
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "fist": {
+        "20.txt": 4,
+        "9.txt": 1
+    },
+    "forelock": {
+        "20.txt": 1
+    },
+    "fibrillate": {
+        "20.txt": 1
+    },
+    "farms": {
+        "20.txt": 1
+    },
+    "flipped": {
+        "20.txt": 1
+    },
+    "freeze": {
+        "20.txt": 1
+    },
+    "frijole": {
+        "20.txt": 1
+    },
+    "flexing": {
+        "20.txt": 1
+    },
+    "finer": {
+        "20.txt": 1
+    },
+    "flailed": {
+        "20.txt": 1
+    },
+    "frosted": {
+        "20.txt": 1
+    },
+    "fizzed": {
+        "20.txt": 1
+    },
+    "flaked": {
+        "20.txt": 2
+    },
+    "floured": {
+        "20.txt": 1
+    },
+    "flinched": {
+        "20.txt": 1
+    },
+    "faltered": {
+        "20.txt": 1
+    },
+    "fanning": {
+        "20.txt": 1
+    },
+    "flushing": {
+        "20.txt": 1
+    },
+    "fullness": {
+        "22.txt": 1
+    },
+    "favor": {
+        "22.txt": 5
+    },
+    "fertile": {
+        "22.txt": 1
+    },
+    "fundamentally": {
+        "22.txt": 1
+    },
+    "frequented": {
+        "22.txt": 1
+    },
+    "folly": {
+        "22.txt": 1
+    },
+    "fatiguing": {
+        "22.txt": 1
+    },
+    "favors": {
+        "22.txt": 1
+    },
+    "fearing": {
+        "22.txt": 1
+    },
+    "feigned": {
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "fermentation": {
+        "22.txt": 1
+    },
+    "firmer": {
+        "22.txt": 1
+    },
+    "flows": {
+        "22.txt": 6
+    },
+    "fittest": {
+        "22.txt": 1
+    },
+    "fabric": {
+        "22.txt": 1
+    },
+    "fabricated": {
+        "22.txt": 1
+    },
+    "fuller": {
+        "22.txt": 1
+    },
+    "forasmuch": {
+        "22.txt": 1
+    },
+    "forwarding": {
+        "22.txt": 1
+    },
+    "fulfill": {
+        "22.txt": 1
+    },
+    "farrell": {
+        "9.txt": 1
+    },
+    "francis": {
+        "9.txt": 1
+    },
+    "fibreglass": {
+        "9.txt": 2
+    },
+    "fillied": {
+        "9.txt": 2
+    },
+    "fagged": {
+        "9.txt": 1
+    },
+    "fashed": {
+        "9.txt": 1
+    },
+    "flatblock": {
+        "9.txt": 6
+    },
+    "factory": {
+        "9.txt": 1
+    },
+    "fuzzy": {
+        "9.txt": 1
+    },
+    "fi": {
+        "9.txt": 4
+    },
+    "frightfully": {
+        "9.txt": 2
+    },
+    "fends": {
+        "9.txt": 1
+    },
+    "fatneck": {
+        "9.txt": 5
+    },
+    "fireball": {
+        "9.txt": 1
+    },
+    "facing": {
+        "9.txt": 2
+    },
+    "furtherence": {
+        "9.txt": 1
+    },
+    "fortnight": {
+        "9.txt": 3
+    },
+    "fifties": {
+        "9.txt": 1
+    },
+    "films": {
+        "9.txt": 5
+    },
+    "fag": {
+        "9.txt": 1
+    },
+    "fake": {
+        "9.txt": 1
+    },
+    "fella": {
+        "9.txt": 1
+    },
+    "frank": {
+        "9.txt": 6
+    },
+    "frenzied": {
+        "9.txt": 1
+    },
+    "freezes": {
+        "9.txt": 1
+    },
+    "flu": {
+        "9.txt": 1
+    },
+    "fumbling": {
+        "9.txt": 1
+    },
+    "fucking": {
+        "9.txt": 1
+    },
+    "frederick": {
+        "9.txt": 1
+    },
+    "fred": {
+        "9.txt": 3
+    }
+}

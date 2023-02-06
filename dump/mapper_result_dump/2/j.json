@@ -1,0 +1,581 @@
+{
+    "journey": {
+        "19.txt": 30,
+        "1.txt": 4,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "joy": {
+        "19.txt": 31,
+        "1.txt": 2,
+        "5.txt": 6,
+        "8.txt": 11,
+        "4.txt": 2
+    },
+    "joined": {
+        "19.txt": 23,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 3,
+        "8.txt": 1
+    },
+    "janitor": {
+        "19.txt": 9
+    },
+    "job": {
+        "19.txt": 29,
+        "1.txt": 11,
+        "5.txt": 2
+    },
+    "jabbed": {
+        "19.txt": 1
+    },
+    "jangling": {
+        "19.txt": 2
+    },
+    "jerked": {
+        "19.txt": 6,
+        "1.txt": 1
+    },
+    "just": {
+        "19.txt": 267,
+        "1.txt": 314,
+        "24.txt": 47,
+        "5.txt": 11,
+        "8.txt": 3,
+        "4.txt": 15
+    },
+    "join": {
+        "19.txt": 11,
+        "1.txt": 11,
+        "24.txt": 4,
+        "4.txt": 2
+    },
+    "jumped": {
+        "19.txt": 27,
+        "1.txt": 2,
+        "4.txt": 9
+    },
+    "jew": {
+        "19.txt": 3,
+        "5.txt": 9
+    },
+    "justification": {
+        "19.txt": 1,
+        "24.txt": 4,
+        "5.txt": 1
+    },
+    "jumping": {
+        "19.txt": 6
+    },
+    "junction": {
+        "19.txt": 5
+    },
+    "juice": {
+        "19.txt": 2,
+        "1.txt": 6
+    },
+    "japan": {
+        "19.txt": 4,
+        "5.txt": 2
+    },
+    "joked": {
+        "19.txt": 5
+    },
+    "jotted": {
+        "19.txt": 1
+    },
+    "jokes": {
+        "19.txt": 11,
+        "1.txt": 4
+    },
+    "jack": {
+        "19.txt": 7
+    },
+    "jerks": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "july": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "joke": {
+        "19.txt": 8,
+        "1.txt": 6,
+        "4.txt": 3
+    },
+    "jellyfish": {
+        "19.txt": 1
+    },
+    "jackets": {
+        "19.txt": 7,
+        "1.txt": 3
+    },
+    "justify": {
+        "19.txt": 2,
+        "24.txt": 6
+    },
+    "jail": {
+        "19.txt": 9
+    },
+    "jowls": {
+        "19.txt": 1
+    },
+    "jealous": {
+        "19.txt": 16,
+        "1.txt": 2,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "judgment": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "5.txt": 7,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "jauntily": {
+        "19.txt": 1
+    },
+    "january": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 3
+    },
+    "jacket": {
+        "19.txt": 5,
+        "1.txt": 26
+    },
+    "john": {
+        "19.txt": 2
+    },
+    "joyful": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "jobs": {
+        "19.txt": 6,
+        "1.txt": 2
+    },
+    "joking": {
+        "19.txt": 8,
+        "1.txt": 3
+    },
+    "jumps": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "jewel": {
+        "19.txt": 1,
+        "8.txt": 8
+    },
+    "joyfully": {
+        "19.txt": 3
+    },
+    "jar": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "4.txt": 6
+    },
+    "judged": {
+        "19.txt": 4,
+        "24.txt": 4,
+        "5.txt": 1
+    },
+    "jaw": {
+        "19.txt": 5,
+        "1.txt": 3
+    },
+    "jolted": {
+        "19.txt": 4
+    },
+    "jogged": {
+        "19.txt": 1
+    },
+    "jewish": {
+        "19.txt": 3,
+        "5.txt": 49
+    },
+    "journalists": {
+        "19.txt": 1
+    },
+    "journalistic": {
+        "19.txt": 1
+    },
+    "jews": {
+        "19.txt": 6,
+        "5.txt": 39
+    },
+    "june": {
+        "19.txt": 1
+    },
+    "jasmine": {
+        "19.txt": 2
+    },
+    "jungle": {
+        "19.txt": 3
+    },
+    "jug": {
+        "19.txt": 2
+    },
+    "judging": {
+        "19.txt": 10,
+        "1.txt": 2,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "judases": {
+        "19.txt": 1
+    },
+    "joints": {
+        "19.txt": 2,
+        "1.txt": 4
+    },
+    "jerking": {
+        "19.txt": 4
+    },
+    "junk": {
+        "19.txt": 1
+    },
+    "jovial": {
+        "19.txt": 1
+    },
+    "journalist": {
+        "19.txt": 1
+    },
+    "jaws": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "4.txt": 3
+    },
+    "journal": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "juicy": {
+        "19.txt": 2
+    },
+    "janitress": {
+        "19.txt": 4
+    },
+    "judge": {
+        "19.txt": 5,
+        "1.txt": 4,
+        "24.txt": 7,
+        "5.txt": 6,
+        "8.txt": 1
+    },
+    "jailors": {
+        "19.txt": 1
+    },
+    "justifies": {
+        "19.txt": 2,
+        "24.txt": 5,
+        "5.txt": 1
+    },
+    "jetty": {
+        "19.txt": 1
+    },
+    "justified": {
+        "19.txt": 2,
+        "24.txt": 12,
+        "5.txt": 3
+    },
+    "justice": {
+        "19.txt": 4,
+        "1.txt": 9,
+        "24.txt": 7,
+        "5.txt": 16
+    },
+    "jerk": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "jolting": {
+        "19.txt": 1
+    },
+    "jutting": {
+        "19.txt": 1
+    },
+    "jolt": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "janizaries": {
+        "19.txt": 1
+    },
+    "jump": {
+        "19.txt": 4,
+        "1.txt": 10,
+        "4.txt": 2
+    },
+    "jaundice": {
+        "19.txt": 1
+    },
+    "journals": {
+        "19.txt": 1
+    },
+    "jumbled": {
+        "19.txt": 1
+    },
+    "jars": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "jacobin": {
+        "19.txt": 1
+    },
+    "judas": {
+        "19.txt": 3
+    },
+    "jostling": {
+        "19.txt": 6
+    },
+    "jupiter": {
+        "19.txt": 2,
+        "4.txt": 5
+    },
+    "justifying": {
+        "19.txt": 1
+    },
+    "joint": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "junior": {
+        "19.txt": 3
+    },
+    "jackass": {
+        "19.txt": 1
+    },
+    "jokingly": {
+        "19.txt": 2
+    },
+    "jingle": {
+        "19.txt": 1
+    },
+    "jacketed": {
+        "19.txt": 1
+    },
+    "joining": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "jealousy": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "juliet": {
+        "19.txt": 1
+    },
+    "jonah": {
+        "19.txt": 1
+    },
+    "jules": {
+        "19.txt": 1
+    },
+    "justifiably": {
+        "19.txt": 1
+    },
+    "japanese": {
+        "19.txt": 1,
+        "5.txt": 6
+    },
+    "justly": {
+        "19.txt": 1,
+        "24.txt": 4,
+        "5.txt": 2
+    },
+    "jesuits": {
+        "19.txt": 1
+    },
+    "jumble": {
+        "19.txt": 1
+    },
+    "jesus": {
+        "19.txt": 3,
+        "5.txt": 4
+    },
+    "joins": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "jets": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "jerusalem": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "johanna": {
+        "1.txt": 1
+    },
+    "jay": {
+        "1.txt": 2,
+        "4.txt": 4
+    },
+    "jabber": {
+        "1.txt": 2
+    },
+    "jays": {
+        "1.txt": 1,
+        "4.txt": 1
+    },
+    "jumpsuits": {
+        "1.txt": 1
+    },
+    "jewels": {
+        "1.txt": 4,
+        "8.txt": 12
+    },
+    "juices": {
+        "1.txt": 2
+    },
+    "jotting": {
+        "1.txt": 1
+    },
+    "judges": {
+        "1.txt": 1,
+        "24.txt": 2
+    },
+    "jeweled": {
+        "1.txt": 1
+    },
+    "jog": {
+        "1.txt": 1
+    },
+    "jogging": {
+        "1.txt": 1
+    },
+    "jackers": {
+        "1.txt": 12
+    },
+    "jabberjays": {
+        "1.txt": 1
+    },
+    "jacker": {
+        "1.txt": 23
+    },
+    "jolts": {
+        "1.txt": 1
+    },
+    "jeopardize": {
+        "1.txt": 1
+    },
+    "jam": {
+        "1.txt": 2
+    },
+    "jams": {
+        "1.txt": 1
+    },
+    "jagged": {
+        "1.txt": 1
+    },
+    "jet": {
+        "1.txt": 1
+    },
+    "jabs": {
+        "1.txt": 1
+    },
+    "judgement": {
+        "24.txt": 47
+    },
+    "judgements": {
+        "24.txt": 10
+    },
+    "jubeo": {
+        "24.txt": 1
+    },
+    "jocose": {
+        "24.txt": 1
+    },
+    "jugglery": {
+        "24.txt": 1
+    },
+    "judicial": {
+        "24.txt": 2
+    },
+    "jesting": {
+        "24.txt": 2,
+        "4.txt": 1
+    },
+    "juvenal": {
+        "24.txt": 2
+    },
+    "jersey": {
+        "24.txt": 1
+    },
+    "j": {
+        "5.txt": 1
+    },
+    "joys": {
+        "5.txt": 1,
+        "8.txt": 4
+    },
+    "jewry": {
+        "5.txt": 3
+    },
+    "judgments": {
+        "5.txt": 2
+    },
+    "jest": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "joyous": {
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "jib": {
+        "5.txt": 1
+    },
+    "jointly": {
+        "5.txt": 1
+    },
+    "juggling": {
+        "5.txt": 1
+    },
+    "judaism": {
+        "5.txt": 8
+    },
+    "juster": {
+        "5.txt": 1
+    },
+    "joyless": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "judicious": {
+        "5.txt": 1
+    },
+    "jocund": {
+        "8.txt": 1
+    },
+    "joyed": {
+        "8.txt": 1
+    },
+    "jewelled": {
+        "8.txt": 1
+    },
+    "joyously": {
+        "8.txt": 1
+    },
+    "juno": {
+        "4.txt": 4
+    },
+    "jackal": {
+        "4.txt": 1
+    },
+    "jellies": {
+        "4.txt": 1
+    },
+    "jove": {
+        "4.txt": 5
+    },
+    "jeer": {
+        "4.txt": 1
+    }
+}

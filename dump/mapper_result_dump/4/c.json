@@ -1,0 +1,6924 @@
+{
+    "copyright": {
+        "15.txt": 2,
+        "13.txt": 8,
+        "14.txt": 10
+    },
+    "c": {
+        "15.txt": 10,
+        "18.txt": 3,
+        "13.txt": 2,
+        "14.txt": 2,
+        "6.txt": 4
+    },
+    "consideration": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "14.txt": 3,
+        "23.txt": 4
+    },
+    "children": {
+        "15.txt": 107,
+        "7.txt": 37,
+        "18.txt": 30,
+        "13.txt": 6,
+        "14.txt": 2,
+        "23.txt": 1,
+        "6.txt": 6
+    },
+    "charles": {
+        "15.txt": 5,
+        "18.txt": 1
+    },
+    "conscious": {
+        "15.txt": 5,
+        "7.txt": 2,
+        "18.txt": 4,
+        "13.txt": 1,
+        "14.txt": 5,
+        "23.txt": 2,
+        "6.txt": 4
+    },
+    "couldn": {
+        "15.txt": 51,
+        "18.txt": 21,
+        "13.txt": 28,
+        "6.txt": 5
+    },
+    "cared": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "could": {
+        "15.txt": 221,
+        "7.txt": 242,
+        "18.txt": 123,
+        "13.txt": 61,
+        "14.txt": 41,
+        "23.txt": 56,
+        "6.txt": 21
+    },
+    "came": {
+        "15.txt": 120,
+        "7.txt": 168,
+        "18.txt": 18,
+        "13.txt": 106,
+        "23.txt": 3,
+        "6.txt": 7
+    },
+    "come": {
+        "15.txt": 157,
+        "7.txt": 144,
+        "18.txt": 65,
+        "13.txt": 86,
+        "14.txt": 8,
+        "23.txt": 8,
+        "6.txt": 7
+    },
+    "creeks": {
+        "15.txt": 1
+    },
+    "creek": {
+        "15.txt": 5,
+        "7.txt": 1
+    },
+    "consulted": {
+        "15.txt": 2,
+        "7.txt": 6
+    },
+    "cornwall": {
+        "15.txt": 1
+    },
+    "called": {
+        "15.txt": 70,
+        "7.txt": 35,
+        "18.txt": 15,
+        "13.txt": 29,
+        "14.txt": 37,
+        "23.txt": 7,
+        "6.txt": 5
+    },
+    "costly": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 2
+    },
+    "chattels": {
+        "15.txt": 1
+    },
+    "customary": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "23.txt": 2
+    },
+    "cotton": {
+        "15.txt": 22,
+        "7.txt": 6,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "comparison": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "14.txt": 3,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "clothing": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "century": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "13.txt": 1,
+        "6.txt": 3
+    },
+    "county": {
+        "15.txt": 82
+    },
+    "courthouse": {
+        "15.txt": 28
+    },
+    "contained": {
+        "15.txt": 4,
+        "7.txt": 10,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 1,
+        "23.txt": 10,
+        "6.txt": 1
+    },
+    "checkerboard": {
+        "15.txt": 2
+    },
+    "code": {
+        "15.txt": 6,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "clients": {
+        "15.txt": 4
+    },
+    "coming": {
+        "15.txt": 38,
+        "7.txt": 15,
+        "18.txt": 29,
+        "13.txt": 10,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "criminal": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "chose": {
+        "15.txt": 7,
+        "7.txt": 6,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "carts": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "collars": {
+        "15.txt": 2
+    },
+    "clock": {
+        "15.txt": 24,
+        "18.txt": 10,
+        "13.txt": 32,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "calpurnia": {
+        "15.txt": 154
+    },
+    "cook": {
+        "15.txt": 10,
+        "7.txt": 18
+    },
+    "courteous": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "calling": {
+        "15.txt": 7,
+        "7.txt": 7,
+        "18.txt": 9,
+        "13.txt": 8,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "clearly": {
+        "15.txt": 7,
+        "7.txt": 2,
+        "18.txt": 7,
+        "13.txt": 2,
+        "14.txt": 5,
+        "23.txt": 15,
+        "6.txt": 4
+    },
+    "car": {
+        "15.txt": 19,
+        "18.txt": 2,
+        "13.txt": 73,
+        "6.txt": 2
+    },
+    "collard": {
+        "15.txt": 2
+    },
+    "collards": {
+        "15.txt": 5
+    },
+    "can": {
+        "15.txt": 281,
+        "7.txt": 125,
+        "18.txt": 339,
+        "13.txt": 67,
+        "14.txt": 162,
+        "23.txt": 47,
+        "6.txt": 37
+    },
+    "call": {
+        "15.txt": 28,
+        "7.txt": 12,
+        "18.txt": 22,
+        "13.txt": 18,
+        "14.txt": 17,
+        "23.txt": 2,
+        "6.txt": 5
+    },
+    "child": {
+        "15.txt": 34,
+        "7.txt": 17,
+        "18.txt": 6,
+        "13.txt": 9,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "contest": {
+        "15.txt": 3
+    },
+    "chevrons": {
+        "15.txt": 1
+    },
+    "curiosity": {
+        "15.txt": 6,
+        "7.txt": 19,
+        "13.txt": 4,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "cowlick": {
+        "15.txt": 1
+    },
+    "center": {
+        "15.txt": 8,
+        "18.txt": 13,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "contentment": {
+        "15.txt": 2,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "chinaberry": {
+        "15.txt": 3
+    },
+    "character": {
+        "15.txt": 6,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 4,
+        "14.txt": 8,
+        "23.txt": 1,
+        "6.txt": 6
+    },
+    "crabtree": {
+        "15.txt": 1
+    },
+    "countless": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "6.txt": 2
+    },
+    "corner": {
+        "15.txt": 52,
+        "7.txt": 13,
+        "18.txt": 10,
+        "13.txt": 9,
+        "6.txt": 1
+    },
+    "curve": {
+        "15.txt": 7,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "color": {
+        "15.txt": 6,
+        "18.txt": 6,
+        "13.txt": 8,
+        "6.txt": 7
+    },
+    "cold": {
+        "15.txt": 23,
+        "7.txt": 3,
+        "18.txt": 24,
+        "13.txt": 14,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "crimes": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 3,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "committed": {
+        "15.txt": 5,
+        "7.txt": 5,
+        "13.txt": 1
+    },
+    "chickens": {
+        "15.txt": 7
+    },
+    "culprit": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "crazy": {
+        "15.txt": 14,
+        "7.txt": 3,
+        "18.txt": 9,
+        "13.txt": 14
+    },
+    "cut": {
+        "15.txt": 17,
+        "7.txt": 32,
+        "18.txt": 9,
+        "13.txt": 7,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "chickenyard": {
+        "15.txt": 1
+    },
+    "church": {
+        "15.txt": 44,
+        "13.txt": 9,
+        "6.txt": 7
+    },
+    "crossed": {
+        "15.txt": 11,
+        "7.txt": 5,
+        "18.txt": 4,
+        "13.txt": 4,
+        "6.txt": 2
+    },
+    "coffee": {
+        "15.txt": 12,
+        "18.txt": 7,
+        "13.txt": 7
+    },
+    "certainly": {
+        "15.txt": 24,
+        "7.txt": 20,
+        "18.txt": 10,
+        "13.txt": 8,
+        "14.txt": 10,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "circle": {
+        "15.txt": 9,
+        "7.txt": 4,
+        "18.txt": 14,
+        "13.txt": 6,
+        "14.txt": 4,
+        "23.txt": 1
+    },
+    "carrying": {
+        "15.txt": 15,
+        "7.txt": 17,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "closed": {
+        "15.txt": 17,
+        "7.txt": 14,
+        "18.txt": 3,
+        "13.txt": 8,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "corsets": {
+        "15.txt": 1
+    },
+    "coats": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "climb": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 5,
+        "13.txt": 1
+    },
+    "cunninghams": {
+        "15.txt": 20
+    },
+    "confusing": {
+        "15.txt": 3,
+        "18.txt": 1
+    },
+    "camp": {
+        "15.txt": 4,
+        "7.txt": 6,
+        "18.txt": 7,
+        "13.txt": 3
+    },
+    "crowd": {
+        "15.txt": 14,
+        "7.txt": 24,
+        "18.txt": 23,
+        "13.txt": 12,
+        "23.txt": 2
+    },
+    "conner": {
+        "15.txt": 4
+    },
+    "charges": {
+        "15.txt": 3,
+        "18.txt": 2
+    },
+    "conduct": {
+        "15.txt": 8,
+        "7.txt": 9,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 14,
+        "23.txt": 10
+    },
+    "charge": {
+        "15.txt": 5,
+        "7.txt": 7,
+        "18.txt": 2,
+        "14.txt": 1
+    },
+    "cussed": {
+        "15.txt": 2
+    },
+    "crawford": {
+        "15.txt": 33
+    },
+    "cutting": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 7,
+        "13.txt": 2
+    },
+    "conceded": {
+        "15.txt": 3
+    },
+    "charged": {
+        "15.txt": 3,
+        "7.txt": 7,
+        "18.txt": 3,
+        "6.txt": 3
+    },
+    "council": {
+        "15.txt": 1,
+        "7.txt": 13
+    },
+    "chained": {
+        "15.txt": 2
+    },
+    "cannas": {
+        "15.txt": 2
+    },
+    "colorless": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "cheekbones": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cough": {
+        "15.txt": 5,
+        "18.txt": 3
+    },
+    "christmas": {
+        "15.txt": 21,
+        "13.txt": 4
+    },
+    "commissioned": {
+        "15.txt": 1
+    },
+    "crept": {
+        "15.txt": 7,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 2,
+        "23.txt": 2
+    },
+    "commented": {
+        "15.txt": 1,
+        "6.txt": 2
+    },
+    "cats": {
+        "15.txt": 6,
+        "18.txt": 1
+    },
+    "catch": {
+        "15.txt": 25,
+        "7.txt": 5,
+        "18.txt": 13,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "crazily": {
+        "15.txt": 2
+    },
+    "confronted": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "6.txt": 2
+    },
+    "chunk": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "concession": {
+        "15.txt": 1
+    },
+    "circles": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "condescended": {
+        "15.txt": 1
+    },
+    "changed": {
+        "15.txt": 7,
+        "7.txt": 25,
+        "18.txt": 5,
+        "13.txt": 9,
+        "14.txt": 1,
+        "23.txt": 3
+    },
+    "careful": {
+        "15.txt": 11,
+        "7.txt": 12,
+        "18.txt": 3,
+        "13.txt": 3,
+        "23.txt": 1
+    },
+    "chapter": {
+        "15.txt": 4,
+        "13.txt": 10
+    },
+    "caroline": {
+        "15.txt": 58
+    },
+    "cheeks": {
+        "15.txt": 5,
+        "18.txt": 4,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "crimson": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 3
+    },
+    "class": {
+        "15.txt": 15,
+        "7.txt": 1,
+        "18.txt": 7,
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 5
+    },
+    "companies": {
+        "15.txt": 1
+    },
+    "conversations": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "6.txt": 2
+    },
+    "cunning": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "14.txt": 2
+    },
+    "clothes": {
+        "15.txt": 5,
+        "7.txt": 23,
+        "18.txt": 17,
+        "13.txt": 8,
+        "6.txt": 3
+    },
+    "cat": {
+        "15.txt": 7,
+        "7.txt": 7,
+        "18.txt": 12,
+        "13.txt": 1
+    },
+    "chocolate": {
+        "15.txt": 3
+    },
+    "catawba": {
+        "15.txt": 1
+    },
+    "chopped": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "capitals": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "crime": {
+        "15.txt": 5,
+        "7.txt": 13,
+        "18.txt": 1
+    },
+    "compelled": {
+        "15.txt": 2,
+        "13.txt": 3,
+        "14.txt": 2,
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "crawled": {
+        "15.txt": 9,
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "covey": {
+        "15.txt": 1
+    },
+    "comforted": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 2
+    },
+    "college": {
+        "15.txt": 3,
+        "13.txt": 10,
+        "23.txt": 1
+    },
+    "cows": {
+        "15.txt": 4
+    },
+    "contented": {
+        "15.txt": 3,
+        "7.txt": 6,
+        "23.txt": 4
+    },
+    "consisted": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "23.txt": 2
+    },
+    "cards": {
+        "15.txt": 4,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "comment": {
+        "15.txt": 1,
+        "18.txt": 6,
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "caught": {
+        "15.txt": 28,
+        "7.txt": 15,
+        "18.txt": 9,
+        "13.txt": 8
+    },
+    "copying": {
+        "15.txt": 1
+    },
+    "ceiling": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "containers": {
+        "15.txt": 1
+    },
+    "contents": {
+        "15.txt": 3,
+        "7.txt": 5,
+        "18.txt": 3,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "cunningham": {
+        "15.txt": 39
+    },
+    "clean": {
+        "15.txt": 13,
+        "7.txt": 4,
+        "18.txt": 14,
+        "13.txt": 3
+    },
+    "conferred": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "clear": {
+        "15.txt": 20,
+        "7.txt": 12,
+        "18.txt": 13,
+        "13.txt": 3,
+        "14.txt": 9,
+        "23.txt": 9,
+        "6.txt": 4
+    },
+    "conversation": {
+        "15.txt": 8,
+        "7.txt": 9,
+        "18.txt": 14,
+        "13.txt": 10,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "condition": {
+        "15.txt": 5,
+        "7.txt": 22,
+        "18.txt": 9,
+        "14.txt": 42,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "crack": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 7,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "crate": {
+        "15.txt": 3
+    },
+    "crokersack": {
+        "15.txt": 1
+    },
+    "country": {
+        "15.txt": 12,
+        "7.txt": 50,
+        "18.txt": 3,
+        "13.txt": 7,
+        "14.txt": 1,
+        "23.txt": 7,
+        "6.txt": 2
+    },
+    "crash": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "cash": {
+        "15.txt": 1
+    },
+    "collar": {
+        "15.txt": 10,
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "contracts": {
+        "15.txt": 1,
+        "23.txt": 1
+    },
+    "cannot": {
+        "15.txt": 3,
+        "7.txt": 40,
+        "18.txt": 4,
+        "13.txt": 3,
+        "14.txt": 78,
+        "23.txt": 21,
+        "6.txt": 11
+    },
+    "concentrate": {
+        "15.txt": 3
+    },
+    "chair": {
+        "15.txt": 62,
+        "7.txt": 2,
+        "18.txt": 8,
+        "13.txt": 19,
+        "6.txt": 23
+    },
+    "catching": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 5,
+        "13.txt": 2
+    },
+    "cocked": {
+        "15.txt": 3
+    },
+    "chase": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "certain": {
+        "15.txt": 7,
+        "7.txt": 18,
+        "18.txt": 9,
+        "13.txt": 13,
+        "14.txt": 26,
+        "23.txt": 53,
+        "6.txt": 12
+    },
+    "cal": {
+        "15.txt": 46
+    },
+    "comin": {
+        "15.txt": 20,
+        "13.txt": 2
+    },
+    "cordially": {
+        "15.txt": 1
+    },
+    "clouds": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 3,
+        "13.txt": 3
+    },
+    "company": {
+        "15.txt": 12,
+        "7.txt": 33,
+        "18.txt": 6,
+        "13.txt": 4,
+        "23.txt": 1
+    },
+    "crops": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "choppin": {
+        "15.txt": 3
+    },
+    "clattered": {
+        "15.txt": 1
+    },
+    "colored": {
+        "15.txt": 31,
+        "18.txt": 4,
+        "13.txt": 11,
+        "23.txt": 1,
+        "6.txt": 6
+    },
+    "contradict": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "14.txt": 8
+    },
+    "comp": {
+        "15.txt": 4
+    },
+    "cloth": {
+        "15.txt": 5,
+        "7.txt": 2,
+        "18.txt": 5,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "count": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 7,
+        "13.txt": 2
+    },
+    "concluded": {
+        "15.txt": 7,
+        "7.txt": 2,
+        "13.txt": 1,
+        "23.txt": 4
+    },
+    "considered": {
+        "15.txt": 8,
+        "7.txt": 7,
+        "18.txt": 4,
+        "13.txt": 2,
+        "14.txt": 8,
+        "23.txt": 8,
+        "6.txt": 1
+    },
+    "chuck": {
+        "15.txt": 8
+    },
+    "contracted": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cootie": {
+        "15.txt": 3
+    },
+    "cool": {
+        "15.txt": 9,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 14,
+        "14.txt": 1
+    },
+    "cup": {
+        "15.txt": 6,
+        "7.txt": 10,
+        "18.txt": 6,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "cooties": {
+        "15.txt": 1
+    },
+    "contemptuous": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "13.txt": 3
+    },
+    "cause": {
+        "15.txt": 6,
+        "7.txt": 24,
+        "18.txt": 6,
+        "13.txt": 2,
+        "14.txt": 18,
+        "23.txt": 9,
+        "6.txt": 3
+    },
+    "carried": {
+        "15.txt": 11,
+        "7.txt": 38,
+        "18.txt": 5,
+        "13.txt": 4,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "concern": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 1,
+        "14.txt": 6,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "contentious": {
+        "15.txt": 2
+    },
+    "condescension": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "crying": {
+        "15.txt": 7,
+        "7.txt": 8,
+        "18.txt": 8,
+        "13.txt": 1
+    },
+    "clustered": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "comfort": {
+        "15.txt": 5,
+        "7.txt": 2,
+        "18.txt": 3,
+        "14.txt": 1
+    },
+    "complete": {
+        "15.txt": 5,
+        "7.txt": 6,
+        "18.txt": 9,
+        "13.txt": 9,
+        "14.txt": 8,
+        "23.txt": 4,
+        "6.txt": 2
+    },
+    "crackling": {
+        "15.txt": 2
+    },
+    "callin": {
+        "15.txt": 5
+    },
+    "cracklin": {
+        "15.txt": 1
+    },
+    "completed": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "consider": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "18.txt": 3,
+        "13.txt": 1,
+        "14.txt": 8,
+        "23.txt": 8,
+        "6.txt": 2
+    },
+    "cases": {
+        "15.txt": 4,
+        "18.txt": 1,
+        "14.txt": 6,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "case": {
+        "15.txt": 30,
+        "7.txt": 24,
+        "18.txt": 15,
+        "13.txt": 7,
+        "14.txt": 50,
+        "23.txt": 9,
+        "6.txt": 6
+    },
+    "common": {
+        "15.txt": 5,
+        "7.txt": 5,
+        "13.txt": 5,
+        "14.txt": 30,
+        "23.txt": 8,
+        "6.txt": 2
+    },
+    "circumstances": {
+        "15.txt": 5,
+        "7.txt": 2,
+        "18.txt": 4,
+        "13.txt": 4,
+        "14.txt": 6,
+        "23.txt": 7,
+        "6.txt": 6
+    },
+    "capital": {
+        "15.txt": 5,
+        "7.txt": 31
+    },
+    "checks": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "course": {
+        "15.txt": 16,
+        "7.txt": 32,
+        "18.txt": 30,
+        "13.txt": 22,
+        "14.txt": 2,
+        "23.txt": 14,
+        "6.txt": 13
+    },
+    "change": {
+        "15.txt": 26,
+        "7.txt": 20,
+        "18.txt": 3,
+        "13.txt": 13,
+        "14.txt": 2,
+        "23.txt": 6,
+        "6.txt": 4
+    },
+    "compromise": {
+        "15.txt": 3
+    },
+    "concessions": {
+        "15.txt": 1
+    },
+    "concede": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "considerable": {
+        "15.txt": 5,
+        "7.txt": 3,
+        "13.txt": 2,
+        "14.txt": 2,
+        "23.txt": 3,
+        "6.txt": 3
+    },
+    "columns": {
+        "15.txt": 2,
+        "7.txt": 2
+    },
+    "climbing": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "construction": {
+        "15.txt": 2
+    },
+    "crayon": {
+        "15.txt": 1
+    },
+    "chance": {
+        "15.txt": 21,
+        "7.txt": 19,
+        "18.txt": 14,
+        "13.txt": 5,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "compare": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 2
+    },
+    "citizenship": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cheated": {
+        "15.txt": 1
+    },
+    "chewing": {
+        "15.txt": 8,
+        "13.txt": 1
+    },
+    "crammed": {
+        "15.txt": 2
+    },
+    "chewin": {
+        "15.txt": 1
+    },
+    "cots": {
+        "15.txt": 1
+    },
+    "colors": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 7
+    },
+    "collected": {
+        "15.txt": 3,
+        "7.txt": 6,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "cecil": {
+        "15.txt": 46,
+        "13.txt": 2
+    },
+    "camellia": {
+        "15.txt": 5
+    },
+    "cow": {
+        "15.txt": 5,
+        "7.txt": 7
+    },
+    "culture": {
+        "15.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "chicken": {
+        "15.txt": 10,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "courtesy": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "contradicting": {
+        "15.txt": 1
+    },
+    "chest": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 10,
+        "13.txt": 1
+    },
+    "chasing": {
+        "15.txt": 3,
+        "18.txt": 1
+    },
+    "crashed": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "cork": {
+        "15.txt": 1
+    },
+    "cement": {
+        "15.txt": 8,
+        "13.txt": 1
+    },
+    "carry": {
+        "15.txt": 9,
+        "7.txt": 32,
+        "18.txt": 6,
+        "13.txt": 4,
+        "14.txt": 4,
+        "23.txt": 3
+    },
+    "contrast": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "cowardice": {
+        "15.txt": 2
+    },
+    "chimney": {
+        "15.txt": 3,
+        "7.txt": 3
+    },
+    "coughed": {
+        "15.txt": 5
+    },
+    "changes": {
+        "15.txt": 6,
+        "7.txt": 5,
+        "18.txt": 2,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 4
+    },
+    "contribution": {
+        "15.txt": 1
+    },
+    "cried": {
+        "15.txt": 3,
+        "7.txt": 80,
+        "13.txt": 31,
+        "6.txt": 1
+    },
+    "clippers": {
+        "15.txt": 4
+    },
+    "characters": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "13.txt": 3,
+        "14.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "closer": {
+        "15.txt": 10,
+        "7.txt": 4,
+        "18.txt": 7,
+        "13.txt": 2,
+        "14.txt": 2
+    },
+    "contact": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 2,
+        "13.txt": 5,
+        "14.txt": 3,
+        "6.txt": 2
+    },
+    "chameleon": {
+        "15.txt": 1
+    },
+    "coveralls": {
+        "15.txt": 1
+    },
+    "campaign": {
+        "15.txt": 5
+    },
+    "comes": {
+        "15.txt": 14,
+        "7.txt": 8,
+        "18.txt": 37,
+        "13.txt": 5,
+        "14.txt": 4,
+        "23.txt": 2,
+        "6.txt": 5
+    },
+    "crisp": {
+        "15.txt": 3,
+        "13.txt": 2
+    },
+    "clipped": {
+        "15.txt": 1
+    },
+    "click": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "cordiality": {
+        "15.txt": 1
+    },
+    "cemented": {
+        "15.txt": 1
+    },
+    "cakes": {
+        "15.txt": 3,
+        "13.txt": 2
+    },
+    "confidence": {
+        "15.txt": 6,
+        "7.txt": 4,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "cake": {
+        "15.txt": 8,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "confined": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "communion": {
+        "15.txt": 2
+    },
+    "creature": {
+        "15.txt": 2,
+        "7.txt": 7,
+        "18.txt": 3,
+        "14.txt": 5
+    },
+    "continued": {
+        "15.txt": 7,
+        "7.txt": 38,
+        "13.txt": 13,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "cream": {
+        "15.txt": 2,
+        "18.txt": 3,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "caughtcha": {
+        "15.txt": 1
+    },
+    "cautiously": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "clapper": {
+        "15.txt": 1
+    },
+    "civil": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "communicate": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "cross": {
+        "15.txt": 13,
+        "7.txt": 2,
+        "18.txt": 14,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "constructing": {
+        "15.txt": 1,
+        "23.txt": 1
+    },
+    "cigarette": {
+        "15.txt": 1,
+        "13.txt": 5
+    },
+    "combing": {
+        "15.txt": 1
+    },
+    "collection": {
+        "15.txt": 5,
+        "18.txt": 1
+    },
+    "covered": {
+        "15.txt": 14,
+        "7.txt": 23,
+        "18.txt": 3,
+        "13.txt": 5,
+        "6.txt": 1
+    },
+    "casually": {
+        "15.txt": 5,
+        "13.txt": 6
+    },
+    "creaking": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "column": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "confirmed": {
+        "15.txt": 1,
+        "13.txt": 2,
+        "14.txt": 3
+    },
+    "crouched": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "curtains": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 6
+    },
+    "climbed": {
+        "15.txt": 7,
+        "7.txt": 6,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "commotion": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "cherub": {
+        "15.txt": 1
+    },
+    "cot": {
+        "15.txt": 7
+    },
+    "choked": {
+        "15.txt": 8,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "cooled": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "checked": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "crawlers": {
+        "15.txt": 2
+    },
+    "chinaberries": {
+        "15.txt": 1
+    },
+    "crew": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 21
+    },
+    "crossing": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "crooked": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "couple": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "18.txt": 25,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "carved": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "crude": {
+        "15.txt": 1,
+        "14.txt": 1
+    },
+    "carves": {
+        "15.txt": 2
+    },
+    "chewed": {
+        "15.txt": 3
+    },
+    "contests": {
+        "15.txt": 1
+    },
+    "camel": {
+        "15.txt": 2,
+        "7.txt": 6
+    },
+    "chain": {
+        "15.txt": 9,
+        "7.txt": 4,
+        "18.txt": 4,
+        "13.txt": 3,
+        "23.txt": 1
+    },
+    "chew": {
+        "15.txt": 4,
+        "18.txt": 3
+    },
+    "cleaved": {
+        "15.txt": 1
+    },
+    "carefully": {
+        "15.txt": 8,
+        "7.txt": 18,
+        "18.txt": 7,
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "cry": {
+        "15.txt": 16,
+        "7.txt": 11,
+        "18.txt": 12,
+        "13.txt": 6,
+        "23.txt": 1
+    },
+    "coldest": {
+        "15.txt": 2
+    },
+    "cigarettes": {
+        "15.txt": 1,
+        "13.txt": 5,
+        "6.txt": 2
+    },
+    "contributing": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "causing": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 2,
+        "23.txt": 2
+    },
+    "caused": {
+        "15.txt": 6,
+        "7.txt": 23,
+        "18.txt": 2
+    },
+    "causes": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2,
+        "14.txt": 13,
+        "23.txt": 12,
+        "6.txt": 1
+    },
+    "crystals": {
+        "15.txt": 1
+    },
+    "circulate": {
+        "15.txt": 1
+    },
+    "cover": {
+        "15.txt": 6,
+        "7.txt": 7,
+        "18.txt": 17,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "cautioned": {
+        "15.txt": 1
+    },
+    "constructed": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "23.txt": 2
+    },
+    "creation": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "compliment": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "13.txt": 2
+    },
+    "cease": {
+        "15.txt": 1,
+        "7.txt": 9,
+        "18.txt": 2,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "care": {
+        "15.txt": 16,
+        "7.txt": 42,
+        "18.txt": 20,
+        "13.txt": 14,
+        "14.txt": 3,
+        "23.txt": 3
+    },
+    "caricatures": {
+        "15.txt": 1
+    },
+    "characterture": {
+        "15.txt": 1
+    },
+    "crook": {
+        "15.txt": 3,
+        "18.txt": 1
+    },
+    "ceilings": {
+        "15.txt": 1
+    },
+    "coal": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 4
+    },
+    "coat": {
+        "15.txt": 8,
+        "7.txt": 5,
+        "18.txt": 6,
+        "13.txt": 16
+    },
+    "confirm": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "cars": {
+        "15.txt": 5,
+        "18.txt": 2,
+        "13.txt": 15,
+        "6.txt": 1
+    },
+    "crumble": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "clutched": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "collapsed": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "chunks": {
+        "15.txt": 2,
+        "18.txt": 3
+    },
+    "clark": {
+        "15.txt": 1
+    },
+    "cocoa": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "clutching": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "coulda": {
+        "15.txt": 2
+    },
+    "covering": {
+        "15.txt": 3,
+        "7.txt": 5,
+        "18.txt": 1
+    },
+    "charred": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cordial": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "clank": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "crisscrossed": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "chuckling": {
+        "15.txt": 2
+    },
+    "clenched": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "childish": {
+        "15.txt": 2
+    },
+    "complaints": {
+        "15.txt": 1,
+        "14.txt": 1
+    },
+    "cousin": {
+        "15.txt": 20,
+        "7.txt": 8,
+        "18.txt": 3,
+        "13.txt": 5
+    },
+    "confederate": {
+        "15.txt": 4
+    },
+    "chin": {
+        "15.txt": 13,
+        "18.txt": 3,
+        "13.txt": 4
+    },
+    "coward": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "coin": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 68,
+        "14.txt": 1
+    },
+    "compensation": {
+        "15.txt": 2
+    },
+    "changelings": {
+        "15.txt": 2
+    },
+    "cheek": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 11,
+        "13.txt": 3
+    },
+    "corners": {
+        "15.txt": 8,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 5
+    },
+    "cussing": {
+        "15.txt": 2
+    },
+    "connected": {
+        "15.txt": 2,
+        "13.txt": 2,
+        "14.txt": 7,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "courtroom": {
+        "15.txt": 27
+    },
+    "circling": {
+        "15.txt": 1
+    },
+    "comings": {
+        "15.txt": 1
+    },
+    "catwalk": {
+        "15.txt": 4
+    },
+    "chemistry": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "civilized": {
+        "15.txt": 2,
+        "6.txt": 1
+    },
+    "cooking": {
+        "15.txt": 2
+    },
+    "constituted": {
+        "15.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "curious": {
+        "15.txt": 7,
+        "7.txt": 14,
+        "18.txt": 1,
+        "13.txt": 12,
+        "23.txt": 3
+    },
+    "crooned": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "crumb": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "cleaned": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "counted": {
+        "15.txt": 1,
+        "7.txt": 3
+    },
+    "cracks": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "commons": {
+        "15.txt": 1
+    },
+    "chuckled": {
+        "15.txt": 4
+    },
+    "contemporaries": {
+        "15.txt": 2,
+        "6.txt": 1
+    },
+    "classmates": {
+        "15.txt": 3
+    },
+    "curse": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "complimentary": {
+        "15.txt": 1
+    },
+    "correct": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "13.txt": 2,
+        "14.txt": 4,
+        "23.txt": 7
+    },
+    "cans": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "corncribs": {
+        "15.txt": 1
+    },
+    "close": {
+        "15.txt": 6,
+        "7.txt": 25,
+        "18.txt": 18,
+        "13.txt": 15,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "checker": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "carpenters": {
+        "15.txt": 3
+    },
+    "complicated": {
+        "15.txt": 3,
+        "18.txt": 3
+    },
+    "consisting": {
+        "15.txt": 2,
+        "14.txt": 2
+    },
+    "chairs": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "challenged": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "connect": {
+        "15.txt": 1,
+        "14.txt": 1
+    },
+    "comfortable": {
+        "15.txt": 10,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "crawl": {
+        "15.txt": 2,
+        "18.txt": 6
+    },
+    "cracked": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "crumpled": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "collect": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 3
+    },
+    "confusion": {
+        "15.txt": 1,
+        "7.txt": 8,
+        "18.txt": 14,
+        "13.txt": 7,
+        "14.txt": 2,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "complain": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "carhouse": {
+        "15.txt": 3
+    },
+    "constant": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "13.txt": 4,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "csa": {
+        "15.txt": 1
+    },
+    "concealed": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "18.txt": 1,
+        "13.txt": 5,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "cowardly": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cost": {
+        "15.txt": 5,
+        "7.txt": 11,
+        "18.txt": 1,
+        "13.txt": 3,
+        "14.txt": 2
+    },
+    "cents": {
+        "15.txt": 5
+    },
+    "camisole": {
+        "15.txt": 1
+    },
+    "cafe": {
+        "15.txt": 3
+    },
+    "calm": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 7,
+        "14.txt": 1
+    },
+    "choose": {
+        "15.txt": 4,
+        "7.txt": 12,
+        "18.txt": 3,
+        "13.txt": 3,
+        "14.txt": 8,
+        "23.txt": 3
+    },
+    "chips": {
+        "15.txt": 1
+    },
+    "compassion": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 1,
+        "6.txt": 2
+    },
+    "conscience": {
+        "15.txt": 3,
+        "7.txt": 6,
+        "18.txt": 1,
+        "14.txt": 2
+    },
+    "calomel": {
+        "15.txt": 1
+    },
+    "carpet": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "creepy": {
+        "15.txt": 1
+    },
+    "commence": {
+        "15.txt": 1,
+        "23.txt": 3
+    },
+    "cane": {
+        "15.txt": 1
+    },
+    "cuticles": {
+        "15.txt": 1
+    },
+    "corrections": {
+        "15.txt": 1,
+        "14.txt": 1
+    },
+    "cords": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "18.txt": 1
+    },
+    "clam": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "camellias": {
+        "15.txt": 3
+    },
+    "calls": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 8,
+        "14.txt": 3,
+        "6.txt": 1
+    },
+    "correcting": {
+        "15.txt": 2
+    },
+    "ceased": {
+        "15.txt": 3,
+        "7.txt": 9,
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "castles": {
+        "15.txt": 1
+    },
+    "cultivated": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "curdling": {
+        "15.txt": 2
+    },
+    "candy": {
+        "15.txt": 4,
+        "18.txt": 1
+    },
+    "contrary": {
+        "15.txt": 2,
+        "7.txt": 8,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 19,
+        "23.txt": 14,
+        "6.txt": 1
+    },
+    "concentrated": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "cantankerous": {
+        "15.txt": 1
+    },
+    "courage": {
+        "15.txt": 2,
+        "7.txt": 13,
+        "18.txt": 3,
+        "13.txt": 3,
+        "14.txt": 1
+    },
+    "captured": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 6
+    },
+    "crushed": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "cities": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "23.txt": 2
+    },
+    "cartoon": {
+        "15.txt": 1
+    },
+    "caption": {
+        "15.txt": 1
+    },
+    "characteristics": {
+        "15.txt": 1,
+        "14.txt": 3
+    },
+    "counties": {
+        "15.txt": 1
+    },
+    "compared": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 5,
+        "6.txt": 2
+    },
+    "castile": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "churchyard": {
+        "15.txt": 2
+    },
+    "clay": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "cemetery": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "13.txt": 2
+    },
+    "crumbling": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "coca": {
+        "15.txt": 5,
+        "6.txt": 1
+    },
+    "cola": {
+        "15.txt": 7
+    },
+    "candles": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "cologne": {
+        "15.txt": 1
+    },
+    "clad": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "contemptuously": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "chillun": {
+        "15.txt": 9
+    },
+    "collector": {
+        "15.txt": 3
+    },
+    "coolness": {
+        "15.txt": 1,
+        "14.txt": 1
+    },
+    "congregation": {
+        "15.txt": 9,
+        "6.txt": 1
+    },
+    "cheap": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "cardboard": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "co": {
+        "15.txt": 2,
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "cleared": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "chorus": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "clergymen": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "constance": {
+        "15.txt": 1
+    },
+    "clinked": {
+        "15.txt": 1
+    },
+    "coins": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "crackled": {
+        "15.txt": 1
+    },
+    "chewers": {
+        "15.txt": 1
+    },
+    "carlow": {
+        "15.txt": 1
+    },
+    "chatted": {
+        "15.txt": 2
+    },
+    "commentaries": {
+        "15.txt": 1
+    },
+    "command": {
+        "15.txt": 3,
+        "7.txt": 16,
+        "18.txt": 14,
+        "13.txt": 1,
+        "14.txt": 16,
+        "23.txt": 1
+    },
+    "chauffeur": {
+        "15.txt": 1,
+        "13.txt": 9
+    },
+    "corset": {
+        "15.txt": 2
+    },
+    "category": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "christians": {
+        "15.txt": 3,
+        "6.txt": 2
+    },
+    "club": {
+        "15.txt": 5,
+        "7.txt": 3,
+        "13.txt": 2
+    },
+    "caution": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "choir": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cousins": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "caring": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "created": {
+        "15.txt": 7,
+        "18.txt": 4,
+        "13.txt": 3,
+        "14.txt": 2,
+        "23.txt": 6,
+        "6.txt": 1
+    },
+    "confines": {
+        "15.txt": 2,
+        "14.txt": 1
+    },
+    "charts": {
+        "15.txt": 2
+    },
+    "cottonfields": {
+        "15.txt": 1
+    },
+    "community": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "caste": {
+        "15.txt": 1
+    },
+    "citizens": {
+        "15.txt": 5,
+        "18.txt": 13
+    },
+    "check": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 10,
+        "13.txt": 2,
+        "14.txt": 4
+    },
+    "conveyed": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "clair": {
+        "15.txt": 2
+    },
+    "comb": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "curtness": {
+        "15.txt": 1
+    },
+    "crackle": {
+        "15.txt": 1
+    },
+    "costing": {
+        "15.txt": 1
+    },
+    "crowds": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "countrywomen": {
+        "15.txt": 1
+    },
+    "cart": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "countryside": {
+        "15.txt": 1
+    },
+    "carnal": {
+        "15.txt": 1
+    },
+    "consent": {
+        "15.txt": 2,
+        "7.txt": 15,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 4
+    },
+    "closing": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "crawling": {
+        "15.txt": 2,
+        "18.txt": 3
+    },
+    "cellars": {
+        "15.txt": 1
+    },
+    "commonplace": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "coiled": {
+        "15.txt": 1
+    },
+    "closet": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 8
+    },
+    "circulation": {
+        "15.txt": 1,
+        "23.txt": 1
+    },
+    "corn": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "custom": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "chains": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "cries": {
+        "15.txt": 1,
+        "7.txt": 13,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "clinging": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 2
+    },
+    "clink": {
+        "15.txt": 2
+    },
+    "childhood": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 4,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "coolly": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "conductor": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "chuckle": {
+        "15.txt": 1
+    },
+    "construct": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "client": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "crisis": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "catholics": {
+        "15.txt": 2
+    },
+    "criteria": {
+        "15.txt": 1
+    },
+    "cherry": {
+        "15.txt": 1
+    },
+    "composed": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 9,
+        "6.txt": 1
+    },
+    "creeping": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "considerably": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "cord": {
+        "15.txt": 2,
+        "7.txt": 7,
+        "18.txt": 1
+    },
+    "chevrolet": {
+        "15.txt": 1
+    },
+    "changing": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 6,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 3
+    },
+    "campaigner": {
+        "15.txt": 1
+    },
+    "cell": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3
+    },
+    "cells": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3,
+        "6.txt": 1
+    },
+    "comic": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "creases": {
+        "15.txt": 3
+    },
+    "cheerful": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 7
+    },
+    "contrasting": {
+        "15.txt": 1
+    },
+    "cuffs": {
+        "15.txt": 1,
+        "18.txt": 6
+    },
+    "crisply": {
+        "15.txt": 1
+    },
+    "connecting": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "coasted": {
+        "15.txt": 1
+    },
+    "calmly": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "christened": {
+        "15.txt": 1
+    },
+    "court": {
+        "15.txt": 46,
+        "7.txt": 48,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "clerk": {
+        "15.txt": 6,
+        "13.txt": 1
+    },
+    "cometh": {
+        "15.txt": 1
+    },
+    "countenance": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "carnival": {
+        "15.txt": 1
+    },
+    "chops": {
+        "15.txt": 1
+    },
+    "chased": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "crackers": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cellophane": {
+        "15.txt": 1
+    },
+    "cradled": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "concrete": {
+        "15.txt": 1,
+        "18.txt": 5,
+        "13.txt": 1
+    },
+    "clashed": {
+        "15.txt": 1
+    },
+    "cubbyholes": {
+        "15.txt": 1
+    },
+    "circuit": {
+        "15.txt": 5,
+        "13.txt": 1
+    },
+    "creatures": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "critics": {
+        "15.txt": 1
+    },
+    "chief": {
+        "15.txt": 2,
+        "7.txt": 39,
+        "23.txt": 3
+    },
+    "cowhide": {
+        "15.txt": 1
+    },
+    "coninghams": {
+        "15.txt": 1
+    },
+    "coningham": {
+        "15.txt": 2
+    },
+    "controversy": {
+        "15.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "champertous": {
+        "15.txt": 1
+    },
+    "connivance": {
+        "15.txt": 1
+    },
+    "cigar": {
+        "15.txt": 7,
+        "13.txt": 2
+    },
+    "clasped": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "convened": {
+        "15.txt": 1
+    },
+    "cast": {
+        "15.txt": 2,
+        "7.txt": 17,
+        "18.txt": 5,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "concentrating": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "corresponding": {
+        "15.txt": 1
+    },
+    "counsel": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "14.txt": 1
+    },
+    "capacity": {
+        "15.txt": 1,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "calming": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "corroborating": {
+        "15.txt": 1
+    },
+    "cock": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "crepey": {
+        "15.txt": 1
+    },
+    "crowed": {
+        "15.txt": 1
+    },
+    "congenital": {
+        "15.txt": 1
+    },
+    "cabin": {
+        "15.txt": 6
+    },
+    "corrugated": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "cheesecloth": {
+        "15.txt": 1
+    },
+    "containing": {
+        "15.txt": 1,
+        "7.txt": 9,
+        "18.txt": 1,
+        "14.txt": 4,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "chipped": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "churches": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "complied": {
+        "15.txt": 1
+    },
+    "cabins": {
+        "15.txt": 2
+    },
+    "chimneys": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "countryman": {
+        "15.txt": 2
+    },
+    "cap": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "confusedly": {
+        "15.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "contempt": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 2,
+        "6.txt": 2
+    },
+    "christian": {
+        "15.txt": 7,
+        "7.txt": 9,
+        "6.txt": 3
+    },
+    "concerned": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 4,
+        "13.txt": 2,
+        "14.txt": 3,
+        "6.txt": 6
+    },
+    "chuckles": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "card": {
+        "15.txt": 2,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "complacently": {
+        "15.txt": 1
+    },
+    "christ": {
+        "15.txt": 2,
+        "6.txt": 2
+    },
+    "counting": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "chiffarobe": {
+        "15.txt": 10
+    },
+    "chop": {
+        "15.txt": 3
+    },
+    "cussin": {
+        "15.txt": 1
+    },
+    "chunked": {
+        "15.txt": 3
+    },
+    "contorted": {
+        "15.txt": 1
+    },
+    "cooperation": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "colds": {
+        "15.txt": 1
+    },
+    "chronic": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "cept": {
+        "15.txt": 1
+    },
+    "comfortableness": {
+        "15.txt": 1
+    },
+    "crippled": {
+        "15.txt": 1
+    },
+    "cowards": {
+        "15.txt": 2
+    },
+    "constructionist": {
+        "15.txt": 1
+    },
+    "consist": {
+        "15.txt": 1,
+        "14.txt": 2,
+        "6.txt": 2
+    },
+    "convicted": {
+        "15.txt": 5
+    },
+    "collective": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "chile": {
+        "15.txt": 1
+    },
+    "creams": {
+        "15.txt": 1
+    },
+    "cathedra": {
+        "15.txt": 1
+    },
+    "chiffarobes": {
+        "15.txt": 1
+    },
+    "choke": {
+        "15.txt": 1,
+        "18.txt": 4
+    },
+    "chopping": {
+        "15.txt": 2
+    },
+    "chores": {
+        "15.txt": 2,
+        "6.txt": 2
+    },
+    "candid": {
+        "15.txt": 1,
+        "14.txt": 1
+    },
+    "corrupting": {
+        "15.txt": 1
+    },
+    "cottonseed": {
+        "15.txt": 1
+    },
+    "clutches": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 3
+    },
+    "cheatin": {
+        "15.txt": 2
+    },
+    "corroborative": {
+        "15.txt": 1
+    },
+    "contradicted": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "cruel": {
+        "15.txt": 2,
+        "7.txt": 12,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "contraband": {
+        "15.txt": 1
+    },
+    "crashing": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "circumstantial": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "cynical": {
+        "15.txt": 4,
+        "13.txt": 2
+    },
+    "confident": {
+        "15.txt": 3,
+        "18.txt": 1,
+        "13.txt": 2,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "caliber": {
+        "15.txt": 1
+    },
+    "context": {
+        "15.txt": 1,
+        "6.txt": 3
+    },
+    "conditions": {
+        "15.txt": 2,
+        "7.txt": 9,
+        "18.txt": 5,
+        "14.txt": 9,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "courts": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "classic": {
+        "15.txt": 1
+    },
+    "complainin": {
+        "15.txt": 1
+    },
+    "convict": {
+        "15.txt": 6,
+        "23.txt": 1
+    },
+    "convincing": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "14.txt": 2
+    },
+    "conviction": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 2,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "cope": {
+        "15.txt": 1
+    },
+    "colleagues": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "caterpillar": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cocoon": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "clown": {
+        "15.txt": 3
+    },
+    "circus": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "clowns": {
+        "15.txt": 1
+    },
+    "cursed": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "credibility": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "comeback": {
+        "15.txt": 1
+    },
+    "chester": {
+        "15.txt": 1,
+        "13.txt": 4
+    },
+    "commutes": {
+        "15.txt": 1
+    },
+    "cheat": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "connections": {
+        "15.txt": 1
+    },
+    "chinese": {
+        "15.txt": 1,
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "cajuns": {
+        "15.txt": 1
+    },
+    "cloudy": {
+        "15.txt": 2
+    },
+    "charlotte": {
+        "15.txt": 2
+    },
+    "communal": {
+        "15.txt": 1
+    },
+    "crust": {
+        "15.txt": 1
+    },
+    "cups": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "cutex": {
+        "15.txt": 1
+    },
+    "conquered": {
+        "15.txt": 1
+    },
+    "choosing": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "commenced": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "23.txt": 3
+    },
+    "citizen": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "conception": {
+        "15.txt": 1,
+        "13.txt": 3,
+        "14.txt": 56
+    },
+    "con": {
+        "15.txt": 1
+    },
+    "cep": {
+        "15.txt": 1
+    },
+    "curls": {
+        "15.txt": 1,
+        "18.txt": 4
+    },
+    "chimes": {
+        "15.txt": 1
+    },
+    "childless": {
+        "15.txt": 1
+    },
+    "cooks": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "complaining": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "chapel": {
+        "15.txt": 1
+    },
+    "content": {
+        "15.txt": 3,
+        "7.txt": 16,
+        "13.txt": 3,
+        "14.txt": 4,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "critical": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "14.txt": 8,
+        "6.txt": 1
+    },
+    "chances": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "chattered": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "crispness": {
+        "15.txt": 1
+    },
+    "commanded": {
+        "15.txt": 1,
+        "7.txt": 15,
+        "13.txt": 2,
+        "14.txt": 5
+    },
+    "cookies": {
+        "15.txt": 1,
+        "18.txt": 4
+    },
+    "charity": {
+        "15.txt": 1,
+        "6.txt": 2
+    },
+    "canceled": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "cripples": {
+        "15.txt": 1
+    },
+    "channel": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "chilly": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "conclusion": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "14.txt": 1,
+        "23.txt": 7,
+        "6.txt": 1
+    },
+    "current": {
+        "15.txt": 6,
+        "7.txt": 3,
+        "18.txt": 10,
+        "13.txt": 1,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "clip": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "clippings": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "contribute": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 3,
+        "23.txt": 3
+    },
+    "clarify": {
+        "15.txt": 1
+    },
+    "coach": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "churchgoer": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "churchtime": {
+        "15.txt": 1
+    },
+    "claim": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "14.txt": 1
+    },
+    "clumped": {
+        "15.txt": 2
+    },
+    "crooning": {
+        "15.txt": 1
+    },
+    "carcass": {
+        "15.txt": 1
+    },
+    "completely": {
+        "15.txt": 1,
+        "7.txt": 12,
+        "18.txt": 9,
+        "13.txt": 4,
+        "14.txt": 8,
+        "23.txt": 1,
+        "6.txt": 14
+    },
+    "cellar": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 9,
+        "13.txt": 2
+    },
+    "clanton": {
+        "15.txt": 1
+    },
+    "costume": {
+        "15.txt": 20,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "costumed": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "cue": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "crenshaw": {
+        "15.txt": 5
+    },
+    "cured": {
+        "15.txt": 1,
+        "7.txt": 6
+    },
+    "contraption": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "cautious": {
+        "15.txt": 1
+    },
+    "crap": {
+        "15.txt": 1
+    },
+    "component": {
+        "15.txt": 1
+    },
+    "climbers": {
+        "15.txt": 1
+    },
+    "curtain": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 3
+    },
+    "caps": {
+        "15.txt": 1
+    },
+    "crowded": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 3,
+        "13.txt": 8
+    },
+    "chanted": {
+        "15.txt": 1
+    },
+    "colonel": {
+        "15.txt": 5
+    },
+    "consulting": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "cheering": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "consented": {
+        "15.txt": 1,
+        "7.txt": 16,
+        "13.txt": 1
+    },
+    "convince": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 8
+    },
+    "crunching": {
+        "15.txt": 1
+    },
+    "connection": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "13.txt": 5,
+        "6.txt": 2
+    },
+    "conceive": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "14.txt": 21,
+        "23.txt": 6
+    },
+    "chasin": {
+        "15.txt": 1
+    },
+    "cooler": {
+        "15.txt": 1
+    },
+    "coughing": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "connived": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "competent": {
+        "15.txt": 1,
+        "14.txt": 1,
+        "23.txt": 3
+    },
+    "craw": {
+        "15.txt": 1
+    },
+    "clubhouse": {
+        "15.txt": 1
+    },
+    "countries": {
+        "7.txt": 10
+    },
+    "cape": {
+        "7.txt": 1
+    },
+    "customs": {
+        "7.txt": 4,
+        "23.txt": 3
+    },
+    "caliph": {
+        "7.txt": 124
+    },
+    "contributed": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "complained": {
+        "7.txt": 2,
+        "13.txt": 3
+    },
+    "charlie": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "chronicles": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "china": {
+        "7.txt": 20,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "curses": {
+        "7.txt": 2
+    },
+    "clever": {
+        "7.txt": 12,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "courageous": {
+        "7.txt": 3
+    },
+    "celebrate": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "chamber": {
+        "7.txt": 21,
+        "13.txt": 1
+    },
+    "charming": {
+        "7.txt": 13,
+        "13.txt": 4,
+        "14.txt": 1
+    },
+    "conducted": {
+        "7.txt": 11,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "cloud": {
+        "7.txt": 5,
+        "18.txt": 5,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "calf": {
+        "7.txt": 11
+    },
+    "caresses": {
+        "7.txt": 1
+    },
+    "confide": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "closely": {
+        "7.txt": 6,
+        "18.txt": 3,
+        "23.txt": 2
+    },
+    "caravan": {
+        "7.txt": 10
+    },
+    "congratulations": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "condemned": {
+        "7.txt": 1,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "carcase": {
+        "7.txt": 2
+    },
+    "civilly": {
+        "7.txt": 1
+    },
+    "copper": {
+        "7.txt": 5,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "captivity": {
+        "7.txt": 1
+    },
+    "captive": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "conjure": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "contain": {
+        "7.txt": 5,
+        "18.txt": 2,
+        "13.txt": 3,
+        "14.txt": 9,
+        "23.txt": 2
+    },
+    "collecting": {
+        "7.txt": 5,
+        "18.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "cure": {
+        "7.txt": 24,
+        "18.txt": 1
+    },
+    "courtiers": {
+        "7.txt": 6
+    },
+    "communication": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "curiousity": {
+        "7.txt": 1
+    },
+    "cage": {
+        "7.txt": 17,
+        "18.txt": 1
+    },
+    "candle": {
+        "7.txt": 4,
+        "18.txt": 1
+    },
+    "convinced": {
+        "7.txt": 14,
+        "18.txt": 1,
+        "13.txt": 5,
+        "23.txt": 6,
+        "6.txt": 2
+    },
+    "carelessness": {
+        "7.txt": 4,
+        "13.txt": 1
+    },
+    "contains": {
+        "7.txt": 7,
+        "18.txt": 1,
+        "14.txt": 10,
+        "23.txt": 3
+    },
+    "cleverly": {
+        "7.txt": 1
+    },
+    "cruelty": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "colour": {
+        "7.txt": 11
+    },
+    "cooked": {
+        "7.txt": 3,
+        "13.txt": 2
+    },
+    "conquer": {
+        "7.txt": 2,
+        "23.txt": 1
+    },
+    "cinders": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "coloured": {
+        "7.txt": 3
+    },
+    "courtyard": {
+        "7.txt": 6
+    },
+    "carpets": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "clothed": {
+        "7.txt": 5,
+        "13.txt": 1
+    },
+    "city": {
+        "7.txt": 33,
+        "18.txt": 16,
+        "13.txt": 20,
+        "6.txt": 3
+    },
+    "colours": {
+        "7.txt": 1
+    },
+    "couch": {
+        "7.txt": 5,
+        "13.txt": 11
+    },
+    "calenders": {
+        "7.txt": 16
+    },
+    "comers": {
+        "7.txt": 2
+    },
+    "calender": {
+        "7.txt": 14
+    },
+    "consult": {
+        "7.txt": 6,
+        "14.txt": 1
+    },
+    "centre": {
+        "7.txt": 4,
+        "13.txt": 3
+    },
+    "ceremony": {
+        "7.txt": 6,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "chords": {
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "cushions": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "compel": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "clapping": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "culprits": {
+        "7.txt": 1
+    },
+    "confound": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "conceal": {
+        "7.txt": 7,
+        "18.txt": 4,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "cherished": {
+        "7.txt": 1
+    },
+    "console": {
+        "7.txt": 4,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "consumed": {
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "clashing": {
+        "7.txt": 1
+    },
+    "cymbals": {
+        "7.txt": 4,
+        "13.txt": 1
+    },
+    "commander": {
+        "7.txt": 18,
+        "18.txt": 6
+    },
+    "calendar": {
+        "7.txt": 2
+    },
+    "commentators": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "chronology": {
+        "7.txt": 1
+    },
+    "camels": {
+        "7.txt": 20
+    },
+    "cave": {
+        "7.txt": 12,
+        "18.txt": 2,
+        "23.txt": 2
+    },
+    "consolation": {
+        "7.txt": 5
+    },
+    "cutters": {
+        "7.txt": 1
+    },
+    "cutter": {
+        "7.txt": 1
+    },
+    "consequences": {
+        "7.txt": 4,
+        "14.txt": 6,
+        "23.txt": 3,
+        "6.txt": 3
+    },
+    "confused": {
+        "7.txt": 5,
+        "18.txt": 3,
+        "13.txt": 9,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "comrades": {
+        "7.txt": 7,
+        "18.txt": 1
+    },
+    "condemn": {
+        "7.txt": 4,
+        "18.txt": 2,
+        "23.txt": 1
+    },
+    "consciousness": {
+        "7.txt": 5,
+        "18.txt": 4,
+        "13.txt": 2,
+        "14.txt": 11,
+        "6.txt": 11
+    },
+    "congratulating": {
+        "7.txt": 2
+    },
+    "curing": {
+        "7.txt": 4
+    },
+    "convent": {
+        "7.txt": 2
+    },
+    "coals": {
+        "7.txt": 2
+    },
+    "captain": {
+        "7.txt": 47,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "celebrated": {
+        "7.txt": 7,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "cleverest": {
+        "7.txt": 2
+    },
+    "couplet": {
+        "7.txt": 1
+    },
+    "caparisoned": {
+        "7.txt": 2
+    },
+    "cheers": {
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "cleverer": {
+        "7.txt": 3
+    },
+    "chessmen": {
+        "7.txt": 1
+    },
+    "colossal": {
+        "7.txt": 1,
+        "13.txt": 4
+    },
+    "canal": {
+        "7.txt": 5,
+        "13.txt": 1
+    },
+    "cinder": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "cassib": {
+        "7.txt": 2
+    },
+    "confessed": {
+        "7.txt": 4,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "cling": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "crews": {
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "convey": {
+        "7.txt": 1,
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "cornice": {
+        "7.txt": 3
+    },
+    "castle": {
+        "7.txt": 15,
+        "13.txt": 1
+    },
+    "covers": {
+        "7.txt": 1,
+        "18.txt": 4
+    },
+    "capable": {
+        "7.txt": 7,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 14,
+        "23.txt": 13,
+        "6.txt": 4
+    },
+    "consequence": {
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 9
+    },
+    "claws": {
+        "7.txt": 6,
+        "18.txt": 3
+    },
+    "conceived": {
+        "7.txt": 2,
+        "14.txt": 19,
+        "23.txt": 5,
+        "6.txt": 1
+    },
+    "curiously": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "calamities": {
+        "7.txt": 1
+    },
+    "chosen": {
+        "7.txt": 4,
+        "18.txt": 5,
+        "14.txt": 2,
+        "23.txt": 3
+    },
+    "cunningly": {
+        "7.txt": 1
+    },
+    "casting": {
+        "7.txt": 4,
+        "18.txt": 1
+    },
+    "creator": {
+        "7.txt": 1,
+        "6.txt": 2
+    },
+    "choice": {
+        "7.txt": 9,
+        "18.txt": 11,
+        "13.txt": 1,
+        "14.txt": 5,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "complaint": {
+        "7.txt": 2
+    },
+    "confess": {
+        "7.txt": 10,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 3
+    },
+    "chiefly": {
+        "7.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "coast": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "clung": {
+        "7.txt": 2
+    },
+    "cliffs": {
+        "7.txt": 5
+    },
+    "companions": {
+        "7.txt": 9,
+        "18.txt": 2
+    },
+    "concerning": {
+        "7.txt": 1
+    },
+    "cassel": {
+        "7.txt": 1
+    },
+    "cubits": {
+        "7.txt": 2
+    },
+    "cubit": {
+        "7.txt": 2
+    },
+    "cargo": {
+        "7.txt": 3,
+        "18.txt": 2
+    },
+    "choicest": {
+        "7.txt": 6,
+        "23.txt": 1
+    },
+    "camphor": {
+        "7.txt": 4
+    },
+    "cloves": {
+        "7.txt": 2
+    },
+    "cowered": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "caverns": {
+        "7.txt": 1
+    },
+    "carries": {
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "consternation": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "chattering": {
+        "7.txt": 1
+    },
+    "cable": {
+        "7.txt": 1
+    },
+    "conclude": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "23.txt": 2
+    },
+    "clambered": {
+        "7.txt": 1
+    },
+    "coils": {
+        "7.txt": 1
+    },
+    "companion": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "comrade": {
+        "7.txt": 1
+    },
+    "casks": {
+        "7.txt": 1
+    },
+    "cinnamon": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "captors": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "cocoanut": {
+        "7.txt": 1
+    },
+    "cocoanuts": {
+        "7.txt": 3
+    },
+    "consolations": {
+        "7.txt": 1
+    },
+    "corpse": {
+        "7.txt": 11,
+        "18.txt": 2
+    },
+    "cavern": {
+        "7.txt": 7,
+        "18.txt": 5
+    },
+    "cannibals": {
+        "7.txt": 1
+    },
+    "chink": {
+        "7.txt": 2
+    },
+    "calmer": {
+        "7.txt": 1
+    },
+    "cranny": {
+        "7.txt": 2
+    },
+    "clearer": {
+        "7.txt": 2,
+        "23.txt": 2
+    },
+    "crush": {
+        "7.txt": 2,
+        "18.txt": 4
+    },
+    "cleaving": {
+        "7.txt": 1
+    },
+    "crushing": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "crystal": {
+        "7.txt": 4,
+        "13.txt": 1
+    },
+    "cosy": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "caper": {
+        "7.txt": 1
+    },
+    "capacious": {
+        "7.txt": 1
+    },
+    "cares": {
+        "7.txt": 2,
+        "18.txt": 4,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "crowns": {
+        "7.txt": 3
+    },
+    "continue": {
+        "7.txt": 6,
+        "18.txt": 11,
+        "23.txt": 3
+    },
+    "comari": {
+        "7.txt": 1
+    },
+    "costliest": {
+        "7.txt": 2
+    },
+    "concealing": {
+        "7.txt": 4,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "covet": {
+        "7.txt": 1
+    },
+    "cedar": {
+        "7.txt": 1
+    },
+    "cherish": {
+        "7.txt": 1
+    },
+    "claimed": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "chant": {
+        "7.txt": 1
+    },
+    "commandment": {
+        "7.txt": 1
+    },
+    "commands": {
+        "7.txt": 4,
+        "18.txt": 3,
+        "14.txt": 10,
+        "23.txt": 1
+    },
+    "cairo": {
+        "7.txt": 3
+    },
+    "cufa": {
+        "7.txt": 1
+    },
+    "curiosities": {
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "calamity": {
+        "7.txt": 1
+    },
+    "commit": {
+        "7.txt": 2,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "criers": {
+        "7.txt": 1
+    },
+    "confession": {
+        "7.txt": 3,
+        "14.txt": 1
+    },
+    "custody": {
+        "7.txt": 3
+    },
+    "commanding": {
+        "7.txt": 1,
+        "14.txt": 2
+    },
+    "customer": {
+        "7.txt": 1
+    },
+    "confer": {
+        "7.txt": 1
+    },
+    "calculated": {
+        "7.txt": 3,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "careless": {
+        "7.txt": 4,
+        "13.txt": 5
+    },
+    "contemplating": {
+        "7.txt": 2
+    },
+    "charmed": {
+        "7.txt": 2
+    },
+    "compliments": {
+        "7.txt": 5,
+        "23.txt": 1
+    },
+    "communicating": {
+        "7.txt": 1
+    },
+    "cuts": {
+        "7.txt": 1,
+        "18.txt": 4
+    },
+    "changer": {
+        "7.txt": 1
+    },
+    "crone": {
+        "7.txt": 1
+    },
+    "coffers": {
+        "7.txt": 1
+    },
+    "chests": {
+        "7.txt": 1
+    },
+    "controlled": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "clapped": {
+        "7.txt": 3
+    },
+    "cripple": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "chatter": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "constitution": {
+        "7.txt": 1,
+        "14.txt": 8,
+        "23.txt": 1
+    },
+    "camaralzaman": {
+        "7.txt": 68
+    },
+    "confided": {
+        "7.txt": 5
+    },
+    "counsellor": {
+        "7.txt": 1
+    },
+    "credit": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 1
+    },
+    "counsels": {
+        "7.txt": 2,
+        "14.txt": 4
+    },
+    "crown": {
+        "7.txt": 4,
+        "18.txt": 1
+    },
+    "confides": {
+        "7.txt": 1
+    },
+    "coverlet": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "conciliatory": {
+        "7.txt": 1
+    },
+    "charms": {
+        "7.txt": 9,
+        "18.txt": 1
+    },
+    "complexion": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "confinement": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "constrained": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "23.txt": 5,
+        "6.txt": 1
+    },
+    "control": {
+        "7.txt": 3,
+        "18.txt": 23,
+        "13.txt": 7,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "caschcasch": {
+        "7.txt": 3
+    },
+    "contradiction": {
+        "7.txt": 1,
+        "14.txt": 17,
+        "23.txt": 1
+    },
+    "contriving": {
+        "7.txt": 1
+    },
+    "cheered": {
+        "7.txt": 1
+    },
+    "continuing": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "creating": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "conversing": {
+        "7.txt": 1
+    },
+    "cheerfully": {
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "charging": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "clumps": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "cornelian": {
+        "7.txt": 2
+    },
+    "cottage": {
+        "7.txt": 5
+    },
+    "charm": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "combine": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "conqueror": {
+        "7.txt": 1
+    },
+    "compensate": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "cultivate": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "confiscate": {
+        "7.txt": 1
+    },
+    "colleague": {
+        "7.txt": 1
+    },
+    "coffer": {
+        "7.txt": 1
+    },
+    "clue": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "consents": {
+        "7.txt": 1
+    },
+    "captivated": {
+        "7.txt": 1
+    },
+    "commission": {
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "chill": {
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "consoled": {
+        "7.txt": 1
+    },
+    "continual": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "constraint": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "constantly": {
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "consenting": {
+        "7.txt": 3
+    },
+    "contenting": {
+        "7.txt": 1
+    },
+    "chancing": {
+        "7.txt": 1
+    },
+    "correspondence": {
+        "7.txt": 1
+    },
+    "clap": {
+        "7.txt": 1
+    },
+    "craves": {
+        "7.txt": 1
+    },
+    "coronation": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "chambers": {
+        "7.txt": 2
+    },
+    "contrive": {
+        "7.txt": 1
+    },
+    "counselled": {
+        "7.txt": 1
+    },
+    "canst": {
+        "7.txt": 1,
+        "14.txt": 3
+    },
+    "charitable": {
+        "7.txt": 2
+    },
+    "crave": {
+        "7.txt": 2
+    },
+    "chastisement": {
+        "7.txt": 2
+    },
+    "covetousness": {
+        "7.txt": 1,
+        "6.txt": 2
+    },
+    "chastised": {
+        "7.txt": 1
+    },
+    "comfortably": {
+        "7.txt": 1
+    },
+    "ceremonies": {
+        "7.txt": 3
+    },
+    "crumbs": {
+        "7.txt": 1
+    },
+    "cemeteries": {
+        "7.txt": 1
+    },
+    "cleverness": {
+        "7.txt": 2
+    },
+    "compelling": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "contrived": {
+        "7.txt": 1
+    },
+    "cookshop": {
+        "7.txt": 1
+    },
+    "counter": {
+        "7.txt": 2,
+        "18.txt": 9,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "concerns": {
+        "7.txt": 2,
+        "18.txt": 3,
+        "14.txt": 4,
+        "6.txt": 3
+    },
+    "circulated": {
+        "7.txt": 1
+    },
+    "condemning": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "colia": {
+        "7.txt": 1
+    },
+    "cogia": {
+        "7.txt": 43
+    },
+    "customers": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "corking": {
+        "7.txt": 1
+    },
+    "casual": {
+        "7.txt": 1,
+        "13.txt": 6
+    },
+    "cadi": {
+        "7.txt": 25
+    },
+    "concluding": {
+        "7.txt": 1,
+        "14.txt": 3,
+        "23.txt": 1
+    },
+    "conclusions": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "condemnation": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "confidently": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "couches": {
+        "7.txt": 1
+    },
+    "celebration": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "cupboards": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "chatterboxes": {
+        "7.txt": 1
+    },
+    "claims": {
+        "7.txt": 1,
+        "14.txt": 6
+    },
+    "comparisons": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "calmed": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "concert": {
+        "7.txt": 1
+    },
+    "cashmere": {
+        "7.txt": 12
+    },
+    "civility": {
+        "7.txt": 1
+    },
+    "communicated": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "cradle": {
+        "7.txt": 6
+    },
+    "coarsest": {
+        "7.txt": 1
+    },
+    "continuance": {
+        "7.txt": 1
+    },
+    "clamour": {
+        "7.txt": 3
+    },
+    "chaplet": {
+        "7.txt": 1
+    },
+    "constancy": {
+        "7.txt": 1
+    },
+    "comply": {
+        "7.txt": 1
+    },
+    "complimented": {
+        "7.txt": 1
+    },
+    "cucumbers": {
+        "7.txt": 2
+    },
+    "clasps": {
+        "7.txt": 1
+    },
+    "consultation": {
+        "7.txt": 1
+    },
+    "consists": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 8,
+        "23.txt": 3,
+        "6.txt": 4
+    },
+    "cucumber": {
+        "7.txt": 3
+    },
+    "cressida": {
+        "18.txt": 74
+    },
+    "communicators": {
+        "18.txt": 1
+    },
+    "compartment": {
+        "18.txt": 15,
+        "6.txt": 1
+    },
+    "capitol": {
+        "18.txt": 188
+    },
+    "communicuff": {
+        "18.txt": 3
+    },
+    "crucial": {
+        "18.txt": 3
+    },
+    "confront": {
+        "18.txt": 2
+    },
+    "corrupted": {
+        "18.txt": 2
+    },
+    "castor": {
+        "18.txt": 12
+    },
+    "cheese": {
+        "18.txt": 4
+    },
+    "confirming": {
+        "18.txt": 1
+    },
+    "cocks": {
+        "18.txt": 1
+    },
+    "cornucopia": {
+        "18.txt": 1
+    },
+    "cato": {
+        "18.txt": 6
+    },
+    "creepiest": {
+        "18.txt": 1
+    },
+    "crosses": {
+        "18.txt": 6
+    },
+    "cameras": {
+        "18.txt": 17
+    },
+    "catches": {
+        "18.txt": 9,
+        "13.txt": 1
+    },
+    "chews": {
+        "18.txt": 1
+    },
+    "coaxes": {
+        "18.txt": 2
+    },
+    "camera": {
+        "18.txt": 15
+    },
+    "cabinets": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "ceramic": {
+        "18.txt": 1
+    },
+    "curled": {
+        "18.txt": 1
+    },
+    "chalk": {
+        "18.txt": 2
+    },
+    "collapsing": {
+        "18.txt": 1
+    },
+    "clips": {
+        "18.txt": 1
+    },
+    "cheer": {
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "contorts": {
+        "18.txt": 2
+    },
+    "chaos": {
+        "18.txt": 3,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "choking": {
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "counterproductive": {
+        "18.txt": 1
+    },
+    "compound": {
+        "18.txt": 1
+    },
+    "counterstrike": {
+        "18.txt": 1
+    },
+    "conceivable": {
+        "18.txt": 1
+    },
+    "complications": {
+        "18.txt": 1
+    },
+    "congregate": {
+        "18.txt": 1
+    },
+    "crises": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "contagion": {
+        "18.txt": 1
+    },
+    "converging": {
+        "18.txt": 1
+    },
+    "coalmine": {
+        "18.txt": 1
+    },
+    "computer": {
+        "18.txt": 5,
+        "13.txt": 2,
+        "14.txt": 3
+    },
+    "continues": {
+        "18.txt": 12
+    },
+    "cube": {
+        "18.txt": 5
+    },
+    "coated": {
+        "18.txt": 1
+    },
+    "claiming": {
+        "18.txt": 1
+    },
+    "considers": {
+        "18.txt": 3,
+        "14.txt": 3
+    },
+    "checking": {
+        "18.txt": 2
+    },
+    "crouch": {
+        "18.txt": 2
+    },
+    "cinna": {
+        "18.txt": 15
+    },
+    "clamp": {
+        "18.txt": 3
+    },
+    "croons": {
+        "18.txt": 1
+    },
+    "collapse": {
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "clearance": {
+        "18.txt": 3
+    },
+    "curl": {
+        "18.txt": 3
+    },
+    "courses": {
+        "18.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "consumes": {
+        "18.txt": 1
+    },
+    "celebrity": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "compartments": {
+        "18.txt": 2
+    },
+    "chariots": {
+        "18.txt": 1
+    },
+    "cubes": {
+        "18.txt": 1
+    },
+    "circuitous": {
+        "18.txt": 1
+    },
+    "crater": {
+        "18.txt": 2
+    },
+    "craters": {
+        "18.txt": 1
+    },
+    "civilian": {
+        "18.txt": 1
+    },
+    "collects": {
+        "18.txt": 2
+    },
+    "collapses": {
+        "18.txt": 3
+    },
+    "cray": {
+        "18.txt": 3
+    },
+    "coriolanus": {
+        "18.txt": 1
+    },
+    "chat": {
+        "18.txt": 2,
+        "14.txt": 1
+    },
+    "crowned": {
+        "18.txt": 1
+    },
+    "cashmeres": {
+        "18.txt": 1
+    },
+    "computers": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "counterparts": {
+        "18.txt": 1
+    },
+    "coup": {
+        "18.txt": 1
+    },
+    "collide": {
+        "18.txt": 1
+    },
+    "certainty": {
+        "18.txt": 1,
+        "14.txt": 8,
+        "23.txt": 4
+    },
+    "caress": {
+        "18.txt": 2
+    },
+    "chafes": {
+        "18.txt": 1
+    },
+    "claustrophobic": {
+        "18.txt": 2
+    },
+    "conditioning": {
+        "18.txt": 1
+    },
+    "capture": {
+        "18.txt": 5
+    },
+    "clearheaded": {
+        "18.txt": 1
+    },
+    "counterattack": {
+        "18.txt": 1
+    },
+    "caustically": {
+        "18.txt": 1
+    },
+    "coaxing": {
+        "18.txt": 2
+    },
+    "cradles": {
+        "18.txt": 1
+    },
+    "corkboard": {
+        "18.txt": 1
+    },
+    "chatting": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "cartwright": {
+        "18.txt": 1
+    },
+    "compete": {
+        "18.txt": 3
+    },
+    "clipboards": {
+        "18.txt": 3
+    },
+    "continuously": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "challenge": {
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "centuries": {
+        "18.txt": 2,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "cavernous": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "clove": {
+        "18.txt": 3
+    },
+    "combat": {
+        "18.txt": 8
+    },
+    "caves": {
+        "18.txt": 1
+    },
+    "clearing": {
+        "18.txt": 1
+    },
+    "clarity": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "carted": {
+        "18.txt": 1
+    },
+    "crosslegged": {
+        "18.txt": 1
+    },
+    "conference": {
+        "18.txt": 1
+    },
+    "clicks": {
+        "18.txt": 2
+    },
+    "concentration": {
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "choices": {
+        "18.txt": 2
+    },
+    "caging": {
+        "18.txt": 1
+    },
+    "cozier": {
+        "18.txt": 1
+    },
+    "coerced": {
+        "18.txt": 1
+    },
+    "coldhearted": {
+        "18.txt": 1
+    },
+    "casualties": {
+        "18.txt": 3
+    },
+    "countering": {
+        "18.txt": 1
+    },
+    "connects": {
+        "18.txt": 3,
+        "14.txt": 2
+    },
+    "commanders": {
+        "18.txt": 2,
+        "23.txt": 1
+    },
+    "clogged": {
+        "18.txt": 1
+    },
+    "clamped": {
+        "18.txt": 3
+    },
+    "clenching": {
+        "18.txt": 1
+    },
+    "cables": {
+        "18.txt": 1
+    },
+    "conquers": {
+        "18.txt": 1
+    },
+    "crouches": {
+        "18.txt": 1
+    },
+    "claw": {
+        "18.txt": 2
+    },
+    "crazed": {
+        "18.txt": 1
+    },
+    "comprehensible": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "confidentially": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "congratulate": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "circenses": {
+        "18.txt": 2
+    },
+    "circuses": {
+        "18.txt": 2
+    },
+    "culled": {
+        "18.txt": 1
+    },
+    "cattle": {
+        "18.txt": 1
+    },
+    "conducts": {
+        "18.txt": 1
+    },
+    "cider": {
+        "18.txt": 1
+    },
+    "coldly": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "circumstance": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 9,
+        "6.txt": 1
+    },
+    "colorful": {
+        "18.txt": 1
+    },
+    "clenches": {
+        "18.txt": 1
+    },
+    "cursory": {
+        "18.txt": 1
+    },
+    "cresta": {
+        "18.txt": 1
+    },
+    "climbs": {
+        "18.txt": 1
+    },
+    "censor": {
+        "18.txt": 1
+    },
+    "conveys": {
+        "18.txt": 1
+    },
+    "contender": {
+        "18.txt": 1
+    },
+    "challenging": {
+        "18.txt": 1
+    },
+    "carelessly": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "congratulates": {
+        "18.txt": 2
+    },
+    "cockily": {
+        "18.txt": 1
+    },
+    "classified": {
+        "18.txt": 1
+    },
+    "corrects": {
+        "18.txt": 2
+    },
+    "closes": {
+        "18.txt": 2
+    },
+    "cuff": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "chinks": {
+        "18.txt": 1
+    },
+    "compliant": {
+        "18.txt": 1
+    },
+    "craft": {
+        "18.txt": 1
+    },
+    "consume": {
+        "18.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "canteen": {
+        "18.txt": 2
+    },
+    "curt": {
+        "18.txt": 1
+    },
+    "canvas": {
+        "18.txt": 1,
+        "13.txt": 5,
+        "6.txt": 2
+    },
+    "clumsily": {
+        "18.txt": 1
+    },
+    "careers": {
+        "18.txt": 1
+    },
+    "cessation": {
+        "18.txt": 1
+    },
+    "considering": {
+        "18.txt": 3,
+        "14.txt": 3,
+        "23.txt": 4
+    },
+    "centers": {
+        "18.txt": 1
+    },
+    "crunch": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "cameramen": {
+        "18.txt": 1
+    },
+    "clasp": {
+        "18.txt": 2
+    },
+    "cater": {
+        "18.txt": 1
+    },
+    "clocked": {
+        "18.txt": 1
+    },
+    "churning": {
+        "18.txt": 1
+    },
+    "concocted": {
+        "18.txt": 2
+    },
+    "comforting": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "chilled": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "combed": {
+        "18.txt": 1
+    },
+    "conflicted": {
+        "18.txt": 1
+    },
+    "canned": {
+        "18.txt": 2
+    },
+    "cod": {
+        "18.txt": 1
+    },
+    "chowder": {
+        "18.txt": 1
+    },
+    "comforter": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "coordinates": {
+        "18.txt": 2
+    },
+    "chute": {
+        "18.txt": 1
+    },
+    "contend": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "circular": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "cheaper": {
+        "18.txt": 1
+    },
+    "chemicals": {
+        "18.txt": 1
+    },
+    "corresponds": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "chugging": {
+        "18.txt": 1
+    },
+    "cartridge": {
+        "18.txt": 1
+    },
+    "clang": {
+        "18.txt": 1
+    },
+    "congestion": {
+        "18.txt": 1
+    },
+    "chemical": {
+        "18.txt": 1,
+        "6.txt": 10
+    },
+    "clawed": {
+        "18.txt": 1
+    },
+    "conflicting": {
+        "18.txt": 1,
+        "23.txt": 2
+    },
+    "contort": {
+        "18.txt": 1
+    },
+    "cuffed": {
+        "18.txt": 1
+    },
+    "clench": {
+        "18.txt": 1
+    },
+    "contract": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "classy": {
+        "18.txt": 1
+    },
+    "confirms": {
+        "18.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "closets": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "cloaks": {
+        "18.txt": 2
+    },
+    "chiming": {
+        "18.txt": 1
+    },
+    "consuming": {
+        "18.txt": 1
+    },
+    "conspicuous": {
+        "18.txt": 1
+    },
+    "coverage": {
+        "18.txt": 1
+    },
+    "cackle": {
+        "18.txt": 2
+    },
+    "calculating": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "compatibility": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "confiscating": {
+        "18.txt": 1
+    },
+    "carving": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "civilians": {
+        "18.txt": 1
+    },
+    "cache": {
+        "18.txt": 1
+    },
+    "cramped": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "cleans": {
+        "18.txt": 1
+    },
+    "create": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "coil": {
+        "18.txt": 1
+    },
+    "cloak": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "closest": {
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "crane": {
+        "18.txt": 1
+    },
+    "curlicues": {
+        "18.txt": 1
+    },
+    "clutch": {
+        "18.txt": 2
+    },
+    "cracking": {
+        "18.txt": 1
+    },
+    "corpses": {
+        "18.txt": 1
+    },
+    "clings": {
+        "18.txt": 2
+    },
+    "conceals": {
+        "18.txt": 1
+    },
+    "coursing": {
+        "18.txt": 1
+    },
+    "cradling": {
+        "18.txt": 1
+    },
+    "clinches": {
+        "18.txt": 1
+    },
+    "cabinet": {
+        "18.txt": 1
+    },
+    "cushioned": {
+        "18.txt": 1
+    },
+    "creep": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "competing": {
+        "18.txt": 1
+    },
+    "crowning": {
+        "18.txt": 1
+    },
+    "consummate": {
+        "18.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "capturing": {
+        "18.txt": 1
+    },
+    "confuse": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "clipboard": {
+        "18.txt": 1
+    },
+    "comments": {
+        "18.txt": 1
+    },
+    "challenges": {
+        "18.txt": 1
+    },
+    "consensus": {
+        "18.txt": 1
+    },
+    "coughs": {
+        "18.txt": 1
+    },
+    "converge": {
+        "18.txt": 1
+    },
+    "crunched": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "clawing": {
+        "18.txt": 1
+    },
+    "carpeted": {
+        "18.txt": 1
+    },
+    "clots": {
+        "18.txt": 1
+    },
+    "cycle": {
+        "18.txt": 1
+    },
+    "container": {
+        "18.txt": 1
+    },
+    "craving": {
+        "18.txt": 1,
+        "6.txt": 3
+    },
+    "clothe": {
+        "18.txt": 1
+    },
+    "communications": {
+        "18.txt": 1
+    },
+    "clinking": {
+        "18.txt": 1
+    },
+    "clouded": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "clods": {
+        "18.txt": 1
+    },
+    "crewmate": {
+        "18.txt": 1
+    },
+    "chubby": {
+        "18.txt": 1
+    },
+    "creative": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "coun": {
+        "18.txt": 1
+    },
+    "christopher": {
+        "18.txt": 1
+    },
+    "collins": {
+        "18.txt": 3
+    },
+    "commitment": {
+        "18.txt": 1
+    },
+    "connecticut": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "com": {
+        "18.txt": 1,
+        "14.txt": 2
+    },
+    "col": {
+        "13.txt": 1
+    },
+    "choat": {
+        "13.txt": 1
+    },
+    "colc": {
+        "13.txt": 1
+    },
+    "compliance": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "contacting": {
+        "13.txt": 1
+    },
+    "criticizing": {
+        "13.txt": 1
+    },
+    "communicative": {
+        "13.txt": 1
+    },
+    "confidences": {
+        "13.txt": 1
+    },
+    "carraways": {
+        "13.txt": 1
+    },
+    "clan": {
+        "13.txt": 3
+    },
+    "commuting": {
+        "13.txt": 2
+    },
+    "communities": {
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "contour": {
+        "13.txt": 2
+    },
+    "columbus": {
+        "13.txt": 1
+    },
+    "consoling": {
+        "13.txt": 2
+    },
+    "chicago": {
+        "13.txt": 20
+    },
+    "climax": {
+        "13.txt": 1
+    },
+    "colonial": {
+        "13.txt": 1
+    },
+    "conscientious": {
+        "13.txt": 2
+    },
+    "criticism": {
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "compulsion": {
+        "13.txt": 1
+    },
+    "cocktails": {
+        "13.txt": 5
+    },
+    "carriage": {
+        "13.txt": 1
+    },
+    "cadet": {
+        "13.txt": 1
+    },
+    "crossly": {
+        "13.txt": 2
+    },
+    "continually": {
+        "13.txt": 5,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "corky": {
+        "13.txt": 1
+    },
+    "claret": {
+        "13.txt": 1
+    },
+    "civilization": {
+        "13.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "california": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "complacency": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "confirmation": {
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "consciously": {
+        "13.txt": 2,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "coherence": {
+        "13.txt": 1
+    },
+    "cunard": {
+        "13.txt": 1
+    },
+    "ceasing": {
+        "13.txt": 1
+    },
+    "contributory": {
+        "13.txt": 1
+    },
+    "carraway": {
+        "13.txt": 10
+    },
+    "corroborated": {
+        "13.txt": 1
+    },
+    "crawls": {
+        "13.txt": 1
+    },
+    "creak": {
+        "13.txt": 1
+    },
+    "compact": {
+        "13.txt": 1
+    },
+    "contiguous": {
+        "13.txt": 1
+    },
+    "crepe": {
+        "13.txt": 1
+    },
+    "chine": {
+        "13.txt": 1
+    },
+    "coarse": {
+        "13.txt": 1
+    },
+    "copy": {
+        "13.txt": 11,
+        "14.txt": 5,
+        "6.txt": 1
+    },
+    "cute": {
+        "13.txt": 2
+    },
+    "catherine": {
+        "13.txt": 14
+    },
+    "cab": {
+        "13.txt": 1
+    },
+    "copies": {
+        "13.txt": 4,
+        "14.txt": 3
+    },
+    "clicking": {
+        "13.txt": 1
+    },
+    "cheekbone": {
+        "13.txt": 1
+    },
+    "chiffon": {
+        "13.txt": 2
+    },
+    "converted": {
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "chefs": {
+        "13.txt": 1
+    },
+    "catholic": {
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "carlo": {
+        "13.txt": 2
+    },
+    "chandelier": {
+        "13.txt": 1
+    },
+    "champagne": {
+        "13.txt": 7
+    },
+    "cataracts": {
+        "13.txt": 1
+    },
+    "crates": {
+        "13.txt": 1
+    },
+    "corps": {
+        "13.txt": 1
+    },
+    "caterers": {
+        "13.txt": 1
+    },
+    "cordials": {
+        "13.txt": 1
+    },
+    "cornets": {
+        "13.txt": 1
+    },
+    "cocktail": {
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "combination": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "caterer": {
+        "13.txt": 1
+    },
+    "croirier": {
+        "13.txt": 1
+    },
+    "credulity": {
+        "13.txt": 1
+    },
+    "couples": {
+        "13.txt": 2
+    },
+    "condescending": {
+        "13.txt": 1
+    },
+    "claud": {
+        "13.txt": 1
+    },
+    "contralto": {
+        "13.txt": 2
+    },
+    "corpulent": {
+        "13.txt": 1
+    },
+    "carnegie": {
+        "13.txt": 1
+    },
+    "composition": {
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "convivial": {
+        "13.txt": 1
+    },
+    "coursed": {
+        "13.txt": 1
+    },
+    "coupe": {
+        "13.txt": 12
+    },
+    "chauffeurs": {
+        "13.txt": 1
+    },
+    "caterwauling": {
+        "13.txt": 1
+    },
+    "crescendo": {
+        "13.txt": 1
+    },
+    "chasms": {
+        "13.txt": 1
+    },
+    "clerks": {
+        "13.txt": 3
+    },
+    "cabs": {
+        "13.txt": 1
+    },
+    "champion": {
+        "13.txt": 1
+    },
+    "caddy": {
+        "13.txt": 1
+    },
+    "cardinal": {
+        "13.txt": 1
+    },
+    "civet": {
+        "13.txt": 3
+    },
+    "chrysties": {
+        "13.txt": 1
+    },
+    "chrystie": {
+        "13.txt": 1
+    },
+    "clarence": {
+        "13.txt": 1
+    },
+    "cheadles": {
+        "13.txt": 1
+    },
+    "clyde": {
+        "13.txt": 1
+    },
+    "cohen": {
+        "13.txt": 1
+    },
+    "catlips": {
+        "13.txt": 1
+    },
+    "chromes": {
+        "13.txt": 1
+    },
+    "corrigans": {
+        "13.txt": 1
+    },
+    "consuela": {
+        "13.txt": 1
+    },
+    "capitalists": {
+        "13.txt": 1
+    },
+    "claudia": {
+        "13.txt": 1
+    },
+    "conservatory": {
+        "13.txt": 1
+    },
+    "caramel": {
+        "13.txt": 1
+    },
+    "comprehended": {
+        "13.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "cricket": {
+        "13.txt": 1
+    },
+    "correctness": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "cobbled": {
+        "13.txt": 1
+    },
+    "commissioner": {
+        "13.txt": 1
+    },
+    "carriages": {
+        "13.txt": 2
+    },
+    "colleges": {
+        "13.txt": 1
+    },
+    "curb": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "circulating": {
+        "13.txt": 1
+    },
+    "chambermaids": {
+        "13.txt": 1
+    },
+    "cannes": {
+        "13.txt": 1
+    },
+    "central": {
+        "13.txt": 4,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "crickets": {
+        "13.txt": 1
+    },
+    "coincidence": {
+        "13.txt": 2
+    },
+    "cornices": {
+        "13.txt": 1
+    },
+    "coney": {
+        "13.txt": 2
+    },
+    "corrected": {
+        "13.txt": 4,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "confidential": {
+        "13.txt": 1
+    },
+    "cornered": {
+        "13.txt": 1
+    },
+    "counterfeit": {
+        "13.txt": 1
+    },
+    "conscientiously": {
+        "13.txt": 1
+    },
+    "calmness": {
+        "13.txt": 1
+    },
+    "craze": {
+        "13.txt": 1
+    },
+    "cottages": {
+        "13.txt": 1
+    },
+    "confounding": {
+        "13.txt": 1
+    },
+    "chartreuse": {
+        "13.txt": 1
+    },
+    "cupboard": {
+        "13.txt": 1
+    },
+    "coral": {
+        "13.txt": 1
+    },
+    "cody": {
+        "13.txt": 15
+    },
+    "contemporary": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "canada": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "career": {
+        "13.txt": 2
+    },
+    "conceits": {
+        "13.txt": 1
+    },
+    "coasting": {
+        "13.txt": 1
+    },
+    "contingencies": {
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "continent": {
+        "13.txt": 2
+    },
+    "ceremoniously": {
+        "13.txt": 1
+    },
+    "celebrities": {
+        "13.txt": 1
+    },
+    "conservative": {
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "countered": {
+        "13.txt": 1
+    },
+    "chafed": {
+        "13.txt": 1
+    },
+    "casualness": {
+        "13.txt": 1
+    },
+    "caravansary": {
+        "13.txt": 1
+    },
+    "combustion": {
+        "13.txt": 1
+    },
+    "commutation": {
+        "13.txt": 1
+    },
+    "cynically": {
+        "13.txt": 1
+    },
+    "clog": {
+        "13.txt": 1
+    },
+    "cious": {
+        "13.txt": 2
+    },
+    "clicked": {
+        "13.txt": 2
+    },
+    "colder": {
+        "13.txt": 1
+    },
+    "capes": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "contingency": {
+        "13.txt": 1
+    },
+    "cursing": {
+        "13.txt": 1
+    },
+    "crabbing": {
+        "13.txt": 1
+    },
+    "compressed": {
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "competitive": {
+        "13.txt": 1
+    },
+    "clergyman": {
+        "13.txt": 1
+    },
+    "clamor": {
+        "13.txt": 1
+    },
+    "cooling": {
+        "13.txt": 1
+    },
+    "correction": {
+        "13.txt": 2
+    },
+    "clamorously": {
+        "13.txt": 1
+    },
+    "conspiring": {
+        "13.txt": 1
+    },
+    "capacities": {
+        "13.txt": 1,
+        "14.txt": 3
+    },
+    "corridors": {
+        "13.txt": 1
+    },
+    "complication": {
+        "13.txt": 1
+    },
+    "challengingly": {
+        "13.txt": 1
+    },
+    "curved": {
+        "13.txt": 1
+    },
+    "corroborate": {
+        "13.txt": 1
+    },
+    "cahoots": {
+        "13.txt": 1
+    },
+    "corruption": {
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 1
+    },
+    "clubs": {
+        "13.txt": 1
+    },
+    "clumsy": {
+        "13.txt": 1
+    },
+    "conceivably": {
+        "13.txt": 1
+    },
+    "cluster": {
+        "13.txt": 1
+    },
+    "compass": {
+        "13.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "coroner": {
+        "13.txt": 1
+    },
+    "catastrophe": {
+        "13.txt": 1
+    },
+    "ceaselessly": {
+        "13.txt": 2
+    },
+    "cassidy": {
+        "13.txt": 1
+    },
+    "complacent": {
+        "13.txt": 1
+    },
+    "conventional": {
+        "13.txt": 1
+    },
+    "crouching": {
+        "13.txt": 1
+    },
+    "contemplation": {
+        "13.txt": 1,
+        "6.txt": 10
+    },
+    "commensurate": {
+        "13.txt": 1
+    },
+    "commercial": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "corrupt": {
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "codes": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "costs": {
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "consequential": {
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "conversion": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "calculate": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "completeness": {
+        "14.txt": 4
+    },
+    "correctly": {
+        "14.txt": 2
+    },
+    "canon": {
+        "14.txt": 4
+    },
+    "concreto": {
+        "14.txt": 1
+    },
+    "conform": {
+        "14.txt": 11
+    },
+    "conformity": {
+        "14.txt": 8
+    },
+    "contingent": {
+        "14.txt": 11
+    },
+    "conformable": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "comprehends": {
+        "14.txt": 1
+    },
+    "counteracts": {
+        "14.txt": 1
+    },
+    "canons": {
+        "14.txt": 2
+    },
+    "cognitions": {
+        "14.txt": 2
+    },
+    "conceptions": {
+        "14.txt": 14,
+        "23.txt": 1
+    },
+    "concepts": {
+        "14.txt": 5,
+        "6.txt": 2
+    },
+    "commonest": {
+        "14.txt": 7
+    },
+    "critique": {
+        "14.txt": 3
+    },
+    "considerations": {
+        "14.txt": 2,
+        "23.txt": 7,
+        "6.txt": 1
+    },
+    "constitutes": {
+        "14.txt": 10,
+        "23.txt": 1
+    },
+    "constitute": {
+        "14.txt": 5,
+        "23.txt": 1
+    },
+    "conveniently": {
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "commerce": {
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "connoisseurs": {
+        "14.txt": 2
+    },
+    "conservation": {
+        "14.txt": 1
+    },
+    "contemplate": {
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "cultivation": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "conditional": {
+        "14.txt": 5
+    },
+    "conflict": {
+        "14.txt": 1
+    },
+    "consequently": {
+        "14.txt": 28,
+        "23.txt": 8,
+        "6.txt": 1
+    },
+    "combined": {
+        "14.txt": 5
+    },
+    "calculation": {
+        "14.txt": 4
+    },
+    "concept": {
+        "14.txt": 10,
+        "6.txt": 2
+    },
+    "chimerical": {
+        "14.txt": 2
+    },
+    "coincides": {
+        "14.txt": 1
+    },
+    "consistent": {
+        "14.txt": 6
+    },
+    "conformably": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "conjectured": {
+        "14.txt": 1
+    },
+    "contradictions": {
+        "14.txt": 1
+    },
+    "chicanes": {
+        "14.txt": 1
+    },
+    "convenient": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "counterpoise": {
+        "14.txt": 1
+    },
+    "cultivates": {
+        "14.txt": 1
+    },
+    "chimera": {
+        "14.txt": 1
+    },
+    "conceding": {
+        "14.txt": 1
+    },
+    "commendable": {
+        "14.txt": 1
+    },
+    "compiled": {
+        "14.txt": 1
+    },
+    "compounded": {
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "coincide": {
+        "14.txt": 2
+    },
+    "contingently": {
+        "14.txt": 1
+    },
+    "categorically": {
+        "14.txt": 5
+    },
+    "categorical": {
+        "14.txt": 42
+    },
+    "conforms": {
+        "14.txt": 2
+    },
+    "commonly": {
+        "14.txt": 1,
+        "23.txt": 3
+    },
+    "causality": {
+        "14.txt": 23
+    },
+    "correspond": {
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "consistently": {
+        "14.txt": 1
+    },
+    "consilia": {
+        "14.txt": 1
+    },
+    "cheats": {
+        "14.txt": 1
+    },
+    "classes": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "conformed": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "chooses": {
+        "14.txt": 1
+    },
+    "connexion": {
+        "14.txt": 3
+    },
+    "conditioned": {
+        "14.txt": 1
+    },
+    "conceives": {
+        "14.txt": 2
+    },
+    "contemplates": {
+        "14.txt": 1
+    },
+    "criterion": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "converting": {
+        "14.txt": 1
+    },
+    "coincident": {
+        "14.txt": 1
+    },
+    "competition": {
+        "14.txt": 2
+    },
+    "characterization": {
+        "14.txt": 1
+    },
+    "categories": {
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "conforming": {
+        "14.txt": 1
+    },
+    "contributes": {
+        "14.txt": 2
+    },
+    "comprehend": {
+        "14.txt": 4,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "cognition": {
+        "14.txt": 3
+    },
+    "cognized": {
+        "14.txt": 1
+    },
+    "classification": {
+        "14.txt": 1
+    },
+    "critically": {
+        "14.txt": 1
+    },
+    "contradicts": {
+        "14.txt": 2
+    },
+    "capability": {
+        "14.txt": 1
+    },
+    "conjoined": {
+        "14.txt": 2
+    },
+    "conclusive": {
+        "14.txt": 1
+    },
+    "clearness": {
+        "14.txt": 1,
+        "23.txt": 3
+    },
+    "characteristic": {
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "ceases": {
+        "14.txt": 2
+    },
+    "chimeras": {
+        "14.txt": 1
+    },
+    "cataloguers": {
+        "14.txt": 1
+    },
+    "contributions": {
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "columbia": {
+        "14.txt": 1
+    },
+    "carolina": {
+        "14.txt": 2
+    },
+    "cogito": {
+        "23.txt": 2
+    },
+    "conducting": {
+        "23.txt": 1
+    },
+    "censure": {
+        "23.txt": 2
+    },
+    "cultivators": {
+        "23.txt": 1
+    },
+    "converse": {
+        "23.txt": 2
+    },
+    "certitude": {
+        "23.txt": 5
+    },
+    "comprehension": {
+        "23.txt": 1
+    },
+    "competently": {
+        "23.txt": 1
+    },
+    "cynic": {
+        "23.txt": 1
+    },
+    "commodious": {
+        "23.txt": 2
+    },
+    "consequent": {
+        "23.txt": 1
+    },
+    "crookedness": {
+        "23.txt": 1
+    },
+    "commencement": {
+        "23.txt": 2
+    },
+    "counseled": {
+        "23.txt": 1
+    },
+    "constitutions": {
+        "23.txt": 2
+    },
+    "contemplated": {
+        "23.txt": 1
+    },
+    "circumspect": {
+        "23.txt": 1
+    },
+    "circumspection": {
+        "23.txt": 1
+    },
+    "comprise": {
+        "23.txt": 3
+    },
+    "commencing": {
+        "23.txt": 2
+    },
+    "complex": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "commodiously": {
+        "23.txt": 1
+    },
+    "cognizance": {
+        "23.txt": 1
+    },
+    "consciences": {
+        "23.txt": 1
+    },
+    "conjectures": {
+        "23.txt": 1
+    },
+    "currently": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "conveniences": {
+        "23.txt": 1
+    },
+    "corporeal": {
+        "23.txt": 2
+    },
+    "continuous": {
+        "23.txt": 1
+    },
+    "comprised": {
+        "23.txt": 2
+    },
+    "chimaera": {
+        "23.txt": 1
+    },
+    "conduce": {
+        "23.txt": 3
+    },
+    "concatenation": {
+        "23.txt": 1
+    },
+    "compense": {
+        "23.txt": 1
+    },
+    "comets": {
+        "23.txt": 3
+    },
+    "compose": {
+        "23.txt": 4
+    },
+    "concurrence": {
+        "23.txt": 2
+    },
+    "composite": {
+        "23.txt": 1
+    },
+    "convert": {
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "conformation": {
+        "23.txt": 1
+    },
+    "cavities": {
+        "23.txt": 5
+    },
+    "cava": {
+        "23.txt": 1
+    },
+    "cavity": {
+        "23.txt": 10
+    },
+    "canals": {
+        "23.txt": 1
+    },
+    "counterweights": {
+        "23.txt": 1
+    },
+    "copiously": {
+        "23.txt": 1
+    },
+    "coverings": {
+        "23.txt": 1
+    },
+    "consistency": {
+        "23.txt": 2
+    },
+    "compress": {
+        "23.txt": 1
+    },
+    "conjecture": {
+        "23.txt": 1
+    },
+    "converts": {
+        "23.txt": 1
+    },
+    "communis": {
+        "23.txt": 1
+    },
+    "correspondent": {
+        "23.txt": 1
+    },
+    "circumstanced": {
+        "23.txt": 1
+    },
+    "crafts": {
+        "23.txt": 1
+    },
+    "comforts": {
+        "23.txt": 1
+    },
+    "collectively": {
+        "23.txt": 1
+    },
+    "committing": {
+        "23.txt": 2
+    },
+    "commended": {
+        "23.txt": 1
+    },
+    "controversies": {
+        "23.txt": 1
+    },
+    "critic": {
+        "23.txt": 1
+    },
+    "combatants": {
+        "23.txt": 1
+    },
+    "compensated": {
+        "23.txt": 1
+    },
+    "cognizant": {
+        "23.txt": 1
+    },
+    "chatto": {
+        "6.txt": 1
+    },
+    "cleansed": {
+        "6.txt": 7
+    },
+    "cactus": {
+        "6.txt": 3
+    },
+    "concurred": {
+        "6.txt": 1
+    },
+    "chemists": {
+        "6.txt": 1
+    },
+    "crop": {
+        "6.txt": 1
+    },
+    "catalogued": {
+        "6.txt": 1
+    },
+    "crucified": {
+        "6.txt": 1
+    },
+    "condole": {
+        "6.txt": 1
+    },
+    "cerebrotonia": {
+        "6.txt": 1
+    },
+    "circumscribed": {
+        "6.txt": 1
+    },
+    "carnation": {
+        "6.txt": 3
+    },
+    "chit": {
+        "6.txt": 1
+    },
+    "cameraman": {
+        "6.txt": 1
+    },
+    "cubist": {
+        "6.txt": 1
+    },
+    "cambridge": {
+        "6.txt": 1
+    },
+    "consecrated": {
+        "6.txt": 1
+    },
+    "circumvents": {
+        "6.txt": 1
+    },
+    "comprehensive": {
+        "6.txt": 1
+    },
+    "cerebral": {
+        "6.txt": 2
+    },
+    "comics": {
+        "6.txt": 1
+    },
+    "calumny": {
+        "6.txt": 1
+    },
+    "complexity": {
+        "6.txt": 1
+    },
+    "carve": {
+        "6.txt": 1
+    },
+    "cent": {
+        "6.txt": 3
+    },
+    "cynicism": {
+        "6.txt": 1
+    },
+    "caricatural": {
+        "6.txt": 1
+    },
+    "commonplaces": {
+        "6.txt": 1
+    },
+    "cosimo": {
+        "6.txt": 1
+    },
+    "cythera": {
+        "6.txt": 1
+    },
+    "crucifixion": {
+        "6.txt": 1
+    },
+    "cheerfulness": {
+        "6.txt": 1
+    },
+    "congenitally": {
+        "6.txt": 1
+    },
+    "cocksureness": {
+        "6.txt": 1
+    },
+    "c\u00e9zanne": {
+        "6.txt": 7
+    },
+    "cheeked": {
+        "6.txt": 1
+    },
+    "cortina": {
+        "6.txt": 1
+    },
+    "crags": {
+        "6.txt": 1
+    },
+    "confine": {
+        "6.txt": 1
+    },
+    "ce": {
+        "6.txt": 1
+    },
+    "comptoir": {
+        "6.txt": 1
+    },
+    "contemplatives": {
+        "6.txt": 2
+    },
+    "confronts": {
+        "6.txt": 1
+    },
+    "contemplative": {
+        "6.txt": 3
+    },
+    "constable": {
+        "6.txt": 4
+    },
+    "conduits": {
+        "6.txt": 1
+    },
+    "chronically": {
+        "6.txt": 2
+    },
+    "comparable": {
+        "6.txt": 3
+    },
+    "catalogue": {
+        "6.txt": 2
+    },
+    "cherubim": {
+        "6.txt": 1
+    },
+    "contraptions": {
+        "6.txt": 1
+    },
+    "concerto": {
+        "6.txt": 1
+    },
+    "chromatic": {
+        "6.txt": 1
+    },
+    "compositions": {
+        "6.txt": 1
+    },
+    "coherent": {
+        "6.txt": 2
+    },
+    "completer": {
+        "6.txt": 1
+    },
+    "cite": {
+        "6.txt": 1
+    },
+    "controls": {
+        "6.txt": 1
+    },
+    "controlling": {
+        "6.txt": 2
+    },
+    "conventions": {
+        "6.txt": 1
+    },
+    "cosmic": {
+        "6.txt": 1
+    },
+    "countermeasures": {
+        "6.txt": 1
+    },
+    "catatonia": {
+        "6.txt": 1
+    },
+    "conspiracy": {
+        "6.txt": 1
+    },
+    "cravings": {
+        "6.txt": 1
+    },
+    "cruelly": {
+        "6.txt": 1
+    },
+    "clump": {
+        "6.txt": 1
+    },
+    "contrasted": {
+        "6.txt": 1
+    },
+    "carobs": {
+        "6.txt": 1
+    },
+    "convulsed": {
+        "6.txt": 1
+    },
+    "carnivals": {
+        "6.txt": 1
+    },
+    "chloral": {
+        "6.txt": 1
+    },
+    "comedians": {
+        "6.txt": 1
+    },
+    "cancer": {
+        "6.txt": 2
+    },
+    "condemns": {
+        "6.txt": 1
+    },
+    "cocaine": {
+        "6.txt": 2
+    },
+    "compensatory": {
+        "6.txt": 1
+    },
+    "consumption": {
+        "6.txt": 1
+    },
+    "consummation": {
+        "6.txt": 1
+    },
+    "churchmen": {
+        "6.txt": 1
+    },
+    "churchwomen": {
+        "6.txt": 1
+    },
+    "chesterton": {
+        "6.txt": 1
+    },
+    "christianity": {
+        "6.txt": 7
+    },
+    "celtic": {
+        "6.txt": 1
+    },
+    "compatible": {
+        "6.txt": 1
+    },
+    "considerate": {
+        "6.txt": 1
+    },
+    "carousals": {
+        "6.txt": 1
+    },
+    "coordinating": {
+        "6.txt": 1
+    },
+    "creativeness": {
+        "6.txt": 1
+    },
+    "cultists": {
+        "6.txt": 1
+    },
+    "civics": {
+        "6.txt": 1
+    },
+    "cranks": {
+        "6.txt": 1
+    },
+    "charlatans": {
+        "6.txt": 1
+    },
+    "chaff": {
+        "6.txt": 2
+    },
+    "cocksure": {
+        "6.txt": 1
+    }
+}

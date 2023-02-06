@@ -1,0 +1,9003 @@
+{
+    "suppose": {
+        "15.txt": 16,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 16,
+        "14.txt": 10,
+        "23.txt": 9,
+        "6.txt": 5
+    },
+    "s": {
+        "15.txt": 1494,
+        "7.txt": 354,
+        "18.txt": 1300,
+        "13.txt": 473,
+        "14.txt": 24,
+        "23.txt": 2,
+        "6.txt": 77
+    },
+    "seldom": {
+        "15.txt": 11,
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "self": {
+        "15.txt": 8,
+        "7.txt": 4,
+        "18.txt": 7,
+        "13.txt": 6,
+        "14.txt": 24,
+        "23.txt": 3,
+        "6.txt": 29
+    },
+    "somewhat": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 4,
+        "13.txt": 1,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "shorter": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "stood": {
+        "15.txt": 58,
+        "7.txt": 53,
+        "18.txt": 1,
+        "13.txt": 28,
+        "6.txt": 4
+    },
+    "so": {
+        "15.txt": 281,
+        "7.txt": 523,
+        "18.txt": 283,
+        "13.txt": 144,
+        "14.txt": 141,
+        "23.txt": 111,
+        "6.txt": 40
+    },
+    "sometimes": {
+        "15.txt": 58,
+        "7.txt": 8,
+        "18.txt": 14,
+        "13.txt": 14,
+        "14.txt": 4,
+        "23.txt": 7,
+        "6.txt": 6
+    },
+    "started": {
+        "15.txt": 34,
+        "7.txt": 13,
+        "18.txt": 8,
+        "13.txt": 25,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "senior": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "said": {
+        "15.txt": 1212,
+        "7.txt": 460,
+        "18.txt": 27,
+        "13.txt": 234,
+        "14.txt": 4,
+        "23.txt": 10,
+        "6.txt": 9
+    },
+    "summer": {
+        "15.txt": 45,
+        "18.txt": 1,
+        "13.txt": 20
+    },
+    "simon": {
+        "15.txt": 14,
+        "13.txt": 2
+    },
+    "settle": {
+        "15.txt": 7,
+        "7.txt": 2,
+        "18.txt": 6,
+        "13.txt": 1
+    },
+    "southerners": {
+        "15.txt": 1
+    },
+    "source": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 3,
+        "14.txt": 9,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "shame": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "some": {
+        "15.txt": 143,
+        "7.txt": 234,
+        "18.txt": 107,
+        "13.txt": 111,
+        "14.txt": 26,
+        "23.txt": 72,
+        "6.txt": 39
+    },
+    "side": {
+        "15.txt": 64,
+        "7.txt": 44,
+        "18.txt": 47,
+        "13.txt": 30,
+        "14.txt": 8,
+        "23.txt": 6,
+        "6.txt": 4
+    },
+    "stinginess": {
+        "15.txt": 1
+    },
+    "saint": {
+        "15.txt": 4,
+        "6.txt": 1
+    },
+    "stephens": {
+        "15.txt": 3
+    },
+    "strictures": {
+        "15.txt": 1
+    },
+    "selling": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "13.txt": 2
+    },
+    "slaves": {
+        "15.txt": 2,
+        "7.txt": 46,
+        "18.txt": 3
+    },
+    "sufficient": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "18.txt": 2,
+        "14.txt": 5,
+        "23.txt": 25,
+        "6.txt": 2
+    },
+    "sustain": {
+        "15.txt": 3
+    },
+    "supplied": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "south": {
+        "15.txt": 13,
+        "13.txt": 3,
+        "14.txt": 3,
+        "6.txt": 1
+    },
+    "stripped": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 4,
+        "14.txt": 1
+    },
+    "study": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 3,
+        "14.txt": 3,
+        "23.txt": 10,
+        "6.txt": 4
+    },
+    "sister": {
+        "15.txt": 21,
+        "7.txt": 48,
+        "18.txt": 24,
+        "13.txt": 13
+    },
+    "she": {
+        "15.txt": 796,
+        "7.txt": 644,
+        "18.txt": 330,
+        "13.txt": 414,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "spent": {
+        "15.txt": 18,
+        "7.txt": 26,
+        "18.txt": 6,
+        "13.txt": 4,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "seat": {
+        "15.txt": 15,
+        "7.txt": 14,
+        "18.txt": 11,
+        "13.txt": 2,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "spittoon": {
+        "15.txt": 2
+    },
+    "state": {
+        "15.txt": 26,
+        "7.txt": 26,
+        "18.txt": 8,
+        "13.txt": 2,
+        "14.txt": 4,
+        "23.txt": 15,
+        "6.txt": 5
+    },
+    "second": {
+        "15.txt": 27,
+        "7.txt": 34,
+        "18.txt": 25,
+        "13.txt": 12,
+        "14.txt": 16,
+        "23.txt": 7,
+        "6.txt": 4
+    },
+    "synonymous": {
+        "15.txt": 1
+    },
+    "son": {
+        "15.txt": 47,
+        "7.txt": 121,
+        "18.txt": 1,
+        "13.txt": 8,
+        "6.txt": 1
+    },
+    "several": {
+        "15.txt": 18,
+        "7.txt": 41,
+        "18.txt": 17,
+        "13.txt": 17,
+        "14.txt": 2,
+        "23.txt": 3,
+        "6.txt": 3
+    },
+    "streets": {
+        "15.txt": 5,
+        "7.txt": 14,
+        "18.txt": 13,
+        "13.txt": 3,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "slop": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "sidewalks": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "sagged": {
+        "15.txt": 1
+    },
+    "square": {
+        "15.txt": 28,
+        "7.txt": 9,
+        "18.txt": 29,
+        "13.txt": 5
+    },
+    "somehow": {
+        "15.txt": 14,
+        "7.txt": 1,
+        "18.txt": 14,
+        "13.txt": 4
+    },
+    "suffered": {
+        "15.txt": 5,
+        "7.txt": 9,
+        "13.txt": 1
+    },
+    "sweltering": {
+        "15.txt": 1
+    },
+    "shade": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 3,
+        "13.txt": 2,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "stiff": {
+        "15.txt": 5,
+        "18.txt": 2,
+        "13.txt": 6
+    },
+    "soft": {
+        "15.txt": 16,
+        "7.txt": 1,
+        "18.txt": 8,
+        "13.txt": 8
+    },
+    "sweat": {
+        "15.txt": 8,
+        "18.txt": 6,
+        "13.txt": 3
+    },
+    "sweet": {
+        "15.txt": 6,
+        "7.txt": 5,
+        "18.txt": 6,
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "slowly": {
+        "15.txt": 36,
+        "7.txt": 14,
+        "18.txt": 19,
+        "13.txt": 18,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "shuffled": {
+        "15.txt": 7,
+        "13.txt": 1
+    },
+    "stores": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "seemed": {
+        "15.txt": 101,
+        "7.txt": 54,
+        "18.txt": 9,
+        "13.txt": 39,
+        "23.txt": 5,
+        "6.txt": 12
+    },
+    "see": {
+        "15.txt": 173,
+        "7.txt": 195,
+        "18.txt": 122,
+        "13.txt": 81,
+        "14.txt": 18,
+        "23.txt": 11,
+        "6.txt": 23
+    },
+    "street": {
+        "15.txt": 73,
+        "7.txt": 16,
+        "18.txt": 28,
+        "13.txt": 16,
+        "6.txt": 1
+    },
+    "satisfactory": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "something": {
+        "15.txt": 127,
+        "7.txt": 38,
+        "18.txt": 110,
+        "13.txt": 69,
+        "14.txt": 33,
+        "23.txt": 7,
+        "6.txt": 18
+    },
+    "squinted": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "slat": {
+        "15.txt": 1
+    },
+    "sided": {
+        "15.txt": 1,
+        "6.txt": 2
+    },
+    "since": {
+        "15.txt": 22,
+        "7.txt": 41,
+        "18.txt": 71,
+        "13.txt": 13,
+        "14.txt": 50,
+        "23.txt": 36,
+        "6.txt": 1
+    },
+    "sudden": {
+        "15.txt": 11,
+        "7.txt": 6,
+        "13.txt": 5
+    },
+    "sigh": {
+        "15.txt": 3,
+        "7.txt": 6,
+        "18.txt": 2
+    },
+    "six": {
+        "15.txt": 10,
+        "7.txt": 16,
+        "18.txt": 14,
+        "13.txt": 6,
+        "23.txt": 4,
+        "6.txt": 2
+    },
+    "summertime": {
+        "15.txt": 8
+    },
+    "someone": {
+        "15.txt": 30,
+        "18.txt": 45,
+        "13.txt": 7,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "sitting": {
+        "15.txt": 39,
+        "7.txt": 14,
+        "18.txt": 18,
+        "13.txt": 18,
+        "6.txt": 2
+    },
+    "stared": {
+        "15.txt": 14,
+        "7.txt": 3,
+        "13.txt": 15
+    },
+    "spoke": {
+        "15.txt": 22,
+        "7.txt": 22,
+        "13.txt": 10,
+        "14.txt": 1
+    },
+    "seven": {
+        "15.txt": 5,
+        "7.txt": 20,
+        "18.txt": 10,
+        "13.txt": 5
+    },
+    "shoot": {
+        "15.txt": 17,
+        "7.txt": 6,
+        "18.txt": 26
+    },
+    "scout": {
+        "15.txt": 160
+    },
+    "school": {
+        "15.txt": 98,
+        "18.txt": 10,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "says": {
+        "15.txt": 57,
+        "7.txt": 4,
+        "18.txt": 314,
+        "13.txt": 7,
+        "14.txt": 6,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "scowled": {
+        "15.txt": 4
+    },
+    "struggling": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 5,
+        "13.txt": 2
+    },
+    "spending": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "show": {
+        "15.txt": 27,
+        "7.txt": 25,
+        "18.txt": 33,
+        "13.txt": 7,
+        "14.txt": 15,
+        "23.txt": 8,
+        "6.txt": 1
+    },
+    "shows": {
+        "15.txt": 7,
+        "7.txt": 1,
+        "18.txt": 9,
+        "13.txt": 4,
+        "14.txt": 4,
+        "23.txt": 2
+    },
+    "seen": {
+        "15.txt": 67,
+        "7.txt": 51,
+        "18.txt": 22,
+        "13.txt": 31,
+        "14.txt": 6,
+        "23.txt": 2,
+        "6.txt": 21
+    },
+    "shorts": {
+        "15.txt": 5
+    },
+    "shirt": {
+        "15.txt": 12,
+        "18.txt": 4,
+        "13.txt": 3
+    },
+    "snow": {
+        "15.txt": 17,
+        "18.txt": 149,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "stuck": {
+        "15.txt": 12,
+        "7.txt": 5,
+        "13.txt": 3
+    },
+    "sounded": {
+        "15.txt": 10,
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 6,
+        "6.txt": 2
+    },
+    "sure": {
+        "15.txt": 44,
+        "7.txt": 39,
+        "18.txt": 38,
+        "13.txt": 18,
+        "14.txt": 3,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "sign": {
+        "15.txt": 9,
+        "7.txt": 12,
+        "18.txt": 5,
+        "13.txt": 3
+    },
+    "studied": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "swift": {
+        "15.txt": 6,
+        "18.txt": 1
+    },
+    "strange": {
+        "15.txt": 12,
+        "7.txt": 35,
+        "18.txt": 17,
+        "13.txt": 6,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 3
+    },
+    "spite": {
+        "15.txt": 9,
+        "7.txt": 26,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 7
+    },
+    "safe": {
+        "15.txt": 8,
+        "7.txt": 16,
+        "18.txt": 16,
+        "13.txt": 3
+    },
+    "stand": {
+        "15.txt": 43,
+        "7.txt": 10,
+        "18.txt": 25,
+        "13.txt": 12,
+        "23.txt": 1,
+        "6.txt": 5
+    },
+    "staring": {
+        "15.txt": 7,
+        "7.txt": 1,
+        "18.txt": 8,
+        "13.txt": 6,
+        "6.txt": 2
+    },
+    "sharp": {
+        "15.txt": 5,
+        "7.txt": 3,
+        "18.txt": 3,
+        "13.txt": 7,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "sidewalk": {
+        "15.txt": 39,
+        "13.txt": 4
+    },
+    "shutters": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 6
+    },
+    "slate": {
+        "15.txt": 3
+    },
+    "shingles": {
+        "15.txt": 1
+    },
+    "sun": {
+        "15.txt": 12,
+        "7.txt": 20,
+        "18.txt": 8,
+        "13.txt": 15,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "swept": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "snap": {
+        "15.txt": 2,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "stealthy": {
+        "15.txt": 2
+    },
+    "small": {
+        "15.txt": 30,
+        "7.txt": 29,
+        "18.txt": 25,
+        "13.txt": 43,
+        "14.txt": 10,
+        "23.txt": 8,
+        "6.txt": 5
+    },
+    "series": {
+        "15.txt": 2,
+        "18.txt": 7,
+        "13.txt": 9,
+        "14.txt": 3,
+        "6.txt": 3
+    },
+    "still": {
+        "15.txt": 91,
+        "7.txt": 73,
+        "18.txt": 104,
+        "13.txt": 31,
+        "14.txt": 18,
+        "23.txt": 16,
+        "6.txt": 23
+    },
+    "suspicions": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "shook": {
+        "15.txt": 38,
+        "7.txt": 7,
+        "13.txt": 17
+    },
+    "schoolyard": {
+        "15.txt": 15
+    },
+    "sons": {
+        "15.txt": 1,
+        "7.txt": 8
+    },
+    "sundays": {
+        "15.txt": 9,
+        "18.txt": 2
+    },
+    "sunday": {
+        "15.txt": 22,
+        "18.txt": 1,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "shoes": {
+        "15.txt": 21,
+        "7.txt": 5,
+        "18.txt": 5,
+        "13.txt": 5
+    },
+    "steps": {
+        "15.txt": 53,
+        "7.txt": 17,
+        "18.txt": 20,
+        "13.txt": 24,
+        "14.txt": 1
+    },
+    "screen": {
+        "15.txt": 15,
+        "18.txt": 15
+    },
+    "sarum": {
+        "15.txt": 7
+    },
+    "stumphole": {
+        "15.txt": 1
+    },
+    "spurt": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "spirits": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "send": {
+        "15.txt": 7,
+        "7.txt": 24,
+        "18.txt": 12,
+        "13.txt": 2,
+        "14.txt": 2
+    },
+    "sent": {
+        "15.txt": 12,
+        "7.txt": 74,
+        "18.txt": 12,
+        "13.txt": 16,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "shelter": {
+        "15.txt": 3,
+        "7.txt": 8,
+        "18.txt": 1
+    },
+    "secondary": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "stephanie": {
+        "15.txt": 66,
+        "18.txt": 1
+    },
+    "scold": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "scrapbook": {
+        "15.txt": 1
+    },
+    "scissors": {
+        "15.txt": 4,
+        "7.txt": 1
+    },
+    "screaming": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 8,
+        "13.txt": 1
+    },
+    "sheriff": {
+        "15.txt": 22
+    },
+    "suggested": {
+        "15.txt": 7,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 14,
+        "14.txt": 2,
+        "6.txt": 2
+    },
+    "season": {
+        "15.txt": 4,
+        "13.txt": 4
+    },
+    "strung": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "shut": {
+        "15.txt": 37,
+        "7.txt": 19,
+        "18.txt": 11,
+        "13.txt": 3,
+        "23.txt": 4,
+        "6.txt": 5
+    },
+    "sight": {
+        "15.txt": 10,
+        "7.txt": 64,
+        "18.txt": 9,
+        "13.txt": 13,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "sort": {
+        "15.txt": 14,
+        "7.txt": 10,
+        "18.txt": 14,
+        "13.txt": 23,
+        "14.txt": 4,
+        "23.txt": 2,
+        "6.txt": 4
+    },
+    "straight": {
+        "15.txt": 24,
+        "7.txt": 21,
+        "18.txt": 11,
+        "13.txt": 4,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "say": {
+        "15.txt": 161,
+        "7.txt": 68,
+        "18.txt": 166,
+        "13.txt": 38,
+        "14.txt": 31,
+        "23.txt": 21,
+        "6.txt": 11
+    },
+    "sir": {
+        "15.txt": 92,
+        "7.txt": 16,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "saw": {
+        "15.txt": 104,
+        "7.txt": 123,
+        "18.txt": 12,
+        "13.txt": 51,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 11
+    },
+    "serve": {
+        "15.txt": 6,
+        "7.txt": 4,
+        "14.txt": 18,
+        "23.txt": 4,
+        "6.txt": 5
+    },
+    "sound": {
+        "15.txt": 25,
+        "7.txt": 17,
+        "18.txt": 30,
+        "13.txt": 30,
+        "14.txt": 3,
+        "6.txt": 2
+    },
+    "sawhorses": {
+        "15.txt": 2
+    },
+    "straw": {
+        "15.txt": 4,
+        "13.txt": 5,
+        "6.txt": 4
+    },
+    "spat": {
+        "15.txt": 9,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "surprise": {
+        "15.txt": 5,
+        "7.txt": 31,
+        "18.txt": 7,
+        "13.txt": 5
+    },
+    "speak": {
+        "15.txt": 24,
+        "7.txt": 52,
+        "18.txt": 17,
+        "13.txt": 15,
+        "23.txt": 12,
+        "6.txt": 4
+    },
+    "stick": {
+        "15.txt": 12,
+        "7.txt": 8,
+        "18.txt": 3
+    },
+    "skull": {
+        "15.txt": 1
+    },
+    "slid": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "scratching": {
+        "15.txt": 6
+    },
+    "squirrels": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "scar": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "swifts": {
+        "15.txt": 1
+    },
+    "scared": {
+        "15.txt": 41,
+        "18.txt": 4,
+        "13.txt": 3
+    },
+    "such": {
+        "15.txt": 18,
+        "7.txt": 135,
+        "18.txt": 17,
+        "13.txt": 25,
+        "14.txt": 76,
+        "23.txt": 75,
+        "6.txt": 17
+    },
+    "scary": {
+        "15.txt": 4,
+        "18.txt": 2
+    },
+    "stopped": {
+        "15.txt": 59,
+        "7.txt": 29,
+        "18.txt": 4,
+        "13.txt": 20,
+        "6.txt": 1
+    },
+    "sense": {
+        "15.txt": 18,
+        "7.txt": 5,
+        "18.txt": 15,
+        "13.txt": 3,
+        "14.txt": 39,
+        "23.txt": 13,
+        "6.txt": 17
+    },
+    "strike": {
+        "15.txt": 5,
+        "7.txt": 8,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "set": {
+        "15.txt": 23,
+        "7.txt": 106,
+        "18.txt": 24,
+        "13.txt": 18,
+        "14.txt": 7,
+        "23.txt": 9,
+        "6.txt": 4
+    },
+    "striking": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "stupid": {
+        "15.txt": 5,
+        "7.txt": 2,
+        "18.txt": 13,
+        "13.txt": 2,
+        "23.txt": 2
+    },
+    "stars": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 5,
+        "23.txt": 11,
+        "6.txt": 1
+    },
+    "swap": {
+        "15.txt": 3
+    },
+    "sees": {
+        "15.txt": 4,
+        "7.txt": 4,
+        "18.txt": 9,
+        "13.txt": 2,
+        "14.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "studying": {
+        "15.txt": 2,
+        "18.txt": 2,
+        "23.txt": 2
+    },
+    "simple": {
+        "15.txt": 10,
+        "7.txt": 5,
+        "18.txt": 9,
+        "13.txt": 1,
+        "14.txt": 2,
+        "23.txt": 7
+    },
+    "sneered": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "sped": {
+        "15.txt": 3,
+        "13.txt": 2
+    },
+    "slapped": {
+        "15.txt": 5,
+        "13.txt": 1
+    },
+    "successful": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "safely": {
+        "15.txt": 7,
+        "7.txt": 8,
+        "18.txt": 3,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "same": {
+        "15.txt": 41,
+        "7.txt": 94,
+        "18.txt": 23,
+        "13.txt": 16,
+        "14.txt": 64,
+        "23.txt": 42,
+        "6.txt": 16
+    },
+    "sick": {
+        "15.txt": 24,
+        "7.txt": 6,
+        "18.txt": 11,
+        "13.txt": 11,
+        "6.txt": 2
+    },
+    "shutter": {
+        "15.txt": 4
+    },
+    "september": {
+        "15.txt": 4,
+        "18.txt": 2,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "starting": {
+        "15.txt": 4,
+        "7.txt": 5,
+        "18.txt": 8,
+        "13.txt": 4,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "spying": {
+        "15.txt": 1
+    },
+    "secretly": {
+        "15.txt": 3,
+        "7.txt": 6,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "sharing": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "slowed": {
+        "15.txt": 7,
+        "13.txt": 4
+    },
+    "short": {
+        "15.txt": 14,
+        "7.txt": 18,
+        "18.txt": 15,
+        "13.txt": 18,
+        "14.txt": 1,
+        "23.txt": 4,
+        "6.txt": 4
+    },
+    "striped": {
+        "15.txt": 1
+    },
+    "smelled": {
+        "15.txt": 5
+    },
+    "should": {
+        "15.txt": 31,
+        "7.txt": 189,
+        "18.txt": 42,
+        "13.txt": 11,
+        "14.txt": 86,
+        "23.txt": 56,
+        "6.txt": 12
+    },
+    "share": {
+        "15.txt": 2,
+        "7.txt": 10,
+        "18.txt": 5,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "seceded": {
+        "15.txt": 2
+    },
+    "steel": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "story": {
+        "15.txt": 11,
+        "7.txt": 112,
+        "18.txt": 7,
+        "13.txt": 11,
+        "6.txt": 1
+    },
+    "stove": {
+        "15.txt": 4,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "shirted": {
+        "15.txt": 2
+    },
+    "skirted": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "stock": {
+        "15.txt": 3,
+        "7.txt": 7,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "smiled": {
+        "15.txt": 21,
+        "7.txt": 3,
+        "13.txt": 13
+    },
+    "sits": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 12
+    },
+    "somebody": {
+        "15.txt": 41,
+        "7.txt": 1,
+        "13.txt": 18,
+        "6.txt": 4
+    },
+    "swapped": {
+        "15.txt": 2
+    },
+    "sorry": {
+        "15.txt": 21,
+        "7.txt": 8,
+        "18.txt": 11,
+        "13.txt": 8,
+        "6.txt": 2
+    },
+    "suit": {
+        "15.txt": 8,
+        "7.txt": 4,
+        "18.txt": 10,
+        "13.txt": 14
+    },
+    "snarl": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "shoelaces": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "separated": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "13.txt": 2,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "stay": {
+        "15.txt": 49,
+        "7.txt": 22,
+        "18.txt": 26,
+        "13.txt": 6,
+        "6.txt": 2
+    },
+    "stop": {
+        "15.txt": 36,
+        "7.txt": 19,
+        "18.txt": 28,
+        "13.txt": 14,
+        "6.txt": 1
+    },
+    "soon": {
+        "15.txt": 27,
+        "7.txt": 151,
+        "18.txt": 8,
+        "13.txt": 6,
+        "14.txt": 4,
+        "23.txt": 8,
+        "6.txt": 3
+    },
+    "stubborn": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "system": {
+        "15.txt": 10,
+        "18.txt": 8,
+        "14.txt": 15,
+        "23.txt": 3,
+        "6.txt": 7
+    },
+    "silence": {
+        "15.txt": 11,
+        "7.txt": 14,
+        "18.txt": 9,
+        "13.txt": 10,
+        "6.txt": 2
+    },
+    "scrawling": {
+        "15.txt": 1
+    },
+    "satisfactorily": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "sandwich": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "sugar": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 5,
+        "13.txt": 1,
+        "6.txt": 4
+    },
+    "sentimentality": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "skinny": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "softly": {
+        "15.txt": 18,
+        "7.txt": 10,
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "sat": {
+        "15.txt": 74,
+        "7.txt": 33,
+        "18.txt": 3,
+        "13.txt": 32,
+        "6.txt": 3
+    },
+    "sufficiently": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "14.txt": 2,
+        "23.txt": 9,
+        "6.txt": 1
+    },
+    "scrip": {
+        "15.txt": 1
+    },
+    "stamps": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "special": {
+        "15.txt": 5,
+        "7.txt": 5,
+        "18.txt": 26,
+        "13.txt": 3,
+        "14.txt": 12,
+        "23.txt": 4,
+        "6.txt": 3
+    },
+    "stovewood": {
+        "15.txt": 5
+    },
+    "sack": {
+        "15.txt": 6,
+        "7.txt": 2
+    },
+    "smilax": {
+        "15.txt": 1
+    },
+    "spring": {
+        "15.txt": 8,
+        "7.txt": 4,
+        "18.txt": 5,
+        "13.txt": 6,
+        "14.txt": 13,
+        "6.txt": 2
+    },
+    "simply": {
+        "15.txt": 17,
+        "18.txt": 9,
+        "13.txt": 4,
+        "14.txt": 22,
+        "23.txt": 5
+    },
+    "saved": {
+        "15.txt": 10,
+        "7.txt": 2,
+        "18.txt": 10
+    },
+    "subsequent": {
+        "15.txt": 2,
+        "23.txt": 3
+    },
+    "shamin": {
+        "15.txt": 1
+    },
+    "spit": {
+        "15.txt": 5,
+        "7.txt": 3
+    },
+    "sealing": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "storm": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "similar": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 3,
+        "14.txt": 1,
+        "23.txt": 7,
+        "6.txt": 6
+    },
+    "sober": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "13.txt": 3
+    },
+    "shadow": {
+        "15.txt": 14,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 9,
+        "6.txt": 2
+    },
+    "sixth": {
+        "15.txt": 3,
+        "7.txt": 10,
+        "18.txt": 1
+    },
+    "sojourn": {
+        "15.txt": 1
+    },
+    "sink": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 9,
+        "23.txt": 1
+    },
+    "start": {
+        "15.txt": 9,
+        "7.txt": 9,
+        "18.txt": 26,
+        "13.txt": 9,
+        "14.txt": 5,
+        "6.txt": 1
+    },
+    "standing": {
+        "15.txt": 39,
+        "7.txt": 16,
+        "18.txt": 12,
+        "13.txt": 16,
+        "6.txt": 5
+    },
+    "stomped": {
+        "15.txt": 3
+    },
+    "speculation": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "straps": {
+        "15.txt": 2
+    },
+    "suddenly": {
+        "15.txt": 31,
+        "7.txt": 30,
+        "18.txt": 18,
+        "13.txt": 40,
+        "6.txt": 5
+    },
+    "size": {
+        "15.txt": 7,
+        "7.txt": 7,
+        "18.txt": 4,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "summoned": {
+        "15.txt": 3,
+        "7.txt": 5
+    },
+    "syrup": {
+        "15.txt": 4,
+        "18.txt": 1
+    },
+    "sam": {
+        "15.txt": 11
+    },
+    "silver": {
+        "15.txt": 4,
+        "7.txt": 16,
+        "18.txt": 8,
+        "13.txt": 11
+    },
+    "saucer": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "sets": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 4,
+        "14.txt": 1
+    },
+    "swinging": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 4
+    },
+    "stinging": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "smack": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "spared": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 4,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "staying": {
+        "15.txt": 4,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "solitary": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "sprint": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "single": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 11,
+        "13.txt": 12,
+        "14.txt": 6,
+        "23.txt": 19,
+        "6.txt": 2
+    },
+    "steadily": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "shriek": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "shattered": {
+        "15.txt": 3,
+        "18.txt": 2
+    },
+    "sheer": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "screamed": {
+        "15.txt": 10
+    },
+    "shaking": {
+        "15.txt": 11,
+        "7.txt": 6,
+        "18.txt": 6,
+        "13.txt": 6,
+        "23.txt": 1
+    },
+    "scare": {
+        "15.txt": 4,
+        "18.txt": 1
+    },
+    "showed": {
+        "15.txt": 9,
+        "7.txt": 32,
+        "18.txt": 3,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "searched": {
+        "15.txt": 3,
+        "13.txt": 4,
+        "14.txt": 1
+    },
+    "scalp": {
+        "15.txt": 3
+    },
+    "spell": {
+        "15.txt": 9,
+        "7.txt": 6,
+        "18.txt": 1
+    },
+    "soap": {
+        "15.txt": 7,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "sized": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "space": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "18.txt": 18,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 7
+    },
+    "sendin": {
+        "15.txt": 1
+    },
+    "snort": {
+        "15.txt": 2
+    },
+    "supposed": {
+        "15.txt": 13,
+        "7.txt": 8,
+        "18.txt": 18,
+        "13.txt": 5,
+        "14.txt": 12,
+        "23.txt": 6,
+        "6.txt": 2
+    },
+    "smart": {
+        "15.txt": 4,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "sit": {
+        "15.txt": 22,
+        "7.txt": 21,
+        "18.txt": 29,
+        "13.txt": 13,
+        "6.txt": 5
+    },
+    "serious": {
+        "15.txt": 4,
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "somethin": {
+        "15.txt": 34
+    },
+    "step": {
+        "15.txt": 29,
+        "7.txt": 9,
+        "18.txt": 17,
+        "13.txt": 6,
+        "14.txt": 5,
+        "23.txt": 4
+    },
+    "snorted": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "slouched": {
+        "15.txt": 1
+    },
+    "shouted": {
+        "15.txt": 7,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "snot": {
+        "15.txt": 3
+    },
+    "slut": {
+        "15.txt": 1
+    },
+    "schoolteacher": {
+        "15.txt": 1
+    },
+    "sensed": {
+        "15.txt": 4
+    },
+    "supper": {
+        "15.txt": 12,
+        "7.txt": 14,
+        "18.txt": 1,
+        "13.txt": 8
+    },
+    "spend": {
+        "15.txt": 9,
+        "7.txt": 8,
+        "18.txt": 5,
+        "13.txt": 3,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "swing": {
+        "15.txt": 12,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "sought": {
+        "15.txt": 6,
+        "7.txt": 15,
+        "13.txt": 2,
+        "14.txt": 3,
+        "23.txt": 7
+    },
+    "strolled": {
+        "15.txt": 9,
+        "7.txt": 1,
+        "13.txt": 4
+    },
+    "skin": {
+        "15.txt": 7,
+        "7.txt": 8,
+        "18.txt": 20,
+        "13.txt": 3,
+        "23.txt": 1
+    },
+    "symptom": {
+        "15.txt": 1
+    },
+    "silly": {
+        "15.txt": 3,
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "society": {
+        "15.txt": 10,
+        "7.txt": 5,
+        "13.txt": 2,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "spends": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "shouldn": {
+        "15.txt": 8,
+        "18.txt": 8,
+        "13.txt": 1
+    },
+    "sealed": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "saturday": {
+        "15.txt": 10,
+        "13.txt": 5
+    },
+    "sunset": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "severed": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "supply": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 10,
+        "14.txt": 4,
+        "6.txt": 2
+    },
+    "schooldays": {
+        "15.txt": 1
+    },
+    "served": {
+        "15.txt": 6,
+        "7.txt": 9,
+        "18.txt": 1,
+        "13.txt": 3,
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "sluggishly": {
+        "15.txt": 1
+    },
+    "stopping": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "13.txt": 3
+    },
+    "safety": {
+        "15.txt": 2,
+        "7.txt": 7,
+        "18.txt": 6,
+        "6.txt": 1
+    },
+    "sticking": {
+        "15.txt": 7,
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "sniffed": {
+        "15.txt": 4
+    },
+    "stamped": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "sleeping": {
+        "15.txt": 4,
+        "7.txt": 10,
+        "18.txt": 9
+    },
+    "screened": {
+        "15.txt": 1
+    },
+    "sleep": {
+        "15.txt": 18,
+        "7.txt": 18,
+        "18.txt": 23,
+        "13.txt": 9,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "sippi": {
+        "15.txt": 1
+    },
+    "shiny": {
+        "15.txt": 8,
+        "18.txt": 5,
+        "6.txt": 1
+    },
+    "scrubbed": {
+        "15.txt": 2
+    },
+    "squirt": {
+        "15.txt": 1
+    },
+    "scuppernongs": {
+        "15.txt": 3
+    },
+    "starts": {
+        "15.txt": 2,
+        "18.txt": 9,
+        "13.txt": 2
+    },
+    "slicked": {
+        "15.txt": 3
+    },
+    "strong": {
+        "15.txt": 11,
+        "7.txt": 11,
+        "18.txt": 9,
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "st": {
+        "15.txt": 3,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "shirts": {
+        "15.txt": 3,
+        "13.txt": 7
+    },
+    "script": {
+        "15.txt": 3
+    },
+    "smell": {
+        "15.txt": 8,
+        "7.txt": 4,
+        "18.txt": 14,
+        "23.txt": 2
+    },
+    "steams": {
+        "15.txt": 4
+    },
+    "steam": {
+        "15.txt": 4,
+        "18.txt": 4
+    },
+    "suckin": {
+        "15.txt": 1
+    },
+    "stretch": {
+        "15.txt": 2,
+        "18.txt": 3,
+        "13.txt": 2
+    },
+    "suck": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "sighed": {
+        "15.txt": 13,
+        "7.txt": 1
+    },
+    "sky": {
+        "15.txt": 2,
+        "7.txt": 6,
+        "18.txt": 10,
+        "13.txt": 9,
+        "23.txt": 1
+    },
+    "suffocating": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "shouting": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "skeetered": {
+        "15.txt": 1
+    },
+    "silent": {
+        "15.txt": 18,
+        "7.txt": 9,
+        "18.txt": 12,
+        "13.txt": 8
+    },
+    "scowling": {
+        "15.txt": 3
+    },
+    "swear": {
+        "15.txt": 8,
+        "7.txt": 9,
+        "18.txt": 3
+    },
+    "shape": {
+        "15.txt": 5,
+        "7.txt": 13,
+        "13.txt": 9,
+        "23.txt": 4
+    },
+    "smatter": {
+        "15.txt": 3
+    },
+    "stuffed": {
+        "15.txt": 3,
+        "7.txt": 4
+    },
+    "sweep": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "shrieked": {
+        "15.txt": 4,
+        "7.txt": 4
+    },
+    "scraps": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "shapes": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "scene": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 2,
+        "13.txt": 9,
+        "6.txt": 1
+    },
+    "sneak": {
+        "15.txt": 1
+    },
+    "steal": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "sewing": {
+        "15.txt": 4,
+        "7.txt": 1
+    },
+    "suspected": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 4,
+        "23.txt": 1
+    },
+    "slapping": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "secret": {
+        "15.txt": 7,
+        "7.txt": 19,
+        "18.txt": 3,
+        "13.txt": 7,
+        "14.txt": 3,
+        "23.txt": 1
+    },
+    "shortly": {
+        "15.txt": 3,
+        "7.txt": 14,
+        "18.txt": 2,
+        "13.txt": 4,
+        "23.txt": 1
+    },
+    "staked": {
+        "15.txt": 1
+    },
+    "schemes": {
+        "15.txt": 1
+    },
+    "swooped": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "subjected": {
+        "15.txt": 5,
+        "14.txt": 1
+    },
+    "substance": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "23.txt": 3,
+        "6.txt": 3
+    },
+    "sprout": {
+        "15.txt": 1
+    },
+    "squeezed": {
+        "15.txt": 4,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "stalk": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "sprig": {
+        "15.txt": 1
+    },
+    "speech": {
+        "15.txt": 3,
+        "7.txt": 13,
+        "18.txt": 6,
+        "13.txt": 2,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "silently": {
+        "15.txt": 11,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "schoolhouse": {
+        "15.txt": 7
+    },
+    "subject": {
+        "15.txt": 8,
+        "7.txt": 9,
+        "18.txt": 1,
+        "13.txt": 7,
+        "14.txt": 55,
+        "23.txt": 11,
+        "6.txt": 4
+    },
+    "ss": {
+        "15.txt": 2
+    },
+    "stayed": {
+        "15.txt": 14,
+        "7.txt": 7,
+        "18.txt": 3,
+        "13.txt": 9,
+        "23.txt": 1
+    },
+    "spirited": {
+        "15.txt": 1
+    },
+    "stays": {
+        "15.txt": 4,
+        "18.txt": 4
+    },
+    "settled": {
+        "15.txt": 9,
+        "7.txt": 5,
+        "18.txt": 3,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "shell": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "sin": {
+        "15.txt": 13,
+        "7.txt": 3,
+        "23.txt": 1
+    },
+    "stewing": {
+        "15.txt": 1
+    },
+    "shocked": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "sad": {
+        "15.txt": 9,
+        "7.txt": 19,
+        "18.txt": 1,
+        "13.txt": 8,
+        "14.txt": 1
+    },
+    "secrets": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 5,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "snug": {
+        "15.txt": 4
+    },
+    "sill": {
+        "15.txt": 4,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "shaved": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "seventeen": {
+        "15.txt": 3,
+        "18.txt": 2,
+        "13.txt": 4
+    },
+    "scotia": {
+        "15.txt": 1
+    },
+    "sword": {
+        "15.txt": 1,
+        "7.txt": 10
+    },
+    "scuttled": {
+        "15.txt": 1
+    },
+    "soul": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "13.txt": 2,
+        "14.txt": 2,
+        "23.txt": 17,
+        "6.txt": 7
+    },
+    "selected": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "shoulder": {
+        "15.txt": 15,
+        "7.txt": 1,
+        "18.txt": 12,
+        "13.txt": 13
+    },
+    "seem": {
+        "15.txt": 11,
+        "7.txt": 13,
+        "18.txt": 26,
+        "13.txt": 4,
+        "14.txt": 3,
+        "23.txt": 4,
+        "6.txt": 8
+    },
+    "swell": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "suspiciously": {
+        "15.txt": 3,
+        "13.txt": 2
+    },
+    "string": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "stink": {
+        "15.txt": 1
+    },
+    "sneezed": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "splashing": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "stretched": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "18.txt": 1,
+        "13.txt": 6
+    },
+    "southerly": {
+        "15.txt": 1
+    },
+    "sweetly": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "swings": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "squeeze": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "squeaked": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "sh": {
+        "15.txt": 8,
+        "13.txt": 2
+    },
+    "supported": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "18.txt": 2
+    },
+    "shone": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "spelled": {
+        "15.txt": 2
+    },
+    "saddle": {
+        "15.txt": 2,
+        "7.txt": 8
+    },
+    "somewhere": {
+        "15.txt": 8,
+        "7.txt": 2,
+        "18.txt": 9,
+        "13.txt": 12,
+        "23.txt": 1
+    },
+    "skipped": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "shooed": {
+        "15.txt": 1
+    },
+    "swishing": {
+        "15.txt": 1
+    },
+    "shotgun": {
+        "15.txt": 8
+    },
+    "sobs": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "shot": {
+        "15.txt": 24,
+        "7.txt": 3,
+        "18.txt": 18,
+        "13.txt": 5
+    },
+    "streetlight": {
+        "15.txt": 2
+    },
+    "strip": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 6,
+        "23.txt": 1
+    },
+    "satisfied": {
+        "15.txt": 4,
+        "7.txt": 16,
+        "14.txt": 1,
+        "23.txt": 4,
+        "6.txt": 3
+    },
+    "stiffened": {
+        "15.txt": 3
+    },
+    "siren": {
+        "15.txt": 3
+    },
+    "sus": {
+        "15.txt": 2
+    },
+    "showing": {
+        "15.txt": 4,
+        "7.txt": 6,
+        "18.txt": 7,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "swiftly": {
+        "15.txt": 3,
+        "7.txt": 8,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "slept": {
+        "15.txt": 5,
+        "7.txt": 12,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "scratch": {
+        "15.txt": 5,
+        "7.txt": 1
+    },
+    "seeking": {
+        "15.txt": 2,
+        "7.txt": 8,
+        "18.txt": 4,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 4
+    },
+    "setting": {
+        "15.txt": 5,
+        "7.txt": 6,
+        "18.txt": 6,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "shadows": {
+        "15.txt": 7,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 3,
+        "6.txt": 3
+    },
+    "stirred": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "sides": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "18.txt": 8,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "squeak": {
+        "15.txt": 1
+    },
+    "straining": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "stir": {
+        "15.txt": 2,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "sentence": {
+        "15.txt": 6,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "sewed": {
+        "15.txt": 2
+    },
+    "shuddered": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "seasons": {
+        "15.txt": 3
+    },
+    "snatched": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "shock": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 8,
+        "13.txt": 5
+    },
+    "soapy": {
+        "15.txt": 1
+    },
+    "sweetheart": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "slipped": {
+        "15.txt": 12,
+        "7.txt": 7,
+        "13.txt": 2
+    },
+    "spelling": {
+        "15.txt": 3
+    },
+    "schools": {
+        "15.txt": 1,
+        "14.txt": 1,
+        "23.txt": 8,
+        "6.txt": 1
+    },
+    "speechless": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 4
+    },
+    "signed": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "stark": {
+        "15.txt": 3,
+        "18.txt": 3
+    },
+    "shoulders": {
+        "15.txt": 21,
+        "7.txt": 9,
+        "18.txt": 4,
+        "13.txt": 5,
+        "14.txt": 2,
+        "6.txt": 2
+    },
+    "stone": {
+        "15.txt": 5,
+        "7.txt": 24,
+        "18.txt": 14,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "smoked": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "sternly": {
+        "15.txt": 3,
+        "7.txt": 1
+    },
+    "solely": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "14.txt": 3,
+        "23.txt": 6,
+        "6.txt": 1
+    },
+    "screams": {
+        "15.txt": 3,
+        "18.txt": 9
+    },
+    "shaven": {
+        "15.txt": 1
+    },
+    "snowing": {
+        "15.txt": 1
+    },
+    "snowed": {
+        "15.txt": 3
+    },
+    "snowman": {
+        "15.txt": 10
+    },
+    "slightest": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "snowball": {
+        "15.txt": 1
+    },
+    "soggy": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "scrape": {
+        "15.txt": 4,
+        "18.txt": 2
+    },
+    "stomach": {
+        "15.txt": 11,
+        "18.txt": 5,
+        "23.txt": 1
+    },
+    "statistics": {
+        "15.txt": 2
+    },
+    "sunhat": {
+        "15.txt": 4
+    },
+    "slushy": {
+        "15.txt": 1
+    },
+    "scooped": {
+        "15.txt": 3,
+        "18.txt": 1
+    },
+    "switches": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "sloshed": {
+        "15.txt": 1
+    },
+    "shaped": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "saving": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 3
+    },
+    "succeeded": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "stepped": {
+        "15.txt": 10,
+        "7.txt": 7,
+        "18.txt": 1,
+        "13.txt": 5
+    },
+    "shyly": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "surprised": {
+        "15.txt": 13,
+        "7.txt": 30,
+        "18.txt": 6,
+        "13.txt": 12
+    },
+    "sharply": {
+        "15.txt": 8,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 7
+    },
+    "stepping": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "sixteen": {
+        "15.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "solid": {
+        "15.txt": 6,
+        "7.txt": 3,
+        "13.txt": 2,
+        "23.txt": 4
+    },
+    "spread": {
+        "15.txt": 4,
+        "7.txt": 17,
+        "18.txt": 8,
+        "13.txt": 5,
+        "6.txt": 1
+    },
+    "strangely": {
+        "15.txt": 1
+    },
+    "socks": {
+        "15.txt": 1
+    },
+    "stupidly": {
+        "15.txt": 1
+    },
+    "sounds": {
+        "15.txt": 5,
+        "18.txt": 7,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "scurrying": {
+        "15.txt": 2
+    },
+    "spewing": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "scale": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "sensible": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "14.txt": 14,
+        "23.txt": 2
+    },
+    "save": {
+        "15.txt": 8,
+        "7.txt": 9,
+        "18.txt": 6,
+        "13.txt": 3,
+        "23.txt": 1
+    },
+    "shouts": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 4
+    },
+    "stairs": {
+        "15.txt": 4,
+        "7.txt": 8,
+        "18.txt": 11,
+        "13.txt": 19
+    },
+    "swung": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "sliding": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "shrubbery": {
+        "15.txt": 2,
+        "13.txt": 3
+    },
+    "smoke": {
+        "15.txt": 4,
+        "7.txt": 13,
+        "18.txt": 8,
+        "13.txt": 4,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "stuff": {
+        "15.txt": 6,
+        "7.txt": 3,
+        "18.txt": 18,
+        "13.txt": 4
+    },
+    "shed": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "soak": {
+        "15.txt": 1
+    },
+    "sparks": {
+        "15.txt": 1
+    },
+    "sixty": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "smoking": {
+        "15.txt": 5,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "sternness": {
+        "15.txt": 1
+    },
+    "squaw": {
+        "15.txt": 1
+    },
+    "someday": {
+        "15.txt": 2
+    },
+    "sneaked": {
+        "15.txt": 3
+    },
+    "spark": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "suspended": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "smaller": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 3,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "settin": {
+        "15.txt": 2
+    },
+    "shambles": {
+        "15.txt": 1
+    },
+    "strain": {
+        "15.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "struck": {
+        "15.txt": 8,
+        "7.txt": 32,
+        "18.txt": 2,
+        "13.txt": 2,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "sacrifice": {
+        "15.txt": 2,
+        "7.txt": 9,
+        "18.txt": 3,
+        "14.txt": 1
+    },
+    "sooner": {
+        "15.txt": 3,
+        "7.txt": 18,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "sayin": {
+        "15.txt": 8
+    },
+    "sinking": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "spells": {
+        "15.txt": 1,
+        "7.txt": 3
+    },
+    "settlement": {
+        "15.txt": 2,
+        "14.txt": 1
+    },
+    "session": {
+        "15.txt": 3,
+        "18.txt": 2
+    },
+    "sole": {
+        "15.txt": 3,
+        "14.txt": 4,
+        "6.txt": 2
+    },
+    "surviving": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "stonewall": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "saintly": {
+        "15.txt": 2
+    },
+    "sighing": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "siblings": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "science": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "13.txt": 2,
+        "14.txt": 7,
+        "23.txt": 8,
+        "6.txt": 5
+    },
+    "service": {
+        "15.txt": 3,
+        "7.txt": 9,
+        "13.txt": 3,
+        "14.txt": 2
+    },
+    "splinter": {
+        "15.txt": 3
+    },
+    "sermons": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "spiritual": {
+        "15.txt": 1,
+        "6.txt": 4
+    },
+    "snapshots": {
+        "15.txt": 1
+    },
+    "saying": {
+        "15.txt": 35,
+        "7.txt": 86,
+        "18.txt": 10,
+        "13.txt": 11,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 3
+    },
+    "shooting": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 11
+    },
+    "stream": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "storied": {
+        "15.txt": 1
+    },
+    "staircase": {
+        "15.txt": 5,
+        "7.txt": 17
+    },
+    "separate": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1,
+        "14.txt": 5,
+        "23.txt": 2
+    },
+    "summon": {
+        "15.txt": 1,
+        "7.txt": 5
+    },
+    "signal": {
+        "15.txt": 5,
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "surrounding": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 3
+    },
+    "sensation": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 6
+    },
+    "settling": {
+        "15.txt": 4,
+        "7.txt": 2
+    },
+    "stoves": {
+        "15.txt": 1
+    },
+    "sunshine": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "13.txt": 4,
+        "6.txt": 2
+    },
+    "sunbeam": {
+        "15.txt": 1
+    },
+    "sunbeams": {
+        "15.txt": 1
+    },
+    "shelves": {
+        "15.txt": 1,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "stray": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "sprinted": {
+        "15.txt": 2
+    },
+    "stalking": {
+        "15.txt": 1
+    },
+    "smile": {
+        "15.txt": 7,
+        "7.txt": 2,
+        "18.txt": 19,
+        "13.txt": 8,
+        "6.txt": 1
+    },
+    "subdued": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "split": {
+        "15.txt": 1,
+        "18.txt": 4
+    },
+    "sailed": {
+        "15.txt": 2,
+        "7.txt": 8
+    },
+    "statement": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 9,
+        "14.txt": 6
+    },
+    "slammed": {
+        "15.txt": 6,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "surveyed": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "sass": {
+        "15.txt": 2
+    },
+    "scratched": {
+        "15.txt": 8,
+        "18.txt": 1
+    },
+    "shall": {
+        "15.txt": 3,
+        "7.txt": 126,
+        "18.txt": 1,
+        "13.txt": 4,
+        "14.txt": 15,
+        "23.txt": 9,
+        "6.txt": 6
+    },
+    "sake": {
+        "15.txt": 3,
+        "7.txt": 5,
+        "18.txt": 3,
+        "14.txt": 3,
+        "6.txt": 1
+    },
+    "spot": {
+        "15.txt": 5,
+        "7.txt": 19,
+        "18.txt": 7,
+        "13.txt": 5,
+        "6.txt": 1
+    },
+    "stage": {
+        "15.txt": 16,
+        "18.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "store": {
+        "15.txt": 11,
+        "7.txt": 11,
+        "18.txt": 3,
+        "13.txt": 8,
+        "6.txt": 5
+    },
+    "stake": {
+        "15.txt": 2,
+        "7.txt": 2
+    },
+    "scurried": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "schoolmates": {
+        "15.txt": 1
+    },
+    "sing": {
+        "15.txt": 6,
+        "7.txt": 6,
+        "18.txt": 8,
+        "13.txt": 3
+    },
+    "seems": {
+        "15.txt": 4,
+        "7.txt": 9,
+        "18.txt": 49,
+        "13.txt": 1,
+        "14.txt": 4,
+        "23.txt": 3,
+        "6.txt": 6
+    },
+    "straightened": {
+        "15.txt": 3,
+        "23.txt": 1
+    },
+    "sidelines": {
+        "15.txt": 1
+    },
+    "squirrel": {
+        "15.txt": 2
+    },
+    "squinting": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "southern": {
+        "15.txt": 5,
+        "13.txt": 1
+    },
+    "slow": {
+        "15.txt": 5,
+        "7.txt": 2,
+        "18.txt": 9,
+        "13.txt": 4,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "speck": {
+        "15.txt": 5
+    },
+    "sandbed": {
+        "15.txt": 1
+    },
+    "skirt": {
+        "15.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "sniff": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "shift": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "snail": {
+        "15.txt": 1
+    },
+    "sniffing": {
+        "15.txt": 1
+    },
+    "shiver": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "shedding": {
+        "15.txt": 1
+    },
+    "swimmer": {
+        "15.txt": 1
+    },
+    "simultaneous": {
+        "15.txt": 1
+    },
+    "squatted": {
+        "15.txt": 2
+    },
+    "stooped": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "smiling": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "singing": {
+        "15.txt": 3,
+        "7.txt": 25,
+        "18.txt": 8,
+        "13.txt": 6,
+        "6.txt": 1
+    },
+    "standin": {
+        "15.txt": 2
+    },
+    "shootin": {
+        "15.txt": 2
+    },
+    "section": {
+        "15.txt": 1,
+        "18.txt": 4,
+        "14.txt": 13
+    },
+    "steep": {
+        "15.txt": 3,
+        "7.txt": 5,
+        "18.txt": 1
+    },
+    "shawls": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "sunnily": {
+        "15.txt": 1
+    },
+    "sassiest": {
+        "15.txt": 1
+    },
+    "survived": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 5
+    },
+    "sequins": {
+        "15.txt": 1,
+        "7.txt": 17
+    },
+    "stationed": {
+        "15.txt": 2
+    },
+    "scuppernong": {
+        "15.txt": 2
+    },
+    "saliva": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "scarlet": {
+        "15.txt": 3
+    },
+    "sleeve": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 6
+    },
+    "snapped": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 5
+    },
+    "shrieking": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "skulked": {
+        "15.txt": 1
+    },
+    "shared": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "6.txt": 1
+    },
+    "soles": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "switched": {
+        "15.txt": 5,
+        "13.txt": 1
+    },
+    "strongly": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "saturdays": {
+        "15.txt": 2
+    },
+    "superior": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 5,
+        "23.txt": 7,
+        "6.txt": 2
+    },
+    "sheets": {
+        "15.txt": 3,
+        "18.txt": 4,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "syringe": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "spots": {
+        "15.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "soot": {
+        "15.txt": 1
+    },
+    "stained": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "shoo": {
+        "15.txt": 2
+    },
+    "spits": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "subjects": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "sounding": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "scott": {
+        "15.txt": 1,
+        "13.txt": 3
+    },
+    "spree": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "sports": {
+        "15.txt": 1,
+        "13.txt": 3
+    },
+    "seaton": {
+        "15.txt": 1
+    },
+    "suffering": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "surrounded": {
+        "15.txt": 2,
+        "7.txt": 15,
+        "18.txt": 1
+    },
+    "skill": {
+        "15.txt": 2,
+        "7.txt": 7,
+        "18.txt": 2,
+        "14.txt": 8,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "snapshot": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "swiftness": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "ship": {
+        "15.txt": 4,
+        "7.txt": 55,
+        "18.txt": 1,
+        "23.txt": 1,
+        "6.txt": 4
+    },
+    "strikes": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "systems": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "14.txt": 1,
+        "6.txt": 5
+    },
+    "shelling": {
+        "15.txt": 1
+    },
+    "simpson": {
+        "15.txt": 1
+    },
+    "sermon": {
+        "15.txt": 5
+    },
+    "shadrach": {
+        "15.txt": 1
+    },
+    "supervision": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "starch": {
+        "15.txt": 1
+    },
+    "sash": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "smiles": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "sawmill": {
+        "15.txt": 1
+    },
+    "steeple": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "softened": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "stumps": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "snuff": {
+        "15.txt": 2
+    },
+    "sykes": {
+        "15.txt": 41
+    },
+    "silk": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 5,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "sell": {
+        "15.txt": 1,
+        "7.txt": 17,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "shifted": {
+        "15.txt": 4,
+        "13.txt": 2
+    },
+    "stocky": {
+        "15.txt": 1
+    },
+    "sisters": {
+        "15.txt": 4,
+        "7.txt": 14,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "superintendent": {
+        "15.txt": 1
+    },
+    "seventy": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "sang": {
+        "15.txt": 1,
+        "7.txt": 13,
+        "13.txt": 2
+    },
+    "syllable": {
+        "15.txt": 1
+    },
+    "swelled": {
+        "15.txt": 3,
+        "7.txt": 2
+    },
+    "shore": {
+        "15.txt": 1,
+        "7.txt": 21,
+        "13.txt": 6
+    },
+    "sung": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "shining": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 6,
+        "6.txt": 2
+    },
+    "specific": {
+        "15.txt": 2,
+        "18.txt": 6,
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 1
+    },
+    "stuffy": {
+        "15.txt": 1
+    },
+    "startled": {
+        "15.txt": 4,
+        "7.txt": 5,
+        "13.txt": 5
+    },
+    "stormy": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "specially": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "strapped": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "style": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "sunning": {
+        "15.txt": 1
+    },
+    "suitcase": {
+        "15.txt": 2
+    },
+    "sluggish": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "suggest": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "seized": {
+        "15.txt": 1,
+        "7.txt": 26,
+        "13.txt": 2
+    },
+    "shinny": {
+        "15.txt": 2
+    },
+    "secretary": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "shortcomings": {
+        "15.txt": 2,
+        "6.txt": 1
+    },
+    "suicide": {
+        "15.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "streak": {
+        "15.txt": 8,
+        "13.txt": 1
+    },
+    "squatting": {
+        "15.txt": 2
+    },
+    "sinkfield": {
+        "15.txt": 7
+    },
+    "settlers": {
+        "15.txt": 2
+    },
+    "surveyors": {
+        "15.txt": 2
+    },
+    "stroke": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "swamp": {
+        "15.txt": 2
+    },
+    "sprawled": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "saddlebags": {
+        "15.txt": 1
+    },
+    "sea": {
+        "15.txt": 1,
+        "7.txt": 55,
+        "18.txt": 7,
+        "13.txt": 9,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "states": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 2,
+        "14.txt": 12,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "shadings": {
+        "15.txt": 1
+    },
+    "stoops": {
+        "15.txt": 1
+    },
+    "sips": {
+        "15.txt": 1
+    },
+    "spun": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "speculations": {
+        "15.txt": 3,
+        "23.txt": 2
+    },
+    "sipping": {
+        "15.txt": 1
+    },
+    "splashed": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "sand": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 3,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "sofa": {
+        "15.txt": 3,
+        "7.txt": 14,
+        "18.txt": 7,
+        "13.txt": 2
+    },
+    "sewer": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "stork": {
+        "15.txt": 1
+    },
+    "soberly": {
+        "15.txt": 1
+    },
+    "stunned": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "stung": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 5
+    },
+    "starched": {
+        "15.txt": 3
+    },
+    "soda": {
+        "15.txt": 2
+    },
+    "shutting": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "squirm": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "sweating": {
+        "15.txt": 1
+    },
+    "shred": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "sank": {
+        "15.txt": 2,
+        "7.txt": 10,
+        "13.txt": 4
+    },
+    "superiority": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "spank": {
+        "15.txt": 1
+    },
+    "sprawling": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "sailing": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "13.txt": 1
+    },
+    "stance": {
+        "15.txt": 1
+    },
+    "smooth": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 2,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "snake": {
+        "15.txt": 4,
+        "7.txt": 5,
+        "18.txt": 3,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "satisfaction": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 4,
+        "13.txt": 3,
+        "14.txt": 16,
+        "23.txt": 5,
+        "6.txt": 1
+    },
+    "swipe": {
+        "15.txt": 2
+    },
+    "snakes": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "sockets": {
+        "15.txt": 1
+    },
+    "scrub": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "searchin": {
+        "15.txt": 1
+    },
+    "streaked": {
+        "15.txt": 3
+    },
+    "soil": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "shivered": {
+        "15.txt": 3,
+        "13.txt": 3
+    },
+    "sittin": {
+        "15.txt": 5
+    },
+    "subtract": {
+        "15.txt": 1
+    },
+    "shinnied": {
+        "15.txt": 1
+    },
+    "struggle": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "speeches": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "scattered": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "stifle": {
+        "15.txt": 1
+    },
+    "sold": {
+        "15.txt": 1,
+        "7.txt": 14,
+        "18.txt": 1,
+        "13.txt": 4
+    },
+    "suspect": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 5,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "swivel": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "stack": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "suppertime": {
+        "15.txt": 1
+    },
+    "shuttered": {
+        "15.txt": 2
+    },
+    "starkly": {
+        "15.txt": 1
+    },
+    "supporters": {
+        "15.txt": 1
+    },
+    "stranger": {
+        "15.txt": 1,
+        "7.txt": 14,
+        "18.txt": 7,
+        "13.txt": 4
+    },
+    "sickeningly": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "situation": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 12,
+        "13.txt": 3,
+        "23.txt": 4
+    },
+    "snipe": {
+        "15.txt": 1
+    },
+    "succinct": {
+        "15.txt": 1
+    },
+    "smelly": {
+        "15.txt": 1
+    },
+    "stale": {
+        "15.txt": 4,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "strangers": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 5,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "shin": {
+        "15.txt": 1
+    },
+    "seconds": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 8
+    },
+    "steady": {
+        "15.txt": 6,
+        "18.txt": 10,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "sleeves": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "sullen": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "sleepy": {
+        "15.txt": 6,
+        "18.txt": 2
+    },
+    "semi": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "sunscorched": {
+        "15.txt": 1
+    },
+    "slower": {
+        "15.txt": 1
+    },
+    "sipped": {
+        "15.txt": 1
+    },
+    "serving": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "14.txt": 3
+    },
+    "sideboard": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "subtle": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "starchiness": {
+        "15.txt": 1
+    },
+    "sundown": {
+        "15.txt": 3,
+        "6.txt": 1
+    },
+    "spoon": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "senses": {
+        "15.txt": 1,
+        "7.txt": 10,
+        "18.txt": 1,
+        "14.txt": 7,
+        "23.txt": 10
+    },
+    "signaled": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "sunbonnets": {
+        "15.txt": 1
+    },
+    "shave": {
+        "15.txt": 1
+    },
+    "sheet": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "slade": {
+        "15.txt": 1
+    },
+    "stern": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "sunlight": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 5,
+        "6.txt": 1
+    },
+    "shrill": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "scripture": {
+        "15.txt": 2,
+        "14.txt": 1
+    },
+    "speeded": {
+        "15.txt": 1
+    },
+    "speakin": {
+        "15.txt": 1
+    },
+    "subpoena": {
+        "15.txt": 1
+    },
+    "sardines": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "straws": {
+        "15.txt": 4
+    },
+    "sip": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "sorts": {
+        "15.txt": 1,
+        "7.txt": 14,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 5,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "spencer": {
+        "15.txt": 1
+    },
+    "sorta": {
+        "15.txt": 4
+    },
+    "shipped": {
+        "15.txt": 1
+    },
+    "skip": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "scatter": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "supporting": {
+        "15.txt": 1
+    },
+    "scrap": {
+        "15.txt": 3
+    },
+    "sundry": {
+        "15.txt": 1
+    },
+    "sunless": {
+        "15.txt": 1
+    },
+    "solicitor": {
+        "15.txt": 6
+    },
+    "stairwell": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "suspendered": {
+        "15.txt": 1
+    },
+    "spectators": {
+        "15.txt": 6,
+        "7.txt": 1
+    },
+    "snickered": {
+        "15.txt": 1
+    },
+    "surged": {
+        "15.txt": 1
+    },
+    "steered": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "seats": {
+        "15.txt": 6,
+        "13.txt": 2
+    },
+    "sunburned": {
+        "15.txt": 1
+    },
+    "shark": {
+        "15.txt": 1
+    },
+    "slightly": {
+        "15.txt": 6,
+        "7.txt": 2,
+        "18.txt": 8,
+        "13.txt": 9,
+        "6.txt": 1
+    },
+    "standstill": {
+        "15.txt": 1
+    },
+    "stamping": {
+        "15.txt": 1
+    },
+    "speller": {
+        "15.txt": 1
+    },
+    "slick": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "studded": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "slight": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 6,
+        "13.txt": 1,
+        "23.txt": 3
+    },
+    "scrutiny": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "speaking": {
+        "15.txt": 6,
+        "7.txt": 18,
+        "18.txt": 6,
+        "13.txt": 4,
+        "14.txt": 4,
+        "23.txt": 4
+    },
+    "skewed": {
+        "15.txt": 1
+    },
+    "sho": {
+        "15.txt": 5
+    },
+    "scribbling": {
+        "15.txt": 1
+    },
+    "shorthand": {
+        "15.txt": 1
+    },
+    "stiffly": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "scraped": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "scampered": {
+        "15.txt": 3,
+        "13.txt": 1
+    },
+    "seas": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "smells": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "strutted": {
+        "15.txt": 1
+    },
+    "status": {
+        "15.txt": 1,
+        "18.txt": 6,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "surroundings": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "supplemented": {
+        "15.txt": 1
+    },
+    "shingled": {
+        "15.txt": 1
+    },
+    "spaces": {
+        "15.txt": 1,
+        "18.txt": 6,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "strips": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "shafts": {
+        "15.txt": 1,
+        "18.txt": 4
+    },
+    "snaggle": {
+        "15.txt": 1
+    },
+    "shovels": {
+        "15.txt": 1
+    },
+    "scrawny": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "seeing": {
+        "15.txt": 2,
+        "7.txt": 63,
+        "18.txt": 13,
+        "13.txt": 3,
+        "23.txt": 3,
+        "6.txt": 3
+    },
+    "suffer": {
+        "15.txt": 2,
+        "7.txt": 11,
+        "18.txt": 2,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 3
+    },
+    "screamin": {
+        "15.txt": 2
+    },
+    "subsided": {
+        "15.txt": 2
+    },
+    "sleepily": {
+        "15.txt": 1
+    },
+    "silenced": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "serene": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "smugly": {
+        "15.txt": 1
+    },
+    "surveying": {
+        "15.txt": 1
+    },
+    "sulky": {
+        "15.txt": 3
+    },
+    "struggled": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "smugness": {
+        "15.txt": 1
+    },
+    "sexual": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "slung": {
+        "15.txt": 3,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "sawed": {
+        "15.txt": 1
+    },
+    "squallin": {
+        "15.txt": 1
+    },
+    "suspicion": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 3,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "sherlock": {
+        "15.txt": 1
+    },
+    "swore": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "13.txt": 2
+    },
+    "strenuous": {
+        "15.txt": 1
+    },
+    "scalded": {
+        "15.txt": 1
+    },
+    "soaking": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "sensitive": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "sobbed": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "soothing": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "scaring": {
+        "15.txt": 2,
+        "7.txt": 2
+    },
+    "sweaty": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "scream": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "18.txt": 5
+    },
+    "secured": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3
+    },
+    "stroll": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "sassed": {
+        "15.txt": 1
+    },
+    "seb": {
+        "15.txt": 2
+    },
+    "specimen": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "surely": {
+        "15.txt": 1,
+        "7.txt": 7,
+        "18.txt": 12,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "serenely": {
+        "15.txt": 1
+    },
+    "shriveled": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "smothered": {
+        "15.txt": 1
+    },
+    "stinkin": {
+        "15.txt": 3
+    },
+    "shown": {
+        "15.txt": 2,
+        "7.txt": 10,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 8,
+        "23.txt": 4,
+        "6.txt": 4
+    },
+    "sponge": {
+        "15.txt": 1
+    },
+    "social": {
+        "15.txt": 3,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "strict": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 8
+    },
+    "squarely": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "slosh": {
+        "15.txt": 1
+    },
+    "spitball": {
+        "15.txt": 1
+    },
+    "succeed": {
+        "15.txt": 1,
+        "7.txt": 8,
+        "18.txt": 1,
+        "23.txt": 2
+    },
+    "suh": {
+        "15.txt": 39
+    },
+    "services": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "spare": {
+        "15.txt": 1,
+        "7.txt": 10,
+        "18.txt": 2
+    },
+    "studyin": {
+        "15.txt": 1
+    },
+    "screwdriver": {
+        "15.txt": 1
+    },
+    "shet": {
+        "15.txt": 1
+    },
+    "shine": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "slap": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "sturbed": {
+        "15.txt": 1
+    },
+    "sworn": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "13.txt": 2
+    },
+    "swallowed": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 2,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "subtlety": {
+        "15.txt": 1
+    },
+    "sincerely": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "sling": {
+        "15.txt": 1
+    },
+    "searching": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 6,
+        "13.txt": 2
+    },
+    "sucked": {
+        "15.txt": 1
+    },
+    "sinful": {
+        "15.txt": 1
+    },
+    "settlin": {
+        "15.txt": 1
+    },
+    "sifting": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "severe": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 1
+    },
+    "stronger": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "stolen": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "savagely": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "signing": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "satisfy": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "13.txt": 1,
+        "14.txt": 3,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "smarter": {
+        "15.txt": 1
+    },
+    "scope": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "supreme": {
+        "15.txt": 1,
+        "14.txt": 27,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "suppers": {
+        "15.txt": 2
+    },
+    "streetlights": {
+        "15.txt": 1
+    },
+    "sadly": {
+        "15.txt": 1,
+        "7.txt": 5
+    },
+    "salad": {
+        "15.txt": 1
+    },
+    "shamed": {
+        "15.txt": 1
+    },
+    "seating": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "strolling": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "salute": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "scurry": {
+        "15.txt": 1
+    },
+    "stadium": {
+        "15.txt": 1
+    },
+    "steaming": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "swimmers": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "stab": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "stole": {
+        "15.txt": 1,
+        "7.txt": 9,
+        "18.txt": 1
+    },
+    "stumbled": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "salt": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "seein": {
+        "15.txt": 1
+    },
+    "slice": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "safest": {
+        "15.txt": 1
+    },
+    "sneezing": {
+        "15.txt": 1
+    },
+    "starve": {
+        "15.txt": 1
+    },
+    "spitting": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "statute": {
+        "15.txt": 1
+    },
+    "sentenced": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "stolidly": {
+        "15.txt": 2
+    },
+    "sickening": {
+        "15.txt": 1
+    },
+    "sordid": {
+        "15.txt": 1
+    },
+    "stout": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "13.txt": 3
+    },
+    "sometime": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "shines": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "spoken": {
+        "15.txt": 1,
+        "7.txt": 10,
+        "18.txt": 2,
+        "14.txt": 1,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "sobbing": {
+        "15.txt": 2
+    },
+    "slimness": {
+        "15.txt": 1
+    },
+    "sewin": {
+        "15.txt": 1
+    },
+    "stiffest": {
+        "15.txt": 1
+    },
+    "swim": {
+        "15.txt": 3,
+        "18.txt": 2
+    },
+    "squalid": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "spilled": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "spill": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "spoiled": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "sparkled": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "sobered": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "squalor": {
+        "15.txt": 2
+    },
+    "stately": {
+        "15.txt": 1
+    },
+    "sophy": {
+        "15.txt": 3
+    },
+    "splendidly": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "sibilant": {
+        "15.txt": 1
+    },
+    "soared": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "surface": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 8,
+        "13.txt": 2,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "shots": {
+        "15.txt": 1,
+        "18.txt": 8,
+        "13.txt": 1
+    },
+    "smoothed": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "summers": {
+        "15.txt": 1
+    },
+    "sis": {
+        "15.txt": 1
+    },
+    "stevens": {
+        "15.txt": 1
+    },
+    "scot": {
+        "15.txt": 1
+    },
+    "subscriptions": {
+        "15.txt": 2
+    },
+    "sweated": {
+        "15.txt": 1
+    },
+    "senseless": {
+        "15.txt": 2
+    },
+    "slaughter": {
+        "15.txt": 1
+    },
+    "songbirds": {
+        "15.txt": 1
+    },
+    "seventh": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "slender": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 5
+    },
+    "swelling": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "score": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "shoots": {
+        "15.txt": 1,
+        "18.txt": 4
+    },
+    "satisfying": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "strengthened": {
+        "15.txt": 1
+    },
+    "singled": {
+        "15.txt": 1
+    },
+    "spurious": {
+        "15.txt": 1,
+        "14.txt": 2
+    },
+    "syrupy": {
+        "15.txt": 1
+    },
+    "sings": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "seizing": {
+        "15.txt": 1,
+        "7.txt": 8
+    },
+    "slogan": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "stories": {
+        "15.txt": 1,
+        "7.txt": 19,
+        "18.txt": 3,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "scowl": {
+        "15.txt": 1
+    },
+    "sums": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "14.txt": 1
+    },
+    "stuffin": {
+        "15.txt": 1
+    },
+    "storing": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "savored": {
+        "15.txt": 1
+    },
+    "stickers": {
+        "15.txt": 1
+    },
+    "significance": {
+        "15.txt": 1,
+        "13.txt": 3,
+        "6.txt": 12
+    },
+    "stable": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "sarah": {
+        "15.txt": 1
+    },
+    "stealthily": {
+        "15.txt": 1
+    },
+    "sellers": {
+        "15.txt": 1
+    },
+    "syrians": {
+        "15.txt": 1
+    },
+    "seamstress": {
+        "15.txt": 1
+    },
+    "signs": {
+        "15.txt": 1,
+        "7.txt": 12,
+        "18.txt": 2,
+        "13.txt": 2,
+        "23.txt": 2
+    },
+    "sunrise": {
+        "15.txt": 1,
+        "7.txt": 3
+    },
+    "sunflower": {
+        "15.txt": 1
+    },
+    "spies": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "shucks": {
+        "15.txt": 1
+    },
+    "squandered": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "spaghetti": {
+        "15.txt": 1
+    },
+    "sanitary": {
+        "15.txt": 1
+    },
+    "spanish": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "shushed": {
+        "15.txt": 1
+    },
+    "subordinates": {
+        "15.txt": 1
+    },
+    "sympathetic": {
+        "15.txt": 1
+    },
+    "stillness": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "streaks": {
+        "15.txt": 2
+    },
+    "showin": {
+        "15.txt": 1
+    },
+    "stumping": {
+        "15.txt": 1
+    },
+    "stones": {
+        "15.txt": 1,
+        "7.txt": 27,
+        "18.txt": 6
+    },
+    "swish": {
+        "15.txt": 1
+    },
+    "shuffle": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "swished": {
+        "15.txt": 1
+    },
+    "scuffling": {
+        "15.txt": 3,
+        "18.txt": 1
+    },
+    "scraping": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "staggering": {
+        "15.txt": 1
+    },
+    "stubble": {
+        "15.txt": 1
+    },
+    "staccato": {
+        "15.txt": 1
+    },
+    "symptoms": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "shaded": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "steeds": {
+        "15.txt": 1
+    },
+    "smockin": {
+        "15.txt": 1
+    },
+    "skunk": {
+        "15.txt": 1
+    },
+    "staggerin": {
+        "15.txt": 1
+    },
+    "sickly": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "shallow": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "spasm": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "shy": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "scat": {
+        "15.txt": 1
+    },
+    "stabbed": {
+        "15.txt": 3
+    },
+    "solidly": {
+        "15.txt": 1
+    },
+    "sandwiches": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "stubbornness": {
+        "15.txt": 1
+    },
+    "switchblade": {
+        "15.txt": 2
+    },
+    "stumble": {
+        "15.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "slowness": {
+        "15.txt": 1
+    },
+    "strode": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "shaken": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "sedative": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "surprisingly": {
+        "15.txt": 1,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "stoop": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "sickness": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "6.txt": 1
+    },
+    "silhouetted": {
+        "15.txt": 1
+    },
+    "shrewder": {
+        "15.txt": 1
+    },
+    "seckatary": {
+        "15.txt": 1
+    },
+    "shoe": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "13.txt": 3
+    },
+    "stoner": {
+        "15.txt": 2
+    },
+    "shem": {
+        "7.txt": 1
+    },
+    "squire": {
+        "7.txt": 1
+    },
+    "scotland": {
+        "7.txt": 1
+    },
+    "storyteller": {
+        "7.txt": 1
+    },
+    "sultan": {
+        "7.txt": 278
+    },
+    "sindbad": {
+        "7.txt": 46
+    },
+    "solemn": {
+        "7.txt": 7,
+        "13.txt": 7
+    },
+    "shortened": {
+        "7.txt": 2
+    },
+    "suitable": {
+        "7.txt": 12,
+        "14.txt": 3,
+        "6.txt": 1
+    },
+    "sailor": {
+        "7.txt": 8
+    },
+    "sassanidae": {
+        "7.txt": 1
+    },
+    "schahriar": {
+        "7.txt": 5
+    },
+    "schahzeman": {
+        "7.txt": 1
+    },
+    "surround": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "splendour": {
+        "7.txt": 2
+    },
+    "sorrow": {
+        "7.txt": 10,
+        "18.txt": 2,
+        "14.txt": 2
+    },
+    "sultana": {
+        "7.txt": 16
+    },
+    "strangled": {
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "scheherazade": {
+        "7.txt": 19
+    },
+    "sire": {
+        "7.txt": 73
+    },
+    "scimitar": {
+        "7.txt": 3
+    },
+    "sabre": {
+        "7.txt": 10
+    },
+    "suspense": {
+        "7.txt": 4
+    },
+    "slave": {
+        "7.txt": 100,
+        "18.txt": 2
+    },
+    "scheme": {
+        "7.txt": 3
+    },
+    "steward": {
+        "7.txt": 16,
+        "13.txt": 1
+    },
+    "streaming": {
+        "7.txt": 3,
+        "18.txt": 2
+    },
+    "scoffed": {
+        "7.txt": 1
+    },
+    "skinning": {
+        "7.txt": 1
+    },
+    "stead": {
+        "7.txt": 2
+    },
+    "sacrificed": {
+        "7.txt": 2,
+        "18.txt": 2,
+        "14.txt": 1
+    },
+    "search": {
+        "7.txt": 8,
+        "18.txt": 3,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 6,
+        "6.txt": 1
+    },
+    "surpasses": {
+        "7.txt": 2
+    },
+    "sum": {
+        "7.txt": 14,
+        "14.txt": 2,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "shops": {
+        "7.txt": 4,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "shop": {
+        "7.txt": 33,
+        "18.txt": 9,
+        "13.txt": 1
+    },
+    "seaport": {
+        "7.txt": 5
+    },
+    "sail": {
+        "7.txt": 19,
+        "13.txt": 1
+    },
+    "sorrowful": {
+        "7.txt": 2
+    },
+    "surpassed": {
+        "7.txt": 3,
+        "23.txt": 1
+    },
+    "scarcely": {
+        "7.txt": 13,
+        "13.txt": 7,
+        "23.txt": 2
+    },
+    "support": {
+        "7.txt": 4,
+        "18.txt": 10,
+        "13.txt": 2,
+        "14.txt": 2,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "shells": {
+        "7.txt": 1,
+        "18.txt": 5
+    },
+    "seal": {
+        "7.txt": 6,
+        "18.txt": 8
+    },
+    "stretching": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "stag": {
+        "7.txt": 1
+    },
+    "security": {
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "spy": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "satin": {
+        "7.txt": 2,
+        "6.txt": 1
+    },
+    "signify": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "swimming": {
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 4
+    },
+    "splendid": {
+        "7.txt": 16,
+        "18.txt": 1,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "sofas": {
+        "7.txt": 7
+    },
+    "stuffs": {
+        "7.txt": 3
+    },
+    "suite": {
+        "7.txt": 6,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "sprang": {
+        "7.txt": 7,
+        "18.txt": 1,
+        "13.txt": 4,
+        "14.txt": 1
+    },
+    "smelling": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "scents": {
+        "7.txt": 2
+    },
+    "spices": {
+        "7.txt": 3
+    },
+    "sadie": {
+        "7.txt": 12
+    },
+    "song": {
+        "7.txt": 7,
+        "18.txt": 12,
+        "13.txt": 6
+    },
+    "sadia": {
+        "7.txt": 1
+    },
+    "singers": {
+        "7.txt": 1
+    },
+    "sorrowfully": {
+        "7.txt": 1
+    },
+    "songs": {
+        "7.txt": 4,
+        "18.txt": 3
+    },
+    "scars": {
+        "7.txt": 2,
+        "18.txt": 3
+    },
+    "surprising": {
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "seated": {
+        "7.txt": 14,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "sepulchre": {
+        "7.txt": 3
+    },
+    "spiral": {
+        "7.txt": 1
+    },
+    "servant": {
+        "7.txt": 14,
+        "13.txt": 1
+    },
+    "seek": {
+        "7.txt": 20,
+        "13.txt": 1,
+        "14.txt": 5,
+        "23.txt": 7
+    },
+    "seize": {
+        "7.txt": 6,
+        "18.txt": 2,
+        "23.txt": 1
+    },
+    "siege": {
+        "7.txt": 1
+    },
+    "stricken": {
+        "7.txt": 1
+    },
+    "star": {
+        "7.txt": 2,
+        "18.txt": 6,
+        "13.txt": 5
+    },
+    "secure": {
+        "7.txt": 4,
+        "18.txt": 6,
+        "13.txt": 4,
+        "14.txt": 6,
+        "23.txt": 4
+    },
+    "spurs": {
+        "7.txt": 3
+    },
+    "streams": {
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "supposing": {
+        "7.txt": 8,
+        "14.txt": 3,
+        "23.txt": 1
+    },
+    "submission": {
+        "7.txt": 1
+    },
+    "stands": {
+        "7.txt": 7,
+        "18.txt": 6,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 4
+    },
+    "stamp": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "shrieks": {
+        "7.txt": 2,
+        "18.txt": 3
+    },
+    "slippers": {
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "sufferings": {
+        "7.txt": 7,
+        "14.txt": 1
+    },
+    "strength": {
+        "7.txt": 6,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "slay": {
+        "7.txt": 3
+    },
+    "sample": {
+        "7.txt": 1
+    },
+    "softening": {
+        "7.txt": 1
+    },
+    "speaker": {
+        "7.txt": 1
+    },
+    "scheik": {
+        "7.txt": 1
+    },
+    "staff": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "soldiers": {
+        "7.txt": 3,
+        "18.txt": 28,
+        "13.txt": 1
+    },
+    "sticks": {
+        "7.txt": 3,
+        "18.txt": 3
+    },
+    "sailors": {
+        "7.txt": 12,
+        "13.txt": 1
+    },
+    "successor": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "samples": {
+        "7.txt": 1
+    },
+    "stables": {
+        "7.txt": 3,
+        "13.txt": 3
+    },
+    "solemnly": {
+        "7.txt": 3,
+        "13.txt": 2
+    },
+    "swallow": {
+        "7.txt": 4,
+        "18.txt": 6
+    },
+    "scorpion": {
+        "7.txt": 2
+    },
+    "serpent": {
+        "7.txt": 2
+    },
+    "seed": {
+        "7.txt": 3
+    },
+    "singed": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "scorched": {
+        "7.txt": 1
+    },
+    "shout": {
+        "7.txt": 2,
+        "18.txt": 5,
+        "13.txt": 2
+    },
+    "slip": {
+        "7.txt": 3,
+        "18.txt": 7,
+        "13.txt": 2
+    },
+    "shocking": {
+        "7.txt": 1
+    },
+    "superb": {
+        "7.txt": 2
+    },
+    "ships": {
+        "7.txt": 8,
+        "13.txt": 1
+    },
+    "summit": {
+        "7.txt": 2
+    },
+    "statue": {
+        "7.txt": 5,
+        "18.txt": 1
+    },
+    "shalt": {
+        "7.txt": 2,
+        "14.txt": 3
+    },
+    "swam": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "spades": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "soothe": {
+        "7.txt": 1
+    },
+    "sails": {
+        "7.txt": 5
+    },
+    "spectacle": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "smeared": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "sheep": {
+        "7.txt": 6,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "sew": {
+        "7.txt": 1
+    },
+    "snatch": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "storehouses": {
+        "7.txt": 1
+    },
+    "scented": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "sweetmeats": {
+        "7.txt": 1
+    },
+    "shake": {
+        "7.txt": 1,
+        "18.txt": 9,
+        "13.txt": 3
+    },
+    "scant": {
+        "7.txt": 1
+    },
+    "sesame": {
+        "7.txt": 1
+    },
+    "switch": {
+        "7.txt": 1,
+        "18.txt": 4,
+        "13.txt": 1
+    },
+    "soaring": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "sprinkled": {
+        "7.txt": 2
+    },
+    "scent": {
+        "7.txt": 1,
+        "18.txt": 7
+    },
+    "steamed": {
+        "7.txt": 1
+    },
+    "servants": {
+        "7.txt": 9,
+        "18.txt": 1,
+        "13.txt": 7
+    },
+    "summons": {
+        "7.txt": 3
+    },
+    "saluted": {
+        "7.txt": 5
+    },
+    "speedily": {
+        "7.txt": 10
+    },
+    "shores": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "sprung": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "situated": {
+        "7.txt": 4,
+        "18.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "spirit": {
+        "7.txt": 3,
+        "6.txt": 6
+    },
+    "sandal": {
+        "7.txt": 2
+    },
+    "successfully": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "springs": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 11
+    },
+    "shady": {
+        "7.txt": 2
+    },
+    "securely": {
+        "7.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "strewed": {
+        "7.txt": 2
+    },
+    "smallest": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "serpents": {
+        "7.txt": 4
+    },
+    "suited": {
+        "7.txt": 1,
+        "18.txt": 3,
+        "23.txt": 4
+    },
+    "seashore": {
+        "7.txt": 4
+    },
+    "sap": {
+        "7.txt": 1
+    },
+    "savages": {
+        "7.txt": 4,
+        "23.txt": 2
+    },
+    "swarm": {
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "swarmed": {
+        "7.txt": 2
+    },
+    "speed": {
+        "7.txt": 9,
+        "18.txt": 2
+    },
+    "supped": {
+        "7.txt": 4
+    },
+    "snoring": {
+        "7.txt": 2
+    },
+    "shivering": {
+        "7.txt": 2,
+        "18.txt": 3
+    },
+    "submitting": {
+        "7.txt": 1
+    },
+    "snored": {
+        "7.txt": 1
+    },
+    "succeeds": {
+        "7.txt": 1
+    },
+    "snore": {
+        "7.txt": 1
+    },
+    "stationing": {
+        "7.txt": 1
+    },
+    "swamped": {
+        "7.txt": 1
+    },
+    "struggles": {
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "suffocated": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "salahat": {
+        "7.txt": 1
+    },
+    "shields": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "scrambling": {
+        "7.txt": 1,
+        "18.txt": 3
+    },
+    "shipwrecked": {
+        "7.txt": 3
+    },
+    "stirrups": {
+        "7.txt": 2
+    },
+    "smith": {
+        "7.txt": 1
+    },
+    "saddled": {
+        "7.txt": 2
+    },
+    "saddles": {
+        "7.txt": 1
+    },
+    "submit": {
+        "7.txt": 4
+    },
+    "sparkling": {
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "spectator": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "sighs": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "starvation": {
+        "7.txt": 1
+    },
+    "shadowy": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "squeezing": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "sloped": {
+        "7.txt": 1
+    },
+    "stored": {
+        "7.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "scramble": {
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "smashing": {
+        "7.txt": 1
+    },
+    "scrambled": {
+        "7.txt": 1
+    },
+    "stagger": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "scooping": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "strangle": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "strayed": {
+        "7.txt": 2
+    },
+    "sacks": {
+        "7.txt": 2
+    },
+    "slippery": {
+        "7.txt": 1,
+        "18.txt": 4
+    },
+    "smoothness": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "seeming": {
+        "7.txt": 1
+    },
+    "spiteful": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "shipwreck": {
+        "7.txt": 1
+    },
+    "sweeping": {
+        "7.txt": 1
+    },
+    "seaward": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "strewn": {
+        "7.txt": 4,
+        "18.txt": 1
+    },
+    "scaling": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "straits": {
+        "7.txt": 1
+    },
+    "smoothly": {
+        "7.txt": 1
+    },
+    "swallowing": {
+        "7.txt": 1,
+        "6.txt": 2
+    },
+    "sleepest": {
+        "7.txt": 1
+    },
+    "starving": {
+        "7.txt": 3,
+        "18.txt": 2
+    },
+    "serendib": {
+        "7.txt": 8
+    },
+    "sovereign": {
+        "7.txt": 5,
+        "14.txt": 4,
+        "6.txt": 1
+    },
+    "sends": {
+        "7.txt": 2,
+        "18.txt": 6,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "secondly": {
+        "7.txt": 1,
+        "14.txt": 4
+    },
+    "scales": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "sequin": {
+        "7.txt": 1
+    },
+    "solomon": {
+        "7.txt": 2
+    },
+    "strangest": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "suez": {
+        "7.txt": 1
+    },
+    "swarms": {
+        "7.txt": 1
+    },
+    "success": {
+        "7.txt": 8,
+        "18.txt": 4,
+        "13.txt": 1,
+        "23.txt": 5,
+        "6.txt": 1
+    },
+    "skeleton": {
+        "7.txt": 1
+    },
+    "securing": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "station": {
+        "7.txt": 2,
+        "18.txt": 16,
+        "13.txt": 11
+    },
+    "stem": {
+        "7.txt": 1,
+        "18.txt": 5
+    },
+    "sagacity": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "scribes": {
+        "7.txt": 1
+    },
+    "suffocation": {
+        "7.txt": 1
+    },
+    "select": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "23.txt": 3
+    },
+    "sacred": {
+        "7.txt": 2,
+        "6.txt": 3
+    },
+    "storeroom": {
+        "7.txt": 1
+    },
+    "slain": {
+        "7.txt": 1
+    },
+    "stooping": {
+        "7.txt": 1
+    },
+    "singular": {
+        "7.txt": 2,
+        "23.txt": 1
+    },
+    "shabby": {
+        "7.txt": 2
+    },
+    "smarting": {
+        "7.txt": 1
+    },
+    "sending": {
+        "7.txt": 4,
+        "18.txt": 9,
+        "13.txt": 2,
+        "14.txt": 2
+    },
+    "schacabac": {
+        "7.txt": 5
+    },
+    "schahzaman": {
+        "7.txt": 9
+    },
+    "seriously": {
+        "7.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "survive": {
+        "7.txt": 1,
+        "18.txt": 10,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "supremacy": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "shielded": {
+        "7.txt": 1
+    },
+    "species": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 5,
+        "6.txt": 5
+    },
+    "sumptuously": {
+        "7.txt": 2
+    },
+    "sued": {
+        "7.txt": 1
+    },
+    "slumber": {
+        "7.txt": 1
+    },
+    "seclusion": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "scenery": {
+        "7.txt": 1
+    },
+    "soundly": {
+        "7.txt": 3
+    },
+    "suitors": {
+        "7.txt": 1
+    },
+    "separation": {
+        "7.txt": 7,
+        "18.txt": 1
+    },
+    "startle": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "suggesting": {
+        "7.txt": 1,
+        "18.txt": 4,
+        "6.txt": 1
+    },
+    "sewn": {
+        "7.txt": 1
+    },
+    "shortest": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "sympathy": {
+        "7.txt": 2,
+        "13.txt": 1,
+        "14.txt": 7,
+        "6.txt": 1
+    },
+    "slab": {
+        "7.txt": 2
+    },
+    "suggestion": {
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 6,
+        "14.txt": 3,
+        "6.txt": 1
+    },
+    "seals": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "sisterly": {
+        "7.txt": 1
+    },
+    "saouy": {
+        "7.txt": 33
+    },
+    "sufficed": {
+        "7.txt": 2
+    },
+    "surpass": {
+        "7.txt": 1,
+        "23.txt": 2
+    },
+    "suits": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "sale": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "secluded": {
+        "7.txt": 1
+    },
+    "supplications": {
+        "7.txt": 1
+    },
+    "scruple": {
+        "7.txt": 1,
+        "23.txt": 2
+    },
+    "sources": {
+        "7.txt": 1,
+        "14.txt": 7,
+        "6.txt": 1
+    },
+    "suspecting": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "subsisted": {
+        "7.txt": 1
+    },
+    "severely": {
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "sangiar": {
+        "7.txt": 3
+    },
+    "saloon": {
+        "7.txt": 6,
+        "13.txt": 1
+    },
+    "soldier": {
+        "7.txt": 1,
+        "18.txt": 19,
+        "13.txt": 1
+    },
+    "scheih": {
+        "7.txt": 24
+    },
+    "sobriety": {
+        "7.txt": 1
+    },
+    "strictly": {
+        "7.txt": 1,
+        "14.txt": 3,
+        "6.txt": 3
+    },
+    "stoned": {
+        "7.txt": 1
+    },
+    "sights": {
+        "7.txt": 1
+    },
+    "snatching": {
+        "7.txt": 2
+    },
+    "sayest": {
+        "7.txt": 1
+    },
+    "surpassing": {
+        "7.txt": 1
+    },
+    "strewing": {
+        "7.txt": 1
+    },
+    "surprises": {
+        "7.txt": 1
+    },
+    "spokesman": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "scolded": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "sorrows": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "sup": {
+        "7.txt": 2
+    },
+    "shocks": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "spoilt": {
+        "7.txt": 1
+    },
+    "scandal": {
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "singling": {
+        "7.txt": 1
+    },
+    "spoil": {
+        "7.txt": 2,
+        "14.txt": 2
+    },
+    "sidi": {
+        "7.txt": 9
+    },
+    "spurring": {
+        "7.txt": 1
+    },
+    "sparrow": {
+        "7.txt": 1
+    },
+    "springing": {
+        "7.txt": 2
+    },
+    "soothed": {
+        "7.txt": 2
+    },
+    "sprinkling": {
+        "7.txt": 3
+    },
+    "stupor": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "speedy": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "sorely": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "staffing": {
+        "7.txt": 1
+    },
+    "shameful": {
+        "7.txt": 1
+    },
+    "schiraz": {
+        "7.txt": 3
+    },
+    "spectacles": {
+        "7.txt": 4,
+        "13.txt": 2
+    },
+    "skilled": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "screw": {
+        "7.txt": 6
+    },
+    "sharpest": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "schah": {
+        "7.txt": 14
+    },
+    "stealing": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "suppliant": {
+        "7.txt": 1
+    },
+    "stringed": {
+        "7.txt": 1
+    },
+    "stocked": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "sentiments": {
+        "7.txt": 1
+    },
+    "showers": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "sweeter": {
+        "7.txt": 1
+    },
+    "spur": {
+        "7.txt": 1
+    },
+    "steed": {
+        "7.txt": 1
+    },
+    "seizure": {
+        "7.txt": 1
+    },
+    "stews": {
+        "7.txt": 1
+    },
+    "shah": {
+        "7.txt": 1
+    },
+    "studies": {
+        "7.txt": 1,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "sciences": {
+        "7.txt": 1,
+        "14.txt": 4,
+        "23.txt": 21,
+        "6.txt": 1
+    },
+    "sheathed": {
+        "7.txt": 1
+    },
+    "spotted": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "stops": {
+        "7.txt": 1,
+        "18.txt": 5,
+        "14.txt": 1
+    },
+    "straying": {
+        "7.txt": 1
+    },
+    "smilingly": {
+        "7.txt": 1
+    },
+    "silencing": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "spotless": {
+        "7.txt": 1
+    },
+    "sweetest": {
+        "7.txt": 1
+    },
+    "sport": {
+        "7.txt": 1,
+        "13.txt": 47
+    },
+    "scientific": {
+        "7.txt": 1,
+        "13.txt": 2,
+        "6.txt": 4
+    },
+    "sauce": {
+        "7.txt": 1
+    },
+    "stuffing": {
+        "7.txt": 2
+    },
+    "scheduled": {
+        "18.txt": 2
+    },
+    "stew": {
+        "18.txt": 10
+    },
+    "sleepless": {
+        "18.txt": 2
+    },
+    "stare": {
+        "18.txt": 8,
+        "13.txt": 2
+    },
+    "schedule": {
+        "18.txt": 11,
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "slated": {
+        "18.txt": 2
+    },
+    "slam": {
+        "18.txt": 2
+    },
+    "stress": {
+        "18.txt": 2
+    },
+    "supplier": {
+        "18.txt": 1
+    },
+    "shakes": {
+        "18.txt": 15,
+        "13.txt": 1
+    },
+    "seam": {
+        "18.txt": 7
+    },
+    "straggle": {
+        "18.txt": 1
+    },
+    "sanctuary": {
+        "18.txt": 1
+    },
+    "scoop": {
+        "18.txt": 3
+    },
+    "salvaged": {
+        "18.txt": 1
+    },
+    "singer": {
+        "18.txt": 1
+    },
+    "stanza": {
+        "18.txt": 2
+    },
+    "sideways": {
+        "18.txt": 4,
+        "13.txt": 2
+    },
+    "snaring": {
+        "18.txt": 1
+    },
+    "sustenance": {
+        "18.txt": 1
+    },
+    "sanity": {
+        "18.txt": 2
+    },
+    "swallows": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "skunks": {
+        "18.txt": 1
+    },
+    "soundlessly": {
+        "18.txt": 1
+    },
+    "spilling": {
+        "18.txt": 2
+    },
+    "satellites": {
+        "18.txt": 1
+    },
+    "squeamishness": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "soup": {
+        "18.txt": 7
+    },
+    "screens": {
+        "18.txt": 7,
+        "13.txt": 1
+    },
+    "speaks": {
+        "18.txt": 11
+    },
+    "spasms": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "slips": {
+        "18.txt": 5
+    },
+    "scuffle": {
+        "18.txt": 1
+    },
+    "splatters": {
+        "18.txt": 1
+    },
+    "static": {
+        "18.txt": 1
+    },
+    "scenario": {
+        "18.txt": 2
+    },
+    "sincere": {
+        "18.txt": 1,
+        "14.txt": 2
+    },
+    "subtleties": {
+        "18.txt": 1
+    },
+    "spider": {
+        "18.txt": 1
+    },
+    "sirens": {
+        "18.txt": 8
+    },
+    "stairway": {
+        "18.txt": 2
+    },
+    "scanner": {
+        "18.txt": 1
+    },
+    "strolls": {
+        "18.txt": 1
+    },
+    "setback": {
+        "18.txt": 3
+    },
+    "storage": {
+        "18.txt": 5
+    },
+    "specks": {
+        "18.txt": 1
+    },
+    "scan": {
+        "18.txt": 3
+    },
+    "specified": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "shelving": {
+        "18.txt": 1
+    },
+    "supplies": {
+        "18.txt": 10,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "shoving": {
+        "18.txt": 3
+    },
+    "shrinks": {
+        "18.txt": 1
+    },
+    "slide": {
+        "18.txt": 6,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "squashing": {
+        "18.txt": 1
+    },
+    "scruff": {
+        "18.txt": 1
+    },
+    "site": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "spile": {
+        "18.txt": 3
+    },
+    "stresses": {
+        "18.txt": 1
+    },
+    "shudder": {
+        "18.txt": 1
+    },
+    "spontaneous": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "stampede": {
+        "18.txt": 1
+    },
+    "sensors": {
+        "18.txt": 1
+    },
+    "showering": {
+        "18.txt": 1
+    },
+    "safer": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "strokes": {
+        "18.txt": 2
+    },
+    "socialization": {
+        "18.txt": 1
+    },
+    "starved": {
+        "18.txt": 2
+    },
+    "skills": {
+        "18.txt": 1
+    },
+    "specifically": {
+        "18.txt": 2,
+        "14.txt": 2
+    },
+    "squint": {
+        "18.txt": 3
+    },
+    "snuggles": {
+        "18.txt": 1
+    },
+    "spreading": {
+        "18.txt": 3,
+        "14.txt": 1
+    },
+    "shatter": {
+        "18.txt": 1
+    },
+    "shards": {
+        "18.txt": 1
+    },
+    "strategy": {
+        "18.txt": 7
+    },
+    "surfaces": {
+        "18.txt": 2,
+        "6.txt": 3
+    },
+    "suspicious": {
+        "18.txt": 1,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "swipes": {
+        "18.txt": 1
+    },
+    "sore": {
+        "18.txt": 4
+    },
+    "signals": {
+        "18.txt": 3
+    },
+    "stimulant": {
+        "18.txt": 2
+    },
+    "sloshes": {
+        "18.txt": 1
+    },
+    "seductive": {
+        "18.txt": 1
+    },
+    "slaps": {
+        "18.txt": 3
+    },
+    "slurp": {
+        "18.txt": 1
+    },
+    "slowing": {
+        "18.txt": 1
+    },
+    "stations": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "superficial": {
+        "18.txt": 3,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "slows": {
+        "18.txt": 1
+    },
+    "stemmed": {
+        "18.txt": 1
+    },
+    "shaky": {
+        "18.txt": 1
+    },
+    "squeaking": {
+        "18.txt": 1
+    },
+    "semicircle": {
+        "18.txt": 1
+    },
+    "sob": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "squeezes": {
+        "18.txt": 1
+    },
+    "shrugs": {
+        "18.txt": 5
+    },
+    "stilled": {
+        "18.txt": 1
+    },
+    "sedate": {
+        "18.txt": 2
+    },
+    "slit": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "sunny": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "snaps": {
+        "18.txt": 3
+    },
+    "splattered": {
+        "18.txt": 1
+    },
+    "skyward": {
+        "18.txt": 1
+    },
+    "spinning": {
+        "18.txt": 2
+    },
+    "stabbing": {
+        "18.txt": 2
+    },
+    "shellfish": {
+        "18.txt": 1
+    },
+    "sores": {
+        "18.txt": 1
+    },
+    "stunt": {
+        "18.txt": 1
+    },
+    "shrug": {
+        "18.txt": 4
+    },
+    "salacious": {
+        "18.txt": 1
+    },
+    "standard": {
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 3
+    },
+    "spins": {
+        "18.txt": 2
+    },
+    "sideswiped": {
+        "18.txt": 1
+    },
+    "scabs": {
+        "18.txt": 1
+    },
+    "shuts": {
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "sweeps": {
+        "18.txt": 4
+    },
+    "spinal": {
+        "18.txt": 1
+    },
+    "spreads": {
+        "18.txt": 2
+    },
+    "surgery": {
+        "18.txt": 2
+    },
+    "subjecting": {
+        "18.txt": 1,
+        "14.txt": 2
+    },
+    "specifics": {
+        "18.txt": 1
+    },
+    "secretive": {
+        "18.txt": 1
+    },
+    "stylist": {
+        "18.txt": 5
+    },
+    "specialists": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "subterranean": {
+        "18.txt": 2
+    },
+    "stares": {
+        "18.txt": 5
+    },
+    "snare": {
+        "18.txt": 3
+    },
+    "survival": {
+        "18.txt": 5,
+        "6.txt": 3
+    },
+    "screening": {
+        "18.txt": 1
+    },
+    "shares": {
+        "18.txt": 1
+    },
+    "suggests": {
+        "18.txt": 5
+    },
+    "spin": {
+        "18.txt": 6
+    },
+    "setup": {
+        "18.txt": 1
+    },
+    "steer": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "sheen": {
+        "18.txt": 1
+    },
+    "stinking": {
+        "18.txt": 3
+    },
+    "scribble": {
+        "18.txt": 1
+    },
+    "stronghold": {
+        "18.txt": 1
+    },
+    "significant": {
+        "18.txt": 4,
+        "13.txt": 1,
+        "6.txt": 4
+    },
+    "slabs": {
+        "18.txt": 1
+    },
+    "standards": {
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "stonecutters": {
+        "18.txt": 1
+    },
+    "schedules": {
+        "18.txt": 1
+    },
+    "sharper": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "steadiness": {
+        "18.txt": 1
+    },
+    "settles": {
+        "18.txt": 2
+    },
+    "selfish": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "sensations": {
+        "18.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "scoops": {
+        "18.txt": 1
+    },
+    "slag": {
+        "18.txt": 1
+    },
+    "sae": {
+        "18.txt": 17
+    },
+    "stall": {
+        "18.txt": 2
+    },
+    "smacked": {
+        "18.txt": 1
+    },
+    "storming": {
+        "18.txt": 1
+    },
+    "sequence": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "suffocate": {
+        "18.txt": 1
+    },
+    "surrender": {
+        "18.txt": 7
+    },
+    "sections": {
+        "18.txt": 1
+    },
+    "stumbling": {
+        "18.txt": 1
+    },
+    "slamming": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "screeching": {
+        "18.txt": 3
+    },
+    "shackle": {
+        "18.txt": 1
+    },
+    "sunk": {
+        "18.txt": 1
+    },
+    "survivors": {
+        "18.txt": 2
+    },
+    "skips": {
+        "18.txt": 1
+    },
+    "serum": {
+        "18.txt": 1
+    },
+    "spotlights": {
+        "18.txt": 1
+    },
+    "spray": {
+        "18.txt": 4
+    },
+    "staggers": {
+        "18.txt": 1
+    },
+    "scorch": {
+        "18.txt": 1
+    },
+    "slides": {
+        "18.txt": 4
+    },
+    "sterile": {
+        "18.txt": 2
+    },
+    "sledgehammer": {
+        "18.txt": 1
+    },
+    "spikes": {
+        "18.txt": 2
+    },
+    "socket": {
+        "18.txt": 1
+    },
+    "sprouted": {
+        "18.txt": 1
+    },
+    "siphoning": {
+        "18.txt": 1
+    },
+    "spleen": {
+        "18.txt": 1
+    },
+    "scoots": {
+        "18.txt": 1
+    },
+    "slacks": {
+        "18.txt": 1
+    },
+    "soreness": {
+        "18.txt": 1
+    },
+    "stitches": {
+        "18.txt": 3
+    },
+    "stockpiled": {
+        "18.txt": 1
+    },
+    "staging": {
+        "18.txt": 1
+    },
+    "shortage": {
+        "18.txt": 3,
+        "6.txt": 1
+    },
+    "smash": {
+        "18.txt": 2
+    },
+    "scowls": {
+        "18.txt": 2
+    },
+    "sailboats": {
+        "18.txt": 1
+    },
+    "sailboat": {
+        "18.txt": 1
+    },
+    "shifting": {
+        "18.txt": 3,
+        "13.txt": 2
+    },
+    "spontaneity": {
+        "18.txt": 1,
+        "14.txt": 3
+    },
+    "starters": {
+        "18.txt": 2
+    },
+    "sessions": {
+        "18.txt": 1
+    },
+    "smallish": {
+        "18.txt": 1
+    },
+    "strengthening": {
+        "18.txt": 1
+    },
+    "scribbles": {
+        "18.txt": 1
+    },
+    "snarls": {
+        "18.txt": 1
+    },
+    "stomps": {
+        "18.txt": 1
+    },
+    "slog": {
+        "18.txt": 1
+    },
+    "sizzle": {
+        "18.txt": 1
+    },
+    "shower": {
+        "18.txt": 6,
+        "13.txt": 1
+    },
+    "shipments": {
+        "18.txt": 1
+    },
+    "sugarcoating": {
+        "18.txt": 2
+    },
+    "sop": {
+        "18.txt": 1
+    },
+    "shackled": {
+        "18.txt": 2
+    },
+    "splay": {
+        "18.txt": 1
+    },
+    "squeaky": {
+        "18.txt": 2
+    },
+    "showered": {
+        "18.txt": 1
+    },
+    "stylists": {
+        "18.txt": 3
+    },
+    "simulated": {
+        "18.txt": 2
+    },
+    "squads": {
+        "18.txt": 2
+    },
+    "sniper": {
+        "18.txt": 1
+    },
+    "squadron": {
+        "18.txt": 3
+    },
+    "squad": {
+        "18.txt": 30
+    },
+    "supposedly": {
+        "18.txt": 1
+    },
+    "skidding": {
+        "18.txt": 1
+    },
+    "sharpshooters": {
+        "18.txt": 3
+    },
+    "soldierly": {
+        "18.txt": 1
+    },
+    "speeds": {
+        "18.txt": 1
+    },
+    "solution": {
+        "18.txt": 2,
+        "14.txt": 3,
+        "23.txt": 6,
+        "6.txt": 1
+    },
+    "soaked": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "sedation": {
+        "18.txt": 1,
+        "6.txt": 2
+    },
+    "sturdy": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "specialty": {
+        "18.txt": 2
+    },
+    "suppressed": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "sixhour": {
+        "18.txt": 1
+    },
+    "shattering": {
+        "18.txt": 1
+    },
+    "sharpshooter": {
+        "18.txt": 1
+    },
+    "squares": {
+        "18.txt": 1
+    },
+    "skyhigh": {
+        "18.txt": 1
+    },
+    "sunburst": {
+        "18.txt": 1
+    },
+    "strap": {
+        "18.txt": 1
+    },
+    "squints": {
+        "18.txt": 2
+    },
+    "stranded": {
+        "18.txt": 1
+    },
+    "stool": {
+        "18.txt": 4
+    },
+    "strategic": {
+        "18.txt": 1
+    },
+    "sags": {
+        "18.txt": 1
+    },
+    "sensor": {
+        "18.txt": 1
+    },
+    "suppressing": {
+        "18.txt": 1
+    },
+    "smoky": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "shatters": {
+        "18.txt": 1
+    },
+    "stains": {
+        "18.txt": 1
+    },
+    "shuddering": {
+        "18.txt": 2
+    },
+    "stiffness": {
+        "18.txt": 1
+    },
+    "sporting": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "strategically": {
+        "18.txt": 1
+    },
+    "snares": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "saplings": {
+        "18.txt": 1
+    },
+    "surrounds": {
+        "18.txt": 1
+    },
+    "squat": {
+        "18.txt": 2
+    },
+    "stowed": {
+        "18.txt": 1
+    },
+    "scruffy": {
+        "18.txt": 1
+    },
+    "supporter": {
+        "18.txt": 1
+    },
+    "salve": {
+        "18.txt": 2
+    },
+    "serves": {
+        "18.txt": 1,
+        "14.txt": 4
+    },
+    "sponsor": {
+        "18.txt": 1
+    },
+    "stalls": {
+        "18.txt": 1
+    },
+    "surly": {
+        "18.txt": 1
+    },
+    "stockpiling": {
+        "18.txt": 1
+    },
+    "strands": {
+        "18.txt": 1
+    },
+    "slot": {
+        "18.txt": 1
+    },
+    "simplify": {
+        "18.txt": 1
+    },
+    "stash": {
+        "18.txt": 1
+    },
+    "scarce": {
+        "18.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "streetlevel": {
+        "18.txt": 1
+    },
+    "shaft": {
+        "18.txt": 6
+    },
+    "sidestep": {
+        "18.txt": 1
+    },
+    "sewage": {
+        "18.txt": 4
+    },
+    "sewers": {
+        "18.txt": 1
+    },
+    "shifts": {
+        "18.txt": 3
+    },
+    "stretches": {
+        "18.txt": 1
+    },
+    "slogging": {
+        "18.txt": 1
+    },
+    "sloppiness": {
+        "18.txt": 1
+    },
+    "splash": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "startling": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "scanning": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "swerve": {
+        "18.txt": 1
+    },
+    "skid": {
+        "18.txt": 1
+    },
+    "stain": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "skitter": {
+        "18.txt": 1
+    },
+    "smacks": {
+        "18.txt": 1
+    },
+    "slithering": {
+        "18.txt": 1
+    },
+    "sinks": {
+        "18.txt": 1
+    },
+    "shoved": {
+        "18.txt": 1
+    },
+    "shredded": {
+        "18.txt": 2
+    },
+    "slams": {
+        "18.txt": 3
+    },
+    "sausage": {
+        "18.txt": 1
+    },
+    "smears": {
+        "18.txt": 1
+    },
+    "surfaced": {
+        "18.txt": 1
+    },
+    "stealth": {
+        "18.txt": 1
+    },
+    "selection": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "slipping": {
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "sunglasses": {
+        "18.txt": 1
+    },
+    "scarves": {
+        "18.txt": 1
+    },
+    "swirl": {
+        "18.txt": 1
+    },
+    "shortcut": {
+        "18.txt": 1
+    },
+    "sells": {
+        "18.txt": 1
+    },
+    "storefront": {
+        "18.txt": 1
+    },
+    "surgical": {
+        "18.txt": 1
+    },
+    "stripes": {
+        "18.txt": 3,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "scarf": {
+        "18.txt": 3
+    },
+    "slinks": {
+        "18.txt": 1
+    },
+    "shallowness": {
+        "18.txt": 1
+    },
+    "sputtering": {
+        "18.txt": 1
+    },
+    "sutures": {
+        "18.txt": 1
+    },
+    "smear": {
+        "18.txt": 1
+    },
+    "saps": {
+        "18.txt": 1
+    },
+    "stair": {
+        "18.txt": 1
+    },
+    "supports": {
+        "18.txt": 1
+    },
+    "sacrificing": {
+        "18.txt": 1
+    },
+    "surveillance": {
+        "18.txt": 2
+    },
+    "stomachs": {
+        "18.txt": 1
+    },
+    "sway": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "scouts": {
+        "18.txt": 1
+    },
+    "shuffling": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "staged": {
+        "18.txt": 2
+    },
+    "shopkeepers": {
+        "18.txt": 1
+    },
+    "sightings": {
+        "18.txt": 1
+    },
+    "suds": {
+        "18.txt": 2
+    },
+    "strained": {
+        "18.txt": 1,
+        "13.txt": 8,
+        "6.txt": 1
+    },
+    "snails": {
+        "18.txt": 1
+    },
+    "salmon": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "secures": {
+        "18.txt": 2,
+        "14.txt": 1
+    },
+    "surge": {
+        "18.txt": 1
+    },
+    "snowflakes": {
+        "18.txt": 1
+    },
+    "slump": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "scuttle": {
+        "18.txt": 1
+    },
+    "spike": {
+        "18.txt": 1
+    },
+    "seller": {
+        "18.txt": 1
+    },
+    "slices": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "staining": {
+        "18.txt": 1
+    },
+    "snowy": {
+        "18.txt": 3
+    },
+    "shopwindows": {
+        "18.txt": 1
+    },
+    "sprays": {
+        "18.txt": 1
+    },
+    "swirls": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "steeper": {
+        "18.txt": 1
+    },
+    "stench": {
+        "18.txt": 2
+    },
+    "survives": {
+        "18.txt": 1
+    },
+    "straddle": {
+        "18.txt": 1
+    },
+    "slots": {
+        "18.txt": 1
+    },
+    "survey": {
+        "18.txt": 1
+    },
+    "stragglers": {
+        "18.txt": 1
+    },
+    "sheltered": {
+        "18.txt": 1
+    },
+    "safeguard": {
+        "18.txt": 1
+    },
+    "shield": {
+        "18.txt": 1
+    },
+    "surges": {
+        "18.txt": 1
+    },
+    "scores": {
+        "18.txt": 1
+    },
+    "strings": {
+        "18.txt": 1
+    },
+    "simultaneously": {
+        "18.txt": 1,
+        "13.txt": 3,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "seawater": {
+        "18.txt": 1
+    },
+    "saturates": {
+        "18.txt": 1
+    },
+    "scaled": {
+        "18.txt": 1
+    },
+    "salty": {
+        "18.txt": 1
+    },
+    "sandpaper": {
+        "18.txt": 1
+    },
+    "stitching": {
+        "18.txt": 1
+    },
+    "stanzas": {
+        "18.txt": 1
+    },
+    "sleeps": {
+        "18.txt": 1
+    },
+    "salvageable": {
+        "18.txt": 1
+    },
+    "sheath": {
+        "18.txt": 4
+    },
+    "sumptuous": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 3
+    },
+    "shears": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "severing": {
+        "18.txt": 1
+    },
+    "shackles": {
+        "18.txt": 1
+    },
+    "slithered": {
+        "18.txt": 1
+    },
+    "sympathies": {
+        "18.txt": 1
+    },
+    "survivor": {
+        "18.txt": 1
+    },
+    "snaky": {
+        "18.txt": 1
+    },
+    "sauntered": {
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "speculate": {
+        "18.txt": 1
+    },
+    "slashing": {
+        "18.txt": 1
+    },
+    "swig": {
+        "18.txt": 1
+    },
+    "silken": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "swathed": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "steamy": {
+        "18.txt": 1
+    },
+    "smother": {
+        "18.txt": 1
+    },
+    "squeaks": {
+        "18.txt": 1
+    },
+    "scarred": {
+        "18.txt": 1
+    },
+    "sadness": {
+        "18.txt": 1,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "symbolic": {
+        "18.txt": 2,
+        "6.txt": 2
+    },
+    "smug": {
+        "18.txt": 1
+    },
+    "sustainable": {
+        "18.txt": 1
+    },
+    "singeing": {
+        "18.txt": 1
+    },
+    "spills": {
+        "18.txt": 1
+    },
+    "seeps": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "sticky": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "soaps": {
+        "18.txt": 1
+    },
+    "skinned": {
+        "18.txt": 1
+    },
+    "snows": {
+        "18.txt": 1
+    },
+    "shrinking": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "significantly": {
+        "18.txt": 1
+    },
+    "sacrifices": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "shortlived": {
+        "18.txt": 1
+    },
+    "swoop": {
+        "18.txt": 1
+    },
+    "stowing": {
+        "18.txt": 1
+    },
+    "shawl": {
+        "18.txt": 1
+    },
+    "sock": {
+        "18.txt": 1
+    },
+    "shovel": {
+        "18.txt": 3
+    },
+    "scrapes": {
+        "18.txt": 1
+    },
+    "scraggly": {
+        "18.txt": 1
+    },
+    "shoveling": {
+        "18.txt": 1
+    },
+    "stoically": {
+        "18.txt": 1
+    },
+    "sketch": {
+        "18.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "seeds": {
+        "18.txt": 1
+    },
+    "stirring": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "stimola": {
+        "18.txt": 1
+    },
+    "scholastic": {
+        "18.txt": 2
+    },
+    "sheila": {
+        "18.txt": 1
+    },
+    "straaten": {
+        "18.txt": 1
+    },
+    "serrano": {
+        "18.txt": 1
+    },
+    "simpkins": {
+        "18.txt": 1
+    },
+    "suzanne": {
+        "18.txt": 3
+    },
+    "sales": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "smarts": {
+        "18.txt": 1
+    },
+    "savvy": {
+        "18.txt": 1
+    },
+    "santos": {
+        "18.txt": 1
+    },
+    "sci": {
+        "18.txt": 1
+    },
+    "starred": {
+        "18.txt": 1
+    },
+    "suzannecollinsbooks": {
+        "18.txt": 1
+    },
+    "suppressions": {
+        "13.txt": 1
+    },
+    "snobbishly": {
+        "13.txt": 2
+    },
+    "scorn": {
+        "13.txt": 4,
+        "23.txt": 1
+    },
+    "sensitivity": {
+        "13.txt": 1
+    },
+    "substitute": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "settler": {
+        "13.txt": 1
+    },
+    "securities": {
+        "13.txt": 2
+    },
+    "shelf": {
+        "13.txt": 2
+    },
+    "sinister": {
+        "13.txt": 4
+    },
+    "spanking": {
+        "13.txt": 1
+    },
+    "savors": {
+        "13.txt": 1
+    },
+    "supercilious": {
+        "13.txt": 2
+    },
+    "swank": {
+        "13.txt": 1
+    },
+    "sunken": {
+        "13.txt": 2
+    },
+    "snub": {
+        "13.txt": 1
+    },
+    "stationary": {
+        "13.txt": 1
+    },
+    "surname": {
+        "13.txt": 1
+    },
+    "sufficiency": {
+        "13.txt": 1
+    },
+    "suddenness": {
+        "13.txt": 1
+    },
+    "slenderly": {
+        "13.txt": 1
+    },
+    "submerged": {
+        "13.txt": 2
+    },
+    "searchingly": {
+        "13.txt": 1
+    },
+    "startlingly": {
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "scepticism": {
+        "13.txt": 3
+    },
+    "settee": {
+        "13.txt": 2
+    },
+    "sophisticated": {
+        "13.txt": 2
+    },
+    "smirk": {
+        "13.txt": 1
+    },
+    "silhouette": {
+        "13.txt": 2
+    },
+    "shrink": {
+        "13.txt": 1
+    },
+    "spiritless": {
+        "13.txt": 1
+    },
+    "surplus": {
+        "13.txt": 1
+    },
+    "sensuously": {
+        "13.txt": 1
+    },
+    "smouldering": {
+        "13.txt": 1
+    },
+    "sensibilities": {
+        "13.txt": 1
+    },
+    "scenes": {
+        "13.txt": 2
+    },
+    "strand": {
+        "13.txt": 1
+    },
+    "shiftlessness": {
+        "13.txt": 1
+    },
+    "sweetie": {
+        "13.txt": 1
+    },
+    "southward": {
+        "13.txt": 1
+    },
+    "strident": {
+        "13.txt": 1
+    },
+    "secrecy": {
+        "13.txt": 1
+    },
+    "subway": {
+        "13.txt": 2
+    },
+    "scolding": {
+        "13.txt": 3
+    },
+    "scrubbing": {
+        "13.txt": 1
+    },
+    "spiced": {
+        "13.txt": 1
+    },
+    "salads": {
+        "13.txt": 1
+    },
+    "saxophones": {
+        "13.txt": 2
+    },
+    "salons": {
+        "13.txt": 2
+    },
+    "shorn": {
+        "13.txt": 2
+    },
+    "stouter": {
+        "13.txt": 1
+    },
+    "seizes": {
+        "13.txt": 1
+    },
+    "simplicity": {
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "slunk": {
+        "13.txt": 1
+    },
+    "sceptically": {
+        "13.txt": 1
+    },
+    "staid": {
+        "13.txt": 1
+    },
+    "spectroscopic": {
+        "13.txt": 1
+    },
+    "stoddard": {
+        "13.txt": 1
+    },
+    "stunts": {
+        "13.txt": 2
+    },
+    "stimulating": {
+        "13.txt": 1
+    },
+    "swamps": {
+        "13.txt": 2
+    },
+    "swooning": {
+        "13.txt": 1
+    },
+    "swooned": {
+        "13.txt": 1
+    },
+    "soprano": {
+        "13.txt": 1
+    },
+    "sympathizing": {
+        "13.txt": 1
+    },
+    "sheepishly": {
+        "13.txt": 1
+    },
+    "sigourney": {
+        "13.txt": 1
+    },
+    "shrugged": {
+        "13.txt": 1
+    },
+    "sustained": {
+        "13.txt": 1
+    },
+    "swaying": {
+        "13.txt": 3
+    },
+    "straightening": {
+        "13.txt": 1
+    },
+    "salesmen": {
+        "13.txt": 1
+    },
+    "sausages": {
+        "13.txt": 1
+    },
+    "shrewd": {
+        "13.txt": 1
+    },
+    "subterfuges": {
+        "13.txt": 1
+    },
+    "suspects": {
+        "13.txt": 1
+    },
+    "schraeders": {
+        "13.txt": 1
+    },
+    "snells": {
+        "13.txt": 1
+    },
+    "snell": {
+        "13.txt": 1
+    },
+    "swett": {
+        "13.txt": 1
+    },
+    "schoen": {
+        "13.txt": 1
+    },
+    "senator": {
+        "13.txt": 1
+    },
+    "schwartze": {
+        "13.txt": 1
+    },
+    "scullys": {
+        "13.txt": 1
+    },
+    "smirkes": {
+        "13.txt": 1
+    },
+    "sterner": {
+        "13.txt": 1
+    },
+    "sporadic": {
+        "13.txt": 1
+    },
+    "swollen": {
+        "13.txt": 3
+    },
+    "suns": {
+        "13.txt": 1
+    },
+    "sentences": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "san": {
+        "13.txt": 1
+    },
+    "sawdust": {
+        "13.txt": 1
+    },
+    "sympathized": {
+        "13.txt": 1
+    },
+    "skimming": {
+        "13.txt": 1
+    },
+    "souvenir": {
+        "13.txt": 1
+    },
+    "spires": {
+        "13.txt": 1
+    },
+    "skins": {
+        "13.txt": 1
+    },
+    "souvenirs": {
+        "13.txt": 1
+    },
+    "slum": {
+        "13.txt": 1
+    },
+    "saloons": {
+        "13.txt": 1
+    },
+    "southeastern": {
+        "13.txt": 1
+    },
+    "sombre": {
+        "13.txt": 1
+    },
+    "sid": {
+        "13.txt": 2
+    },
+    "somnambulatory": {
+        "13.txt": 1
+    },
+    "succulent": {
+        "13.txt": 1
+    },
+    "sentimental": {
+        "13.txt": 4
+    },
+    "sportswoman": {
+        "13.txt": 1
+    },
+    "specimens": {
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "staggered": {
+        "13.txt": 1
+    },
+    "sighted": {
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "seelbach": {
+        "13.txt": 1
+    },
+    "sauterne": {
+        "13.txt": 1
+    },
+    "santa": {
+        "13.txt": 3
+    },
+    "sheik": {
+        "13.txt": 1
+    },
+    "splendor": {
+        "13.txt": 2
+    },
+    "starlight": {
+        "13.txt": 1
+    },
+    "scornful": {
+        "13.txt": 2
+    },
+    "shying": {
+        "13.txt": 1
+    },
+    "sleeplessness": {
+        "13.txt": 1
+    },
+    "scrutinized": {
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "stalked": {
+        "13.txt": 1
+    },
+    "smashed": {
+        "13.txt": 2
+    },
+    "serfs": {
+        "13.txt": 1
+    },
+    "spoonful": {
+        "13.txt": 1
+    },
+    "simplest": {
+        "13.txt": 1,
+        "23.txt": 7
+    },
+    "stacks": {
+        "13.txt": 1
+    },
+    "scrolls": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "stormily": {
+        "13.txt": 1
+    },
+    "scanty": {
+        "13.txt": 1
+    },
+    "sneakers": {
+        "13.txt": 1
+    },
+    "surer": {
+        "13.txt": 2
+    },
+    "shiftless": {
+        "13.txt": 1
+    },
+    "shallows": {
+        "13.txt": 1
+    },
+    "savory": {
+        "13.txt": 1
+    },
+    "sub": {
+        "13.txt": 1
+    },
+    "skipper": {
+        "13.txt": 1
+    },
+    "seaboard": {
+        "13.txt": 1
+    },
+    "savage": {
+        "13.txt": 2
+    },
+    "singularly": {
+        "13.txt": 1
+    },
+    "substantiality": {
+        "13.txt": 1
+    },
+    "senile": {
+        "13.txt": 1
+    },
+    "sloane": {
+        "13.txt": 10
+    },
+    "saddening": {
+        "13.txt": 1
+    },
+    "septic": {
+        "13.txt": 1
+    },
+    "sulkily": {
+        "13.txt": 1
+    },
+    "simmering": {
+        "13.txt": 1
+    },
+    "shirtwaist": {
+        "13.txt": 2
+    },
+    "salon": {
+        "13.txt": 1
+    },
+    "shadowed": {
+        "13.txt": 1
+    },
+    "sed": {
+        "13.txt": 2
+    },
+    "stagnant": {
+        "13.txt": 1
+    },
+    "scalloped": {
+        "13.txt": 1
+    },
+    "senselessness": {
+        "13.txt": 1
+    },
+    "snob": {
+        "13.txt": 1
+    },
+    "stalled": {
+        "13.txt": 1
+    },
+    "shading": {
+        "13.txt": 1
+    },
+    "spidery": {
+        "13.txt": 1
+    },
+    "sensuous": {
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "stifling": {
+        "13.txt": 1
+    },
+    "sneering": {
+        "13.txt": 1
+    },
+    "sagely": {
+        "13.txt": 1
+    },
+    "swindler": {
+        "13.txt": 1
+    },
+    "slander": {
+        "13.txt": 1
+    },
+    "stopus": {
+        "13.txt": 1
+    },
+    "sacredness": {
+        "13.txt": 1
+    },
+    "shades": {
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "stratum": {
+        "13.txt": 1
+    },
+    "snobbery": {
+        "13.txt": 1
+    },
+    "summing": {
+        "13.txt": 1
+    },
+    "suggestiveness": {
+        "13.txt": 1
+    },
+    "southampton": {
+        "13.txt": 2
+    },
+    "shouldered": {
+        "13.txt": 1
+    },
+    "simplist": {
+        "13.txt": 1
+    },
+    "surmise": {
+        "13.txt": 1
+    },
+    "superfluous": {
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "solidarity": {
+        "13.txt": 1
+    },
+    "slagle": {
+        "13.txt": 1
+    },
+    "squawk": {
+        "13.txt": 1
+    },
+    "sender": {
+        "13.txt": 1
+    },
+    "sparse": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "sightseeing": {
+        "13.txt": 1
+    },
+    "sneer": {
+        "13.txt": 1
+    },
+    "swastika": {
+        "13.txt": 1
+    },
+    "stella": {
+        "13.txt": 1
+    },
+    "sickantired": {
+        "13.txt": 1
+    },
+    "shafters": {
+        "13.txt": 1
+    },
+    "smokeing": {
+        "13.txt": 1
+    },
+    "straggled": {
+        "13.txt": 1
+    },
+    "schultzes": {
+        "13.txt": 1
+    },
+    "swede": {
+        "13.txt": 1
+    },
+    "sleigh": {
+        "13.txt": 1
+    },
+    "subtly": {
+        "13.txt": 1
+    },
+    "stretcher": {
+        "13.txt": 1
+    },
+    "sparkles": {
+        "13.txt": 1
+    },
+    "straightforward": {
+        "13.txt": 1
+    },
+    "scrawled": {
+        "13.txt": 1
+    },
+    "sue": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "software": {
+        "13.txt": 2,
+        "14.txt": 3
+    },
+    "stapleton": {
+        "14.txt": 1
+    },
+    "subdivisions": {
+        "14.txt": 1
+    },
+    "sharpened": {
+        "14.txt": 1
+    },
+    "speculative": {
+        "14.txt": 17,
+        "23.txt": 3
+    },
+    "spoils": {
+        "14.txt": 1
+    },
+    "signification": {
+        "14.txt": 2
+    },
+    "soundness": {
+        "14.txt": 3
+    },
+    "synthetically": {
+        "14.txt": 1
+    },
+    "sec_1": {
+        "14.txt": 1
+    },
+    "summoning": {
+        "14.txt": 1
+    },
+    "suitably": {
+        "14.txt": 2
+    },
+    "selecting": {
+        "14.txt": 1
+    },
+    "subjective": {
+        "14.txt": 25,
+        "6.txt": 1
+    },
+    "sympathetically": {
+        "14.txt": 1
+    },
+    "supposes": {
+        "14.txt": 2
+    },
+    "strongest": {
+        "14.txt": 1
+    },
+    "similarly": {
+        "14.txt": 2
+    },
+    "subserve": {
+        "14.txt": 2
+    },
+    "subjectively": {
+        "14.txt": 8
+    },
+    "signifies": {
+        "14.txt": 3
+    },
+    "subordinate": {
+        "14.txt": 1
+    },
+    "significations": {
+        "14.txt": 1
+    },
+    "subterfuge": {
+        "14.txt": 1
+    },
+    "socrates": {
+        "14.txt": 1
+    },
+    "sphere": {
+        "14.txt": 2,
+        "23.txt": 2
+    },
+    "seduced": {
+        "14.txt": 1
+    },
+    "strictness": {
+        "14.txt": 1
+    },
+    "sec_2": {
+        "14.txt": 1
+    },
+    "singly": {
+        "14.txt": 1,
+        "23.txt": 3
+    },
+    "strictest": {
+        "14.txt": 1
+    },
+    "sincerity": {
+        "14.txt": 1
+    },
+    "sagacious": {
+        "14.txt": 1
+    },
+    "subsist": {
+        "14.txt": 4,
+        "23.txt": 1
+    },
+    "substratum": {
+        "14.txt": 1
+    },
+    "sulzer": {
+        "14.txt": 1
+    },
+    "steadfast": {
+        "14.txt": 1
+    },
+    "supplying": {
+        "14.txt": 1
+    },
+    "sanctions": {
+        "14.txt": 1
+    },
+    "synthetical": {
+        "14.txt": 5
+    },
+    "shouldst": {
+        "14.txt": 1
+    },
+    "shorten": {
+        "14.txt": 1
+    },
+    "stoutly": {
+        "14.txt": 1
+    },
+    "statements": {
+        "14.txt": 1
+    },
+    "sublimity": {
+        "14.txt": 6,
+        "6.txt": 1
+    },
+    "seeks": {
+        "14.txt": 4,
+        "23.txt": 1
+    },
+    "substitutes": {
+        "14.txt": 1
+    },
+    "substituted": {
+        "14.txt": 1
+    },
+    "stated": {
+        "14.txt": 2
+    },
+    "systematic": {
+        "14.txt": 2,
+        "6.txt": 9
+    },
+    "sentiment": {
+        "14.txt": 1
+    },
+    "sanctity": {
+        "14.txt": 1
+    },
+    "submits": {
+        "14.txt": 1
+    },
+    "subjection": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "synthetic": {
+        "14.txt": 6
+    },
+    "supposition": {
+        "14.txt": 3,
+        "23.txt": 5
+    },
+    "sensibility": {
+        "14.txt": 13,
+        "6.txt": 1
+    },
+    "suspension": {
+        "14.txt": 1
+    },
+    "sec_3": {
+        "14.txt": 1
+    },
+    "sensualizing": {
+        "14.txt": 1
+    },
+    "steadfastness": {
+        "14.txt": 1
+    },
+    "supposable": {
+        "14.txt": 1
+    },
+    "subtlest": {
+        "14.txt": 1
+    },
+    "sensual": {
+        "14.txt": 1
+    },
+    "subordinated": {
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "solve": {
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "strives": {
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "sites": {
+        "14.txt": 2
+    },
+    "subscribe": {
+        "14.txt": 1
+    },
+    "solicited": {
+        "14.txt": 1
+    },
+    "solicit": {
+        "14.txt": 1
+    },
+    "stirs": {
+        "23.txt": 1
+    },
+    "superstition": {
+        "23.txt": 1
+    },
+    "skillfully": {
+        "23.txt": 1
+    },
+    "superstructure": {
+        "23.txt": 1
+    },
+    "superstructures": {
+        "23.txt": 1
+    },
+    "situations": {
+        "23.txt": 1
+    },
+    "successively": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "sparta": {
+        "23.txt": 1
+    },
+    "straighter": {
+        "23.txt": 1
+    },
+    "suffrages": {
+        "23.txt": 1
+    },
+    "summarily": {
+        "23.txt": 1
+    },
+    "syllogisms": {
+        "23.txt": 1
+    },
+    "severance": {
+        "23.txt": 1
+    },
+    "subsisting": {
+        "23.txt": 2
+    },
+    "solutions": {
+        "23.txt": 1
+    },
+    "suspend": {
+        "23.txt": 1
+    },
+    "sanction": {
+        "23.txt": 1
+    },
+    "steadfastly": {
+        "23.txt": 1
+    },
+    "shun": {
+        "23.txt": 1
+    },
+    "sceptics": {
+        "23.txt": 2
+    },
+    "sever": {
+        "23.txt": 1
+    },
+    "straightway": {
+        "23.txt": 1
+    },
+    "sizes": {
+        "23.txt": 1
+    },
+    "selves": {
+        "23.txt": 1,
+        "6.txt": 4
+    },
+    "strove": {
+        "23.txt": 1
+    },
+    "summary": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "sustains": {
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "surgeons": {
+        "23.txt": 1
+    },
+    "straitness": {
+        "23.txt": 1
+    },
+    "smallness": {
+        "23.txt": 1
+    },
+    "sieves": {
+        "23.txt": 1
+    },
+    "sensus": {
+        "23.txt": 1
+    },
+    "spontaneously": {
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "sinning": {
+        "23.txt": 1
+    },
+    "shortness": {
+        "23.txt": 1
+    },
+    "strive": {
+        "23.txt": 1
+    },
+    "surmount": {
+        "23.txt": 1
+    },
+    "surmounted": {
+        "23.txt": 1
+    },
+    "skillful": {
+        "23.txt": 1
+    },
+    "stimulate": {
+        "23.txt": 1
+    },
+    "subjoin": {
+        "23.txt": 2
+    },
+    "suffers": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "subsequently": {
+        "6.txt": 1
+    },
+    "southwest": {
+        "6.txt": 1
+    },
+    "sporadically": {
+        "6.txt": 1
+    },
+    "synthesize": {
+        "6.txt": 1
+    },
+    "similarity": {
+        "6.txt": 1
+    },
+    "structural": {
+        "6.txt": 1
+    },
+    "schizophrenia": {
+        "6.txt": 6
+    },
+    "systematically": {
+        "6.txt": 2
+    },
+    "sleuths": {
+        "6.txt": 2
+    },
+    "solitude": {
+        "6.txt": 1
+    },
+    "symbols": {
+        "6.txt": 9
+    },
+    "salutary": {
+        "6.txt": 3
+    },
+    "sane": {
+        "6.txt": 3
+    },
+    "swedenborg": {
+        "6.txt": 1
+    },
+    "sebastian": {
+        "6.txt": 1
+    },
+    "somatotonia": {
+        "6.txt": 1
+    },
+    "soluble": {
+        "6.txt": 1
+    },
+    "structures": {
+        "6.txt": 2
+    },
+    "spheres": {
+        "6.txt": 1
+    },
+    "solidity": {
+        "6.txt": 1
+    },
+    "separating": {
+        "6.txt": 1
+    },
+    "signified": {
+        "6.txt": 1
+    },
+    "sentient": {
+        "6.txt": 1
+    },
+    "syllables": {
+        "6.txt": 1
+    },
+    "suzuki": {
+        "6.txt": 1
+    },
+    "suchness": {
+        "6.txt": 11
+    },
+    "spatial": {
+        "6.txt": 5
+    },
+    "sacramental": {
+        "6.txt": 2
+    },
+    "supernatural": {
+        "6.txt": 3
+    },
+    "symbol": {
+        "6.txt": 3
+    },
+    "summarized": {
+        "6.txt": 1
+    },
+    "stupider": {
+        "6.txt": 1
+    },
+    "sensum": {
+        "6.txt": 1
+    },
+    "sensory": {
+        "6.txt": 1
+    },
+    "spectrum": {
+        "6.txt": 1
+    },
+    "supernaturally": {
+        "6.txt": 1
+    },
+    "sensitives": {
+        "6.txt": 1
+    },
+    "sich": {
+        "6.txt": 1
+    },
+    "sculptures": {
+        "6.txt": 2
+    },
+    "skirts": {
+        "6.txt": 4
+    },
+    "storytelling": {
+        "6.txt": 1
+    },
+    "stoical": {
+        "6.txt": 1
+    },
+    "serenity": {
+        "6.txt": 1
+    },
+    "sartorial": {
+        "6.txt": 1
+    },
+    "spirituality": {
+        "6.txt": 1
+    },
+    "strangeness": {
+        "6.txt": 3
+    },
+    "stigmatization": {
+        "6.txt": 1
+    },
+    "sexy": {
+        "6.txt": 1
+    },
+    "socially": {
+        "6.txt": 2
+    },
+    "stammered": {
+        "6.txt": 1
+    },
+    "sitters": {
+        "6.txt": 1
+    },
+    "sweethearts": {
+        "6.txt": 1
+    },
+    "stockbroker": {
+        "6.txt": 1
+    },
+    "suburban": {
+        "6.txt": 1
+    },
+    "supremely": {
+        "6.txt": 1
+    },
+    "sisley": {
+        "6.txt": 1
+    },
+    "seurat": {
+        "6.txt": 2
+    },
+    "swindle": {
+        "6.txt": 1
+    },
+    "shoddiness": {
+        "6.txt": 1
+    },
+    "societies": {
+        "6.txt": 1
+    },
+    "scriptures": {
+        "6.txt": 1
+    },
+    "spiritually": {
+        "6.txt": 1
+    },
+    "successive": {
+        "6.txt": 2
+    },
+    "seventeenth": {
+        "6.txt": 1
+    },
+    "secularists": {
+        "6.txt": 1
+    },
+    "sketches": {
+        "6.txt": 2
+    },
+    "subconscious": {
+        "6.txt": 3
+    },
+    "schoenberg": {
+        "6.txt": 1
+    },
+    "succession": {
+        "6.txt": 1
+    },
+    "stages": {
+        "6.txt": 1
+    },
+    "separateness": {
+        "6.txt": 1
+    },
+    "souls": {
+        "6.txt": 2
+    },
+    "selfhood": {
+        "6.txt": 4
+    },
+    "schizophrenic": {
+        "6.txt": 2
+    },
+    "scares": {
+        "6.txt": 1
+    },
+    "sins": {
+        "6.txt": 1
+    },
+    "speakers": {
+        "6.txt": 1
+    },
+    "splendors": {
+        "6.txt": 1
+    },
+    "shiki": {
+        "6.txt": 1
+    },
+    "subtler": {
+        "6.txt": 1
+    },
+    "succeeding": {
+        "6.txt": 1
+    },
+    "suburb": {
+        "6.txt": 1
+    },
+    "stucco": {
+        "6.txt": 2
+    },
+    "slanting": {
+        "6.txt": 1
+    },
+    "sameness": {
+        "6.txt": 2
+    },
+    "saturnalia": {
+        "6.txt": 1
+    },
+    "sedatives": {
+        "6.txt": 1
+    },
+    "synthetics": {
+        "6.txt": 1
+    },
+    "sterility": {
+        "6.txt": 1
+    },
+    "solved": {
+        "6.txt": 1
+    },
+    "synthesizable": {
+        "6.txt": 1
+    },
+    "sketchy": {
+        "6.txt": 1
+    },
+    "sociologists": {
+        "6.txt": 1
+    },
+    "surrogates": {
+        "6.txt": 1
+    },
+    "sacr\u00e9s": {
+        "6.txt": 1
+    },
+    "substances": {
+        "6.txt": 1
+    },
+    "sacramentalize": {
+        "6.txt": 1
+    },
+    "surrogate": {
+        "6.txt": 1
+    },
+    "sacramentalized": {
+        "6.txt": 1
+    },
+    "sect": {
+        "6.txt": 1
+    },
+    "slotkin": {
+        "6.txt": 5
+    },
+    "stupefied": {
+        "6.txt": 2
+    },
+    "sacramentalizing": {
+        "6.txt": 1
+    },
+    "suppress": {
+        "6.txt": 2
+    },
+    "supplementing": {
+        "6.txt": 1
+    },
+    "salvation": {
+        "6.txt": 1
+    },
+    "signatures": {
+        "6.txt": 1
+    },
+    "specialist": {
+        "6.txt": 1
+    },
+    "students": {
+        "6.txt": 2
+    },
+    "samuel": {
+        "6.txt": 1
+    },
+    "scholars": {
+        "6.txt": 1
+    },
+    "stupendous": {
+        "6.txt": 1
+    },
+    "swedish": {
+        "6.txt": 1
+    },
+    "sprouting": {
+        "6.txt": 2
+    },
+    "sabbatical": {
+        "6.txt": 1
+    },
+    "summas": {
+        "6.txt": 1
+    },
+    "substantial": {
+        "6.txt": 1
+    },
+    "smythies": {
+        "6.txt": 3
+    },
+    "saskatchewan": {
+        "6.txt": 1
+    },
+    "solemnity": {
+        "6.txt": 1
+    }
+}

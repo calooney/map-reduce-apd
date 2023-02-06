@@ -1,0 +1,301 @@
+{
+    "your": {
+        "10.txt": 313,
+        "2.txt": 122,
+        "3.txt": 455,
+        "12.txt": 113,
+        "21.txt": 6,
+        "17.txt": 63
+    },
+    "you": {
+        "10.txt": 1458,
+        "2.txt": 763,
+        "3.txt": 1688,
+        "12.txt": 672,
+        "21.txt": 12,
+        "17.txt": 309
+    },
+    "years": {
+        "10.txt": 31,
+        "2.txt": 52,
+        "3.txt": 15,
+        "12.txt": 45,
+        "21.txt": 3,
+        "17.txt": 13
+    },
+    "year": {
+        "10.txt": 8,
+        "2.txt": 95,
+        "3.txt": 14,
+        "12.txt": 19,
+        "21.txt": 1,
+        "17.txt": 5
+    },
+    "yet": {
+        "10.txt": 155,
+        "2.txt": 17,
+        "3.txt": 3,
+        "12.txt": 16,
+        "21.txt": 52,
+        "17.txt": 4
+    },
+    "yes": {
+        "10.txt": 36,
+        "2.txt": 60,
+        "3.txt": 3,
+        "12.txt": 47,
+        "17.txt": 18
+    },
+    "young": {
+        "10.txt": 54,
+        "2.txt": 15,
+        "3.txt": 16,
+        "12.txt": 4,
+        "17.txt": 5
+    },
+    "yard": {
+        "10.txt": 9,
+        "2.txt": 2,
+        "3.txt": 4,
+        "12.txt": 8
+    },
+    "yourself": {
+        "10.txt": 22,
+        "2.txt": 11,
+        "3.txt": 28,
+        "12.txt": 13,
+        "17.txt": 10
+    },
+    "yorkshire": {
+        "10.txt": 3
+    },
+    "yesterday": {
+        "10.txt": 28,
+        "2.txt": 9,
+        "12.txt": 2,
+        "21.txt": 3,
+        "17.txt": 6
+    },
+    "yoke": {
+        "10.txt": 1
+    },
+    "yellow": {
+        "10.txt": 7,
+        "2.txt": 5,
+        "3.txt": 10,
+        "12.txt": 13,
+        "17.txt": 3
+    },
+    "yours": {
+        "10.txt": 23,
+        "2.txt": 6,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "yourselves": {
+        "10.txt": 2,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "youth": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "3.txt": 12,
+        "21.txt": 1
+    },
+    "yarns": {
+        "10.txt": 2
+    },
+    "york": {
+        "10.txt": 1,
+        "3.txt": 85
+    },
+    "ye": {
+        "10.txt": 30
+    },
+    "yabblins": {
+        "10.txt": 1
+    },
+    "yield": {
+        "10.txt": 6,
+        "3.txt": 1,
+        "21.txt": 2
+    },
+    "yawing": {
+        "10.txt": 1
+    },
+    "yields": {
+        "10.txt": 2
+    },
+    "yards": {
+        "10.txt": 2,
+        "2.txt": 22,
+        "3.txt": 5,
+        "12.txt": 5,
+        "17.txt": 4
+    },
+    "yelling": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 7,
+        "17.txt": 2
+    },
+    "younger": {
+        "10.txt": 5,
+        "2.txt": 5,
+        "3.txt": 3,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "yer": {
+        "10.txt": 10
+    },
+    "yelpin": {
+        "10.txt": 1
+    },
+    "y": {
+        "10.txt": 2,
+        "3.txt": 36,
+        "12.txt": 1
+    },
+    "youthful": {
+        "10.txt": 2
+    },
+    "yearn": {
+        "10.txt": 1
+    },
+    "yew": {
+        "10.txt": 5
+    },
+    "yews": {
+        "10.txt": 1
+    },
+    "yielded": {
+        "10.txt": 4,
+        "12.txt": 1
+    },
+    "yellowed": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "yelping": {
+        "10.txt": 1
+    },
+    "yus": {
+        "10.txt": 2
+    },
+    "yell": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "12.txt": 4,
+        "17.txt": 3
+    },
+    "yielding": {
+        "10.txt": 1
+    },
+    "yearning": {
+        "10.txt": 3
+    },
+    "yarn": {
+        "2.txt": 1
+    },
+    "yanked": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "yanks": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "yells": {
+        "2.txt": 1
+    },
+    "yeah": {
+        "2.txt": 24,
+        "17.txt": 12
+    },
+    "yank": {
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "yelled": {
+        "2.txt": 1,
+        "12.txt": 5
+    },
+    "yelp": {
+        "2.txt": 1
+    },
+    "yellowish": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "youngest": {
+        "2.txt": 2
+    },
+    "yippie": {
+        "3.txt": 9
+    },
+    "youngsters": {
+        "3.txt": 1
+    },
+    "yeses": {
+        "3.txt": 1
+    },
+    "yippies": {
+        "3.txt": 8
+    },
+    "yogurt": {
+        "3.txt": 14
+    },
+    "yolks": {
+        "3.txt": 2
+    },
+    "yeast": {
+        "3.txt": 4
+    },
+    "yosemite": {
+        "3.txt": 4
+    },
+    "yellowstone": {
+        "3.txt": 4
+    },
+    "yearly": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "yawning": {
+        "3.txt": 1
+    },
+    "yr": {
+        "3.txt": 64
+    },
+    "ypsilanti": {
+        "3.txt": 1
+    },
+    "ylp": {
+        "3.txt": 1
+    },
+    "yeoman": {
+        "3.txt": 1
+    },
+    "yon": {
+        "3.txt": 1
+    },
+    "yu": {
+        "3.txt": 2
+    },
+    "yawn": {
+        "12.txt": 1
+    },
+    "yammering": {
+        "12.txt": 1
+    },
+    "yanking": {
+        "12.txt": 1
+    },
+    "youngstown": {
+        "12.txt": 1
+    }
+}

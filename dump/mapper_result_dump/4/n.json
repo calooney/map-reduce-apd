@@ -1,0 +1,1280 @@
+{
+    "nearly": {
+        "15.txt": 29,
+        "7.txt": 20,
+        "18.txt": 2,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "never": {
+        "15.txt": 197,
+        "7.txt": 128,
+        "18.txt": 78,
+        "13.txt": 64,
+        "14.txt": 38,
+        "23.txt": 27,
+        "6.txt": 30
+    },
+    "no": {
+        "15.txt": 301,
+        "7.txt": 332,
+        "18.txt": 290,
+        "13.txt": 110,
+        "14.txt": 82,
+        "23.txt": 60,
+        "6.txt": 44
+    },
+    "not": {
+        "15.txt": 454,
+        "7.txt": 655,
+        "18.txt": 324,
+        "13.txt": 82,
+        "14.txt": 318,
+        "23.txt": 203,
+        "6.txt": 120
+    },
+    "nevertheless": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "13.txt": 4,
+        "14.txt": 11,
+        "23.txt": 5
+    },
+    "north": {
+        "15.txt": 9,
+        "7.txt": 1,
+        "13.txt": 3,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "name": {
+        "15.txt": 32,
+        "7.txt": 31,
+        "18.txt": 29,
+        "13.txt": 42,
+        "14.txt": 9,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "nothing": {
+        "15.txt": 79,
+        "7.txt": 95,
+        "18.txt": 59,
+        "13.txt": 35,
+        "14.txt": 37,
+        "23.txt": 36,
+        "6.txt": 8
+    },
+    "nine": {
+        "15.txt": 10,
+        "7.txt": 7,
+        "18.txt": 2,
+        "13.txt": 6,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "noon": {
+        "15.txt": 7,
+        "7.txt": 3,
+        "18.txt": 2,
+        "13.txt": 8
+    },
+    "naps": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "nightfall": {
+        "15.txt": 3,
+        "7.txt": 4
+    },
+    "nowhere": {
+        "15.txt": 7,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 2
+    },
+    "nearsighted": {
+        "15.txt": 2
+    },
+    "next": {
+        "15.txt": 53,
+        "7.txt": 92,
+        "18.txt": 57,
+        "13.txt": 36,
+        "14.txt": 2,
+        "23.txt": 7,
+        "6.txt": 1
+    },
+    "needs": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 4,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "n": {
+        "15.txt": 51,
+        "13.txt": 3
+    },
+    "now": {
+        "15.txt": 155,
+        "7.txt": 152,
+        "18.txt": 141,
+        "13.txt": 100,
+        "14.txt": 59,
+        "23.txt": 11,
+        "6.txt": 16
+    },
+    "nearer": {
+        "15.txt": 4,
+        "7.txt": 9,
+        "13.txt": 1,
+        "14.txt": 5,
+        "6.txt": 1
+    },
+    "night": {
+        "15.txt": 104,
+        "7.txt": 93,
+        "18.txt": 34,
+        "13.txt": 77
+    },
+    "nocturnal": {
+        "15.txt": 2
+    },
+    "negro": {
+        "15.txt": 29,
+        "13.txt": 2
+    },
+    "nuts": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 3
+    },
+    "neighbors": {
+        "15.txt": 19,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "neighborhood": {
+        "15.txt": 27,
+        "13.txt": 2,
+        "23.txt": 2
+    },
+    "northern": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "nearest": {
+        "15.txt": 3,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "nobody": {
+        "15.txt": 36,
+        "7.txt": 8,
+        "18.txt": 1,
+        "13.txt": 9,
+        "6.txt": 1
+    },
+    "nerve": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "negroes": {
+        "15.txt": 25,
+        "13.txt": 1
+    },
+    "nebulous": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "noise": {
+        "15.txt": 10,
+        "7.txt": 17,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "nathan": {
+        "15.txt": 14
+    },
+    "nodded": {
+        "15.txt": 24,
+        "7.txt": 2,
+        "13.txt": 16
+    },
+    "nice": {
+        "15.txt": 20,
+        "7.txt": 2,
+        "18.txt": 10,
+        "13.txt": 13
+    },
+    "naturedly": {
+        "15.txt": 1
+    },
+    "news": {
+        "15.txt": 9,
+        "7.txt": 25,
+        "18.txt": 11,
+        "13.txt": 7
+    },
+    "new": {
+        "15.txt": 25,
+        "7.txt": 28,
+        "18.txt": 41,
+        "13.txt": 70,
+        "14.txt": 11,
+        "23.txt": 11,
+        "6.txt": 12
+    },
+    "nodding": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 4
+    },
+    "neatly": {
+        "15.txt": 4,
+        "18.txt": 2
+    },
+    "nome": {
+        "15.txt": 11
+    },
+    "none": {
+        "15.txt": 13,
+        "7.txt": 17,
+        "18.txt": 16,
+        "13.txt": 2,
+        "14.txt": 2,
+        "23.txt": 7,
+        "6.txt": 4
+    },
+    "nor": {
+        "15.txt": 3,
+        "7.txt": 30,
+        "18.txt": 2,
+        "13.txt": 4,
+        "14.txt": 24,
+        "23.txt": 24,
+        "6.txt": 4
+    },
+    "nose": {
+        "15.txt": 24,
+        "18.txt": 12,
+        "13.txt": 12
+    },
+    "nickels": {
+        "15.txt": 6
+    },
+    "native": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "23.txt": 1,
+        "6.txt": 6
+    },
+    "nervously": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "noontime": {
+        "15.txt": 3
+    },
+    "neither": {
+        "15.txt": 9,
+        "7.txt": 19,
+        "18.txt": 6,
+        "13.txt": 8,
+        "14.txt": 8,
+        "23.txt": 10,
+        "6.txt": 4
+    },
+    "ny": {
+        "15.txt": 4
+    },
+    "nothin": {
+        "15.txt": 23
+    },
+    "need": {
+        "15.txt": 14,
+        "7.txt": 18,
+        "18.txt": 54,
+        "13.txt": 3,
+        "14.txt": 17,
+        "23.txt": 8,
+        "6.txt": 5
+    },
+    "neck": {
+        "15.txt": 16,
+        "7.txt": 22,
+        "18.txt": 17,
+        "13.txt": 6,
+        "6.txt": 1
+    },
+    "noticed": {
+        "15.txt": 11,
+        "7.txt": 20,
+        "13.txt": 3,
+        "6.txt": 2
+    },
+    "names": {
+        "15.txt": 8,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 9,
+        "6.txt": 2
+    },
+    "nosed": {
+        "15.txt": 2,
+        "13.txt": 2
+    },
+    "narrative": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "necessity": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "18.txt": 2,
+        "14.txt": 47,
+        "23.txt": 5
+    },
+    "nourishment": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "23.txt": 2
+    },
+    "noticing": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "14.txt": 1
+    },
+    "nineteen": {
+        "15.txt": 10,
+        "13.txt": 6
+    },
+    "naw": {
+        "15.txt": 13
+    },
+    "nigger": {
+        "15.txt": 38
+    },
+    "nauseated": {
+        "15.txt": 1
+    },
+    "navigate": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "naturally": {
+        "15.txt": 2,
+        "7.txt": 10,
+        "18.txt": 4,
+        "13.txt": 3,
+        "14.txt": 2,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "needed": {
+        "15.txt": 11,
+        "7.txt": 13,
+        "18.txt": 11,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "newspapers": {
+        "15.txt": 4,
+        "13.txt": 3
+    },
+    "newspaper": {
+        "15.txt": 14,
+        "13.txt": 7
+    },
+    "nausea": {
+        "15.txt": 1
+    },
+    "nagging": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "neglected": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "nut": {
+        "15.txt": 2,
+        "18.txt": 30
+    },
+    "notion": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "14.txt": 19,
+        "23.txt": 1
+    },
+    "neighboring": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "nashville": {
+        "15.txt": 1
+    },
+    "narrowed": {
+        "15.txt": 3,
+        "18.txt": 1,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "nicely": {
+        "15.txt": 2
+    },
+    "note": {
+        "15.txt": 10,
+        "7.txt": 4,
+        "18.txt": 6,
+        "13.txt": 6,
+        "14.txt": 3,
+        "23.txt": 1
+    },
+    "nova": {
+        "15.txt": 1
+    },
+    "nonsense": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "narrow": {
+        "15.txt": 4,
+        "7.txt": 11,
+        "18.txt": 7,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "numbness": {
+        "15.txt": 1
+    },
+    "normal": {
+        "15.txt": 4,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 3
+    },
+    "near": {
+        "15.txt": 19,
+        "7.txt": 53,
+        "18.txt": 12,
+        "13.txt": 7,
+        "6.txt": 3
+    },
+    "nothingness": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "nature": {
+        "15.txt": 5,
+        "7.txt": 3,
+        "18.txt": 5,
+        "13.txt": 2,
+        "14.txt": 115,
+        "23.txt": 46,
+        "6.txt": 14
+    },
+    "natural": {
+        "15.txt": 4,
+        "7.txt": 5,
+        "18.txt": 5,
+        "13.txt": 2,
+        "14.txt": 19,
+        "23.txt": 5,
+        "6.txt": 3
+    },
+    "nightshirts": {
+        "15.txt": 1
+    },
+    "network": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "niggers": {
+        "15.txt": 10
+    },
+    "nickel": {
+        "15.txt": 6,
+        "13.txt": 1
+    },
+    "number": {
+        "15.txt": 2,
+        "7.txt": 16,
+        "18.txt": 8,
+        "13.txt": 4,
+        "14.txt": 4,
+        "23.txt": 7,
+        "6.txt": 1
+    },
+    "noble": {
+        "15.txt": 2,
+        "7.txt": 8,
+        "18.txt": 3,
+        "14.txt": 3,
+        "6.txt": 1
+    },
+    "notice": {
+        "15.txt": 3,
+        "7.txt": 9,
+        "18.txt": 17,
+        "13.txt": 5,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "named": {
+        "15.txt": 3,
+        "7.txt": 18,
+        "18.txt": 6,
+        "13.txt": 9,
+        "14.txt": 3
+    },
+    "notions": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "14.txt": 6,
+        "23.txt": 5,
+        "6.txt": 6
+    },
+    "nursing": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "necklace": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "nail": {
+        "15.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "nest": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "nauseating": {
+        "15.txt": 1
+    },
+    "numb": {
+        "15.txt": 2
+    },
+    "nickname": {
+        "15.txt": 1
+    },
+    "numerous": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 4,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "nicest": {
+        "15.txt": 1
+    },
+    "nether": {
+        "15.txt": 1
+    },
+    "nerves": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "23.txt": 3
+    },
+    "nasty": {
+        "15.txt": 1
+    },
+    "normally": {
+        "15.txt": 3,
+        "6.txt": 1
+    },
+    "numbered": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "nation": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "ninety": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "6.txt": 1
+    },
+    "newly": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "newer": {
+        "15.txt": 1
+    },
+    "notes": {
+        "15.txt": 2,
+        "18.txt": 4,
+        "13.txt": 3
+    },
+    "navy": {
+        "15.txt": 1
+    },
+    "novel": {
+        "15.txt": 1
+    },
+    "necessary": {
+        "15.txt": 8,
+        "7.txt": 12,
+        "18.txt": 5,
+        "13.txt": 4,
+        "14.txt": 47,
+        "23.txt": 23,
+        "6.txt": 7
+    },
+    "nimble": {
+        "15.txt": 1
+    },
+    "noises": {
+        "15.txt": 4
+    },
+    "nurses": {
+        "15.txt": 1
+    },
+    "needle": {
+        "15.txt": 1,
+        "18.txt": 6
+    },
+    "neat": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "negligee": {
+        "15.txt": 1
+    },
+    "nightmare": {
+        "15.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "nap": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "northwest": {
+        "15.txt": 2
+    },
+    "nightbugs": {
+        "15.txt": 1
+    },
+    "natured": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "nod": {
+        "15.txt": 3,
+        "18.txt": 12,
+        "13.txt": 3
+    },
+    "naming": {
+        "15.txt": 3
+    },
+    "nehi": {
+        "15.txt": 1
+    },
+    "nostrils": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "nineteenth": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "november": {
+        "15.txt": 7,
+        "13.txt": 2,
+        "14.txt": 4
+    },
+    "namesake": {
+        "15.txt": 1
+    },
+    "nervous": {
+        "15.txt": 2,
+        "18.txt": 2,
+        "13.txt": 6,
+        "6.txt": 5
+    },
+    "neutrality": {
+        "15.txt": 1
+    },
+    "naked": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 6,
+        "6.txt": 2
+    },
+    "nights": {
+        "15.txt": 3,
+        "7.txt": 10,
+        "18.txt": 3,
+        "13.txt": 4
+    },
+    "nooo": {
+        "15.txt": 1
+    },
+    "nurse": {
+        "15.txt": 1,
+        "7.txt": 12,
+        "18.txt": 2,
+        "13.txt": 5
+    },
+    "neighbor": {
+        "15.txt": 3,
+        "18.txt": 2,
+        "13.txt": 7
+    },
+    "nephew": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "13.txt": 2
+    },
+    "natchell": {
+        "15.txt": 1
+    },
+    "notoriety": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "nondescript": {
+        "15.txt": 1
+    },
+    "nra": {
+        "15.txt": 1
+    },
+    "national": {
+        "15.txt": 3,
+        "13.txt": 3
+    },
+    "narrator": {
+        "15.txt": 1
+    },
+    "nudging": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "novels": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "narrated": {
+        "7.txt": 1
+    },
+    "nets": {
+        "7.txt": 15,
+        "18.txt": 1
+    },
+    "netted": {
+        "7.txt": 1
+    },
+    "nightly": {
+        "7.txt": 2
+    },
+    "neighbouring": {
+        "7.txt": 7
+    },
+    "neighbour": {
+        "7.txt": 4,
+        "14.txt": 1
+    },
+    "neighbours": {
+        "7.txt": 7
+    },
+    "nails": {
+        "7.txt": 5,
+        "18.txt": 2
+    },
+    "nightingales": {
+        "7.txt": 2
+    },
+    "nutmegs": {
+        "7.txt": 1
+    },
+    "numbers": {
+        "7.txt": 4,
+        "18.txt": 5,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "nests": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "numberless": {
+        "7.txt": 1
+    },
+    "novelty": {
+        "7.txt": 2
+    },
+    "nobles": {
+        "7.txt": 2
+    },
+    "navigation": {
+        "7.txt": 1
+    },
+    "nations": {
+        "7.txt": 2,
+        "23.txt": 4
+    },
+    "nook": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "nimbly": {
+        "7.txt": 1
+    },
+    "nigh": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "noted": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "natives": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "nay": {
+        "7.txt": 1,
+        "14.txt": 8
+    },
+    "necessaries": {
+        "7.txt": 2
+    },
+    "needless": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "newcomer": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "noureddin": {
+        "7.txt": 87
+    },
+    "negligent": {
+        "7.txt": 1
+    },
+    "niche": {
+        "7.txt": 1
+    },
+    "napkin": {
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "nouman": {
+        "7.txt": 9
+    },
+    "neighbourhood": {
+        "7.txt": 1
+    },
+    "nile": {
+        "7.txt": 1
+    },
+    "nobly": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "needful": {
+        "7.txt": 4
+    },
+    "nedrouz": {
+        "7.txt": 1
+    },
+    "neglect": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 3
+    },
+    "noblest": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "nuptials": {
+        "7.txt": 1
+    },
+    "nobler": {
+        "7.txt": 2,
+        "14.txt": 1
+    },
+    "nightingale": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "nightmares": {
+        "18.txt": 10
+    },
+    "nudge": {
+        "18.txt": 4
+    },
+    "necklaces": {
+        "18.txt": 3
+    },
+    "notices": {
+        "18.txt": 3
+    },
+    "nationwide": {
+        "18.txt": 1
+    },
+    "nuclear": {
+        "18.txt": 6
+    },
+    "norm": {
+        "18.txt": 1
+    },
+    "necessarily": {
+        "18.txt": 2,
+        "14.txt": 25,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "notified": {
+        "18.txt": 2
+    },
+    "newscast": {
+        "18.txt": 1
+    },
+    "noose": {
+        "18.txt": 2
+    },
+    "nightmarish": {
+        "18.txt": 1
+    },
+    "nods": {
+        "18.txt": 7
+    },
+    "nears": {
+        "18.txt": 1
+    },
+    "numbly": {
+        "18.txt": 3
+    },
+    "nicknamed": {
+        "18.txt": 1
+    },
+    "nearby": {
+        "18.txt": 3
+    },
+    "nonetheless": {
+        "18.txt": 1
+    },
+    "newfound": {
+        "18.txt": 1
+    },
+    "neutrally": {
+        "18.txt": 1
+    },
+    "nearing": {
+        "18.txt": 1
+    },
+    "net": {
+        "18.txt": 5,
+        "13.txt": 4,
+        "14.txt": 3
+    },
+    "negligence": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "negative": {
+        "18.txt": 1,
+        "14.txt": 3,
+        "6.txt": 2
+    },
+    "nibble": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "needles": {
+        "18.txt": 2
+    },
+    "noting": {
+        "18.txt": 1
+    },
+    "nightlock": {
+        "18.txt": 12
+    },
+    "newest": {
+        "18.txt": 1
+    },
+    "nonthreatening": {
+        "18.txt": 1
+    },
+    "nudges": {
+        "18.txt": 1
+    },
+    "noticeably": {
+        "18.txt": 1
+    },
+    "noses": {
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "necks": {
+        "18.txt": 2
+    },
+    "normalcy": {
+        "18.txt": 1
+    },
+    "notify": {
+        "18.txt": 1
+    },
+    "napped": {
+        "18.txt": 1
+    },
+    "nighttime": {
+        "18.txt": 1
+    },
+    "negotiating": {
+        "18.txt": 1
+    },
+    "nightgowns": {
+        "18.txt": 1
+    },
+    "niceness": {
+        "18.txt": 1
+    },
+    "newborn": {
+        "18.txt": 2
+    },
+    "neighborly": {
+        "18.txt": 1
+    },
+    "nick": {
+        "18.txt": 1,
+        "13.txt": 24
+    },
+    "nooney": {
+        "18.txt": 1
+    },
+    "nil": {
+        "13.txt": 1
+    },
+    "natures": {
+        "13.txt": 1,
+        "23.txt": 3
+    },
+    "normandy": {
+        "13.txt": 1
+    },
+    "nordics": {
+        "13.txt": 1
+    },
+    "nordic": {
+        "13.txt": 1
+    },
+    "nourished": {
+        "13.txt": 1
+    },
+    "nonexistent": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "noisy": {
+        "13.txt": 1
+    },
+    "nobility": {
+        "13.txt": 1
+    },
+    "needn": {
+        "13.txt": 1
+    },
+    "notorious": {
+        "13.txt": 1
+    },
+    "ninth": {
+        "13.txt": 2
+    },
+    "newton": {
+        "13.txt": 1
+    },
+    "nicolas": {
+        "13.txt": 1
+    },
+    "neared": {
+        "13.txt": 1
+    },
+    "non": {
+        "13.txt": 1,
+        "14.txt": 2,
+        "6.txt": 10
+    },
+    "nostril": {
+        "13.txt": 1
+    },
+    "nymphs": {
+        "13.txt": 1
+    },
+    "noun": {
+        "13.txt": 1
+    },
+    "nobs": {
+        "13.txt": 1
+    },
+    "nevada": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "nope": {
+        "13.txt": 1
+    },
+    "needlessly": {
+        "13.txt": 1
+    },
+    "nowadays": {
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "namely": {
+        "14.txt": 36,
+        "6.txt": 1
+    },
+    "niggardly": {
+        "14.txt": 1
+    },
+    "notwithstanding": {
+        "14.txt": 5,
+        "23.txt": 2
+    },
+    "narrowest": {
+        "14.txt": 1
+    },
+    "negatively": {
+        "14.txt": 2
+    },
+    "necessitation": {
+        "14.txt": 3
+    },
+    "needing": {
+        "14.txt": 1
+    },
+    "newsletter": {
+        "14.txt": 2
+    },
+    "newsletters": {
+        "14.txt": 1
+    },
+    "nominally": {
+        "14.txt": 1
+    },
+    "nebraska": {
+        "14.txt": 1
+    },
+    "narratives": {
+        "23.txt": 1
+    },
+    "nought": {
+        "23.txt": 1
+    },
+    "negation": {
+        "23.txt": 1
+    },
+    "necessitated": {
+        "23.txt": 1
+    },
+    "nutrition": {
+        "23.txt": 1
+    },
+    "narrowly": {
+        "23.txt": 1
+    },
+    "neurologists": {
+        "6.txt": 2
+    },
+    "nodes": {
+        "6.txt": 1
+    },
+    "noiselessly": {
+        "6.txt": 1
+    },
+    "nosegay": {
+        "6.txt": 1
+    },
+    "ness": {
+        "6.txt": 3
+    },
+    "novice": {
+        "6.txt": 2
+    },
+    "neng": {
+        "6.txt": 1
+    },
+    "neurotic": {
+        "6.txt": 2
+    },
+    "naturalistic": {
+        "6.txt": 3
+    },
+    "nameless": {
+        "6.txt": 1
+    },
+    "nain": {
+        "6.txt": 1
+    },
+    "nirvana": {
+        "6.txt": 1
+    },
+    "nilly": {
+        "6.txt": 1
+    },
+    "naturalism": {
+        "6.txt": 1
+    },
+    "nonrepresentational": {
+        "6.txt": 1
+    },
+    "notoriously": {
+        "6.txt": 1
+    },
+    "narcotics": {
+        "6.txt": 1
+    },
+    "nicotine": {
+        "6.txt": 1
+    },
+    "nakedness": {
+        "6.txt": 1
+    },
+    "neurology": {
+        "6.txt": 1
+    },
+    "neurophysiology": {
+        "6.txt": 1
+    },
+    "narcotic": {
+        "6.txt": 1
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "questions": {
+        "25.txt": 73,
+        "16.txt": 1,
+        "11.txt": 6,
+        "22.txt": 6,
+        "9.txt": 2
+    },
+    "quickly": {
+        "25.txt": 1,
+        "16.txt": 4,
+        "11.txt": 14,
+        "20.txt": 10,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "queen": {
+        "25.txt": 2,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "question": {
+        "25.txt": 192,
+        "16.txt": 10,
+        "11.txt": 12,
+        "20.txt": 3,
+        "22.txt": 5,
+        "9.txt": 3
+    },
+    "quam": {
+        "25.txt": 1
+    },
+    "quite": {
+        "25.txt": 107,
+        "16.txt": 10,
+        "11.txt": 41,
+        "20.txt": 6,
+        "22.txt": 5,
+        "9.txt": 4
+    },
+    "quid": {
+        "25.txt": 7
+    },
+    "quod": {
+        "25.txt": 3
+    },
+    "quarter": {
+        "25.txt": 7,
+        "11.txt": 1,
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "quantity": {
+        "25.txt": 146,
+        "11.txt": 2
+    },
+    "qualitative": {
+        "25.txt": 7
+    },
+    "qualities": {
+        "25.txt": 5,
+        "16.txt": 5,
+        "11.txt": 7,
+        "22.txt": 6
+    },
+    "quibus": {
+        "25.txt": 1
+    },
+    "quoad": {
+        "25.txt": 5
+    },
+    "qua": {
+        "25.txt": 3
+    },
+    "quality": {
+        "25.txt": 22,
+        "16.txt": 3,
+        "11.txt": 3,
+        "22.txt": 1
+    },
+    "quando": {
+        "25.txt": 1
+    },
+    "quodlibet": {
+        "25.txt": 1
+    },
+    "quantum": {
+        "25.txt": 11
+    },
+    "quaestio": {
+        "25.txt": 1
+    },
+    "quantities": {
+        "25.txt": 29,
+        "16.txt": 1,
+        "11.txt": 3
+    },
+    "quantorum": {
+        "25.txt": 1
+    },
+    "quantitatis": {
+        "25.txt": 1
+    },
+    "quantitas": {
+        "25.txt": 4
+    },
+    "quanti": {
+        "25.txt": 1
+    },
+    "quanta": {
+        "25.txt": 8
+    },
+    "quantitative": {
+        "25.txt": 1
+    },
+    "quibbling": {
+        "25.txt": 1
+    },
+    "qualitas": {
+        "25.txt": 1
+    },
+    "quibble": {
+        "25.txt": 1
+    },
+    "quicken": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "q": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "quarrel": {
+        "25.txt": 1,
+        "16.txt": 4,
+        "11.txt": 4
+    },
+    "questiones": {
+        "25.txt": 1
+    },
+    "quickened": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "quit": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "quell": {
+        "16.txt": 1
+    },
+    "quadi": {
+        "16.txt": 5
+    },
+    "qualm": {
+        "16.txt": 1
+    },
+    "quiet": {
+        "16.txt": 6,
+        "11.txt": 9,
+        "20.txt": 14,
+        "9.txt": 4
+    },
+    "quails": {
+        "16.txt": 1
+    },
+    "querulousness": {
+        "16.txt": 2
+    },
+    "quarters": {
+        "16.txt": 1,
+        "11.txt": 3
+    },
+    "quenched": {
+        "16.txt": 2
+    },
+    "quieted": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "querulous": {
+        "16.txt": 2
+    },
+    "qualified": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "quick": {
+        "16.txt": 3,
+        "11.txt": 13,
+        "20.txt": 17,
+        "9.txt": 1
+    },
+    "quench": {
+        "16.txt": 1
+    },
+    "quarrelsome": {
+        "16.txt": 1
+    },
+    "quom": {
+        "16.txt": 1
+    },
+    "quinquatrus": {
+        "16.txt": 1
+    },
+    "quotes": {
+        "16.txt": 1
+    },
+    "quotation": {
+        "16.txt": 3
+    },
+    "quoting": {
+        "16.txt": 1
+    },
+    "quotations": {
+        "16.txt": 1
+    },
+    "quoted": {
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "quarrelled": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "quags": {
+        "11.txt": 2
+    },
+    "quagmire": {
+        "11.txt": 1
+    },
+    "quietly": {
+        "11.txt": 15,
+        "20.txt": 16,
+        "9.txt": 3
+    },
+    "questioning": {
+        "11.txt": 3
+    },
+    "quarry": {
+        "11.txt": 2
+    },
+    "questioned": {
+        "11.txt": 1
+    },
+    "quest": {
+        "11.txt": 2
+    },
+    "queer": {
+        "11.txt": 3
+    },
+    "quivering": {
+        "11.txt": 1,
+        "20.txt": 3
+    },
+    "query": {
+        "11.txt": 2
+    },
+    "quailed": {
+        "11.txt": 1
+    },
+    "quivered": {
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "quiver": {
+        "20.txt": 1
+    },
+    "quill": {
+        "20.txt": 4
+    },
+    "queue": {
+        "20.txt": 1
+    },
+    "quinsy": {
+        "20.txt": 1
+    },
+    "quelling": {
+        "20.txt": 1
+    },
+    "queasy": {
+        "20.txt": 1
+    },
+    "quietude": {
+        "20.txt": 1
+    },
+    "quaked": {
+        "20.txt": 1
+    },
+    "quaver": {
+        "20.txt": 1
+    },
+    "quitting": {
+        "20.txt": 1
+    },
+    "quieting": {
+        "20.txt": 1
+    },
+    "quote": {
+        "20.txt": 1
+    },
+    "quetzalcoatl": {
+        "20.txt": 1
+    },
+    "quieter": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "quitted": {
+        "22.txt": 1
+    },
+    "quieten": {
+        "9.txt": 1
+    }
+}

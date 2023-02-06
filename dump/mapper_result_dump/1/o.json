@@ -1,0 +1,1574 @@
+{
+    "of": {
+        "25.txt": 13151,
+        "16.txt": 2467,
+        "11.txt": 1874,
+        "20.txt": 666,
+        "22.txt": 972,
+        "9.txt": 259
+    },
+    "over": {
+        "25.txt": 31,
+        "16.txt": 33,
+        "11.txt": 80,
+        "20.txt": 57,
+        "22.txt": 10,
+        "9.txt": 21
+    },
+    "or": {
+        "25.txt": 1209,
+        "16.txt": 819,
+        "11.txt": 233,
+        "20.txt": 93,
+        "22.txt": 133,
+        "9.txt": 20
+    },
+    "other": {
+        "25.txt": 668,
+        "16.txt": 192,
+        "11.txt": 85,
+        "20.txt": 39,
+        "22.txt": 90,
+        "9.txt": 15
+    },
+    "on": {
+        "25.txt": 675,
+        "16.txt": 121,
+        "11.txt": 400,
+        "20.txt": 317,
+        "22.txt": 96,
+        "9.txt": 116
+    },
+    "own": {
+        "25.txt": 156,
+        "16.txt": 156,
+        "11.txt": 109,
+        "20.txt": 22,
+        "22.txt": 34,
+        "9.txt": 8
+    },
+    "open": {
+        "25.txt": 18,
+        "16.txt": 8,
+        "11.txt": 35,
+        "20.txt": 23,
+        "22.txt": 9,
+        "9.txt": 7
+    },
+    "organization": {
+        "25.txt": 6
+    },
+    "one": {
+        "25.txt": 519,
+        "16.txt": 347,
+        "11.txt": 151,
+        "20.txt": 144,
+        "22.txt": 76,
+        "9.txt": 40
+    },
+    "our": {
+        "25.txt": 917,
+        "16.txt": 86,
+        "11.txt": 53,
+        "20.txt": 56,
+        "22.txt": 75,
+        "9.txt": 19
+    },
+    "often": {
+        "25.txt": 18,
+        "16.txt": 40,
+        "11.txt": 6,
+        "20.txt": 7,
+        "22.txt": 8,
+        "9.txt": 1
+    },
+    "official": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "obviously": {
+        "25.txt": 4
+    },
+    "out": {
+        "25.txt": 135,
+        "16.txt": 95,
+        "11.txt": 130,
+        "20.txt": 186,
+        "22.txt": 20,
+        "9.txt": 64
+    },
+    "org": {
+        "25.txt": 2,
+        "16.txt": 4
+    },
+    "only": {
+        "25.txt": 964,
+        "16.txt": 120,
+        "11.txt": 107,
+        "20.txt": 53,
+        "22.txt": 52,
+        "9.txt": 14
+    },
+    "organizations": {
+        "25.txt": 1
+    },
+    "oklahoma": {
+        "25.txt": 1
+    },
+    "oregon": {
+        "25.txt": 1
+    },
+    "ones": {
+        "25.txt": 5,
+        "16.txt": 5,
+        "11.txt": 4,
+        "20.txt": 3,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "offer": {
+        "25.txt": 2,
+        "16.txt": 3,
+        "11.txt": 3,
+        "20.txt": 2,
+        "22.txt": 4,
+        "9.txt": 1
+    },
+    "oxford": {
+        "25.txt": 1
+    },
+    "order": {
+        "25.txt": 156,
+        "16.txt": 22,
+        "11.txt": 22,
+        "20.txt": 3,
+        "22.txt": 30,
+        "9.txt": 3
+    },
+    "owns": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "opportunity": {
+        "25.txt": 4,
+        "16.txt": 7,
+        "11.txt": 17,
+        "22.txt": 4
+    },
+    "otherwise": {
+        "25.txt": 62,
+        "16.txt": 19,
+        "11.txt": 6,
+        "22.txt": 3,
+        "9.txt": 1
+    },
+    "original": {
+        "25.txt": 38,
+        "16.txt": 8,
+        "11.txt": 5,
+        "20.txt": 3,
+        "22.txt": 1
+    },
+    "obedience": {
+        "25.txt": 4,
+        "16.txt": 1,
+        "11.txt": 8
+    },
+    "object": {
+        "25.txt": 736,
+        "16.txt": 30,
+        "11.txt": 8,
+        "20.txt": 3,
+        "22.txt": 7
+    },
+    "ovid": {
+        "25.txt": 1
+    },
+    "organized": {
+        "25.txt": 13
+    },
+    "obnoxious": {
+        "25.txt": 2,
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "obscurity": {
+        "25.txt": 11,
+        "16.txt": 3,
+        "22.txt": 2
+    },
+    "origin": {
+        "25.txt": 79,
+        "11.txt": 4
+    },
+    "others": {
+        "25.txt": 66,
+        "16.txt": 66,
+        "11.txt": 19,
+        "20.txt": 25,
+        "22.txt": 41,
+        "9.txt": 7
+    },
+    "operations": {
+        "25.txt": 30,
+        "16.txt": 8,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "opinion": {
+        "25.txt": 35,
+        "16.txt": 50,
+        "11.txt": 7,
+        "20.txt": 2,
+        "22.txt": 12,
+        "9.txt": 1
+    },
+    "ought": {
+        "25.txt": 104,
+        "16.txt": 18,
+        "11.txt": 3,
+        "22.txt": 19,
+        "9.txt": 2
+    },
+    "occasion": {
+        "25.txt": 16,
+        "16.txt": 25,
+        "11.txt": 13,
+        "22.txt": 5
+    },
+    "objects": {
+        "25.txt": 516,
+        "16.txt": 18,
+        "11.txt": 7,
+        "20.txt": 1,
+        "22.txt": 30
+    },
+    "objective": {
+        "25.txt": 196
+    },
+    "ourselves": {
+        "25.txt": 133,
+        "16.txt": 4,
+        "11.txt": 6,
+        "20.txt": 2,
+        "22.txt": 10
+    },
+    "observing": {
+        "25.txt": 6,
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 5
+    },
+    "operate": {
+        "25.txt": 4,
+        "16.txt": 8,
+        "22.txt": 1
+    },
+    "ordinary": {
+        "25.txt": 3,
+        "16.txt": 42,
+        "11.txt": 11,
+        "20.txt": 3,
+        "22.txt": 6,
+        "9.txt": 1
+    },
+    "oblivion": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "observations": {
+        "25.txt": 14,
+        "22.txt": 2
+    },
+    "occupies": {
+        "25.txt": 16,
+        "11.txt": 1
+    },
+    "oldest": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "outset": {
+        "25.txt": 6
+    },
+    "occupied": {
+        "25.txt": 22,
+        "16.txt": 1,
+        "11.txt": 4,
+        "20.txt": 2,
+        "22.txt": 6
+    },
+    "observed": {
+        "25.txt": 12,
+        "16.txt": 9,
+        "11.txt": 3,
+        "20.txt": 1,
+        "22.txt": 25
+    },
+    "once": {
+        "25.txt": 21,
+        "16.txt": 52,
+        "11.txt": 61,
+        "20.txt": 27,
+        "22.txt": 14,
+        "9.txt": 1
+    },
+    "observe": {
+        "25.txt": 21,
+        "16.txt": 21,
+        "20.txt": 1,
+        "22.txt": 3,
+        "9.txt": 1
+    },
+    "obstacle": {
+        "25.txt": 3,
+        "16.txt": 4,
+        "11.txt": 1
+    },
+    "obedient": {
+        "25.txt": 1,
+        "16.txt": 3,
+        "11.txt": 1
+    },
+    "observation": {
+        "25.txt": 30,
+        "16.txt": 2,
+        "11.txt": 4,
+        "22.txt": 2
+    },
+    "opposite": {
+        "25.txt": 59,
+        "11.txt": 3,
+        "20.txt": 1,
+        "22.txt": 3,
+        "9.txt": 1
+    },
+    "obvious": {
+        "25.txt": 4,
+        "16.txt": 2,
+        "11.txt": 2
+    },
+    "opinions": {
+        "25.txt": 15,
+        "16.txt": 25,
+        "11.txt": 1,
+        "22.txt": 35
+    },
+    "objections": {
+        "25.txt": 18,
+        "22.txt": 2
+    },
+    "objector": {
+        "25.txt": 1
+    },
+    "obstinate": {
+        "25.txt": 4,
+        "16.txt": 1
+    },
+    "opposition": {
+        "25.txt": 51,
+        "16.txt": 6,
+        "22.txt": 1
+    },
+    "owing": {
+        "25.txt": 2,
+        "22.txt": 1
+    },
+    "opposed": {
+        "25.txt": 22,
+        "16.txt": 3,
+        "11.txt": 3,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "opposing": {
+        "25.txt": 2
+    },
+    "occurred": {
+        "25.txt": 4,
+        "11.txt": 5,
+        "20.txt": 3,
+        "22.txt": 4
+    },
+    "organum": {
+        "25.txt": 1
+    },
+    "off": {
+        "25.txt": 5,
+        "16.txt": 43,
+        "11.txt": 32,
+        "20.txt": 78,
+        "22.txt": 2,
+        "9.txt": 23
+    },
+    "offering": {
+        "25.txt": 3,
+        "11.txt": 2
+    },
+    "organic": {
+        "25.txt": 2
+    },
+    "obviate": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "obliged": {
+        "25.txt": 29,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "oppose": {
+        "25.txt": 4,
+        "16.txt": 3
+    },
+    "overborne": {
+        "25.txt": 1
+    },
+    "obscurities": {
+        "25.txt": 1
+    },
+    "objection": {
+        "25.txt": 8,
+        "11.txt": 4
+    },
+    "ours": {
+        "25.txt": 6,
+        "16.txt": 1,
+        "11.txt": 1,
+        "22.txt": 6
+    },
+    "originating": {
+        "25.txt": 8
+    },
+    "overlooked": {
+        "25.txt": 4,
+        "11.txt": 2,
+        "22.txt": 1
+    },
+    "obtained": {
+        "25.txt": 17,
+        "16.txt": 6,
+        "11.txt": 3
+    },
+    "obscurely": {
+        "25.txt": 1
+    },
+    "outward": {
+        "25.txt": 11,
+        "16.txt": 12,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "organon": {
+        "25.txt": 13
+    },
+    "occupy": {
+        "25.txt": 6,
+        "20.txt": 1,
+        "22.txt": 2
+    },
+    "overcome": {
+        "25.txt": 1,
+        "16.txt": 5,
+        "11.txt": 4,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "originally": {
+        "25.txt": 10,
+        "16.txt": 2,
+        "11.txt": 6,
+        "20.txt": 2,
+        "22.txt": 3
+    },
+    "obtaining": {
+        "25.txt": 4,
+        "16.txt": 1
+    },
+    "obtain": {
+        "25.txt": 16,
+        "16.txt": 2,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "objectively": {
+        "25.txt": 26
+    },
+    "operation": {
+        "25.txt": 15,
+        "16.txt": 14,
+        "20.txt": 2,
+        "22.txt": 2
+    },
+    "originarius": {
+        "25.txt": 1
+    },
+    "overlook": {
+        "25.txt": 5,
+        "22.txt": 1
+    },
+    "observes": {
+        "25.txt": 3,
+        "22.txt": 1
+    },
+    "old": {
+        "25.txt": 16,
+        "16.txt": 19,
+        "11.txt": 103,
+        "20.txt": 32,
+        "22.txt": 3,
+        "9.txt": 32
+    },
+    "occasions": {
+        "25.txt": 1,
+        "16.txt": 12,
+        "20.txt": 1
+    },
+    "occur": {
+        "25.txt": 4,
+        "11.txt": 5,
+        "22.txt": 2
+    },
+    "obstinately": {
+        "25.txt": 3
+    },
+    "observable": {
+        "25.txt": 6,
+        "22.txt": 4
+    },
+    "ontological": {
+        "25.txt": 19
+    },
+    "origination": {
+        "25.txt": 8
+    },
+    "occupation": {
+        "25.txt": 6,
+        "16.txt": 3,
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "omit": {
+        "25.txt": 5,
+        "22.txt": 2
+    },
+    "ordinated": {
+        "25.txt": 6,
+        "16.txt": 2
+    },
+    "oration": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "occasionally": {
+        "25.txt": 1,
+        "11.txt": 2,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "occasioning": {
+        "25.txt": 3
+    },
+    "opened": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "11.txt": 27,
+        "20.txt": 15
+    },
+    "obstacles": {
+        "25.txt": 5,
+        "16.txt": 1,
+        "11.txt": 4
+    },
+    "overlooking": {
+        "25.txt": 1,
+        "20.txt": 1
+    },
+    "overstep": {
+        "25.txt": 9
+    },
+    "originated": {
+        "25.txt": 13,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "occurs": {
+        "25.txt": 4,
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "ordered": {
+        "25.txt": 2,
+        "16.txt": 5,
+        "11.txt": 4,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "obligation": {
+        "25.txt": 6,
+        "16.txt": 2
+    },
+    "opposites": {
+        "25.txt": 4
+    },
+    "obtains": {
+        "25.txt": 3
+    },
+    "originate": {
+        "25.txt": 21
+    },
+    "onwards": {
+        "25.txt": 1
+    },
+    "o": {
+        "25.txt": 7,
+        "16.txt": 27,
+        "11.txt": 6,
+        "20.txt": 9,
+        "9.txt": 50
+    },
+    "originates": {
+        "25.txt": 8
+    },
+    "occurrence": {
+        "25.txt": 3,
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "operating": {
+        "25.txt": 9,
+        "20.txt": 2
+    },
+    "organs": {
+        "25.txt": 1,
+        "20.txt": 2,
+        "22.txt": 11
+    },
+    "obtuseness": {
+        "25.txt": 1
+    },
+    "omission": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "ocean": {
+        "25.txt": 1,
+        "20.txt": 7
+    },
+    "ontology": {
+        "25.txt": 2
+    },
+    "operative": {
+        "25.txt": 5,
+        "9.txt": 1
+    },
+    "omni": {
+        "25.txt": 1
+    },
+    "optical": {
+        "25.txt": 1
+    },
+    "obscured": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "otherwhere": {
+        "25.txt": 1
+    },
+    "outline": {
+        "25.txt": 2
+    },
+    "objected": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "22.txt": 1
+    },
+    "obliges": {
+        "25.txt": 3,
+        "22.txt": 1
+    },
+    "obscure": {
+        "25.txt": 6,
+        "16.txt": 6,
+        "22.txt": 1
+    },
+    "obliterated": {
+        "25.txt": 2
+    },
+    "opponent": {
+        "25.txt": 20,
+        "16.txt": 3,
+        "11.txt": 1
+    },
+    "opponents": {
+        "25.txt": 6
+    },
+    "organ": {
+        "25.txt": 2,
+        "20.txt": 1
+    },
+    "occupying": {
+        "25.txt": 3,
+        "11.txt": 1
+    },
+    "operates": {
+        "25.txt": 2
+    },
+    "onset": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "originator": {
+        "25.txt": 3
+    },
+    "outlook": {
+        "25.txt": 1
+    },
+    "overtake": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "oversteps": {
+        "25.txt": 1
+    },
+    "omitted": {
+        "25.txt": 2,
+        "16.txt": 4,
+        "22.txt": 1
+    },
+    "opens": {
+        "25.txt": 2,
+        "9.txt": 6
+    },
+    "offender": {
+        "25.txt": 5,
+        "16.txt": 2,
+        "11.txt": 2
+    },
+    "offence": {
+        "25.txt": 2,
+        "16.txt": 2,
+        "11.txt": 3,
+        "9.txt": 1
+    },
+    "omnitudo": {
+        "25.txt": 2
+    },
+    "originarium": {
+        "25.txt": 2
+    },
+    "objectivized": {
+        "25.txt": 1
+    },
+    "obey": {
+        "25.txt": 2,
+        "16.txt": 4,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "omnipotent": {
+        "25.txt": 4
+    },
+    "omnipotence": {
+        "25.txt": 5
+    },
+    "outlines": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "observer": {
+        "25.txt": 1
+    },
+    "observers": {
+        "25.txt": 1
+    },
+    "ontotheology": {
+        "25.txt": 1
+    },
+    "obligatory": {
+        "25.txt": 2
+    },
+    "overflow": {
+        "25.txt": 1
+    },
+    "omnipresence": {
+        "25.txt": 1
+    },
+    "obeying": {
+        "25.txt": 1
+    },
+    "orbits": {
+        "25.txt": 2
+    },
+    "owe": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "20.txt": 1,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "ostensive": {
+        "25.txt": 5
+    },
+    "offspring": {
+        "25.txt": 1,
+        "20.txt": 1
+    },
+    "opening": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "11.txt": 7,
+        "20.txt": 2,
+        "22.txt": 3
+    },
+    "overbalance": {
+        "25.txt": 1
+    },
+    "ordaining": {
+        "25.txt": 1
+    },
+    "offers": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "ocular": {
+        "25.txt": 1
+    },
+    "observance": {
+        "25.txt": 2,
+        "22.txt": 1
+    },
+    "overturning": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "openly": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 3
+    },
+    "overthrown": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "overturn": {
+        "25.txt": 1
+    },
+    "obstinacy": {
+        "25.txt": 2
+    },
+    "overtakes": {
+        "25.txt": 1
+    },
+    "oneself": {
+        "25.txt": 1
+    },
+    "organism": {
+        "25.txt": 3
+    },
+    "overcoming": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "ordains": {
+        "25.txt": 1
+    },
+    "omniscient": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "omnipresent": {
+        "25.txt": 1
+    },
+    "overthrow": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "outbreak": {
+        "25.txt": 1
+    },
+    "overgrown": {
+        "25.txt": 1
+    },
+    "ontologia": {
+        "25.txt": 1
+    },
+    "office": {
+        "25.txt": 2,
+        "16.txt": 2,
+        "20.txt": 8,
+        "9.txt": 3
+    },
+    "occasioned": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "officers": {
+        "16.txt": 3,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "ocr": {
+        "16.txt": 2
+    },
+    "outdoor": {
+        "16.txt": 1
+    },
+    "odd": {
+        "16.txt": 1,
+        "11.txt": 2,
+        "20.txt": 3,
+        "9.txt": 2
+    },
+    "oppression": {
+        "16.txt": 1
+    },
+    "outbreaks": {
+        "16.txt": 1
+    },
+    "owes": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "organised": {
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "omologonuenws": {
+        "16.txt": 1
+    },
+    "oralogoumenwz": {
+        "16.txt": 1
+    },
+    "outside": {
+        "16.txt": 4,
+        "11.txt": 19,
+        "20.txt": 19,
+        "9.txt": 3
+    },
+    "offend": {
+        "16.txt": 7,
+        "22.txt": 1
+    },
+    "owed": {
+        "16.txt": 1
+    },
+    "origins": {
+        "16.txt": 1
+    },
+    "offended": {
+        "16.txt": 12,
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "orations": {
+        "16.txt": 1
+    },
+    "ostentation": {
+        "16.txt": 11
+    },
+    "observant": {
+        "16.txt": 1
+    },
+    "obsequious": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "officious": {
+        "16.txt": 1
+    },
+    "orator": {
+        "16.txt": 5
+    },
+    "orderly": {
+        "16.txt": 7,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "odious": {
+        "16.txt": 1
+    },
+    "overruling": {
+        "16.txt": 2
+    },
+    "olives": {
+        "16.txt": 2
+    },
+    "offered": {
+        "16.txt": 1,
+        "11.txt": 3,
+        "20.txt": 4
+    },
+    "oath": {
+        "16.txt": 1
+    },
+    "oughtest": {
+        "16.txt": 2
+    },
+    "operatively": {
+        "16.txt": 1
+    },
+    "opinative": {
+        "16.txt": 1
+    },
+    "outwardly": {
+        "16.txt": 2
+    },
+    "oikonomian": {
+        "16.txt": 2
+    },
+    "obsolete": {
+        "16.txt": 3
+    },
+    "ordinarily": {
+        "16.txt": 5
+    },
+    "olive": {
+        "16.txt": 1
+    },
+    "oh": {
+        "16.txt": 2,
+        "11.txt": 7,
+        "20.txt": 53,
+        "9.txt": 33
+    },
+    "ordained": {
+        "16.txt": 6
+    },
+    "occurrences": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "oppressor": {
+        "16.txt": 1
+    },
+    "offends": {
+        "16.txt": 3
+    },
+    "overseen": {
+        "16.txt": 2
+    },
+    "overseer": {
+        "16.txt": 1
+    },
+    "offensive": {
+        "16.txt": 3,
+        "11.txt": 1
+    },
+    "oaths": {
+        "16.txt": 1
+    },
+    "origanion": {
+        "16.txt": 1
+    },
+    "orators": {
+        "16.txt": 4
+    },
+    "oft": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "oftentimes": {
+        "16.txt": 6
+    },
+    "overprize": {
+        "16.txt": 1
+    },
+    "offences": {
+        "16.txt": 1
+    },
+    "overplus": {
+        "16.txt": 1
+    },
+    "oluteiy": {
+        "16.txt": 1
+    },
+    "oil": {
+        "16.txt": 5,
+        "11.txt": 2,
+        "9.txt": 1
+    },
+    "ointments": {
+        "16.txt": 1
+    },
+    "ox": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "overflowing": {
+        "16.txt": 1
+    },
+    "oa": {
+        "16.txt": 1
+    },
+    "opportunities": {
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "omitteth": {
+        "16.txt": 1
+    },
+    "oracles": {
+        "16.txt": 1
+    },
+    "oxen": {
+        "16.txt": 1
+    },
+    "ordering": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "offendeth": {
+        "16.txt": 1
+    },
+    "outreaching": {
+        "16.txt": 1
+    },
+    "overfond": {
+        "16.txt": 1
+    },
+    "occupations": {
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "ordinance": {
+        "16.txt": 2
+    },
+    "orderliness": {
+        "16.txt": 1
+    },
+    "opprobrious": {
+        "16.txt": 1
+    },
+    "ominous": {
+        "16.txt": 3
+    },
+    "outsides": {
+        "16.txt": 1
+    },
+    "oversee": {
+        "16.txt": 1
+    },
+    "oeo": {
+        "16.txt": 1
+    },
+    "orders": {
+        "16.txt": 1,
+        "11.txt": 4,
+        "20.txt": 1,
+        "9.txt": 4
+    },
+    "older": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "onions": {
+        "16.txt": 1
+    },
+    "offices": {
+        "16.txt": 1
+    },
+    "oratory": {
+        "16.txt": 1
+    },
+    "outgrew": {
+        "16.txt": 1
+    },
+    "ollan": {
+        "16.txt": 1
+    },
+    "olan": {
+        "16.txt": 1
+    },
+    "ola": {
+        "16.txt": 1
+    },
+    "omits": {
+        "16.txt": 1
+    },
+    "odyssey": {
+        "16.txt": 2
+    },
+    "op": {
+        "16.txt": 1
+    },
+    "ortoz": {
+        "16.txt": 1
+    },
+    "oedipus": {
+        "16.txt": 2
+    },
+    "opera": {
+        "16.txt": 2,
+        "11.txt": 2
+    },
+    "obstruct": {
+        "11.txt": 2
+    },
+    "overhear": {
+        "11.txt": 1
+    },
+    "overheard": {
+        "11.txt": 2
+    },
+    "owner": {
+        "11.txt": 6
+    },
+    "owners": {
+        "11.txt": 1
+    },
+    "overhang": {
+        "11.txt": 1
+    },
+    "ostensible": {
+        "11.txt": 2
+    },
+    "oaks": {
+        "11.txt": 2
+    },
+    "occupant": {
+        "11.txt": 1
+    },
+    "oolanga": {
+        "11.txt": 48
+    },
+    "ostensibly": {
+        "11.txt": 2
+    },
+    "outburst": {
+        "11.txt": 1
+    },
+    "overdone": {
+        "11.txt": 1
+    },
+    "ormur": {
+        "11.txt": 1
+    },
+    "outskirts": {
+        "11.txt": 1,
+        "9.txt": 2
+    },
+    "overcame": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "outrance": {
+        "11.txt": 1
+    },
+    "obi": {
+        "11.txt": 1
+    },
+    "offa": {
+        "11.txt": 1
+    },
+    "oak": {
+        "11.txt": 5
+    },
+    "outcropping": {
+        "11.txt": 1
+    },
+    "onrush": {
+        "11.txt": 1
+    },
+    "overhead": {
+        "11.txt": 3,
+        "20.txt": 3,
+        "9.txt": 2
+    },
+    "occasional": {
+        "11.txt": 2
+    },
+    "obsession": {
+        "11.txt": 1
+    },
+    "outgoing": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "occupative": {
+        "11.txt": 1
+    },
+    "objectionable": {
+        "11.txt": 1
+    },
+    "octopuses": {
+        "11.txt": 1
+    },
+    "overwrought": {
+        "11.txt": 3
+    },
+    "overt": {
+        "11.txt": 2
+    },
+    "overtook": {
+        "11.txt": 1
+    },
+    "outrage": {
+        "11.txt": 1
+    },
+    "oncoming": {
+        "11.txt": 1
+    },
+    "ownership": {
+        "11.txt": 2
+    },
+    "obsessed": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "occult": {
+        "11.txt": 2
+    },
+    "ooze": {
+        "11.txt": 1
+    },
+    "overwhelming": {
+        "11.txt": 2
+    },
+    "outsider": {
+        "11.txt": 1
+    },
+    "obliteration": {
+        "11.txt": 1
+    },
+    "outcome": {
+        "11.txt": 1
+    },
+    "overlapped": {
+        "11.txt": 1
+    },
+    "owned": {
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "orifice": {
+        "11.txt": 3,
+        "22.txt": 1
+    },
+    "obstructing": {
+        "11.txt": 1
+    },
+    "outer": {
+        "11.txt": 3,
+        "20.txt": 1
+    },
+    "ordeal": {
+        "11.txt": 3
+    },
+    "ohio": {
+        "11.txt": 1
+    },
+    "owning": {
+        "11.txt": 1
+    },
+    "obscuring": {
+        "11.txt": 1
+    },
+    "onlooker": {
+        "11.txt": 1
+    },
+    "obscures": {
+        "11.txt": 1
+    },
+    "oblivious": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "ominously": {
+        "11.txt": 1
+    },
+    "organise": {
+        "11.txt": 1
+    },
+    "obliterating": {
+        "11.txt": 1
+    },
+    "obstruction": {
+        "11.txt": 1
+    },
+    "overmastered": {
+        "11.txt": 1
+    },
+    "obliterate": {
+        "11.txt": 2
+    },
+    "oxygen": {
+        "20.txt": 3
+    },
+    "orange": {
+        "20.txt": 3,
+        "9.txt": 1
+    },
+    "onto": {
+        "20.txt": 6,
+        "9.txt": 2
+    },
+    "overtime": {
+        "20.txt": 1
+    },
+    "ointment": {
+        "20.txt": 1
+    },
+    "opobalsam": {
+        "20.txt": 2
+    },
+    "okay": {
+        "20.txt": 12
+    },
+    "onward": {
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "oiled": {
+        "20.txt": 4
+    },
+    "oily": {
+        "20.txt": 1
+    },
+    "ostrich": {
+        "20.txt": 1
+    },
+    "oddness": {
+        "20.txt": 1
+    },
+    "officials": {
+        "20.txt": 1
+    },
+    "october": {
+        "20.txt": 15
+    },
+    "octobers": {
+        "20.txt": 1
+    },
+    "ocenite": {
+        "20.txt": 3
+    },
+    "outlawed": {
+        "20.txt": 1
+    },
+    "orfleew": {
+        "20.txt": 6
+    },
+    "outlived": {
+        "20.txt": 2
+    },
+    "outlive": {
+        "20.txt": 2
+    },
+    "outlast": {
+        "20.txt": 2
+    },
+    "odorophonics": {
+        "20.txt": 2
+    },
+    "odor": {
+        "20.txt": 2
+    },
+    "oz": {
+        "20.txt": 1
+    },
+    "oven": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "ozone": {
+        "20.txt": 1
+    },
+    "obeyed": {
+        "20.txt": 1
+    },
+    "octopi": {
+        "20.txt": 1
+    },
+    "outsize": {
+        "20.txt": 1
+    },
+    "oop": {
+        "20.txt": 1
+    },
+    "obscene": {
+        "20.txt": 1
+    },
+    "orifices": {
+        "20.txt": 1,
+        "22.txt": 4
+    },
+    "overnight": {
+        "20.txt": 1
+    },
+    "oprah": {
+        "20.txt": 1
+    },
+    "originals": {
+        "20.txt": 1
+    },
+    "organize": {
+        "20.txt": 1
+    },
+    "ole": {
+        "20.txt": 3
+    },
+    "ow": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "obreg\u00f3n": {
+        "20.txt": 5
+    },
+    "openness": {
+        "22.txt": 1
+    },
+    "ornament": {
+        "22.txt": 1
+    },
+    "ordinances": {
+        "22.txt": 1
+    },
+    "odors": {
+        "22.txt": 2
+    },
+    "oval": {
+        "22.txt": 1
+    },
+    "oppositions": {
+        "22.txt": 2
+    },
+    "orchestra": {
+        "9.txt": 1
+    },
+    "ok": {
+        "9.txt": 1
+    },
+    "oomny": {
+        "9.txt": 1
+    },
+    "officer": {
+        "9.txt": 7
+    },
+    "ordure": {
+        "9.txt": 1
+    },
+    "overhearing": {
+        "9.txt": 1
+    },
+    "outmoded": {
+        "9.txt": 1
+    },
+    "offenders": {
+        "9.txt": 2
+    },
+    "ohhh": {
+        "9.txt": 1
+    },
+    "owww": {
+        "9.txt": 1
+    }
+}

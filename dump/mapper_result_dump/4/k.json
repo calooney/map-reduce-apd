@@ -1,0 +1,506 @@
+{
+    "kill": {
+        "15.txt": 22,
+        "7.txt": 30,
+        "18.txt": 59,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "knew": {
+        "15.txt": 87,
+        "7.txt": 55,
+        "18.txt": 15,
+        "13.txt": 54,
+        "23.txt": 9,
+        "6.txt": 5
+    },
+    "kitchen": {
+        "15.txt": 40,
+        "7.txt": 4,
+        "18.txt": 14,
+        "13.txt": 9
+    },
+    "know": {
+        "15.txt": 246,
+        "7.txt": 110,
+        "18.txt": 183,
+        "13.txt": 101,
+        "14.txt": 22,
+        "23.txt": 25,
+        "6.txt": 10
+    },
+    "kept": {
+        "15.txt": 29,
+        "7.txt": 22,
+        "18.txt": 14,
+        "13.txt": 12,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "knowing": {
+        "15.txt": 4,
+        "7.txt": 21,
+        "18.txt": 9,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 5,
+        "6.txt": 2
+    },
+    "killing": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 10
+    },
+    "keep": {
+        "15.txt": 57,
+        "7.txt": 45,
+        "18.txt": 48,
+        "13.txt": 12,
+        "14.txt": 4,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "killed": {
+        "15.txt": 14,
+        "7.txt": 25,
+        "18.txt": 23,
+        "13.txt": 12,
+        "6.txt": 1
+    },
+    "knock": {
+        "15.txt": 6,
+        "7.txt": 8,
+        "18.txt": 9,
+        "13.txt": 1
+    },
+    "knowledge": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "18.txt": 5,
+        "13.txt": 2,
+        "14.txt": 32,
+        "23.txt": 27,
+        "6.txt": 8
+    },
+    "kerosene": {
+        "15.txt": 2
+    },
+    "kissed": {
+        "15.txt": 8,
+        "7.txt": 13,
+        "18.txt": 5,
+        "13.txt": 6
+    },
+    "kinds": {
+        "15.txt": 4,
+        "7.txt": 10,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "keeping": {
+        "15.txt": 4,
+        "7.txt": 5,
+        "18.txt": 9,
+        "13.txt": 3,
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "knot": {
+        "15.txt": 9,
+        "18.txt": 3
+    },
+    "kind": {
+        "15.txt": 32,
+        "7.txt": 20,
+        "18.txt": 26,
+        "13.txt": 11,
+        "14.txt": 20,
+        "23.txt": 9,
+        "6.txt": 19
+    },
+    "keepers": {
+        "15.txt": 1
+    },
+    "keeps": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 7,
+        "14.txt": 1
+    },
+    "knees": {
+        "15.txt": 13,
+        "7.txt": 7,
+        "18.txt": 8,
+        "13.txt": 1
+    },
+    "knee": {
+        "15.txt": 7,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "knows": {
+        "15.txt": 21,
+        "7.txt": 6,
+        "18.txt": 29,
+        "13.txt": 5,
+        "14.txt": 4,
+        "23.txt": 1,
+        "6.txt": 4
+    },
+    "known": {
+        "15.txt": 9,
+        "7.txt": 15,
+        "18.txt": 10,
+        "13.txt": 12,
+        "14.txt": 5,
+        "23.txt": 9,
+        "6.txt": 5
+    },
+    "knocking": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "kudzu": {
+        "15.txt": 1
+    },
+    "kingdom": {
+        "15.txt": 1,
+        "7.txt": 34,
+        "14.txt": 33
+    },
+    "kicking": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "kid": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "kicked": {
+        "15.txt": 11,
+        "18.txt": 1
+    },
+    "knife": {
+        "15.txt": 19,
+        "7.txt": 10,
+        "18.txt": 3
+    },
+    "kiss": {
+        "15.txt": 10,
+        "7.txt": 1,
+        "18.txt": 10,
+        "13.txt": 4
+    },
+    "knuckle": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "knocked": {
+        "15.txt": 7,
+        "7.txt": 14,
+        "18.txt": 5,
+        "13.txt": 2
+    },
+    "knuckles": {
+        "15.txt": 4
+    },
+    "k": {
+        "15.txt": 3,
+        "6.txt": 1
+    },
+    "knobby": {
+        "15.txt": 1
+    },
+    "killer": {
+        "15.txt": 1
+    },
+    "khaki": {
+        "15.txt": 3
+    },
+    "knowin": {
+        "15.txt": 3
+    },
+    "kin": {
+        "15.txt": 6
+    },
+    "ku": {
+        "15.txt": 2
+    },
+    "klux": {
+        "15.txt": 2
+    },
+    "klan": {
+        "15.txt": 1
+    },
+    "knob": {
+        "15.txt": 1
+    },
+    "kick": {
+        "15.txt": 3,
+        "7.txt": 5,
+        "18.txt": 3
+    },
+    "kinky": {
+        "15.txt": 1
+    },
+    "kindlin": {
+        "15.txt": 4
+    },
+    "knowed": {
+        "15.txt": 3
+    },
+    "kindling": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "23.txt": 1
+    },
+    "kinda": {
+        "15.txt": 1
+    },
+    "kindness": {
+        "15.txt": 1,
+        "7.txt": 14,
+        "18.txt": 2
+    },
+    "kee": {
+        "15.txt": 2
+    },
+    "keenly": {
+        "15.txt": 1,
+        "13.txt": 3
+    },
+    "ken": {
+        "15.txt": 1
+    },
+    "kings": {
+        "7.txt": 11
+    },
+    "king": {
+        "7.txt": 269,
+        "13.txt": 1
+    },
+    "kissing": {
+        "7.txt": 7,
+        "18.txt": 10,
+        "13.txt": 1
+    },
+    "koran": {
+        "7.txt": 3
+    },
+    "keys": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "key": {
+        "7.txt": 6,
+        "18.txt": 7,
+        "13.txt": 3,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "kindly": {
+        "7.txt": 9,
+        "13.txt": 2
+    },
+    "kindled": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "kindle": {
+        "7.txt": 3
+    },
+    "kashgar": {
+        "7.txt": 4
+    },
+    "kills": {
+        "7.txt": 1,
+        "18.txt": 6
+    },
+    "knotted": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "knots": {
+        "7.txt": 1,
+        "18.txt": 8
+    },
+    "knelt": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "khaledan": {
+        "7.txt": 3
+    },
+    "kingdoms": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "kisses": {
+        "7.txt": 1,
+        "18.txt": 8
+    },
+    "khacan": {
+        "7.txt": 21
+    },
+    "keeper": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "kerim": {
+        "7.txt": 2
+    },
+    "kneeling": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "knowest": {
+        "7.txt": 1
+    },
+    "kneel": {
+        "7.txt": 1
+    },
+    "kit": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "kosrouschah": {
+        "7.txt": 1
+    },
+    "knights": {
+        "7.txt": 3
+    },
+    "katniss": {
+        "18.txt": 83
+    },
+    "keyboard": {
+        "18.txt": 2
+    },
+    "kitten": {
+        "18.txt": 2
+    },
+    "knotting": {
+        "18.txt": 1
+    },
+    "knockout": {
+        "18.txt": 2
+    },
+    "kids": {
+        "18.txt": 7
+    },
+    "knitted": {
+        "18.txt": 1
+    },
+    "kidding": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "kisser": {
+        "18.txt": 1
+    },
+    "keepsakes": {
+        "18.txt": 1
+    },
+    "kinder": {
+        "18.txt": 2
+    },
+    "kindest": {
+        "18.txt": 1
+    },
+    "keen": {
+        "18.txt": 2
+    },
+    "kicks": {
+        "18.txt": 2
+    },
+    "knickknacks": {
+        "18.txt": 1
+    },
+    "kneels": {
+        "18.txt": 1
+    },
+    "knockers": {
+        "18.txt": 1
+    },
+    "kits": {
+        "18.txt": 1
+    },
+    "kidnapped": {
+        "18.txt": 1
+    },
+    "knitting": {
+        "18.txt": 1
+    },
+    "knit": {
+        "18.txt": 1
+    },
+    "kate": {
+        "18.txt": 1
+    },
+    "kathleen": {
+        "18.txt": 1
+    },
+    "karyn": {
+        "18.txt": 1
+    },
+    "kathy": {
+        "18.txt": 1
+    },
+    "kaiser": {
+        "13.txt": 1
+    },
+    "kyke": {
+        "13.txt": 1
+    },
+    "knickerbockers": {
+        "13.txt": 1
+    },
+    "klipspringer": {
+        "13.txt": 7
+    },
+    "kellehers": {
+        "13.txt": 1
+    },
+    "katspaugh": {
+        "13.txt": 2
+    },
+    "kant": {
+        "13.txt": 1,
+        "14.txt": 4
+    },
+    "kaye": {
+        "13.txt": 3
+    },
+    "keyed": {
+        "13.txt": 1
+    },
+    "kapiolani": {
+        "13.txt": 1
+    },
+    "kingsmill": {
+        "14.txt": 1
+    },
+    "kansas": {
+        "14.txt": 1
+    },
+    "kentucky": {
+        "14.txt": 1
+    },
+    "knight": {
+        "23.txt": 1
+    },
+    "knowers": {
+        "6.txt": 2
+    },
+    "katzenmusik": {
+        "6.txt": 2
+    }
+}

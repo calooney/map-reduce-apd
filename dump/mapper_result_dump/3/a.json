@@ -1,0 +1,4593 @@
+{
+    "are": {
+        "10.txt": 585,
+        "2.txt": 354,
+        "3.txt": 624,
+        "12.txt": 95,
+        "21.txt": 234,
+        "17.txt": 101
+    },
+    "all": {
+        "10.txt": 1154,
+        "2.txt": 370,
+        "3.txt": 219,
+        "12.txt": 269,
+        "21.txt": 229,
+        "17.txt": 91
+    },
+    "ago": {
+        "10.txt": 27,
+        "2.txt": 25,
+        "12.txt": 39,
+        "21.txt": 2,
+        "17.txt": 9
+    },
+    "and": {
+        "10.txt": 5922,
+        "2.txt": 2530,
+        "3.txt": 1742,
+        "12.txt": 1651,
+        "21.txt": 942,
+        "17.txt": 611
+    },
+    "a": {
+        "10.txt": 2972,
+        "2.txt": 2069,
+        "3.txt": 2091,
+        "12.txt": 1083,
+        "21.txt": 418,
+        "17.txt": 655
+    },
+    "at": {
+        "10.txt": 1090,
+        "2.txt": 566,
+        "3.txt": 379,
+        "12.txt": 322,
+        "21.txt": 108,
+        "17.txt": 125
+    },
+    "an": {
+        "10.txt": 355,
+        "2.txt": 252,
+        "3.txt": 209,
+        "12.txt": 114,
+        "21.txt": 72,
+        "17.txt": 70
+    },
+    "advance": {
+        "10.txt": 7,
+        "3.txt": 12
+    },
+    "any": {
+        "10.txt": 288,
+        "2.txt": 107,
+        "3.txt": 118,
+        "12.txt": 52,
+        "21.txt": 103,
+        "17.txt": 38
+    },
+    "announcement": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 2,
+        "17.txt": 4
+    },
+    "about": {
+        "10.txt": 234,
+        "2.txt": 337,
+        "3.txt": 170,
+        "12.txt": 110,
+        "21.txt": 12,
+        "17.txt": 62
+    },
+    "analyzed": {
+        "10.txt": 1
+    },
+    "audience": {
+        "10.txt": 1,
+        "2.txt": 23,
+        "3.txt": 2,
+        "12.txt": 4,
+        "17.txt": 2
+    },
+    "as": {
+        "10.txt": 1584,
+        "2.txt": 595,
+        "3.txt": 333,
+        "12.txt": 210,
+        "21.txt": 344,
+        "17.txt": 158
+    },
+    "away": {
+        "10.txt": 188,
+        "2.txt": 117,
+        "3.txt": 47,
+        "12.txt": 82,
+        "21.txt": 4,
+        "17.txt": 23
+    },
+    "allowable": {
+        "10.txt": 2
+    },
+    "attmail": {
+        "10.txt": 1
+    },
+    "archives": {
+        "10.txt": 1
+    },
+    "anonymous": {
+        "10.txt": 1,
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "articles": {
+        "10.txt": 1,
+        "3.txt": 4
+    },
+    "advisor": {
+        "10.txt": 1
+    },
+    "among": {
+        "10.txt": 12,
+        "2.txt": 16,
+        "3.txt": 8,
+        "12.txt": 6,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "also": {
+        "10.txt": 44,
+        "2.txt": 20,
+        "3.txt": 115,
+        "12.txt": 7,
+        "21.txt": 61,
+        "17.txt": 4
+    },
+    "agree": {
+        "10.txt": 7,
+        "2.txt": 12,
+        "3.txt": 4,
+        "12.txt": 2,
+        "21.txt": 1,
+        "17.txt": 4
+    },
+    "accept": {
+        "10.txt": 17,
+        "2.txt": 8,
+        "3.txt": 3,
+        "12.txt": 1,
+        "21.txt": 2,
+        "17.txt": 3
+    },
+    "association": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 10
+    },
+    "apply": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 4,
+        "21.txt": 7
+    },
+    "alternatively": {
+        "10.txt": 2
+    },
+    "allow": {
+        "10.txt": 7,
+        "2.txt": 5,
+        "3.txt": 13,
+        "21.txt": 4,
+        "17.txt": 1
+    },
+    "above": {
+        "10.txt": 19,
+        "2.txt": 28,
+        "3.txt": 15,
+        "12.txt": 15,
+        "21.txt": 2,
+        "17.txt": 8
+    },
+    "agents": {
+        "10.txt": 3,
+        "3.txt": 5
+    },
+    "arise": {
+        "10.txt": 2
+    },
+    "alteration": {
+        "10.txt": 1
+    },
+    "addition": {
+        "10.txt": 2,
+        "3.txt": 8,
+        "21.txt": 6
+    },
+    "alter": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "author": {
+        "10.txt": 3,
+        "12.txt": 1,
+        "21.txt": 8
+    },
+    "although": {
+        "10.txt": 18,
+        "2.txt": 37,
+        "3.txt": 13,
+        "21.txt": 77,
+        "17.txt": 7
+    },
+    "asterisk": {
+        "10.txt": 1
+    },
+    "additional": {
+        "10.txt": 4,
+        "2.txt": 2,
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "ascii": {
+        "10.txt": 2
+    },
+    "already": {
+        "10.txt": 64,
+        "2.txt": 44,
+        "3.txt": 16,
+        "12.txt": 8,
+        "21.txt": 15,
+        "17.txt": 19
+    },
+    "applicable": {
+        "10.txt": 1
+    },
+    "annual": {
+        "10.txt": 2,
+        "2.txt": 4
+    },
+    "accepts": {
+        "10.txt": 3,
+        "2.txt": 2
+    },
+    "arriving": {
+        "10.txt": 2,
+        "21.txt": 1
+    },
+    "arrived": {
+        "10.txt": 22,
+        "2.txt": 8,
+        "3.txt": 1,
+        "12.txt": 2,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "after": {
+        "10.txt": 207,
+        "2.txt": 126,
+        "3.txt": 50,
+        "12.txt": 48,
+        "21.txt": 19,
+        "17.txt": 28
+    },
+    "asked": {
+        "10.txt": 141,
+        "2.txt": 11,
+        "3.txt": 5,
+        "12.txt": 21,
+        "17.txt": 2
+    },
+    "able": {
+        "10.txt": 47,
+        "2.txt": 21,
+        "3.txt": 15,
+        "12.txt": 2,
+        "21.txt": 16,
+        "17.txt": 6
+    },
+    "anywhere": {
+        "10.txt": 15,
+        "2.txt": 6,
+        "3.txt": 3,
+        "12.txt": 2,
+        "21.txt": 1
+    },
+    "along": {
+        "10.txt": 56,
+        "2.txt": 34,
+        "3.txt": 22,
+        "12.txt": 19,
+        "21.txt": 1,
+        "17.txt": 10
+    },
+    "am": {
+        "10.txt": 338,
+        "2.txt": 76,
+        "3.txt": 26,
+        "12.txt": 17,
+        "21.txt": 130,
+        "17.txt": 24
+    },
+    "attila": {
+        "10.txt": 2
+    },
+    "ask": {
+        "10.txt": 68,
+        "2.txt": 87,
+        "3.txt": 51,
+        "12.txt": 20,
+        "21.txt": 2,
+        "17.txt": 29
+    },
+    "attire": {
+        "10.txt": 2
+    },
+    "assertion": {
+        "10.txt": 1
+    },
+    "assisted": {
+        "10.txt": 1
+    },
+    "apron": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "almost": {
+        "10.txt": 69,
+        "2.txt": 62,
+        "3.txt": 23,
+        "12.txt": 24,
+        "21.txt": 6,
+        "17.txt": 16
+    },
+    "anxiously": {
+        "10.txt": 2,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "await": {
+        "10.txt": 4
+    },
+    "answered": {
+        "10.txt": 58,
+        "2.txt": 1,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "anything": {
+        "10.txt": 98,
+        "2.txt": 67,
+        "3.txt": 12,
+        "12.txt": 31,
+        "21.txt": 35,
+        "17.txt": 24
+    },
+    "anyone": {
+        "10.txt": 7,
+        "2.txt": 49,
+        "3.txt": 12,
+        "12.txt": 14,
+        "21.txt": 5,
+        "17.txt": 12
+    },
+    "asking": {
+        "10.txt": 14,
+        "2.txt": 8,
+        "3.txt": 8,
+        "17.txt": 4
+    },
+    "again": {
+        "10.txt": 245,
+        "2.txt": 95,
+        "3.txt": 9,
+        "12.txt": 72,
+        "21.txt": 7,
+        "17.txt": 21
+    },
+    "awake": {
+        "10.txt": 26,
+        "2.txt": 11,
+        "12.txt": 1,
+        "21.txt": 6,
+        "17.txt": 3
+    },
+    "amongst": {
+        "10.txt": 40,
+        "21.txt": 5
+    },
+    "answer": {
+        "10.txt": 44,
+        "2.txt": 26,
+        "3.txt": 6,
+        "12.txt": 5,
+        "21.txt": 2,
+        "17.txt": 13
+    },
+    "against": {
+        "10.txt": 67,
+        "2.txt": 52,
+        "3.txt": 30,
+        "12.txt": 17,
+        "21.txt": 4,
+        "17.txt": 27
+    },
+    "archway": {
+        "10.txt": 1
+    },
+    "abreast": {
+        "10.txt": 3,
+        "2.txt": 1
+    },
+    "apple": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "always": {
+        "10.txt": 63,
+        "2.txt": 59,
+        "3.txt": 58,
+        "12.txt": 28,
+        "21.txt": 21,
+        "17.txt": 12
+    },
+    "afternoon": {
+        "10.txt": 19,
+        "2.txt": 10,
+        "3.txt": 6,
+        "12.txt": 9,
+        "17.txt": 5
+    },
+    "arm": {
+        "10.txt": 27,
+        "2.txt": 51,
+        "3.txt": 11,
+        "12.txt": 11,
+        "21.txt": 1,
+        "17.txt": 14
+    },
+    "approached": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "axe": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "ascended": {
+        "10.txt": 4
+    },
+    "added": {
+        "10.txt": 25,
+        "2.txt": 4,
+        "3.txt": 6,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "approving": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "21.txt": 2
+    },
+    "ahead": {
+        "10.txt": 8,
+        "2.txt": 12,
+        "3.txt": 10,
+        "12.txt": 9,
+        "17.txt": 5
+    },
+    "appeared": {
+        "10.txt": 12,
+        "2.txt": 5,
+        "21.txt": 10,
+        "17.txt": 2
+    },
+    "air": {
+        "10.txt": 54,
+        "2.txt": 45,
+        "3.txt": 10,
+        "12.txt": 44,
+        "21.txt": 1,
+        "17.txt": 17
+    },
+    "atmospheres": {
+        "10.txt": 1
+    },
+    "animals": {
+        "10.txt": 4,
+        "2.txt": 5,
+        "3.txt": 2,
+        "12.txt": 3,
+        "21.txt": 5,
+        "17.txt": 1
+    },
+    "another": {
+        "10.txt": 92,
+        "2.txt": 78,
+        "3.txt": 58,
+        "12.txt": 47,
+        "21.txt": 23,
+        "17.txt": 21
+    },
+    "alacrity": {
+        "10.txt": 2
+    },
+    "alongside": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "across": {
+        "10.txt": 28,
+        "2.txt": 34,
+        "3.txt": 6,
+        "12.txt": 38,
+        "17.txt": 20
+    },
+    "alternative": {
+        "10.txt": 2,
+        "2.txt": 4,
+        "3.txt": 9,
+        "21.txt": 2,
+        "17.txt": 4
+    },
+    "agonized": {
+        "10.txt": 5,
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "affected": {
+        "10.txt": 6,
+        "2.txt": 2,
+        "3.txt": 2,
+        "21.txt": 7
+    },
+    "accustomed": {
+        "10.txt": 7,
+        "21.txt": 3
+    },
+    "arched": {
+        "10.txt": 4,
+        "17.txt": 1
+    },
+    "around": {
+        "10.txt": 49,
+        "2.txt": 162,
+        "3.txt": 80,
+        "12.txt": 49,
+        "21.txt": 2,
+        "17.txt": 38
+    },
+    "afraid": {
+        "10.txt": 41,
+        "2.txt": 12,
+        "3.txt": 1,
+        "12.txt": 23,
+        "17.txt": 4
+    },
+    "asleep": {
+        "10.txt": 48,
+        "2.txt": 9,
+        "3.txt": 1,
+        "12.txt": 6,
+        "21.txt": 3,
+        "17.txt": 3
+    },
+    "awful": {
+        "10.txt": 30,
+        "2.txt": 11,
+        "3.txt": 2,
+        "12.txt": 7,
+        "17.txt": 2
+    },
+    "arose": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "afield": {
+        "10.txt": 2
+    },
+    "absence": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "altogether": {
+        "10.txt": 16,
+        "2.txt": 1,
+        "21.txt": 3
+    },
+    "aid": {
+        "10.txt": 16,
+        "2.txt": 3,
+        "3.txt": 28,
+        "21.txt": 3,
+        "17.txt": 4
+    },
+    "approach": {
+        "10.txt": 5,
+        "2.txt": 3,
+        "3.txt": 5,
+        "21.txt": 2,
+        "17.txt": 2
+    },
+    "arms": {
+        "10.txt": 32,
+        "2.txt": 37,
+        "3.txt": 2,
+        "12.txt": 10,
+        "21.txt": 2,
+        "17.txt": 10
+    },
+    "aside": {
+        "10.txt": 6,
+        "2.txt": 11,
+        "3.txt": 2,
+        "12.txt": 4,
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "ascending": {
+        "10.txt": 2
+    },
+    "act": {
+        "10.txt": 32,
+        "2.txt": 30,
+        "3.txt": 12,
+        "12.txt": 1,
+        "21.txt": 10,
+        "17.txt": 2
+    },
+    "arches": {
+        "10.txt": 1
+    },
+    "assist": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 3
+    },
+    "alight": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "actually": {
+        "10.txt": 16,
+        "2.txt": 32,
+        "3.txt": 11,
+        "12.txt": 1,
+        "21.txt": 9,
+        "17.txt": 3
+    },
+    "adventure": {
+        "10.txt": 9,
+        "12.txt": 1
+    },
+    "approaching": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "12.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "antique": {
+        "10.txt": 1
+    },
+    "akin": {
+        "10.txt": 1
+    },
+    "available": {
+        "10.txt": 5,
+        "2.txt": 4,
+        "3.txt": 67
+    },
+    "attack": {
+        "10.txt": 15,
+        "2.txt": 14,
+        "3.txt": 5,
+        "21.txt": 1,
+        "17.txt": 7
+    },
+    "absolutely": {
+        "10.txt": 12,
+        "2.txt": 9,
+        "3.txt": 7,
+        "12.txt": 6,
+        "21.txt": 12
+    },
+    "attend": {
+        "10.txt": 13,
+        "2.txt": 4,
+        "3.txt": 3,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "aquiline": {
+        "10.txt": 4
+    },
+    "astonishing": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "ah": {
+        "10.txt": 29,
+        "2.txt": 1,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "awoke": {
+        "10.txt": 8
+    },
+    "accord": {
+        "10.txt": 6,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "absent": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "almanac": {
+        "10.txt": 1
+    },
+    "army": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 28,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "alas": {
+        "10.txt": 21
+    },
+    "alone": {
+        "10.txt": 79,
+        "2.txt": 33,
+        "3.txt": 6,
+        "12.txt": 23,
+        "21.txt": 25,
+        "17.txt": 11
+    },
+    "agent": {
+        "10.txt": 12,
+        "3.txt": 8
+    },
+    "affairs": {
+        "10.txt": 13,
+        "12.txt": 1,
+        "21.txt": 2
+    },
+    "austrian": {
+        "10.txt": 2
+    },
+    "aged": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "artificial": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "avalanches": {
+        "10.txt": 1
+    },
+    "appear": {
+        "10.txt": 6,
+        "2.txt": 13,
+        "3.txt": 3,
+        "12.txt": 3,
+        "21.txt": 17,
+        "17.txt": 3
+    },
+    "apology": {
+        "10.txt": 4,
+        "2.txt": 2
+    },
+    "ancient": {
+        "10.txt": 4,
+        "12.txt": 10,
+        "21.txt": 2
+    },
+    "agreeing": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "acres": {
+        "10.txt": 1,
+        "3.txt": 6
+    },
+    "amount": {
+        "10.txt": 9,
+        "2.txt": 2,
+        "3.txt": 13,
+        "17.txt": 2
+    },
+    "asylum": {
+        "10.txt": 13,
+        "3.txt": 9,
+        "12.txt": 1
+    },
+    "attuned": {
+        "10.txt": 1
+    },
+    "atlas": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "aha": {
+        "10.txt": 4
+    },
+    "ate": {
+        "10.txt": 3,
+        "2.txt": 2,
+        "12.txt": 3,
+        "17.txt": 2
+    },
+    "atmosphere": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "amazed": {
+        "10.txt": 6,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "annoying": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "assured": {
+        "10.txt": 9,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 6
+    },
+    "ash": {
+        "10.txt": 2,
+        "12.txt": 3,
+        "17.txt": 4
+    },
+    "afterwards": {
+        "10.txt": 14,
+        "21.txt": 7
+    },
+    "aye": {
+        "10.txt": 3
+    },
+    "asia": {
+        "10.txt": 1,
+        "3.txt": 5
+    },
+    "africa": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "avar": {
+        "10.txt": 1
+    },
+    "arpad": {
+        "10.txt": 1
+    },
+    "age": {
+        "10.txt": 16,
+        "2.txt": 9,
+        "3.txt": 7,
+        "12.txt": 7,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "arabian": {
+        "10.txt": 1
+    },
+    "agency": {
+        "10.txt": 2,
+        "3.txt": 10
+    },
+    "ability": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "3.txt": 3,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "acumen": {
+        "10.txt": 1
+    },
+    "anybody": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 9,
+        "12.txt": 1
+    },
+    "acceptance": {
+        "10.txt": 1
+    },
+    "advise": {
+        "10.txt": 2,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "accursed": {
+        "10.txt": 1
+    },
+    "amused": {
+        "10.txt": 3
+    },
+    "amuse": {
+        "10.txt": 1
+    },
+    "abyss": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "avail": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "21.txt": 4
+    },
+    "angle": {
+        "10.txt": 4,
+        "2.txt": 3,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "assurance": {
+        "10.txt": 4
+    },
+    "accurately": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "21.txt": 2
+    },
+    "accumulation": {
+        "10.txt": 2
+    },
+    "agony": {
+        "10.txt": 8,
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "anticipation": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "17.txt": 2
+    },
+    "advanced": {
+        "10.txt": 10,
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "animal": {
+        "10.txt": 11,
+        "2.txt": 9,
+        "3.txt": 3,
+        "12.txt": 6,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "approaches": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "attentively": {
+        "10.txt": 1,
+        "21.txt": 5
+    },
+    "awaken": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "aghast": {
+        "10.txt": 1
+    },
+    "arrive": {
+        "10.txt": 16,
+        "2.txt": 8,
+        "3.txt": 5,
+        "21.txt": 7,
+        "17.txt": 2
+    },
+    "arouse": {
+        "10.txt": 3
+    },
+    "anger": {
+        "10.txt": 7,
+        "2.txt": 8,
+        "12.txt": 5,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "admit": {
+        "10.txt": 7,
+        "2.txt": 5,
+        "12.txt": 4,
+        "21.txt": 5,
+        "17.txt": 2
+    },
+    "allied": {
+        "10.txt": 1,
+        "3.txt": 3
+    },
+    "attach": {
+        "10.txt": 1,
+        "3.txt": 11
+    },
+    "acquaintanceship": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "awakened": {
+        "10.txt": 9
+    },
+    "awhile": {
+        "10.txt": 7,
+        "2.txt": 3,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "attributed": {
+        "10.txt": 2,
+        "21.txt": 1
+    },
+    "aerial": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "agonised": {
+        "10.txt": 2
+    },
+    "abandoned": {
+        "10.txt": 2,
+        "2.txt": 5,
+        "3.txt": 3,
+        "12.txt": 2,
+        "17.txt": 3
+    },
+    "ark": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "action": {
+        "10.txt": 22,
+        "2.txt": 5,
+        "3.txt": 23,
+        "12.txt": 1,
+        "21.txt": 10,
+        "17.txt": 2
+    },
+    "agitation": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "ajar": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "astonishment": {
+        "10.txt": 6,
+        "2.txt": 2,
+        "3.txt": 1,
+        "21.txt": 2
+    },
+    "angrier": {
+        "10.txt": 1
+    },
+    "allies": {
+        "10.txt": 1,
+        "2.txt": 19,
+        "17.txt": 2
+    },
+    "attempted": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "assistant": {
+        "10.txt": 2,
+        "17.txt": 3
+    },
+    "assiduously": {
+        "10.txt": 1
+    },
+    "abroad": {
+        "10.txt": 6
+    },
+    "afford": {
+        "10.txt": 5,
+        "2.txt": 7,
+        "3.txt": 3,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "arthur": {
+        "10.txt": 146,
+        "3.txt": 1
+    },
+    "add": {
+        "10.txt": 9,
+        "2.txt": 7,
+        "3.txt": 18,
+        "21.txt": 6,
+        "17.txt": 3
+    },
+    "american": {
+        "10.txt": 4,
+        "3.txt": 18
+    },
+    "adventures": {
+        "10.txt": 2
+    },
+    "ashamed": {
+        "10.txt": 4,
+        "21.txt": 1
+    },
+    "ain": {
+        "10.txt": 14,
+        "3.txt": 3
+    },
+    "anyhow": {
+        "10.txt": 15
+    },
+    "appetite": {
+        "10.txt": 5,
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "afforded": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "avoid": {
+        "10.txt": 10,
+        "2.txt": 5,
+        "3.txt": 33,
+        "21.txt": 3,
+        "17.txt": 2
+    },
+    "accomplished": {
+        "10.txt": 3,
+        "21.txt": 1
+    },
+    "armour": {
+        "10.txt": 1
+    },
+    "accident": {
+        "10.txt": 9,
+        "2.txt": 5,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "accidents": {
+        "10.txt": 1,
+        "21.txt": 5
+    },
+    "art": {
+        "10.txt": 26,
+        "3.txt": 17,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "abbey": {
+        "10.txt": 9
+    },
+    "awfully": {
+        "10.txt": 2,
+        "17.txt": 1
+    },
+    "aught": {
+        "10.txt": 4
+    },
+    "ageeanwards": {
+        "10.txt": 1
+    },
+    "aboon": {
+        "10.txt": 2
+    },
+    "august": {
+        "10.txt": 30,
+        "3.txt": 2
+    },
+    "argue": {
+        "10.txt": 7,
+        "2.txt": 3,
+        "12.txt": 2,
+        "17.txt": 2
+    },
+    "agreement": {
+        "10.txt": 3,
+        "2.txt": 5,
+        "3.txt": 2,
+        "17.txt": 3
+    },
+    "anent": {
+        "10.txt": 2
+    },
+    "airt": {
+        "10.txt": 1
+    },
+    "acant": {
+        "10.txt": 1
+    },
+    "approval": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "assent": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "assented": {
+        "10.txt": 3
+    },
+    "aftest": {
+        "10.txt": 1
+    },
+    "abaft": {
+        "10.txt": 2
+    },
+    "andres": {
+        "10.txt": 2
+    },
+    "april": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "andrew": {
+        "10.txt": 1
+    },
+    "antherums": {
+        "10.txt": 1
+    },
+    "aboot": {
+        "10.txt": 3
+    },
+    "aurora": {
+        "10.txt": 1
+    },
+    "assumption": {
+        "10.txt": 1,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "acrewk": {
+        "10.txt": 1
+    },
+    "addle": {
+        "10.txt": 1
+    },
+    "asks": {
+        "10.txt": 5,
+        "2.txt": 91,
+        "3.txt": 9,
+        "17.txt": 24
+    },
+    "abnormally": {
+        "10.txt": 2
+    },
+    "attracting": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "acquiesced": {
+        "10.txt": 3
+    },
+    "argued": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "account": {
+        "10.txt": 23,
+        "2.txt": 1,
+        "3.txt": 5,
+        "12.txt": 1,
+        "21.txt": 3
+    },
+    "auditors": {
+        "10.txt": 1
+    },
+    "attendant": {
+        "10.txt": 26,
+        "2.txt": 4
+    },
+    "absorb": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "achieve": {
+        "10.txt": 5,
+        "2.txt": 3
+    },
+    "aspect": {
+        "10.txt": 2,
+        "21.txt": 1
+    },
+    "angry": {
+        "10.txt": 15,
+        "2.txt": 11,
+        "3.txt": 4,
+        "12.txt": 11,
+        "17.txt": 4
+    },
+    "anxious": {
+        "10.txt": 28,
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "autumn": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "12.txt": 8
+    },
+    "arranged": {
+        "10.txt": 13,
+        "2.txt": 2,
+        "12.txt": 2,
+        "17.txt": 2
+    },
+    "arrives": {
+        "10.txt": 6,
+        "2.txt": 5,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "anxiety": {
+        "10.txt": 15,
+        "2.txt": 3
+    },
+    "anemic": {
+        "10.txt": 4
+    },
+    "aud": {
+        "10.txt": 3
+    },
+    "angel": {
+        "10.txt": 5,
+        "21.txt": 1
+    },
+    "attention": {
+        "10.txt": 14,
+        "2.txt": 16,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 9,
+        "17.txt": 11
+    },
+    "assemblage": {
+        "10.txt": 1
+    },
+    "athwart": {
+        "10.txt": 1
+    },
+    "absolute": {
+        "10.txt": 8,
+        "2.txt": 1,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "affects": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 4,
+        "21.txt": 1
+    },
+    "absorbing": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "achieved": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "apparently": {
+        "10.txt": 2,
+        "2.txt": 7,
+        "21.txt": 3,
+        "17.txt": 5
+    },
+    "awe": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "aboard": {
+        "10.txt": 8,
+        "3.txt": 2
+    },
+    "aft": {
+        "10.txt": 1
+    },
+    "assembled": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 3
+    },
+    "awed": {
+        "10.txt": 1
+    },
+    "accurate": {
+        "10.txt": 8,
+        "3.txt": 4
+    },
+    "addendum": {
+        "10.txt": 1
+    },
+    "admiralty": {
+        "10.txt": 1
+    },
+    "asserting": {
+        "10.txt": 2
+    },
+    "abating": {
+        "10.txt": 2
+    },
+    "arrival": {
+        "10.txt": 11,
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "acting": {
+        "10.txt": 1,
+        "2.txt": 7,
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "accordingly": {
+        "10.txt": 3,
+        "21.txt": 2
+    },
+    "archipelago": {
+        "10.txt": 1
+    },
+    "amramoff": {
+        "10.txt": 1
+    },
+    "awestruck": {
+        "10.txt": 1
+    },
+    "allay": {
+        "10.txt": 1
+    },
+    "agreed": {
+        "10.txt": 12,
+        "2.txt": 4,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "armed": {
+        "10.txt": 11,
+        "2.txt": 6,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "adduce": {
+        "10.txt": 1
+    },
+    "adopted": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "acutely": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "angrily": {
+        "10.txt": 4,
+        "2.txt": 2
+    },
+    "attempt": {
+        "10.txt": 8,
+        "2.txt": 9,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "agglomeration": {
+        "10.txt": 1
+    },
+    "attitude": {
+        "10.txt": 5,
+        "3.txt": 2
+    },
+    "appetites": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "allowed": {
+        "10.txt": 3,
+        "2.txt": 8,
+        "3.txt": 8,
+        "12.txt": 2,
+        "21.txt": 1,
+        "17.txt": 5
+    },
+    "accepting": {
+        "10.txt": 3,
+        "17.txt": 2
+    },
+    "agitated": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "agonizing": {
+        "10.txt": 4,
+        "2.txt": 2
+    },
+    "appalled": {
+        "10.txt": 5,
+        "17.txt": 1
+    },
+    "apologised": {
+        "10.txt": 1
+    },
+    "apropos": {
+        "10.txt": 1
+    },
+    "affair": {
+        "10.txt": 8,
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "acknowledge": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "accordance": {
+        "10.txt": 3,
+        "21.txt": 4
+    },
+    "agatha": {
+        "10.txt": 5
+    },
+    "agust": {
+        "10.txt": 1
+    },
+    "attendants": {
+        "10.txt": 12,
+        "2.txt": 3,
+        "3.txt": 2,
+        "12.txt": 2
+    },
+    "apathy": {
+        "10.txt": 1
+    },
+    "assumed": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "afar": {
+        "10.txt": 5,
+        "21.txt": 1
+    },
+    "awakes": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "almighty": {
+        "10.txt": 5
+    },
+    "arrangements": {
+        "10.txt": 5,
+        "3.txt": 3
+    },
+    "appreciate": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "artfully": {
+        "10.txt": 1
+    },
+    "albemarle": {
+        "10.txt": 1
+    },
+    "appearance": {
+        "10.txt": 6,
+        "2.txt": 4,
+        "3.txt": 3,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "advantage": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 4
+    },
+    "actual": {
+        "10.txt": 4,
+        "2.txt": 5,
+        "3.txt": 4,
+        "12.txt": 1,
+        "21.txt": 4,
+        "17.txt": 7
+    },
+    "analysed": {
+        "10.txt": 1
+    },
+    "analysis": {
+        "10.txt": 1
+    },
+    "assures": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "21.txt": 1
+    },
+    "amsterdam": {
+        "10.txt": 13,
+        "3.txt": 8,
+        "21.txt": 2
+    },
+    "arbitrary": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "alarm": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 4,
+        "12.txt": 11,
+        "17.txt": 2
+    },
+    "abraham": {
+        "10.txt": 4
+    },
+    "aids": {
+        "10.txt": 2
+    },
+    "arrange": {
+        "10.txt": 9,
+        "2.txt": 5,
+        "3.txt": 8,
+        "12.txt": 1
+    },
+    "article": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "animation": {
+        "10.txt": 2
+    },
+    "appalling": {
+        "10.txt": 3
+    },
+    "attending": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "apologized": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "arisen": {
+        "10.txt": 1
+    },
+    "alarming": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "application": {
+        "10.txt": 1,
+        "3.txt": 3,
+        "21.txt": 2
+    },
+    "alarmed": {
+        "10.txt": 5
+    },
+    "antidote": {
+        "10.txt": 2
+    },
+    "attached": {
+        "10.txt": 2,
+        "2.txt": 5,
+        "3.txt": 7,
+        "21.txt": 4,
+        "17.txt": 2
+    },
+    "astonished": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1,
+        "21.txt": 5
+    },
+    "adjusted": {
+        "10.txt": 2,
+        "3.txt": 3
+    },
+    "apparent": {
+        "10.txt": 5,
+        "2.txt": 2,
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "arrears": {
+        "10.txt": 1
+    },
+    "acquiesce": {
+        "10.txt": 1
+    },
+    "ashen": {
+        "10.txt": 3,
+        "2.txt": 1
+    },
+    "attended": {
+        "10.txt": 7,
+        "3.txt": 1
+    },
+    "applied": {
+        "10.txt": 1,
+        "12.txt": 1,
+        "21.txt": 5
+    },
+    "amazement": {
+        "10.txt": 6
+    },
+    "amid": {
+        "10.txt": 4
+    },
+    "actions": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 3,
+        "12.txt": 3,
+        "21.txt": 1
+    },
+    "appealing": {
+        "10.txt": 3,
+        "2.txt": 2
+    },
+    "ashy": {
+        "10.txt": 1
+    },
+    "average": {
+        "10.txt": 2,
+        "3.txt": 7,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "arsk": {
+        "10.txt": 5
+    },
+    "afore": {
+        "10.txt": 8
+    },
+    "ad": {
+        "10.txt": 7,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "animiles": {
+        "10.txt": 4
+    },
+    "arskin": {
+        "10.txt": 1
+    },
+    "arf": {
+        "10.txt": 2
+    },
+    "arsked": {
+        "10.txt": 1
+    },
+    "animile": {
+        "10.txt": 1
+    },
+    "ard": {
+        "10.txt": 1
+    },
+    "ands": {
+        "10.txt": 1
+    },
+    "airs": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "anceterer": {
+        "10.txt": 1
+    },
+    "ave": {
+        "10.txt": 2,
+        "3.txt": 129
+    },
+    "arter": {
+        "10.txt": 3
+    },
+    "armony": {
+        "10.txt": 2
+    },
+    "accounts": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "afeared": {
+        "10.txt": 1
+    },
+    "area": {
+        "10.txt": 4,
+        "2.txt": 8,
+        "3.txt": 85,
+        "12.txt": 4,
+        "17.txt": 5
+    },
+    "arrear": {
+        "10.txt": 1
+    },
+    "antwerp": {
+        "10.txt": 1
+    },
+    "aperture": {
+        "10.txt": 3
+    },
+    "acrid": {
+        "10.txt": 3
+    },
+    "avenue": {
+        "10.txt": 4,
+        "3.txt": 11,
+        "12.txt": 4
+    },
+    "abed": {
+        "10.txt": 1
+    },
+    "assail": {
+        "10.txt": 1
+    },
+    "attacked": {
+        "10.txt": 4,
+        "2.txt": 5,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "alive": {
+        "10.txt": 13,
+        "2.txt": 71,
+        "3.txt": 3,
+        "12.txt": 14,
+        "17.txt": 21
+    },
+    "audibly": {
+        "10.txt": 1
+    },
+    "answering": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "arranging": {
+        "10.txt": 2,
+        "2.txt": 3
+    },
+    "abut": {
+        "10.txt": 1
+    },
+    "accused": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "addresses": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 7
+    },
+    "avarice": {
+        "10.txt": 1
+    },
+    "alarms": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "12.txt": 5
+    },
+    "attracted": {
+        "10.txt": 1
+    },
+    "amy": {
+        "10.txt": 1
+    },
+    "angelic": {
+        "10.txt": 1
+    },
+    "aback": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "afflicted": {
+        "10.txt": 1
+    },
+    "aware": {
+        "10.txt": 3,
+        "2.txt": 6,
+        "12.txt": 3,
+        "21.txt": 9,
+        "17.txt": 2
+    },
+    "avoided": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 2
+    },
+    "address": {
+        "10.txt": 8,
+        "2.txt": 1,
+        "3.txt": 16,
+        "12.txt": 3,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "ardente": {
+        "10.txt": 1
+    },
+    "autopsy": {
+        "10.txt": 1
+    },
+    "appreciative": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "alliance": {
+        "10.txt": 2,
+        "2.txt": 9,
+        "3.txt": 4,
+        "17.txt": 2
+    },
+    "accuracy": {
+        "10.txt": 3,
+        "3.txt": 3,
+        "17.txt": 2
+    },
+    "abandon": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "3.txt": 4,
+        "17.txt": 1
+    },
+    "assure": {
+        "10.txt": 3,
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "acts": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1,
+        "21.txt": 3
+    },
+    "arrangement": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "3.txt": 3
+    },
+    "adhered": {
+        "10.txt": 1
+    },
+    "ague": {
+        "10.txt": 1
+    },
+    "acute": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "acted": {
+        "10.txt": 1,
+        "2.txt": 5,
+        "12.txt": 3
+    },
+    "approved": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "america": {
+        "10.txt": 2,
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "al": {
+        "10.txt": 1
+    },
+    "attractive": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "advancement": {
+        "10.txt": 1
+    },
+    "accepted": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "announced": {
+        "10.txt": 1,
+        "2.txt": 7,
+        "17.txt": 1
+    },
+    "apart": {
+        "10.txt": 3,
+        "2.txt": 7,
+        "3.txt": 2,
+        "12.txt": 3,
+        "21.txt": 6,
+        "17.txt": 1
+    },
+    "absorbed": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "3.txt": 1
+    },
+    "ablaze": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "angels": {
+        "10.txt": 4,
+        "21.txt": 3
+    },
+    "advancing": {
+        "10.txt": 1
+    },
+    "astral": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "anatomy": {
+        "10.txt": 1
+    },
+    "ay": {
+        "10.txt": 4
+    },
+    "ages": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "aright": {
+        "10.txt": 2,
+        "21.txt": 1
+    },
+    "abstract": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 2,
+        "21.txt": 2
+    },
+    "abhorred": {
+        "10.txt": 2
+    },
+    "alley": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "12.txt": 16,
+        "17.txt": 6
+    },
+    "ascertaining": {
+        "10.txt": 1
+    },
+    "affront": {
+        "10.txt": 1
+    },
+    "argumentativeness": {
+        "10.txt": 1
+    },
+    "aggressive": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "alder": {
+        "10.txt": 1
+    },
+    "argumentative": {
+        "10.txt": 1
+    },
+    "addressing": {
+        "10.txt": 2
+    },
+    "addressed": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 3,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "anguish": {
+        "10.txt": 4
+    },
+    "assigned": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "apprenticed": {
+        "10.txt": 1
+    },
+    "aching": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "adamantine": {
+        "10.txt": 1
+    },
+    "arrested": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "aspen": {
+        "10.txt": 1
+    },
+    "ancients": {
+        "10.txt": 2
+    },
+    "adding": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "assimilating": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "anew": {
+        "10.txt": 1,
+        "21.txt": 5
+    },
+    "awkwardly": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "awkward": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "atonement": {
+        "10.txt": 1
+    },
+    "announce": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "appealingly": {
+        "10.txt": 3
+    },
+    "americanism": {
+        "10.txt": 1
+    },
+    "appreciation": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "allayed": {
+        "10.txt": 1
+    },
+    "adequately": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "acquiring": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "abnormal": {
+        "10.txt": 1,
+        "12.txt": 2
+    },
+    "affording": {
+        "10.txt": 1
+    },
+    "allaying": {
+        "10.txt": 1
+    },
+    "apprehension": {
+        "10.txt": 2,
+        "3.txt": 1
+    },
+    "affliction": {
+        "10.txt": 1
+    },
+    "asinine": {
+        "10.txt": 1
+    },
+    "apt": {
+        "10.txt": 2,
+        "3.txt": 2
+    },
+    "assimilation": {
+        "10.txt": 1
+    },
+    "auspices": {
+        "10.txt": 1
+    },
+    "acquainted": {
+        "10.txt": 1,
+        "3.txt": 3,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "ascertained": {
+        "10.txt": 2
+    },
+    "according": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 5,
+        "21.txt": 7,
+        "17.txt": 1
+    },
+    "arrow": {
+        "10.txt": 1,
+        "2.txt": 34,
+        "17.txt": 7
+    },
+    "arrayed": {
+        "10.txt": 3
+    },
+    "afflict": {
+        "10.txt": 1
+    },
+    "arminius": {
+        "10.txt": 3
+    },
+    "ascertain": {
+        "10.txt": 3,
+        "21.txt": 2
+    },
+    "arguments": {
+        "10.txt": 2,
+        "21.txt": 4
+    },
+    "adduced": {
+        "10.txt": 1
+    },
+    "appeal": {
+        "10.txt": 3
+    },
+    "apprehend": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 7
+    },
+    "admirable": {
+        "10.txt": 1
+    },
+    "approve": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "animate": {
+        "10.txt": 1
+    },
+    "argument": {
+        "10.txt": 2,
+        "2.txt": 5,
+        "21.txt": 8,
+        "17.txt": 1
+    },
+    "acquiescence": {
+        "10.txt": 4
+    },
+    "attempting": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "amenable": {
+        "10.txt": 2
+    },
+    "attract": {
+        "10.txt": 5
+    },
+    "admission": {
+        "10.txt": 1,
+        "3.txt": 4
+    },
+    "appraise": {
+        "10.txt": 1
+    },
+    "assume": {
+        "10.txt": 1,
+        "2.txt": 7,
+        "3.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "aloof": {
+        "10.txt": 1
+    },
+    "anywheres": {
+        "10.txt": 1
+    },
+    "appeased": {
+        "10.txt": 3
+    },
+    "avin": {
+        "10.txt": 1
+    },
+    "access": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 7,
+        "17.txt": 3
+    },
+    "active": {
+        "10.txt": 7,
+        "3.txt": 5,
+        "21.txt": 3
+    },
+    "arguing": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "aerated": {
+        "10.txt": 1
+    },
+    "accidental": {
+        "10.txt": 1
+    },
+    "allusion": {
+        "10.txt": 1
+    },
+    "appearances": {
+        "10.txt": 1,
+        "2.txt": 5,
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "affectionate": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "advisable": {
+        "10.txt": 1,
+        "3.txt": 5
+    },
+    "afresh": {
+        "10.txt": 3
+    },
+    "analogy": {
+        "10.txt": 2
+    },
+    "arrogate": {
+        "10.txt": 1
+    },
+    "attributes": {
+        "10.txt": 1,
+        "21.txt": 4
+    },
+    "appositeness": {
+        "10.txt": 1
+    },
+    "antagonism": {
+        "10.txt": 1
+    },
+    "apologetic": {
+        "10.txt": 1
+    },
+    "affect": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "apologetically": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "acquire": {
+        "10.txt": 1,
+        "21.txt": 8
+    },
+    "afoot": {
+        "10.txt": 1
+    },
+    "archibald": {
+        "10.txt": 1
+    },
+    "attempts": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "admitted": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1,
+        "21.txt": 2
+    },
+    "authorities": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 4,
+        "17.txt": 2
+    },
+    "acherontia": {
+        "10.txt": 1
+    },
+    "atropos": {
+        "10.txt": 1
+    },
+    "alike": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "accentuated": {
+        "10.txt": 1
+    },
+    "aroused": {
+        "10.txt": 4
+    },
+    "amidst": {
+        "10.txt": 2,
+        "21.txt": 1
+    },
+    "ashes": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "12.txt": 6,
+        "17.txt": 4
+    },
+    "avenged": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "aided": {
+        "10.txt": 1
+    },
+    "auction": {
+        "10.txt": 1
+    },
+    "advertise": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "auctioneer": {
+        "10.txt": 1
+    },
+    "authority": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "12.txt": 1,
+        "21.txt": 2,
+        "17.txt": 3
+    },
+    "adornments": {
+        "10.txt": 1
+    },
+    "abasement": {
+        "10.txt": 1
+    },
+    "ascend": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "aiding": {
+        "10.txt": 2,
+        "3.txt": 2
+    },
+    "advice": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "3.txt": 12
+    },
+    "arlington": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "attic": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "alchemist": {
+        "10.txt": 1
+    },
+    "aloud": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "armaments": {
+        "10.txt": 1
+    },
+    "admire": {
+        "10.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "asserted": {
+        "10.txt": 1
+    },
+    "aloft": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "aiming": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "anchor": {
+        "10.txt": 4
+    },
+    "adopt": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "armor": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "averted": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "armament": {
+        "10.txt": 1
+    },
+    "apiece": {
+        "10.txt": 1
+    },
+    "allows": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 9,
+        "17.txt": 2
+    },
+    "absolved": {
+        "10.txt": 1
+    },
+    "aglow": {
+        "10.txt": 1
+    },
+    "alert": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "answers": {
+        "10.txt": 1,
+        "2.txt": 10,
+        "3.txt": 3,
+        "12.txt": 4,
+        "17.txt": 7
+    },
+    "authorization": {
+        "10.txt": 1
+    },
+    "announcing": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "arrest": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "3.txt": 11,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "andersen": {
+        "10.txt": 1
+    },
+    "argues": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "archimedes": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "acquired": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "acqueisced": {
+        "10.txt": 1
+    },
+    "afeard": {
+        "10.txt": 1
+    },
+    "ahint": {
+        "10.txt": 1
+    },
+    "argy": {
+        "10.txt": 1
+    },
+    "althegither": {
+        "10.txt": 1
+    },
+    "airly": {
+        "10.txt": 1
+    },
+    "aboord": {
+        "10.txt": 1
+    },
+    "adelphi": {
+        "10.txt": 1
+    },
+    "affection": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "astray": {
+        "10.txt": 1,
+        "21.txt": 4
+    },
+    "appears": {
+        "10.txt": 1,
+        "2.txt": 22,
+        "3.txt": 3,
+        "21.txt": 9,
+        "17.txt": 4
+    },
+    "arsenal": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 3
+    },
+    "appointed": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "appliances": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "adapted": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "adventurous": {
+        "10.txt": 1
+    },
+    "amateur": {
+        "10.txt": 1,
+        "3.txt": 4
+    },
+    "abide": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "amaze": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "affright": {
+        "10.txt": 1
+    },
+    "atoms": {
+        "10.txt": 1
+    },
+    "agone": {
+        "10.txt": 1
+    },
+    "assert": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "adjacent": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "abated": {
+        "10.txt": 1
+    },
+    "ardor": {
+        "10.txt": 1
+    },
+    "articulated": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "amen": {
+        "10.txt": 1
+    },
+    "authentic": {
+        "10.txt": 1,
+        "3.txt": 5
+    },
+    "anymore": {
+        "2.txt": 15
+    },
+    "afternoons": {
+        "2.txt": 2,
+        "3.txt": 2
+    },
+    "appropriate": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "arrows": {
+        "2.txt": 21,
+        "17.txt": 9
+    },
+    "alleys": {
+        "2.txt": 2,
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "arena": {
+        "2.txt": 102,
+        "12.txt": 2,
+        "17.txt": 29
+    },
+    "attracts": {
+        "2.txt": 1
+    },
+    "afterthought": {
+        "2.txt": 1
+    },
+    "aw": {
+        "2.txt": 1
+    },
+    "aren": {
+        "2.txt": 15,
+        "3.txt": 3,
+        "12.txt": 14,
+        "17.txt": 1
+    },
+    "affixed": {
+        "2.txt": 1
+    },
+    "abandonment": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "andburned": {
+        "2.txt": 1
+    },
+    "attends": {
+        "2.txt": 1
+    },
+    "audacity": {
+        "2.txt": 1
+    },
+    "altered": {
+        "2.txt": 2,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "advisors": {
+        "2.txt": 2
+    },
+    "ambiguous": {
+        "2.txt": 1
+    },
+    "anyway": {
+        "2.txt": 52,
+        "3.txt": 5,
+        "12.txt": 12,
+        "17.txt": 16
+    },
+    "applesauce": {
+        "2.txt": 1
+    },
+    "affecting": {
+        "2.txt": 2
+    },
+    "aim": {
+        "2.txt": 2,
+        "3.txt": 5,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "awaits": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "amazing": {
+        "2.txt": 6,
+        "3.txt": 1,
+        "12.txt": 2,
+        "17.txt": 4
+    },
+    "aqua": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "angular": {
+        "2.txt": 1
+    },
+    "anniversary": {
+        "2.txt": 7
+    },
+    "abernathy": {
+        "2.txt": 2,
+        "17.txt": 2
+    },
+    "activity": {
+        "2.txt": 2,
+        "3.txt": 2,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "alternatives": {
+        "2.txt": 1,
+        "3.txt": 3
+    },
+    "aspire": {
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "accommodate": {
+        "2.txt": 2
+    },
+    "ally": {
+        "2.txt": 3,
+        "17.txt": 2
+    },
+    "annoyed": {
+        "2.txt": 3
+    },
+    "anointed": {
+        "2.txt": 1
+    },
+    "alterations": {
+        "2.txt": 3,
+        "21.txt": 1
+    },
+    "adds": {
+        "2.txt": 8,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "abused": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "apologize": {
+        "2.txt": 3
+    },
+    "armored": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "anthem": {
+        "2.txt": 11
+    },
+    "applause": {
+        "2.txt": 6,
+        "17.txt": 2
+    },
+    "adjust": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "allotted": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "automatic": {
+        "2.txt": 1,
+        "3.txt": 12,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "arranges": {
+        "2.txt": 2
+    },
+    "assemble": {
+        "2.txt": 4,
+        "3.txt": 2
+    },
+    "architectural": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "additions": {
+        "2.txt": 1
+    },
+    "assess": {
+        "2.txt": 4,
+        "17.txt": 1
+    },
+    "afterward": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "adoring": {
+        "2.txt": 1
+    },
+    "agrees": {
+        "2.txt": 4
+    },
+    "accessories": {
+        "2.txt": 2
+    },
+    "abhorrent": {
+        "2.txt": 1
+    },
+    "alcohol": {
+        "2.txt": 3,
+        "3.txt": 8,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "avoiding": {
+        "2.txt": 3,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "arenas": {
+        "2.txt": 1
+    },
+    "admiring": {
+        "2.txt": 1
+    },
+    "assortment": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "agenda": {
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "announcer": {
+        "2.txt": 2,
+        "12.txt": 5,
+        "17.txt": 1
+    },
+    "authoritative": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "aunt": {
+        "2.txt": 2,
+        "12.txt": 2
+    },
+    "areas": {
+        "2.txt": 1,
+        "3.txt": 19
+    },
+    "adapt": {
+        "2.txt": 1
+    },
+    "anticipated": {
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "accumulated": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "apples": {
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "abandons": {
+        "2.txt": 1
+    },
+    "assailant": {
+        "2.txt": 1
+    },
+    "accent": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "authorized": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "acloth": {
+        "2.txt": 1
+    },
+    "apothecary": {
+        "2.txt": 2
+    },
+    "accessible": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "assembling": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "awaited": {
+        "2.txt": 1
+    },
+    "availability": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "avoids": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "ankle": {
+        "2.txt": 3,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "avox": {
+        "2.txt": 10,
+        "17.txt": 1
+    },
+    "awhole": {
+        "2.txt": 1
+    },
+    "armory": {
+        "2.txt": 1,
+        "17.txt": 4
+    },
+    "appropriated": {
+        "2.txt": 1
+    },
+    "ax": {
+        "2.txt": 6
+    },
+    "accomplish": {
+        "2.txt": 2,
+        "21.txt": 1
+    },
+    "automatically": {
+        "2.txt": 3,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "adrenaline": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "alibi": {
+        "2.txt": 1
+    },
+    "aches": {
+        "2.txt": 2
+    },
+    "acknowledged": {
+        "2.txt": 2,
+        "21.txt": 1
+    },
+    "abusing": {
+        "2.txt": 1
+    },
+    "artist": {
+        "2.txt": 1,
+        "3.txt": 4
+    },
+    "adjusts": {
+        "2.txt": 3
+    },
+    "announces": {
+        "2.txt": 1
+    },
+    "adjusting": {
+        "2.txt": 2,
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "abuse": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "admits": {
+        "2.txt": 1,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "announcers": {
+        "2.txt": 1
+    },
+    "arrogant": {
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "azure": {
+        "2.txt": 1
+    },
+    "arching": {
+        "2.txt": 1
+    },
+    "athletic": {
+        "2.txt": 1
+    },
+    "addicts": {
+        "2.txt": 1
+    },
+    "amputate": {
+        "2.txt": 1
+    },
+    "anticipating": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 3
+    },
+    "avoxes": {
+        "2.txt": 1
+    },
+    "ache": {
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "awfulness": {
+        "2.txt": 1
+    },
+    "aging": {
+        "2.txt": 1
+    },
+    "admirers": {
+        "2.txt": 1
+    },
+    "atala": {
+        "2.txt": 2
+    },
+    "attendance": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "amusement": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "archery": {
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "allude": {
+        "2.txt": 1
+    },
+    "airborne": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 4
+    },
+    "admiration": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "amusing": {
+        "2.txt": 1
+    },
+    "absorbent": {
+        "2.txt": 2
+    },
+    "absorbs": {
+        "2.txt": 1
+    },
+    "accountable": {
+        "2.txt": 1
+    },
+    "accompanies": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "assumes": {
+        "2.txt": 1
+    },
+    "anticipate": {
+        "2.txt": 1
+    },
+    "accusations": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "acknowledgment": {
+        "2.txt": 1
+    },
+    "assault": {
+        "2.txt": 1,
+        "3.txt": 2,
+        "17.txt": 3
+    },
+    "adversaries": {
+        "2.txt": 2
+    },
+    "alerted": {
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "angers": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "axes": {
+        "2.txt": 5,
+        "12.txt": 1
+    },
+    "awl": {
+        "2.txt": 5
+    },
+    "altercation": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "abdomen": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "attackers": {
+        "2.txt": 2
+    },
+    "afloat": {
+        "2.txt": 4
+    },
+    "aberration": {
+        "2.txt": 1
+    },
+    "angles": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 9
+    },
+    "aggravation": {
+        "2.txt": 1
+    },
+    "attentiveness": {
+        "2.txt": 1
+    },
+    "awakening": {
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "aftereffects": {
+        "2.txt": 1
+    },
+    "acid": {
+        "2.txt": 3,
+        "3.txt": 9,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "agonies": {
+        "2.txt": 1
+    },
+    "awareness": {
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "ankles": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "alternately": {
+        "2.txt": 1
+    },
+    "aggression": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "attacker": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "actively": {
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "aa": {
+        "2.txt": 1
+    },
+    "associated": {
+        "2.txt": 1,
+        "3.txt": 6
+    },
+    "armful": {
+        "2.txt": 1
+    },
+    "accusingly": {
+        "2.txt": 1
+    },
+    "absently": {
+        "2.txt": 1
+    },
+    "attacks": {
+        "2.txt": 3,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "annoyance": {
+        "2.txt": 2
+    },
+    "appearing": {
+        "2.txt": 2,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "annie": {
+        "2.txt": 10,
+        "17.txt": 7
+    },
+    "adores": {
+        "2.txt": 1
+    },
+    "awards": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "absurdity": {
+        "2.txt": 1
+    },
+    "averting": {
+        "2.txt": 1
+    },
+    "attaches": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "aftermath": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "arteries": {
+        "2.txt": 1
+    },
+    "abilities": {
+        "2.txt": 1
+    },
+    "accusation": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "aircraft": {
+        "2.txt": 1
+    },
+    "awaiting": {
+        "2.txt": 1
+    },
+    "animated": {
+        "2.txt": 1
+    },
+    "abbie": {
+        "3.txt": 2
+    },
+    "abetting": {
+        "3.txt": 2
+    },
+    "airlines": {
+        "3.txt": 10
+    },
+    "abortions": {
+        "3.txt": 7,
+        "12.txt": 1
+    },
+    "assorted": {
+        "3.txt": 6
+    },
+    "attrocities": {
+        "3.txt": 1
+    },
+    "astrodome": {
+        "3.txt": 3
+    },
+    "aerosol": {
+        "3.txt": 3
+    },
+    "angeles": {
+        "3.txt": 27,
+        "12.txt": 1
+    },
+    "amerika": {
+        "3.txt": 18
+    },
+    "ample": {
+        "3.txt": 3,
+        "21.txt": 5,
+        "17.txt": 1
+    },
+    "advertisements": {
+        "3.txt": 3
+    },
+    "accuses": {
+        "3.txt": 2
+    },
+    "anna": {
+        "3.txt": 3
+    },
+    "amber": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "anita": {
+        "3.txt": 1
+    },
+    "allan": {
+        "3.txt": 1
+    },
+    "andy": {
+        "3.txt": 2
+    },
+    "ami": {
+        "3.txt": 1
+    },
+    "agnew": {
+        "3.txt": 3
+    },
+    "alan": {
+        "3.txt": 1
+    },
+    "appleseed": {
+        "3.txt": 1
+    },
+    "alice": {
+        "3.txt": 2
+    },
+    "afeni": {
+        "3.txt": 1
+    },
+    "angela": {
+        "3.txt": 4
+    },
+    "airplane": {
+        "3.txt": 1
+    },
+    "armstrong": {
+        "3.txt": 2
+    },
+    "amaru": {
+        "3.txt": 1
+    },
+    "ann": {
+        "3.txt": 6,
+        "12.txt": 1
+    },
+    "artaud": {
+        "3.txt": 1
+    },
+    "automat": {
+        "3.txt": 1
+    },
+    "apartment": {
+        "3.txt": 14
+    },
+    "associate": {
+        "3.txt": 3
+    },
+    "alcoholic": {
+        "3.txt": 1
+    },
+    "appointment": {
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "array": {
+        "3.txt": 2
+    },
+    "amounts": {
+        "3.txt": 5
+    },
+    "aisles": {
+        "3.txt": 7
+    },
+    "adhesive": {
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "aisle": {
+        "3.txt": 3
+    },
+    "accomplices": {
+        "3.txt": 1
+    },
+    "asparagus": {
+        "3.txt": 1
+    },
+    "appreciated": {
+        "3.txt": 1
+    },
+    "appetit": {
+        "3.txt": 1
+    },
+    "alliances": {
+        "3.txt": 2
+    },
+    "assessed": {
+        "3.txt": 1
+    },
+    "ads": {
+        "3.txt": 13
+    },
+    "arabia": {
+        "3.txt": 1
+    },
+    "advantages": {
+        "3.txt": 2
+    },
+    "amerikan": {
+        "3.txt": 5
+    },
+    "arrests": {
+        "3.txt": 2
+    },
+    "arizona": {
+        "3.txt": 4
+    },
+    "automobile": {
+        "3.txt": 2
+    },
+    "amazingly": {
+        "3.txt": 1
+    },
+    "ass": {
+        "3.txt": 4,
+        "12.txt": 1
+    },
+    "airway": {
+        "3.txt": 1
+    },
+    "artifacts": {
+        "3.txt": 1
+    },
+    "auto": {
+        "3.txt": 1
+    },
+    "agencies": {
+        "3.txt": 11
+    },
+    "aviation": {
+        "3.txt": 1
+    },
+    "advances": {
+        "3.txt": 1
+    },
+    "airline": {
+        "3.txt": 10
+    },
+    "airport": {
+        "3.txt": 5
+    },
+    "artists": {
+        "3.txt": 3
+    },
+    "argentina": {
+        "3.txt": 2
+    },
+    "alaska": {
+        "3.txt": 1
+    },
+    "alabama": {
+        "3.txt": 4
+    },
+    "arkansas": {
+        "3.txt": 1
+    },
+    "acadia": {
+        "3.txt": 1
+    },
+    "assateague": {
+        "3.txt": 1
+    },
+    "aztec": {
+        "3.txt": 2
+    },
+    "attitudes": {
+        "3.txt": 1
+    },
+    "anti": {
+        "3.txt": 9,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "apartments": {
+        "3.txt": 3
+    },
+    "administrators": {
+        "3.txt": 1
+    },
+    "advertised": {
+        "3.txt": 1
+    },
+    "acre": {
+        "3.txt": 10
+    },
+    "acreage": {
+        "3.txt": 1
+    },
+    "accessibility": {
+        "3.txt": 1
+    },
+    "auxiliary": {
+        "3.txt": 1
+    },
+    "annually": {
+        "3.txt": 1
+    },
+    "agriculture": {
+        "3.txt": 1
+    },
+    "anarchist": {
+        "3.txt": 1
+    },
+    "atlantis": {
+        "3.txt": 2
+    },
+    "arts": {
+        "3.txt": 5,
+        "12.txt": 1
+    },
+    "audit": {
+        "3.txt": 1
+    },
+    "astrology": {
+        "3.txt": 1
+    },
+    "ailments": {
+        "3.txt": 1
+    },
+    "accompanied": {
+        "3.txt": 3,
+        "12.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "advised": {
+        "3.txt": 2
+    },
+    "abortion": {
+        "3.txt": 14
+    },
+    "announcements": {
+        "3.txt": 3
+    },
+    "advertising": {
+        "3.txt": 6,
+        "12.txt": 1
+    },
+    "allowing": {
+        "3.txt": 4
+    },
+    "apolitical": {
+        "3.txt": 1
+    },
+    "actuality": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "advising": {
+        "3.txt": 1
+    },
+    "artistic": {
+        "3.txt": 2
+    },
+    "authenticity": {
+        "3.txt": 1
+    },
+    "assign": {
+        "3.txt": 2,
+        "21.txt": 2
+    },
+    "assessment": {
+        "3.txt": 1
+    },
+    "assertive": {
+        "3.txt": 1
+    },
+    "actors": {
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "applying": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "automats": {
+        "3.txt": 1
+    },
+    "auran": {
+        "3.txt": 1
+    },
+    "australian": {
+        "3.txt": 1
+    },
+    "activities": {
+        "3.txt": 4
+    },
+    "arresting": {
+        "3.txt": 2
+    },
+    "appendix": {
+        "3.txt": 5
+    },
+    "adequate": {
+        "3.txt": 1
+    },
+    "airtight": {
+        "3.txt": 1
+    },
+    "aspca": {
+        "3.txt": 3
+    },
+    "ants": {
+        "3.txt": 1
+    },
+    "ant": {
+        "3.txt": 1
+    },
+    "academy": {
+        "3.txt": 3
+    },
+    "award": {
+        "3.txt": 2
+    },
+    "atrocities": {
+        "3.txt": 1
+    },
+    "administration": {
+        "3.txt": 6
+    },
+    "associates": {
+        "3.txt": 2
+    },
+    "academic": {
+        "3.txt": 3
+    },
+    "advertisers": {
+        "3.txt": 3
+    },
+    "arithmetic": {
+        "3.txt": 1,
+        "21.txt": 3
+    },
+    "advertiser": {
+        "3.txt": 1
+    },
+    "aclu": {
+        "3.txt": 6
+    },
+    "applies": {
+        "3.txt": 3
+    },
+    "albion": {
+        "3.txt": 2
+    },
+    "arbor": {
+        "3.txt": 4
+    },
+    "argus": {
+        "3.txt": 1
+    },
+    "arch": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "aquarian": {
+        "3.txt": 4
+    },
+    "albuquerque": {
+        "3.txt": 2
+    },
+    "augur": {
+        "3.txt": 1
+    },
+    "annandale": {
+        "3.txt": 1
+    },
+    "augustine": {
+        "3.txt": 2
+    },
+    "altadena": {
+        "3.txt": 1
+    },
+    "alto": {
+        "3.txt": 3
+    },
+    "atlanta": {
+        "3.txt": 2
+    },
+    "ashbury": {
+        "3.txt": 1
+    },
+    "anniston": {
+        "3.txt": 1
+    },
+    "ala": {
+        "3.txt": 3
+    },
+    "anvil": {
+        "3.txt": 1
+    },
+    "austin": {
+        "3.txt": 2
+    },
+    "ariz": {
+        "3.txt": 3
+    },
+    "akwesasne": {
+        "3.txt": 1
+    },
+    "alestle": {
+        "3.txt": 1
+    },
+    "athens": {
+        "3.txt": 1
+    },
+    "alltogether": {
+        "3.txt": 1
+    },
+    "albany": {
+        "3.txt": 1
+    },
+    "alternate": {
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "aires": {
+        "3.txt": 1
+    },
+    "adjustments": {
+        "3.txt": 1
+    },
+    "acton": {
+        "3.txt": 2
+    },
+    "antenna": {
+        "3.txt": 17
+    },
+    "appliance": {
+        "3.txt": 1
+    },
+    "aluminum": {
+        "3.txt": 6
+    },
+    "antennas": {
+        "3.txt": 1
+    },
+    "amplification": {
+        "3.txt": 1
+    },
+    "audio": {
+        "3.txt": 4,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "amplify": {
+        "3.txt": 1
+    },
+    "amplifier": {
+        "3.txt": 5
+    },
+    "approximately": {
+        "3.txt": 1
+    },
+    "amplifiers": {
+        "3.txt": 1
+    },
+    "alternator": {
+        "3.txt": 1
+    },
+    "avant": {
+        "3.txt": 1
+    },
+    "auditorium": {
+        "3.txt": 2
+    },
+    "anarchy": {
+        "3.txt": 1
+    },
+    "adjustable": {
+        "3.txt": 3
+    },
+    "anonymity": {
+        "3.txt": 1
+    },
+    "aeronautic": {
+        "3.txt": 1
+    },
+    "authoritatively": {
+        "3.txt": 1
+    },
+    "airforce": {
+        "3.txt": 1
+    },
+    "attorney": {
+        "3.txt": 1
+    },
+    "adam": {
+        "3.txt": 1,
+        "21.txt": 3
+    },
+    "aimed": {
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "alienating": {
+        "3.txt": 1
+    },
+    "automobiles": {
+        "3.txt": 1
+    },
+    "atomizer": {
+        "3.txt": 1
+    },
+    "ashcan": {
+        "3.txt": 1
+    },
+    "attaching": {
+        "3.txt": 1
+    },
+    "ammunition": {
+        "3.txt": 1
+    },
+    "alleyway": {
+        "3.txt": 1
+    },
+    "adopting": {
+        "3.txt": 1
+    },
+    "artery": {
+        "3.txt": 1
+    },
+    "abdominal": {
+        "3.txt": 1
+    },
+    "ace": {
+        "3.txt": 1
+    },
+    "ambulance": {
+        "3.txt": 3
+    },
+    "allergy": {
+        "3.txt": 1
+    },
+    "alcartz": {
+        "3.txt": 1
+    },
+    "arraignment": {
+        "3.txt": 4
+    },
+    "auditioning": {
+        "3.txt": 1
+    },
+    "audie": {
+        "3.txt": 1
+    },
+    "addiction": {
+        "3.txt": 1
+    },
+    "algeria": {
+        "3.txt": 1
+    },
+    "awol": {
+        "3.txt": 1
+    },
+    "abracadabra": {
+        "3.txt": 1
+    },
+    "awry": {
+        "3.txt": 1
+    },
+    "addressograph": {
+        "3.txt": 1
+    },
+    "accomplice": {
+        "3.txt": 1
+    },
+    "assassin": {
+        "3.txt": 1
+    },
+    "alien": {
+        "3.txt": 1
+    },
+    "automatics": {
+        "3.txt": 3
+    },
+    "ammo": {
+        "3.txt": 1
+    },
+    "ar": {
+        "3.txt": 1
+    },
+    "astounding": {
+        "3.txt": 1
+    },
+    "attachment": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "apprehended": {
+        "3.txt": 1,
+        "21.txt": 3
+    },
+    "amerikkkan": {
+        "3.txt": 1
+    },
+    "aboveground": {
+        "3.txt": 3,
+        "17.txt": 4
+    },
+    "apaches": {
+        "3.txt": 1
+    },
+    "accounting": {
+        "3.txt": 1
+    },
+    "adjustment": {
+        "3.txt": 1
+    },
+    "artichokes": {
+        "3.txt": 1
+    },
+    "avenues": {
+        "3.txt": 5,
+        "12.txt": 1
+    },
+    "accompany": {
+        "3.txt": 1
+    },
+    "au": {
+        "3.txt": 2
+    },
+    "astoria": {
+        "3.txt": 3
+    },
+    "arvenne": {
+        "3.txt": 1
+    },
+    "assistance": {
+        "3.txt": 5,
+        "21.txt": 1
+    },
+    "aves": {
+        "3.txt": 2
+    },
+    "adults": {
+        "3.txt": 2
+    },
+    "asser": {
+        "3.txt": 1
+    },
+    "amphitheatre": {
+        "3.txt": 1
+    },
+    "abc": {
+        "3.txt": 2
+    },
+    "anthropological": {
+        "3.txt": 1
+    },
+    "ap": {
+        "3.txt": 1
+    },
+    "adams": {
+        "3.txt": 5
+    },
+    "antgeld": {
+        "3.txt": 1
+    },
+    "armitage": {
+        "3.txt": 2
+    },
+    "administers": {
+        "3.txt": 1
+    },
+    "arboretium": {
+        "3.txt": 1
+    },
+    "aquarium": {
+        "3.txt": 1
+    },
+    "ambushed": {
+        "3.txt": 1
+    },
+    "agitprop": {
+        "3.txt": 1
+    },
+    "ardmore": {
+        "3.txt": 1
+    },
+    "avalon": {
+        "3.txt": 1
+    },
+    "afsc": {
+        "3.txt": 1
+    },
+    "assn": {
+        "3.txt": 1
+    },
+    "admissions": {
+        "3.txt": 1
+    },
+    "arroyo": {
+        "3.txt": 2
+    },
+    "anzac": {
+        "3.txt": 1
+    },
+    "apricots": {
+        "12.txt": 1
+    },
+    "abruptly": {
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "accusing": {
+        "12.txt": 2
+    },
+    "adders": {
+        "12.txt": 1
+    },
+    "apprenticeship": {
+        "12.txt": 1
+    },
+    "aggravating": {
+        "12.txt": 1
+    },
+    "activated": {
+        "12.txt": 1
+    },
+    "amino": {
+        "12.txt": 2
+    },
+    "acids": {
+        "12.txt": 2
+    },
+    "alkaline": {
+        "12.txt": 1
+    },
+    "alighted": {
+        "12.txt": 1
+    },
+    "armpit": {
+        "12.txt": 1
+    },
+    "aunts": {
+        "12.txt": 2
+    },
+    "apes": {
+        "12.txt": 1
+    },
+    "aspirin": {
+        "12.txt": 3
+    },
+    "aurelius": {
+        "12.txt": 2
+    },
+    "abstractedly": {
+        "12.txt": 1
+    },
+    "appealed": {
+        "12.txt": 1
+    },
+    "authors": {
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "acrobats": {
+        "12.txt": 1
+    },
+    "accidentally": {
+        "12.txt": 1
+    },
+    "architects": {
+        "12.txt": 1
+    },
+    "admitting": {
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "atomic": {
+        "12.txt": 2
+    },
+    "acknowledging": {
+        "12.txt": 1
+    },
+    "antaeus": {
+        "12.txt": 1
+    },
+    "arsonists": {
+        "12.txt": 1
+    },
+    "asses": {
+        "12.txt": 1
+    },
+    "aeschylus": {
+        "12.txt": 1
+    },
+    "advantageous": {
+        "12.txt": 1
+    },
+    "analyse": {
+        "12.txt": 1
+    },
+    "accompaniment": {
+        "12.txt": 1
+    },
+    "audible": {
+        "12.txt": 1
+    },
+    "armies": {
+        "12.txt": 1
+    },
+    "abound": {
+        "12.txt": 1
+    },
+    "alexander": {
+        "12.txt": 1
+    },
+    "adjectives": {
+        "12.txt": 1
+    },
+    "assignment": {
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "antibiotic": {
+        "12.txt": 1
+    },
+    "aesthetic": {
+        "12.txt": 1
+    },
+    "armpits": {
+        "12.txt": 1
+    },
+    "avalanche": {
+        "12.txt": 2
+    },
+    "anaesthetized": {
+        "12.txt": 1
+    },
+    "asphalt": {
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "arc": {
+        "12.txt": 1
+    },
+    "aluminium": {
+        "12.txt": 1
+    },
+    "axis": {
+        "12.txt": 1
+    },
+    "asbestos": {
+        "12.txt": 1
+    },
+    "albert": {
+        "12.txt": 1
+    },
+    "aristophanes": {
+        "12.txt": 1
+    },
+    "atom": {
+        "12.txt": 1
+    },
+    "aroma": {
+        "12.txt": 1
+    },
+    "approbatione": {
+        "21.txt": 1
+    },
+    "approbation": {
+        "21.txt": 2
+    },
+    "acceptable": {
+        "21.txt": 1
+    },
+    "accuse": {
+        "21.txt": 1
+    },
+    "affirm": {
+        "21.txt": 8
+    },
+    "apollonius": {
+        "21.txt": 1
+    },
+    "adepts": {
+        "21.txt": 1
+    },
+    "arrogantly": {
+        "21.txt": 1
+    },
+    "authorize": {
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "atheists": {
+        "21.txt": 1
+    },
+    "acquainting": {
+        "21.txt": 1
+    },
+    "atheistic": {
+        "21.txt": 1
+    },
+    "atheist": {
+        "21.txt": 1
+    },
+    "ascribe": {
+        "21.txt": 1
+    },
+    "affections": {
+        "21.txt": 4
+    },
+    "attribute": {
+        "21.txt": 12
+    },
+    "allege": {
+        "21.txt": 1
+    },
+    "arbitrarily": {
+        "21.txt": 1
+    },
+    "arises": {
+        "21.txt": 3
+    },
+    "attained": {
+        "21.txt": 1
+    },
+    "attired": {
+        "21.txt": 1
+    },
+    "astronomy": {
+        "21.txt": 1
+    },
+    "antecedents": {
+        "21.txt": 1
+    },
+    "amiss": {
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "availed": {
+        "21.txt": 1
+    },
+    "agreeable": {
+        "21.txt": 5
+    },
+    "appertain": {
+        "21.txt": 1
+    },
+    "affirms": {
+        "21.txt": 3
+    },
+    "averse": {
+        "21.txt": 1
+    },
+    "alters": {
+        "21.txt": 1
+    },
+    "abstracting": {
+        "21.txt": 1
+    },
+    "absurd": {
+        "21.txt": 1
+    },
+    "affirmed": {
+        "21.txt": 1
+    },
+    "arising": {
+        "21.txt": 1
+    },
+    "adventitious": {
+        "21.txt": 3
+    },
+    "astronomical": {
+        "21.txt": 1
+    },
+    "archetype": {
+        "21.txt": 1
+    },
+    "admixture": {
+        "21.txt": 1
+    },
+    "attain": {
+        "21.txt": 2
+    },
+    "attainment": {
+        "21.txt": 1
+    },
+    "aspires": {
+        "21.txt": 1
+    },
+    "adore": {
+        "21.txt": 1
+    },
+    "artizan": {
+        "21.txt": 1
+    },
+    "apprehend19": {
+        "21.txt": 1
+    },
+    "abstain": {
+        "21.txt": 3
+    },
+    "abstracted": {
+        "21.txt": 1
+    },
+    "accrues": {
+        "21.txt": 1
+    },
+    "adhere": {
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "attentive": {
+        "21.txt": 1
+    },
+    "author\u4e4eod": {
+        "21.txt": 1
+    },
+    "accords": {
+        "21.txt": 1
+    },
+    "allegations": {
+        "21.txt": 1
+    },
+    "angled": {
+        "21.txt": 1
+    },
+    "as22": {
+        "21.txt": 1
+    },
+    "alleged": {
+        "21.txt": 1
+    },
+    "apprehend24": {
+        "21.txt": 1
+    },
+    "affinity": {
+        "21.txt": 1
+    },
+    "amputated": {
+        "21.txt": 1
+    },
+    "assuredly": {
+        "21.txt": 1
+    },
+    "adversely": {
+        "21.txt": 1
+    },
+    "avoidance": {
+        "21.txt": 1
+    },
+    "apposed": {
+        "21.txt": 1
+    },
+    "augment": {
+        "21.txt": 1
+    },
+    "abcd": {
+        "21.txt": 1
+    },
+    "assessing": {
+        "17.txt": 1
+    },
+    "absolve": {
+        "17.txt": 1
+    },
+    "ablebodied": {
+        "17.txt": 1
+    },
+    "approximate": {
+        "17.txt": 1
+    },
+    "alma": {
+        "17.txt": 1
+    },
+    "airspace": {
+        "17.txt": 1
+    },
+    "adoration": {
+        "17.txt": 1
+    },
+    "absorption": {
+        "17.txt": 1
+    },
+    "alignment": {
+        "17.txt": 1
+    },
+    "anklets": {
+        "17.txt": 1
+    },
+    "assembly": {
+        "17.txt": 2
+    },
+    "airtime": {
+        "17.txt": 3
+    },
+    "antiseptic": {
+        "17.txt": 2
+    },
+    "adorned": {
+        "17.txt": 1
+    },
+    "auburn": {
+        "17.txt": 1
+    },
+    "armband": {
+        "17.txt": 2
+    },
+    "aerodynamics": {
+        "17.txt": 1
+    },
+    "accessory": {
+        "17.txt": 1
+    },
+    "affixes": {
+        "17.txt": 1
+    },
+    "acerbic": {
+        "17.txt": 1
+    },
+    "adjourns": {
+        "17.txt": 1
+    },
+    "airlift": {
+        "17.txt": 1
+    },
+    "ancestors": {
+        "17.txt": 2
+    },
+    "assaulted": {
+        "17.txt": 1
+    },
+    "airstrip": {
+        "17.txt": 2
+    },
+    "annulling": {
+        "17.txt": 1
+    },
+    "aired": {
+        "17.txt": 1
+    },
+    "applauding": {
+        "17.txt": 1
+    },
+    "applaud": {
+        "17.txt": 1
+    }
+}

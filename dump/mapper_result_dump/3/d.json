@@ -1,0 +1,4650 @@
+{
+    "dracula": {
+        "10.txt": 39
+    },
+    "died": {
+        "10.txt": 16,
+        "2.txt": 13,
+        "12.txt": 14,
+        "17.txt": 4
+    },
+    "disk": {
+        "10.txt": 4,
+        "2.txt": 3
+    },
+    "do": {
+        "10.txt": 483,
+        "2.txt": 286,
+        "3.txt": 112,
+        "12.txt": 128,
+        "21.txt": 99,
+        "17.txt": 89
+    },
+    "donations": {
+        "10.txt": 4,
+        "3.txt": 1
+    },
+    "dracu10": {
+        "10.txt": 2
+    },
+    "dracu11": {
+        "10.txt": 1
+    },
+    "dracu10a": {
+        "10.txt": 1
+    },
+    "dates": {
+        "10.txt": 6,
+        "3.txt": 2
+    },
+    "day": {
+        "10.txt": 164,
+        "2.txt": 73,
+        "3.txt": 50,
+        "12.txt": 49,
+        "21.txt": 6,
+        "17.txt": 13
+    },
+    "date": {
+        "10.txt": 8,
+        "2.txt": 2,
+        "3.txt": 10,
+        "21.txt": 1
+    },
+    "dollars": {
+        "10.txt": 2,
+        "3.txt": 17,
+        "12.txt": 5
+    },
+    "dollar": {
+        "10.txt": 1,
+        "3.txt": 13
+    },
+    "december": {
+        "10.txt": 1,
+        "3.txt": 3
+    },
+    "deductible": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "director": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "directly": {
+        "10.txt": 5,
+        "2.txt": 10,
+        "3.txt": 18,
+        "12.txt": 2,
+        "21.txt": 4,
+        "17.txt": 7
+    },
+    "dir": {
+        "10.txt": 1
+    },
+    "domain": {
+        "10.txt": 5
+    },
+    "disclaims": {
+        "10.txt": 2
+    },
+    "distribute": {
+        "10.txt": 6,
+        "3.txt": 3,
+        "21.txt": 1
+    },
+    "days": {
+        "10.txt": 61,
+        "2.txt": 31,
+        "3.txt": 20,
+        "12.txt": 22,
+        "21.txt": 3,
+        "17.txt": 11
+    },
+    "distributed": {
+        "10.txt": 2,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "despite": {
+        "10.txt": 3,
+        "2.txt": 8,
+        "3.txt": 2,
+        "21.txt": 2,
+        "17.txt": 4
+    },
+    "defects": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "data": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "defective": {
+        "10.txt": 1
+    },
+    "damaged": {
+        "10.txt": 1,
+        "2.txt": 9,
+        "3.txt": 2,
+        "21.txt": 1,
+        "17.txt": 4
+    },
+    "damage": {
+        "10.txt": 1,
+        "2.txt": 8,
+        "3.txt": 6,
+        "17.txt": 10
+    },
+    "disclaimer": {
+        "10.txt": 1
+    },
+    "damages": {
+        "10.txt": 6
+    },
+    "described": {
+        "10.txt": 7,
+        "3.txt": 5,
+        "12.txt": 1,
+        "21.txt": 3
+    },
+    "discover": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 12
+    },
+    "defect": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "21.txt": 5
+    },
+    "disclaimers": {
+        "10.txt": 2
+    },
+    "directors": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "distribution": {
+        "10.txt": 4,
+        "3.txt": 14,
+        "21.txt": 1
+    },
+    "delete": {
+        "10.txt": 1
+    },
+    "displayed": {
+        "10.txt": 5,
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "does": {
+        "10.txt": 73,
+        "2.txt": 53,
+        "3.txt": 18,
+        "12.txt": 15,
+        "21.txt": 59,
+        "17.txt": 14
+    },
+    "displays": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 4
+    },
+    "derive": {
+        "10.txt": 2,
+        "21.txt": 10
+    },
+    "don": {
+        "10.txt": 88,
+        "2.txt": 307,
+        "3.txt": 92,
+        "12.txt": 134,
+        "17.txt": 69
+    },
+    "due": {
+        "10.txt": 11,
+        "2.txt": 2,
+        "3.txt": 5,
+        "12.txt": 1,
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "danube": {
+        "10.txt": 10
+    },
+    "depth": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "21.txt": 3
+    },
+    "dinner": {
+        "10.txt": 32,
+        "2.txt": 24,
+        "3.txt": 5,
+        "12.txt": 1,
+        "17.txt": 5
+    },
+    "done": {
+        "10.txt": 127,
+        "2.txt": 33,
+        "3.txt": 16,
+        "12.txt": 26,
+        "21.txt": 4,
+        "17.txt": 12
+    },
+    "dish": {
+        "10.txt": 3,
+        "2.txt": 5
+    },
+    "disposal": {
+        "10.txt": 5
+    },
+    "dealing": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 9,
+        "21.txt": 1
+    },
+    "district": {
+        "10.txt": 1,
+        "2.txt": 230,
+        "3.txt": 9,
+        "12.txt": 1,
+        "17.txt": 52
+    },
+    "distinct": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "21.txt": 31
+    },
+    "descendants": {
+        "10.txt": 1
+    },
+    "dacians": {
+        "10.txt": 1
+    },
+    "descended": {
+        "10.txt": 5
+    },
+    "did": {
+        "10.txt": 280,
+        "2.txt": 112,
+        "3.txt": 10,
+        "12.txt": 98,
+        "21.txt": 26,
+        "17.txt": 20
+    },
+    "dreams": {
+        "10.txt": 19,
+        "2.txt": 3,
+        "12.txt": 4,
+        "21.txt": 6,
+        "17.txt": 2
+    },
+    "dog": {
+        "10.txt": 32,
+        "3.txt": 3,
+        "12.txt": 4,
+        "17.txt": 2
+    },
+    "drink": {
+        "10.txt": 12,
+        "2.txt": 18,
+        "3.txt": 4,
+        "12.txt": 4,
+        "21.txt": 8,
+        "17.txt": 1
+    },
+    "door": {
+        "10.txt": 201,
+        "2.txt": 58,
+        "3.txt": 20,
+        "12.txt": 76,
+        "17.txt": 19
+    },
+    "dawdle": {
+        "10.txt": 1
+    },
+    "dresses": {
+        "10.txt": 2,
+        "2.txt": 12,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "dirty": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 8,
+        "12.txt": 3
+    },
+    "down": {
+        "10.txt": 255,
+        "2.txt": 215,
+        "3.txt": 54,
+        "12.txt": 159,
+        "17.txt": 70
+    },
+    "dark": {
+        "10.txt": 77,
+        "2.txt": 23,
+        "3.txt": 7,
+        "12.txt": 35,
+        "17.txt": 9
+    },
+    "disease": {
+        "10.txt": 9,
+        "3.txt": 6,
+        "17.txt": 2
+    },
+    "directed": {
+        "10.txt": 9,
+        "2.txt": 4,
+        "3.txt": 4,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "delight": {
+        "10.txt": 4,
+        "12.txt": 1
+    },
+    "dress": {
+        "10.txt": 13,
+        "2.txt": 32,
+        "3.txt": 11,
+        "12.txt": 3,
+        "17.txt": 2
+    },
+    "double": {
+        "10.txt": 10,
+        "2.txt": 3,
+        "3.txt": 9,
+        "12.txt": 2,
+        "17.txt": 3
+    },
+    "diligence": {
+        "10.txt": 3,
+        "21.txt": 1
+    },
+    "directing": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "details": {
+        "10.txt": 11,
+        "2.txt": 3,
+        "3.txt": 4,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "distress": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "duty": {
+        "10.txt": 40,
+        "2.txt": 1,
+        "3.txt": 9,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "dried": {
+        "10.txt": 2,
+        "2.txt": 7,
+        "3.txt": 2,
+        "17.txt": 2
+    },
+    "doubt": {
+        "10.txt": 41,
+        "2.txt": 16,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 48,
+        "17.txt": 3
+    },
+    "diary": {
+        "10.txt": 99
+    },
+    "distant": {
+        "10.txt": 9,
+        "2.txt": 4,
+        "3.txt": 2,
+        "12.txt": 3,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "dined": {
+        "10.txt": 7
+    },
+    "disagreeable": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "driver": {
+        "10.txt": 31,
+        "3.txt": 8,
+        "12.txt": 3
+    },
+    "dictionary": {
+        "10.txt": 1,
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "difficulty": {
+        "10.txt": 22,
+        "2.txt": 1,
+        "3.txt": 3,
+        "21.txt": 9
+    },
+    "drawers": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "drove": {
+        "10.txt": 19,
+        "12.txt": 6
+    },
+    "different": {
+        "10.txt": 22,
+        "2.txt": 28,
+        "3.txt": 31,
+        "12.txt": 10,
+        "21.txt": 31,
+        "17.txt": 8
+    },
+    "deep": {
+        "10.txt": 34,
+        "2.txt": 26,
+        "3.txt": 2,
+        "12.txt": 5,
+        "21.txt": 1,
+        "17.txt": 8
+    },
+    "distance": {
+        "10.txt": 16,
+        "2.txt": 20,
+        "3.txt": 9,
+        "12.txt": 4,
+        "17.txt": 1
+    },
+    "delicate": {
+        "10.txt": 4,
+        "2.txt": 4,
+        "12.txt": 2
+    },
+    "devotion": {
+        "10.txt": 7,
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "darkness": {
+        "10.txt": 24,
+        "2.txt": 7,
+        "12.txt": 24,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "dogs": {
+        "10.txt": 22,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "denial": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "driven": {
+        "10.txt": 9,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "drew": {
+        "10.txt": 38,
+        "2.txt": 1,
+        "12.txt": 9
+    },
+    "disappointment": {
+        "10.txt": 3,
+        "2.txt": 1
+    },
+    "deceive": {
+        "10.txt": 9,
+        "21.txt": 16
+    },
+    "denn": {
+        "10.txt": 1
+    },
+    "die": {
+        "10.txt": 45,
+        "2.txt": 35,
+        "12.txt": 11,
+        "17.txt": 5
+    },
+    "dead": {
+        "10.txt": 74,
+        "2.txt": 63,
+        "3.txt": 3,
+        "12.txt": 36,
+        "17.txt": 19
+    },
+    "delay": {
+        "10.txt": 15,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "descend": {
+        "10.txt": 2,
+        "2.txt": 3
+    },
+    "doing": {
+        "10.txt": 33,
+        "2.txt": 33,
+        "3.txt": 12,
+        "12.txt": 17,
+        "21.txt": 2,
+        "17.txt": 9
+    },
+    "dreadfully": {
+        "10.txt": 2
+    },
+    "disturbed": {
+        "10.txt": 10,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "disappeared": {
+        "10.txt": 13,
+        "2.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "dreaming": {
+        "10.txt": 12,
+        "21.txt": 2
+    },
+    "device": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 14,
+        "17.txt": 1
+    },
+    "deceived": {
+        "10.txt": 5,
+        "21.txt": 18,
+        "17.txt": 1
+    },
+    "during": {
+        "10.txt": 23,
+        "2.txt": 24,
+        "3.txt": 26,
+        "12.txt": 2,
+        "21.txt": 3,
+        "17.txt": 10
+    },
+    "dreadful": {
+        "10.txt": 20,
+        "2.txt": 3,
+        "12.txt": 2
+    },
+    "descent": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "daylight": {
+        "10.txt": 8,
+        "2.txt": 3,
+        "21.txt": 1
+    },
+    "doorway": {
+        "10.txt": 4,
+        "2.txt": 6,
+        "3.txt": 1,
+        "12.txt": 2,
+        "17.txt": 6
+    },
+    "dim": {
+        "10.txt": 13,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "doubts": {
+        "10.txt": 5,
+        "2.txt": 2,
+        "3.txt": 1,
+        "21.txt": 6
+    },
+    "dawn": {
+        "10.txt": 27,
+        "2.txt": 8,
+        "12.txt": 7,
+        "17.txt": 1
+    },
+    "drawn": {
+        "10.txt": 20,
+        "2.txt": 5,
+        "12.txt": 2,
+        "21.txt": 4,
+        "17.txt": 2
+    },
+    "disuse": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "draught": {
+        "10.txt": 5
+    },
+    "doubted": {
+        "10.txt": 3,
+        "2.txt": 2,
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "dissipated": {
+        "10.txt": 1
+    },
+    "discovered": {
+        "10.txt": 6,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 3,
+        "21.txt": 7
+    },
+    "disposition": {
+        "10.txt": 6,
+        "21.txt": 2
+    },
+    "discreet": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "degrees": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "12.txt": 2,
+        "21.txt": 3
+    },
+    "desire": {
+        "10.txt": 12,
+        "2.txt": 2,
+        "3.txt": 2,
+        "21.txt": 21
+    },
+    "domed": {
+        "10.txt": 1
+    },
+    "dwellers": {
+        "10.txt": 1
+    },
+    "dream": {
+        "10.txt": 18,
+        "2.txt": 5,
+        "12.txt": 8,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "dare": {
+        "10.txt": 21,
+        "2.txt": 3,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "dear": {
+        "10.txt": 218,
+        "2.txt": 2,
+        "3.txt": 1,
+        "12.txt": 4
+    },
+    "dressed": {
+        "10.txt": 6,
+        "2.txt": 15,
+        "3.txt": 1,
+        "12.txt": 4,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "d": {
+        "10.txt": 23,
+        "2.txt": 142,
+        "3.txt": 43,
+        "12.txt": 43,
+        "21.txt": 2,
+        "17.txt": 41
+    },
+    "deficiencies": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "directory": {
+        "10.txt": 2,
+        "3.txt": 7
+    },
+    "death": {
+        "10.txt": 93,
+        "2.txt": 39,
+        "3.txt": 7,
+        "12.txt": 8,
+        "21.txt": 1,
+        "17.txt": 5
+    },
+    "doors": {
+        "10.txt": 11,
+        "2.txt": 15,
+        "3.txt": 3,
+        "12.txt": 6,
+        "17.txt": 7
+    },
+    "destruction": {
+        "10.txt": 5,
+        "2.txt": 2,
+        "3.txt": 2,
+        "21.txt": 1,
+        "17.txt": 4
+    },
+    "drifted": {
+        "10.txt": 4,
+        "2.txt": 2,
+        "12.txt": 2
+    },
+    "deeds": {
+        "10.txt": 5
+    },
+    "dilapidated": {
+        "10.txt": 1
+    },
+    "diffuse": {
+        "10.txt": 2
+    },
+    "detail": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 4,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "demoniac": {
+        "10.txt": 1
+    },
+    "dangerous": {
+        "10.txt": 10,
+        "2.txt": 15,
+        "3.txt": 4,
+        "12.txt": 3,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "dining": {
+        "10.txt": 13,
+        "2.txt": 12,
+        "12.txt": 1,
+        "17.txt": 7
+    },
+    "describe": {
+        "10.txt": 7,
+        "2.txt": 2
+    },
+    "definite": {
+        "10.txt": 4,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "doubtless": {
+        "10.txt": 15,
+        "21.txt": 3
+    },
+    "desperate": {
+        "10.txt": 10,
+        "2.txt": 9,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "disfavour": {
+        "10.txt": 1
+    },
+    "dying": {
+        "10.txt": 14,
+        "2.txt": 12,
+        "3.txt": 3,
+        "12.txt": 4,
+        "17.txt": 4
+    },
+    "devils": {
+        "10.txt": 6,
+        "12.txt": 1
+    },
+    "desert": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "devil": {
+        "10.txt": 15,
+        "12.txt": 1
+    },
+    "dishonourable": {
+        "10.txt": 1
+    },
+    "dozen": {
+        "10.txt": 4,
+        "2.txt": 8,
+        "3.txt": 3,
+        "12.txt": 8,
+        "17.txt": 3
+    },
+    "durham": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "dover": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "direct": {
+        "10.txt": 4,
+        "2.txt": 7,
+        "3.txt": 9,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "difficulties": {
+        "10.txt": 4,
+        "21.txt": 4,
+        "17.txt": 1
+    },
+    "discourse": {
+        "10.txt": 1,
+        "12.txt": 1,
+        "21.txt": 3
+    },
+    "determined": {
+        "10.txt": 17,
+        "2.txt": 12,
+        "3.txt": 2,
+        "17.txt": 2
+    },
+    "destroying": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "delusion": {
+        "10.txt": 2
+    },
+    "downwards": {
+        "10.txt": 3
+    },
+    "dread": {
+        "10.txt": 21,
+        "2.txt": 1,
+        "12.txt": 2,
+        "21.txt": 1
+    },
+    "deal": {
+        "10.txt": 23,
+        "2.txt": 11,
+        "3.txt": 19,
+        "21.txt": 1,
+        "17.txt": 8
+    },
+    "dared": {
+        "10.txt": 11,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "dusty": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "diamond": {
+        "10.txt": 2,
+        "3.txt": 1
+    },
+    "dust": {
+        "10.txt": 29,
+        "2.txt": 6,
+        "12.txt": 15,
+        "17.txt": 2
+    },
+    "disguised": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "disobeying": {
+        "10.txt": 1
+    },
+    "dreamy": {
+        "10.txt": 3
+    },
+    "deadly": {
+        "10.txt": 10,
+        "2.txt": 12,
+        "3.txt": 4,
+        "17.txt": 3
+    },
+    "delightful": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "deliberate": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "dents": {
+        "10.txt": 2,
+        "3.txt": 1
+    },
+    "draw": {
+        "10.txt": 11,
+        "2.txt": 12,
+        "3.txt": 2,
+        "21.txt": 2
+    },
+    "demons": {
+        "10.txt": 3
+    },
+    "deathly": {
+        "10.txt": 4
+    },
+    "dreamt": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "destroyed": {
+        "10.txt": 8,
+        "2.txt": 4,
+        "12.txt": 3,
+        "21.txt": 2
+    },
+    "despair": {
+        "10.txt": 15,
+        "2.txt": 2
+    },
+    "drive": {
+        "10.txt": 15,
+        "2.txt": 1,
+        "3.txt": 14,
+        "12.txt": 2
+    },
+    "doggedly": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "danced": {
+        "10.txt": 2,
+        "12.txt": 2
+    },
+    "doomed": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "dishevelled": {
+        "10.txt": 1
+    },
+    "distressed": {
+        "10.txt": 5,
+        "2.txt": 2
+    },
+    "dam": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "dove": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "dissolved": {
+        "10.txt": 1
+    },
+    "dated": {
+        "10.txt": 2
+    },
+    "danger": {
+        "10.txt": 37,
+        "2.txt": 4,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "dares": {
+        "10.txt": 2,
+        "21.txt": 1
+    },
+    "dreaded": {
+        "10.txt": 8,
+        "2.txt": 1
+    },
+    "direction": {
+        "10.txt": 10,
+        "2.txt": 21,
+        "3.txt": 4,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "dizzy": {
+        "10.txt": 5,
+        "2.txt": 2,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "discovery": {
+        "10.txt": 6,
+        "12.txt": 1
+    },
+    "dug": {
+        "10.txt": 2,
+        "17.txt": 2
+    },
+    "destroy": {
+        "10.txt": 18,
+        "2.txt": 2,
+        "3.txt": 5,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "despatched": {
+        "10.txt": 1
+    },
+    "diabolical": {
+        "10.txt": 6
+    },
+    "doom": {
+        "10.txt": 10
+    },
+    "downward": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "despairing": {
+        "10.txt": 5,
+        "2.txt": 1
+    },
+    "downstairs": {
+        "10.txt": 7,
+        "2.txt": 7,
+        "12.txt": 4,
+        "17.txt": 2
+    },
+    "dearest": {
+        "10.txt": 15
+    },
+    "diaries": {
+        "10.txt": 8
+    },
+    "descriptions": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "doctor": {
+        "10.txt": 29,
+        "2.txt": 2,
+        "3.txt": 18,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "despise": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "dr": {
+        "10.txt": 178,
+        "3.txt": 2,
+        "12.txt": 3
+    },
+    "desdemona": {
+        "10.txt": 1
+    },
+    "doesn": {
+        "10.txt": 10,
+        "2.txt": 77,
+        "3.txt": 9,
+        "12.txt": 15,
+        "17.txt": 20
+    },
+    "driving": {
+        "10.txt": 11,
+        "3.txt": 4,
+        "12.txt": 3
+    },
+    "didn": {
+        "10.txt": 25,
+        "2.txt": 88,
+        "3.txt": 4,
+        "12.txt": 49,
+        "17.txt": 24
+    },
+    "depths": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "deserve": {
+        "10.txt": 4,
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "disturbing": {
+        "10.txt": 1
+    },
+    "drunk": {
+        "10.txt": 3,
+        "2.txt": 11,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "danes": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "descends": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "drinkin": {
+        "10.txt": 1
+    },
+    "daughter": {
+        "10.txt": 9,
+        "2.txt": 2
+    },
+    "dictatorial": {
+        "10.txt": 1
+    },
+    "drag": {
+        "10.txt": 2,
+        "2.txt": 16,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "dithering": {
+        "10.txt": 1
+    },
+    "dozzened": {
+        "10.txt": 1
+    },
+    "dialect": {
+        "10.txt": 1
+    },
+    "dun": {
+        "10.txt": 1
+    },
+    "drowned": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "12.txt": 2,
+        "17.txt": 2
+    },
+    "dearly": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "dowps": {
+        "10.txt": 1
+    },
+    "donkeys": {
+        "10.txt": 1
+    },
+    "developed": {
+        "10.txt": 2,
+        "3.txt": 2,
+        "17.txt": 3
+    },
+    "diminished": {
+        "10.txt": 2
+    },
+    "disgusted": {
+        "10.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "diminshed": {
+        "10.txt": 1
+    },
+    "depended": {
+        "10.txt": 1
+    },
+    "drop": {
+        "10.txt": 5,
+        "2.txt": 17,
+        "3.txt": 18,
+        "12.txt": 17,
+        "17.txt": 4
+    },
+    "disgorged": {
+        "10.txt": 1
+    },
+    "desires": {
+        "10.txt": 1,
+        "21.txt": 4
+    },
+    "difficult": {
+        "10.txt": 9,
+        "2.txt": 9,
+        "3.txt": 14,
+        "21.txt": 6
+    },
+    "decided": {
+        "10.txt": 9,
+        "2.txt": 10,
+        "12.txt": 2,
+        "17.txt": 2
+    },
+    "daresay": {
+        "10.txt": 4
+    },
+    "disturbs": {
+        "10.txt": 2
+    },
+    "drifting": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "dip": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 2
+    },
+    "deary": {
+        "10.txt": 3
+    },
+    "daffled": {
+        "10.txt": 1
+    },
+    "dyin": {
+        "10.txt": 1
+    },
+    "dooal": {
+        "10.txt": 1
+    },
+    "doin": {
+        "10.txt": 1
+    },
+    "depend": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 14
+    },
+    "devoutly": {
+        "10.txt": 1
+    },
+    "decide": {
+        "10.txt": 6,
+        "2.txt": 21,
+        "3.txt": 3,
+        "12.txt": 3,
+        "17.txt": 6
+    },
+    "dailygraph": {
+        "10.txt": 2
+    },
+    "degree": {
+        "10.txt": 5,
+        "2.txt": 3,
+        "3.txt": 5,
+        "21.txt": 4
+    },
+    "dipped": {
+        "10.txt": 5,
+        "2.txt": 2
+    },
+    "distinctly": {
+        "10.txt": 4,
+        "2.txt": 2,
+        "21.txt": 35
+    },
+    "dischord": {
+        "10.txt": 1
+    },
+    "devouring": {
+        "10.txt": 3
+    },
+    "dangers": {
+        "10.txt": 4,
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "dank": {
+        "10.txt": 4
+    },
+    "damp": {
+        "10.txt": 3,
+        "2.txt": 7,
+        "17.txt": 1
+    },
+    "dashing": {
+        "10.txt": 3
+    },
+    "dictu": {
+        "10.txt": 1
+    },
+    "drooping": {
+        "10.txt": 2
+    },
+    "deck": {
+        "10.txt": 15,
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "derelict": {
+        "10.txt": 4
+    },
+    "dragged": {
+        "10.txt": 5,
+        "2.txt": 6,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "declared": {
+        "10.txt": 1,
+        "12.txt": 2
+    },
+    "delegated": {
+        "10.txt": 1
+    },
+    "demeter": {
+        "10.txt": 4
+    },
+    "dues": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "dictation": {
+        "10.txt": 1
+    },
+    "dardanelles": {
+        "10.txt": 5
+    },
+    "dissatisfied": {
+        "10.txt": 1
+    },
+    "downcast": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "deckhouse": {
+        "10.txt": 1
+    },
+    "disappear": {
+        "10.txt": 4,
+        "2.txt": 2,
+        "3.txt": 3,
+        "17.txt": 3
+    },
+    "demoralise": {
+        "10.txt": 1
+    },
+    "demoralised": {
+        "10.txt": 1
+    },
+    "deserted": {
+        "10.txt": 7,
+        "2.txt": 2,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "deliberately": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "dimness": {
+        "10.txt": 1
+    },
+    "disappears": {
+        "10.txt": 1,
+        "2.txt": 7,
+        "3.txt": 2
+    },
+    "drawing": {
+        "10.txt": 11,
+        "2.txt": 8,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "dressing": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "3.txt": 4,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "diorama": {
+        "10.txt": 1
+    },
+    "disappointed": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "distinguish": {
+        "10.txt": 3,
+        "21.txt": 7
+    },
+    "daubed": {
+        "10.txt": 1
+    },
+    "distorted": {
+        "10.txt": 3,
+        "2.txt": 1
+    },
+    "dropping": {
+        "10.txt": 2,
+        "2.txt": 5,
+        "3.txt": 3,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "dispelled": {
+        "10.txt": 2
+    },
+    "dots": {
+        "10.txt": 2
+    },
+    "delivered": {
+        "10.txt": 6,
+        "2.txt": 3,
+        "3.txt": 3,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "deposit": {
+        "10.txt": 1,
+        "3.txt": 9
+    },
+    "diagrams": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "delivery": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 4,
+        "12.txt": 1
+    },
+    "destination": {
+        "10.txt": 2,
+        "3.txt": 7,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "delays": {
+        "10.txt": 2,
+        "3.txt": 1
+    },
+    "departments": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "difference": {
+        "10.txt": 7,
+        "2.txt": 6,
+        "3.txt": 1,
+        "12.txt": 2,
+        "21.txt": 9
+    },
+    "duplicate": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "disturb": {
+        "10.txt": 9,
+        "2.txt": 2,
+        "3.txt": 2,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "dreamed": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "drowning": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "dutiful": {
+        "10.txt": 1
+    },
+    "delirium": {
+        "10.txt": 1
+    },
+    "demeanor": {
+        "10.txt": 1
+    },
+    "distinctions": {
+        "10.txt": 1
+    },
+    "draweth": {
+        "10.txt": 1
+    },
+    "dishonour": {
+        "10.txt": 1
+    },
+    "dangerously": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "dropped": {
+        "10.txt": 4,
+        "2.txt": 8,
+        "12.txt": 6,
+        "17.txt": 1
+    },
+    "disappearing": {
+        "10.txt": 1,
+        "2.txt": 3
+    },
+    "determination": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "dignity": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "distrust": {
+        "10.txt": 3,
+        "21.txt": 1
+    },
+    "drives": {
+        "10.txt": 1,
+        "2.txt": 5,
+        "3.txt": 1
+    },
+    "disassociated": {
+        "10.txt": 1
+    },
+    "disraeli": {
+        "10.txt": 1
+    },
+    "dashed": {
+        "10.txt": 6
+    },
+    "doze": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "distracted": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "17.txt": 2
+    },
+    "demurred": {
+        "10.txt": 2
+    },
+    "disturbance": {
+        "10.txt": 4
+    },
+    "diagnosis": {
+        "10.txt": 1
+    },
+    "drops": {
+        "10.txt": 4,
+        "2.txt": 12,
+        "3.txt": 1,
+        "12.txt": 3,
+        "17.txt": 5
+    },
+    "diseases": {
+        "10.txt": 3,
+        "3.txt": 10
+    },
+    "dph": {
+        "10.txt": 1
+    },
+    "discretion": {
+        "10.txt": 1
+    },
+    "descriptive": {
+        "10.txt": 1
+    },
+    "daily": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "3.txt": 9,
+        "17.txt": 1
+    },
+    "dull": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 2,
+        "17.txt": 2
+    },
+    "desolate": {
+        "10.txt": 4
+    },
+    "disc": {
+        "10.txt": 2,
+        "12.txt": 2
+    },
+    "disastrous": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "discreetly": {
+        "10.txt": 2,
+        "3.txt": 1
+    },
+    "decision": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 4,
+        "12.txt": 2,
+        "17.txt": 5
+    },
+    "dig": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "3.txt": 10,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "drugs": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "3.txt": 4,
+        "17.txt": 2
+    },
+    "dame": {
+        "10.txt": 1
+    },
+    "deeper": {
+        "10.txt": 6,
+        "2.txt": 2,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "dad": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "detect": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "drug": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 4,
+        "17.txt": 1
+    },
+    "defibrinate": {
+        "10.txt": 1
+    },
+    "drenched": {
+        "10.txt": 1,
+        "12.txt": 2
+    },
+    "dusk": {
+        "10.txt": 3
+    },
+    "doctors": {
+        "10.txt": 7,
+        "2.txt": 2,
+        "3.txt": 9,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 3
+    },
+    "decanter": {
+        "10.txt": 5
+    },
+    "dipping": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "3.txt": 1
+    },
+    "draining": {
+        "10.txt": 1,
+        "12.txt": 2
+    },
+    "deftly": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "digital": {
+        "10.txt": 1
+    },
+    "drained": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "drain": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 1,
+        "17.txt": 3
+    },
+    "decoction": {
+        "10.txt": 1
+    },
+    "distort": {
+        "10.txt": 2
+    },
+    "disgust": {
+        "10.txt": 1,
+        "2.txt": 3
+    },
+    "dreads": {
+        "10.txt": 3
+    },
+    "diagnosed": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "dry": {
+        "10.txt": 10,
+        "2.txt": 12,
+        "3.txt": 15,
+        "12.txt": 17,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "diver": {
+        "10.txt": 1
+    },
+    "department": {
+        "10.txt": 1,
+        "3.txt": 33,
+        "17.txt": 1
+    },
+    "dessay": {
+        "10.txt": 1
+    },
+    "doubled": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "durability": {
+        "10.txt": 1
+    },
+    "dismay": {
+        "10.txt": 2,
+        "12.txt": 2
+    },
+    "darling": {
+        "10.txt": 11,
+        "12.txt": 1
+    },
+    "dazed": {
+        "10.txt": 5,
+        "17.txt": 1
+    },
+    "drugged": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "desolation": {
+        "10.txt": 3,
+        "12.txt": 2
+    },
+    "dimly": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "drought": {
+        "10.txt": 1
+    },
+    "delayed": {
+        "10.txt": 4,
+        "3.txt": 1
+    },
+    "dutchman": {
+        "10.txt": 2
+    },
+    "dears": {
+        "10.txt": 1
+    },
+    "decent": {
+        "10.txt": 3,
+        "2.txt": 7,
+        "3.txt": 1,
+        "17.txt": 4
+    },
+    "defeat": {
+        "10.txt": 4,
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "drouth": {
+        "10.txt": 1
+    },
+    "drift": {
+        "10.txt": 3,
+        "2.txt": 4,
+        "12.txt": 2
+    },
+    "dudding": {
+        "10.txt": 1
+    },
+    "duly": {
+        "10.txt": 2
+    },
+    "dies": {
+        "10.txt": 3,
+        "2.txt": 7,
+        "12.txt": 5,
+        "17.txt": 1
+    },
+    "disordered": {
+        "10.txt": 1
+    },
+    "directions": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 3,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "decay": {
+        "10.txt": 3
+    },
+    "dreary": {
+        "10.txt": 3,
+        "12.txt": 1
+    },
+    "default": {
+        "10.txt": 1
+    },
+    "decease": {
+        "10.txt": 1
+    },
+    "display": {
+        "10.txt": 1,
+        "3.txt": 4,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "desperately": {
+        "10.txt": 2,
+        "2.txt": 4
+    },
+    "devotedly": {
+        "10.txt": 1
+    },
+    "decorum": {
+        "10.txt": 1
+    },
+    "distressing": {
+        "10.txt": 1
+    },
+    "denied": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "dance": {
+        "10.txt": 3,
+        "2.txt": 10,
+        "3.txt": 2,
+        "12.txt": 4
+    },
+    "division": {
+        "10.txt": 1,
+        "3.txt": 6,
+        "17.txt": 2
+    },
+    "duties": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "deeply": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1,
+        "21.txt": 2
+    },
+    "draws": {
+        "10.txt": 1,
+        "2.txt": 5,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "deux": {
+        "10.txt": 1
+    },
+    "demurely": {
+        "10.txt": 1
+    },
+    "dazzled": {
+        "10.txt": 3,
+        "21.txt": 1
+    },
+    "darknesses": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "distrustful": {
+        "10.txt": 1
+    },
+    "design": {
+        "10.txt": 2,
+        "2.txt": 8,
+        "3.txt": 4,
+        "12.txt": 1,
+        "21.txt": 3,
+        "17.txt": 2
+    },
+    "decoyed": {
+        "10.txt": 1
+    },
+    "deemed": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "descending": {
+        "10.txt": 1,
+        "2.txt": 3
+    },
+    "dynasties": {
+        "10.txt": 1
+    },
+    "defined": {
+        "10.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "delicious": {
+        "10.txt": 1,
+        "2.txt": 5,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "daytime": {
+        "10.txt": 3,
+        "3.txt": 2
+    },
+    "dominance": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "discolored": {
+        "10.txt": 1
+    },
+    "dogged": {
+        "10.txt": 2,
+        "2.txt": 2
+    },
+    "duplicates": {
+        "10.txt": 1
+    },
+    "dual": {
+        "10.txt": 1,
+        "3.txt": 3
+    },
+    "differ": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "designate": {
+        "10.txt": 1
+    },
+    "dine": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "doubting": {
+        "10.txt": 3,
+        "21.txt": 1
+    },
+    "disguise": {
+        "10.txt": 2,
+        "3.txt": 8
+    },
+    "desecration": {
+        "10.txt": 2
+    },
+    "dishonor": {
+        "10.txt": 5
+    },
+    "dough": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 8
+    },
+    "diabolically": {
+        "10.txt": 1
+    },
+    "demon": {
+        "10.txt": 2
+    },
+    "devilish": {
+        "10.txt": 2
+    },
+    "deads": {
+        "10.txt": 1
+    },
+    "debased": {
+        "10.txt": 1
+    },
+    "dint": {
+        "10.txt": 1
+    },
+    "delighted": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "dispatched": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "departure": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "dainty": {
+        "10.txt": 1
+    },
+    "description": {
+        "10.txt": 5
+    },
+    "dawned": {
+        "10.txt": 1
+    },
+    "drawer": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "documents": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "daring": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "discharge": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "darkly": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "deposited": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "detrimentally": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "delicacy": {
+        "10.txt": 1
+    },
+    "derogatory": {
+        "10.txt": 1
+    },
+    "disgusting": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "development": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 5,
+        "17.txt": 2
+    },
+    "discuss": {
+        "10.txt": 3,
+        "2.txt": 4,
+        "3.txt": 1,
+        "17.txt": 3
+    },
+    "divination": {
+        "10.txt": 1
+    },
+    "diet": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "draculas": {
+        "10.txt": 1
+    },
+    "dealings": {
+        "10.txt": 1
+    },
+    "dwell": {
+        "10.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "damned": {
+        "10.txt": 1,
+        "12.txt": 9
+    },
+    "discussion": {
+        "10.txt": 5,
+        "2.txt": 4,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "derby": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "doctrine": {
+        "10.txt": 1
+    },
+    "deem": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "demonstrative": {
+        "10.txt": 1
+    },
+    "deepest": {
+        "10.txt": 1
+    },
+    "desecrate": {
+        "10.txt": 1
+    },
+    "dexterity": {
+        "10.txt": 1
+    },
+    "domine": {
+        "10.txt": 1
+    },
+    "departed": {
+        "10.txt": 4
+    },
+    "darts": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "deliberations": {
+        "10.txt": 1
+    },
+    "doings": {
+        "10.txt": 4
+    },
+    "discontent": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "damn": {
+        "10.txt": 1,
+        "12.txt": 27
+    },
+    "dutchmen": {
+        "10.txt": 1
+    },
+    "destined": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "deplored": {
+        "10.txt": 1
+    },
+    "digression": {
+        "10.txt": 1
+    },
+    "divided": {
+        "10.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "dose": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "dozing": {
+        "10.txt": 2
+    },
+    "depriving": {
+        "10.txt": 1
+    },
+    "debauch": {
+        "10.txt": 1
+    },
+    "destinations": {
+        "10.txt": 1
+    },
+    "doubly": {
+        "10.txt": 1
+    },
+    "depite": {
+        "10.txt": 2
+    },
+    "discovering": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "dunno": {
+        "10.txt": 1
+    },
+    "depity": {
+        "10.txt": 1
+    },
+    "deputy": {
+        "10.txt": 1
+    },
+    "dustiness": {
+        "10.txt": 1
+    },
+    "dray": {
+        "10.txt": 1
+    },
+    "druv": {
+        "10.txt": 1
+    },
+    "discharged": {
+        "10.txt": 2,
+        "3.txt": 1
+    },
+    "deviate": {
+        "10.txt": 1
+    },
+    "detain": {
+        "10.txt": 1
+    },
+    "duck": {
+        "10.txt": 3,
+        "2.txt": 5,
+        "17.txt": 2
+    },
+    "discussing": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "destiny": {
+        "10.txt": 2
+    },
+    "deity": {
+        "10.txt": 1
+    },
+    "disconcert": {
+        "10.txt": 1
+    },
+    "distract": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "deer": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "desired": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 5,
+        "21.txt": 4
+    },
+    "despondently": {
+        "10.txt": 1
+    },
+    "drinking": {
+        "10.txt": 1,
+        "2.txt": 7,
+        "3.txt": 1,
+        "12.txt": 2,
+        "21.txt": 4
+    },
+    "despises": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "de": {
+        "10.txt": 2,
+        "3.txt": 4,
+        "21.txt": 2
+    },
+    "discussed": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "discoveries": {
+        "10.txt": 1
+    },
+    "dozed": {
+        "10.txt": 1
+    },
+    "depressed": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "dripping": {
+        "10.txt": 1,
+        "2.txt": 10,
+        "12.txt": 1
+    },
+    "disarray": {
+        "10.txt": 1
+    },
+    "despairingly": {
+        "10.txt": 1
+    },
+    "deserts": {
+        "10.txt": 1
+    },
+    "damply": {
+        "10.txt": 1
+    },
+    "divert": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "dash": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "drip": {
+        "10.txt": 1
+    },
+    "drooped": {
+        "10.txt": 1
+    },
+    "deepened": {
+        "10.txt": 2
+    },
+    "demand": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "3.txt": 4,
+        "21.txt": 2,
+        "17.txt": 4
+    },
+    "disorder": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "dulling": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "dispatch": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "devoted": {
+        "10.txt": 2,
+        "21.txt": 1
+    },
+    "dominant": {
+        "10.txt": 1
+    },
+    "disdain": {
+        "10.txt": 1
+    },
+    "dive": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "17.txt": 1
+    },
+    "depart": {
+        "10.txt": 1
+    },
+    "darken": {
+        "10.txt": 1
+    },
+    "deny": {
+        "10.txt": 1,
+        "21.txt": 11
+    },
+    "dividing": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "despicable": {
+        "10.txt": 1,
+        "2.txt": 4
+    },
+    "dreaminess": {
+        "10.txt": 1
+    },
+    "dreamily": {
+        "10.txt": 1
+    },
+    "disbelieve": {
+        "10.txt": 1
+    },
+    "disbelief": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "12.txt": 2
+    },
+    "doolittle": {
+        "10.txt": 2
+    },
+    "dense": {
+        "10.txt": 1,
+        "2.txt": 4
+    },
+    "diabolic": {
+        "10.txt": 1
+    },
+    "defame": {
+        "10.txt": 1
+    },
+    "definitely": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "3.txt": 5
+    },
+    "distills": {
+        "10.txt": 1
+    },
+    "direst": {
+        "10.txt": 1
+    },
+    "disclose": {
+        "10.txt": 2,
+        "21.txt": 1
+    },
+    "disagrees": {
+        "10.txt": 1
+    },
+    "dreamless": {
+        "10.txt": 1
+    },
+    "defy": {
+        "10.txt": 1,
+        "2.txt": 3
+    },
+    "doubtful": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "21.txt": 3
+    },
+    "distinction": {
+        "10.txt": 1,
+        "21.txt": 13
+    },
+    "dos": {
+        "10.txt": 1
+    },
+    "doer": {
+        "10.txt": 1
+    },
+    "distraction": {
+        "10.txt": 1,
+        "17.txt": 2
+    },
+    "donelson": {
+        "10.txt": 2
+    },
+    "deil": {
+        "10.txt": 5
+    },
+    "decently": {
+        "10.txt": 1
+    },
+    "displeased": {
+        "10.txt": 1
+    },
+    "dealt": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1,
+        "21.txt": 2
+    },
+    "detained": {
+        "10.txt": 2,
+        "17.txt": 1
+    },
+    "dispirited": {
+        "10.txt": 1
+    },
+    "differentiate": {
+        "10.txt": 1
+    },
+    "deathtrap": {
+        "10.txt": 1
+    },
+    "den": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "dire": {
+        "10.txt": 1
+    },
+    "dismiss": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "deference": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "deign": {
+        "10.txt": 2,
+        "21.txt": 2
+    },
+    "drowse": {
+        "10.txt": 1
+    },
+    "depression": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "dilemma": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "deed": {
+        "10.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "dissolution": {
+        "10.txt": 2
+    },
+    "downhill": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "deadening": {
+        "10.txt": 1
+    },
+    "disappearance": {
+        "10.txt": 1
+    },
+    "document": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "drags": {
+        "2.txt": 1
+    },
+    "dreading": {
+        "2.txt": 2
+    },
+    "designed": {
+        "2.txt": 3,
+        "3.txt": 9,
+        "17.txt": 8
+    },
+    "districts": {
+        "2.txt": 40,
+        "17.txt": 19
+    },
+    "depending": {
+        "2.txt": 1,
+        "3.txt": 9,
+        "21.txt": 3
+    },
+    "designated": {
+        "2.txt": 3,
+        "3.txt": 2,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "dwelling": {
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "demands": {
+        "2.txt": 4,
+        "3.txt": 2,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "dislikes": {
+        "2.txt": 1
+    },
+    "dries": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "drinks": {
+        "2.txt": 2,
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "darius": {
+        "2.txt": 23
+    },
+    "disapproval": {
+        "2.txt": 2
+    },
+    "dotted": {
+        "2.txt": 3
+    },
+    "decoration": {
+        "2.txt": 1
+    },
+    "droppings": {
+        "2.txt": 1
+    },
+    "discarded": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "dump": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "douses": {
+        "2.txt": 1
+    },
+    "decrees": {
+        "2.txt": 1
+    },
+    "defense": {
+        "2.txt": 5,
+        "3.txt": 22,
+        "17.txt": 9
+    },
+    "desk": {
+        "2.txt": 6,
+        "3.txt": 4,
+        "12.txt": 1
+    },
+    "defiance": {
+        "2.txt": 6,
+        "17.txt": 2
+    },
+    "directness": {
+        "2.txt": 1
+    },
+    "dismissing": {
+        "2.txt": 1
+    },
+    "destroys": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "documenting": {
+        "2.txt": 1
+    },
+    "dynamic": {
+        "2.txt": 1
+    },
+    "defying": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "dabs": {
+        "2.txt": 1
+    },
+    "deception": {
+        "2.txt": 1,
+        "21.txt": 5
+    },
+    "drunken": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "diving": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "disapproving": {
+        "2.txt": 1
+    },
+    "demanded": {
+        "2.txt": 1,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "develop": {
+        "2.txt": 2,
+        "3.txt": 6
+    },
+    "designing": {
+        "2.txt": 2
+    },
+    "designs": {
+        "2.txt": 5,
+        "3.txt": 2
+    },
+    "deaf": {
+        "2.txt": 2
+    },
+    "dislike": {
+        "2.txt": 1,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "directive": {
+        "2.txt": 1
+    },
+    "drawings": {
+        "2.txt": 3,
+        "3.txt": 1
+    },
+    "drama": {
+        "2.txt": 1,
+        "12.txt": 3
+    },
+    "delicacies": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "dye": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "decorative": {
+        "2.txt": 1,
+        "17.txt": 3
+    },
+    "defensive": {
+        "2.txt": 2,
+        "3.txt": 5
+    },
+    "duplicitous": {
+        "2.txt": 1
+    },
+    "digging": {
+        "2.txt": 4,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "dirt": {
+        "2.txt": 5,
+        "3.txt": 3,
+        "12.txt": 2,
+        "17.txt": 2
+    },
+    "disintegrating": {
+        "2.txt": 2
+    },
+    "dairy": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "drilled": {
+        "2.txt": 2
+    },
+    "debt": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "duration": {
+        "2.txt": 1,
+        "21.txt": 5
+    },
+    "defied": {
+        "2.txt": 1
+    },
+    "dissent": {
+        "2.txt": 2,
+        "17.txt": 2
+    },
+    "defusing": {
+        "2.txt": 1
+    },
+    "dragging": {
+        "2.txt": 6,
+        "3.txt": 1
+    },
+    "decades": {
+        "2.txt": 1
+    },
+    "dome": {
+        "2.txt": 5,
+        "3.txt": 1
+    },
+    "disrupt": {
+        "2.txt": 1
+    },
+    "disrupted": {
+        "2.txt": 1
+    },
+    "desperation": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "dishes": {
+        "2.txt": 3,
+        "3.txt": 5,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "downs": {
+        "2.txt": 1
+    },
+    "dazzling": {
+        "2.txt": 4
+    },
+    "dinners": {
+        "2.txt": 2,
+        "3.txt": 2
+    },
+    "delirious": {
+        "2.txt": 1
+    },
+    "dyed": {
+        "2.txt": 1
+    },
+    "drizzled": {
+        "2.txt": 1
+    },
+    "distractions": {
+        "2.txt": 1
+    },
+    "detonate": {
+        "2.txt": 2
+    },
+    "dances": {
+        "2.txt": 1
+    },
+    "dreamlike": {
+        "2.txt": 1
+    },
+    "dancing": {
+        "2.txt": 2,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "distracts": {
+        "2.txt": 2
+    },
+    "decorated": {
+        "2.txt": 1
+    },
+    "darkened": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "declaration": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "droning": {
+        "2.txt": 1
+    },
+    "decides": {
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "ditch": {
+        "2.txt": 1,
+        "3.txt": 3
+    },
+    "deft": {
+        "2.txt": 1
+    },
+    "dampened": {
+        "2.txt": 1
+    },
+    "defuse": {
+        "2.txt": 2
+    },
+    "describing": {
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "disaster": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "depends": {
+        "2.txt": 2,
+        "3.txt": 6,
+        "12.txt": 1,
+        "21.txt": 10
+    },
+    "deflect": {
+        "2.txt": 1
+    },
+    "dispensed": {
+        "2.txt": 1
+    },
+    "drumsticks": {
+        "2.txt": 1
+    },
+    "dimming": {
+        "2.txt": 1
+    },
+    "disliked": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "doorbell": {
+        "2.txt": 1
+    },
+    "deflate": {
+        "2.txt": 1
+    },
+    "digs": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "disintegrates": {
+        "2.txt": 1
+    },
+    "deciding": {
+        "2.txt": 4,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "dial": {
+        "2.txt": 1,
+        "3.txt": 9,
+        "12.txt": 2
+    },
+    "drifts": {
+        "2.txt": 4
+    },
+    "doorstep": {
+        "2.txt": 1
+    },
+    "doorways": {
+        "2.txt": 1
+    },
+    "defiled": {
+        "2.txt": 1
+    },
+    "defenses": {
+        "2.txt": 2
+    },
+    "depleted": {
+        "2.txt": 1
+    },
+    "deliver": {
+        "2.txt": 3,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "differed": {
+        "2.txt": 1
+    },
+    "din": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "dock": {
+        "2.txt": 1
+    },
+    "delusions": {
+        "2.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "derailed": {
+        "2.txt": 1
+    },
+    "disperse": {
+        "2.txt": 1
+    },
+    "detection": {
+        "2.txt": 1,
+        "3.txt": 4
+    },
+    "deserves": {
+        "2.txt": 1
+    },
+    "droop": {
+        "2.txt": 1
+    },
+    "dill": {
+        "2.txt": 1
+    },
+    "deteriorated": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "disruption": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "diamonds": {
+        "2.txt": 2
+    },
+    "dyes": {
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "dictated": {
+        "2.txt": 1
+    },
+    "donner": {
+        "2.txt": 8
+    },
+    "devised": {
+        "2.txt": 1
+    },
+    "drown": {
+        "2.txt": 3,
+        "12.txt": 6
+    },
+    "deflects": {
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "drunkards": {
+        "2.txt": 1
+    },
+    "dregs": {
+        "2.txt": 1
+    },
+    "drastic": {
+        "2.txt": 1
+    },
+    "durable": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "dabbing": {
+        "2.txt": 1
+    },
+    "devoid": {
+        "2.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "detach": {
+        "2.txt": 1,
+        "21.txt": 3
+    },
+    "demanding": {
+        "2.txt": 2,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "disengages": {
+        "2.txt": 1
+    },
+    "disorients": {
+        "2.txt": 1
+    },
+    "dangling": {
+        "2.txt": 2
+    },
+    "disarms": {
+        "2.txt": 1
+    },
+    "dart": {
+        "2.txt": 3,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "dislodges": {
+        "2.txt": 1
+    },
+    "disarmed": {
+        "2.txt": 1
+    },
+    "deathblow": {
+        "2.txt": 2
+    },
+    "dessert": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "dramatic": {
+        "2.txt": 2,
+        "3.txt": 3
+    },
+    "deceptively": {
+        "2.txt": 1
+    },
+    "dramatically": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "drooling": {
+        "2.txt": 1
+    },
+    "draped": {
+        "2.txt": 1
+    },
+    "devastating": {
+        "2.txt": 1
+    },
+    "demonstrated": {
+        "2.txt": 1,
+        "3.txt": 2,
+        "21.txt": 8
+    },
+    "disrepair": {
+        "2.txt": 1
+    },
+    "depicting": {
+        "2.txt": 1
+    },
+    "dissection": {
+        "2.txt": 1
+    },
+    "disadvantage": {
+        "2.txt": 2,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "desirable": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "distaste": {
+        "2.txt": 1
+    },
+    "dependent": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 6
+    },
+    "density": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "defend": {
+        "2.txt": 2,
+        "3.txt": 4,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "designates": {
+        "2.txt": 1
+    },
+    "distorting": {
+        "2.txt": 1
+    },
+    "distractedly": {
+        "2.txt": 1
+    },
+    "dummies": {
+        "2.txt": 1
+    },
+    "dangles": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "dummy": {
+        "2.txt": 4,
+        "3.txt": 3
+    },
+    "dovetails": {
+        "2.txt": 1
+    },
+    "daylong": {
+        "2.txt": 1
+    },
+    "decks": {
+        "2.txt": 1
+    },
+    "devices": {
+        "2.txt": 2,
+        "3.txt": 14
+    },
+    "daggers": {
+        "2.txt": 1
+    },
+    "defensively": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "devours": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "drapes": {
+        "2.txt": 1
+    },
+    "directs": {
+        "2.txt": 1
+    },
+    "describes": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "detract": {
+        "2.txt": 1
+    },
+    "delaying": {
+        "2.txt": 2
+    },
+    "dehydration": {
+        "2.txt": 3
+    },
+    "driftwood": {
+        "2.txt": 1
+    },
+    "dives": {
+        "2.txt": 2
+    },
+    "deals": {
+        "2.txt": 1,
+        "3.txt": 10
+    },
+    "diminish": {
+        "2.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "drumming": {
+        "2.txt": 1
+    },
+    "doubtfully": {
+        "2.txt": 2
+    },
+    "drinkable": {
+        "2.txt": 1
+    },
+    "deflecting": {
+        "2.txt": 1
+    },
+    "diagonal": {
+        "2.txt": 3
+    },
+    "dewdrop": {
+        "2.txt": 1
+    },
+    "divulge": {
+        "2.txt": 1
+    },
+    "drill": {
+        "2.txt": 2,
+        "3.txt": 2
+    },
+    "downpour": {
+        "2.txt": 1
+    },
+    "droplets": {
+        "2.txt": 5
+    },
+    "debilitating": {
+        "2.txt": 1
+    },
+    "droops": {
+        "2.txt": 1
+    },
+    "diminishes": {
+        "2.txt": 1
+    },
+    "detoxify": {
+        "2.txt": 1
+    },
+    "distances": {
+        "2.txt": 1,
+        "3.txt": 6
+    },
+    "disabled": {
+        "2.txt": 1
+    },
+    "defenseless": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "dabbles": {
+        "2.txt": 1
+    },
+    "dappled": {
+        "2.txt": 1
+    },
+    "decomposing": {
+        "2.txt": 1
+    },
+    "disdainful": {
+        "2.txt": 1
+    },
+    "deranged": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "dragger": {
+        "2.txt": 1
+    },
+    "dunks": {
+        "2.txt": 2
+    },
+    "dilated": {
+        "2.txt": 1
+    },
+    "detached": {
+        "2.txt": 1,
+        "21.txt": 2
+    },
+    "daydreams": {
+        "2.txt": 1
+    },
+    "dunking": {
+        "2.txt": 1
+    },
+    "dizziness": {
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "deceleration": {
+        "2.txt": 1
+    },
+    "demeaning": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "decipher": {
+        "2.txt": 1
+    },
+    "divide": {
+        "2.txt": 5,
+        "3.txt": 1,
+        "12.txt": 1,
+        "21.txt": 2
+    },
+    "discomfort": {
+        "2.txt": 1
+    },
+    "dumbfounded": {
+        "2.txt": 1
+    },
+    "dilate": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "diameter": {
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "dent": {
+        "2.txt": 1,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "dips": {
+        "2.txt": 1
+    },
+    "decisions": {
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "disorient": {
+        "2.txt": 1
+    },
+    "divides": {
+        "2.txt": 1
+    },
+    "digest": {
+        "2.txt": 1,
+        "12.txt": 5
+    },
+    "dispute": {
+        "2.txt": 2,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "disconcerted": {
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "decidedly": {
+        "2.txt": 1
+    },
+    "defer": {
+        "2.txt": 1
+    },
+    "decorate": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "dismissively": {
+        "2.txt": 1
+    },
+    "drains": {
+        "2.txt": 1
+    },
+    "debate": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "disengage": {
+        "2.txt": 1
+    },
+    "disoriented": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "dangle": {
+        "2.txt": 1
+    },
+    "deceptions": {
+        "2.txt": 1
+    },
+    "drunkenness": {
+        "2.txt": 1
+    },
+    "decency": {
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "dully": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "delivers": {
+        "2.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "dedicated": {
+        "3.txt": 3
+    },
+    "discontents": {
+        "3.txt": 1
+    },
+    "dope": {
+        "3.txt": 19
+    },
+    "diploma": {
+        "3.txt": 3
+    },
+    "demonstrations": {
+        "3.txt": 25,
+        "21.txt": 9
+    },
+    "dynamite": {
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "drawls": {
+        "3.txt": 1
+    },
+    "distributor": {
+        "3.txt": 2
+    },
+    "developments": {
+        "3.txt": 1
+    },
+    "democracy": {
+        "3.txt": 1
+    },
+    "dialogue": {
+        "3.txt": 2
+    },
+    "dissemination": {
+        "3.txt": 1
+    },
+    "detailed": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "daddy": {
+        "3.txt": 1
+    },
+    "denis": {
+        "3.txt": 1
+    },
+    "dohrn": {
+        "3.txt": 2
+    },
+    "dylan": {
+        "3.txt": 1
+    },
+    "david": {
+        "3.txt": 3
+    },
+    "denny": {
+        "3.txt": 1
+    },
+    "dudock": {
+        "3.txt": 1
+    },
+    "dotson": {
+        "3.txt": 1
+    },
+    "daniel": {
+        "3.txt": 1
+    },
+    "dana": {
+        "3.txt": 1
+    },
+    "dianna": {
+        "3.txt": 1
+    },
+    "digests": {
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "dorothy": {
+        "3.txt": 1
+    },
+    "departures": {
+        "3.txt": 1
+    },
+    "docks": {
+        "3.txt": 1
+    },
+    "discriminating": {
+        "3.txt": 2
+    },
+    "diversions": {
+        "3.txt": 1
+    },
+    "delicatessen": {
+        "3.txt": 1
+    },
+    "decoy": {
+        "3.txt": 4
+    },
+    "dented": {
+        "3.txt": 2
+    },
+    "dealers": {
+        "3.txt": 2
+    },
+    "dispose": {
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "developing": {
+        "3.txt": 3
+    },
+    "diets": {
+        "3.txt": 1
+    },
+    "dandelions": {
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "determine": {
+        "3.txt": 3,
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "determines": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "deluxe": {
+        "3.txt": 1
+    },
+    "donate": {
+        "3.txt": 2
+    },
+    "donation": {
+        "3.txt": 1
+    },
+    "doorbells": {
+        "3.txt": 1
+    },
+    "dormitories": {
+        "3.txt": 1
+    },
+    "dorm": {
+        "3.txt": 2
+    },
+    "desks": {
+        "3.txt": 3
+    },
+    "doorknob": {
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "discarding": {
+        "3.txt": 1
+    },
+    "drivers": {
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "damsel": {
+        "3.txt": 1
+    },
+    "dumb": {
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "diner": {
+        "3.txt": 1
+    },
+    "diners": {
+        "3.txt": 1
+    },
+    "driveway": {
+        "3.txt": 3
+    },
+    "davis": {
+        "3.txt": 8
+    },
+    "domestic": {
+        "3.txt": 3
+    },
+    "dude": {
+        "3.txt": 1
+    },
+    "doubling": {
+        "3.txt": 1
+    },
+    "dealer": {
+        "3.txt": 9
+    },
+    "deltas": {
+        "3.txt": 1
+    },
+    "drilling": {
+        "3.txt": 1
+    },
+    "dakotas": {
+        "3.txt": 1
+    },
+    "domes": {
+        "3.txt": 1
+    },
+    "dick": {
+        "3.txt": 3
+    },
+    "detroit": {
+        "3.txt": 11
+    },
+    "denver": {
+        "3.txt": 4
+    },
+    "delevan": {
+        "3.txt": 1
+    },
+    "dental": {
+        "3.txt": 6,
+        "12.txt": 2
+    },
+    "diaphragm": {
+        "3.txt": 4
+    },
+    "delfen": {
+        "3.txt": 1
+    },
+    "dispenser": {
+        "3.txt": 2
+    },
+    "desertion": {
+        "3.txt": 2
+    },
+    "druggist": {
+        "3.txt": 1
+    },
+    "dumping": {
+        "3.txt": 1
+    },
+    "dramatize": {
+        "3.txt": 2
+    },
+    "dramatizes": {
+        "3.txt": 1
+    },
+    "dialogues": {
+        "3.txt": 1
+    },
+    "dime": {
+        "3.txt": 9,
+        "12.txt": 1
+    },
+    "dimes": {
+        "3.txt": 2
+    },
+    "dialed": {
+        "3.txt": 1
+    },
+    "digits": {
+        "3.txt": 1
+    },
+    "digit": {
+        "3.txt": 1
+    },
+    "disgruntled": {
+        "3.txt": 1
+    },
+    "disconnected": {
+        "3.txt": 1
+    },
+    "discounts": {
+        "3.txt": 8
+    },
+    "discards": {
+        "3.txt": 1
+    },
+    "dole": {
+        "3.txt": 1
+    },
+    "disabilities": {
+        "3.txt": 1
+    },
+    "deducted": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "devising": {
+        "3.txt": 1
+    },
+    "danish": {
+        "3.txt": 3
+    },
+    "dispensers": {
+        "3.txt": 2
+    },
+    "detected": {
+        "3.txt": 1,
+        "12.txt": 1,
+        "21.txt": 2
+    },
+    "detector": {
+        "3.txt": 3
+    },
+    "decreases": {
+        "3.txt": 1
+    },
+    "drainage": {
+        "3.txt": 1
+    },
+    "drying": {
+        "3.txt": 2
+    },
+    "dependents": {
+        "3.txt": 1
+    },
+    "dice": {
+        "3.txt": 1
+    },
+    "destitute": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "diplomas": {
+        "3.txt": 1
+    },
+    "duplicators": {
+        "3.txt": 2
+    },
+    "duplicator": {
+        "3.txt": 3
+    },
+    "defray": {
+        "3.txt": 1
+    },
+    "distributing": {
+        "3.txt": 3
+    },
+    "dinosaurs": {
+        "3.txt": 2
+    },
+    "dailey": {
+        "3.txt": 1
+    },
+    "dixie": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "dallas": {
+        "3.txt": 4
+    },
+    "drummer": {
+        "3.txt": 2
+    },
+    "diego": {
+        "3.txt": 3
+    },
+    "dwarff": {
+        "3.txt": 1
+    },
+    "del": {
+        "3.txt": 7
+    },
+    "dekalb": {
+        "3.txt": 1
+    },
+    "dreadnaught": {
+        "3.txt": 1
+    },
+    "dayton": {
+        "3.txt": 1
+    },
+    "denmark": {
+        "3.txt": 1
+    },
+    "dialog": {
+        "3.txt": 1
+    },
+    "diagram": {
+        "3.txt": 2
+    },
+    "di": {
+        "3.txt": 2
+    },
+    "detectives": {
+        "3.txt": 1
+    },
+    "disobedience": {
+        "3.txt": 1
+    },
+    "demonstration": {
+        "3.txt": 13,
+        "21.txt": 2
+    },
+    "discussions": {
+        "3.txt": 1
+    },
+    "downtown": {
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "dispersibles": {
+        "3.txt": 1
+    },
+    "disadvantages": {
+        "3.txt": 3
+    },
+    "demonstrators": {
+        "3.txt": 2
+    },
+    "distributors": {
+        "3.txt": 2
+    },
+    "dispensary": {
+        "3.txt": 1
+    },
+    "disorders": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "delivering": {
+        "3.txt": 1
+    },
+    "daley": {
+        "3.txt": 2
+    },
+    "davids": {
+        "3.txt": 1
+    },
+    "distracting": {
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "darby": {
+        "3.txt": 1
+    },
+    "dissolve": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "drano": {
+        "3.txt": 2
+    },
+    "disable": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "dmso": {
+        "3.txt": 1
+    },
+    "daisy": {
+        "3.txt": 1
+    },
+    "detergents": {
+        "3.txt": 1
+    },
+    "dab": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "dispersed": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "detonator": {
+        "3.txt": 1
+    },
+    "demolitions": {
+        "3.txt": 1
+    },
+    "diabetic": {
+        "3.txt": 1
+    },
+    "disregard": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "defendant": {
+        "3.txt": 1
+    },
+    "dismissed": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "defendants": {
+        "3.txt": 1
+    },
+    "dakota": {
+        "3.txt": 2
+    },
+    "dc": {
+        "3.txt": 2
+    },
+    "draft": {
+        "3.txt": 32
+    },
+    "deferments": {
+        "3.txt": 1
+    },
+    "deferment": {
+        "3.txt": 4
+    },
+    "defining": {
+        "3.txt": 1
+    },
+    "disallowed": {
+        "3.txt": 1
+    },
+    "domineering": {
+        "3.txt": 1
+    },
+    "disqualifies": {
+        "3.txt": 1
+    },
+    "dan": {
+        "3.txt": 1
+    },
+    "ditching": {
+        "3.txt": 2
+    },
+    "dodgers": {
+        "3.txt": 2
+    },
+    "deserters": {
+        "3.txt": 4
+    },
+    "deserter": {
+        "3.txt": 1
+    },
+    "dodger": {
+        "3.txt": 1
+    },
+    "deport": {
+        "3.txt": 1
+    },
+    "deactivation": {
+        "3.txt": 1
+    },
+    "decor": {
+        "3.txt": 1
+    },
+    "discretely": {
+        "3.txt": 1
+    },
+    "duet": {
+        "3.txt": 1
+    },
+    "doorman": {
+        "3.txt": 2
+    },
+    "dusting": {
+        "3.txt": 1
+    },
+    "dawns": {
+        "3.txt": 1
+    },
+    "duplicated": {
+        "3.txt": 1
+    },
+    "dilute": {
+        "3.txt": 1
+    },
+    "dumped": {
+        "3.txt": 1
+    },
+    "defendo": {
+        "3.txt": 1
+    },
+    "dwm": {
+        "3.txt": 1
+    },
+    "drawback": {
+        "3.txt": 1
+    },
+    "downstream": {
+        "3.txt": 2,
+        "12.txt": 3
+    },
+    "dictatorship": {
+        "3.txt": 1
+    },
+    "demonstrate": {
+        "3.txt": 1,
+        "21.txt": 3
+    },
+    "disciplined": {
+        "3.txt": 1
+    },
+    "debugging": {
+        "3.txt": 1
+    },
+    "devise": {
+        "3.txt": 1
+    },
+    "delworth": {
+        "3.txt": 1
+    },
+    "dannon": {
+        "3.txt": 1
+    },
+    "dahilia": {
+        "3.txt": 1
+    },
+    "dorp": {
+        "3.txt": 1
+    },
+    "dumont": {
+        "3.txt": 1
+    },
+    "driggs": {
+        "3.txt": 1
+    },
+    "donnell": {
+        "3.txt": 2
+    },
+    "delacourte": {
+        "3.txt": 1
+    },
+    "dearborn": {
+        "3.txt": 4
+    },
+    "damen": {
+        "3.txt": 1
+    },
+    "diversey": {
+        "3.txt": 2
+    },
+    "dhr": {
+        "3.txt": 4
+    },
+    "dist": {
+        "3.txt": 1
+    },
+    "dolores": {
+        "3.txt": 1
+    },
+    "dillinger": {
+        "3.txt": 1
+    },
+    "dialectic": {
+        "3.txt": 1
+    },
+    "dockweiler": {
+        "3.txt": 1
+    },
+    "dimensions": {
+        "12.txt": 2
+    },
+    "dew": {
+        "12.txt": 1
+    },
+    "drank": {
+        "12.txt": 6
+    },
+    "disposable": {
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "distilled": {
+        "12.txt": 2
+    },
+    "dopy": {
+        "12.txt": 1
+    },
+    "dandelion": {
+        "12.txt": 4
+    },
+    "daughters": {
+        "12.txt": 1
+    },
+    "drone": {
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "dragon": {
+        "12.txt": 3
+    },
+    "delicately": {
+        "12.txt": 2
+    },
+    "divorced": {
+        "12.txt": 2
+    },
+    "dieting": {
+        "12.txt": 1
+    },
+    "dante": {
+        "12.txt": 1
+    },
+    "dictionaries": {
+        "12.txt": 1
+    },
+    "discipline": {
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "displaces": {
+        "12.txt": 1
+    },
+    "dishwater": {
+        "12.txt": 1
+    },
+    "dimensional": {
+        "12.txt": 1
+    },
+    "dictum": {
+        "12.txt": 1
+    },
+    "deserved": {
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "drums": {
+        "12.txt": 1
+    },
+    "ducks": {
+        "12.txt": 2
+    },
+    "duo": {
+        "12.txt": 1
+    },
+    "dyke": {
+        "12.txt": 1
+    },
+    "drear": {
+        "12.txt": 2
+    },
+    "damnedest": {
+        "12.txt": 1
+    },
+    "dialled": {
+        "12.txt": 1
+    },
+    "doll": {
+        "12.txt": 2
+    },
+    "dune": {
+        "12.txt": 1
+    },
+    "denham": {
+        "12.txt": 17
+    },
+    "dentrifice": {
+        "12.txt": 1
+    },
+    "dentifrice": {
+        "12.txt": 12
+    },
+    "detergent": {
+        "12.txt": 2
+    },
+    "dandy": {
+        "12.txt": 1
+    },
+    "dammit": {
+        "12.txt": 2
+    },
+    "diverted": {
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "definition": {
+        "12.txt": 1
+    },
+    "dimension": {
+        "12.txt": 1
+    },
+    "dozens": {
+        "12.txt": 1
+    },
+    "denying": {
+        "12.txt": 1,
+        "21.txt": 2
+    },
+    "delinquents": {
+        "12.txt": 1
+    },
+    "drones": {
+        "12.txt": 1
+    },
+    "discs": {
+        "12.txt": 1
+    },
+    "daylights": {
+        "12.txt": 1
+    },
+    "darkling": {
+        "12.txt": 1
+    },
+    "dispersing": {
+        "12.txt": 1
+    },
+    "draughts": {
+        "12.txt": 1
+    },
+    "drunkard": {
+        "12.txt": 1
+    },
+    "dwarf": {
+        "12.txt": 1
+    },
+    "dwindled": {
+        "12.txt": 1
+    },
+    "displacing": {
+        "12.txt": 1
+    },
+    "drenching": {
+        "12.txt": 1
+    },
+    "darning": {
+        "12.txt": 1
+    },
+    "daffodils": {
+        "12.txt": 1
+    },
+    "dramatized": {
+        "12.txt": 1
+    },
+    "dimensionally": {
+        "12.txt": 1
+    },
+    "dwindle": {
+        "12.txt": 1
+    },
+    "dirtiest": {
+        "12.txt": 1
+    },
+    "dirtier": {
+        "12.txt": 1
+    },
+    "doused": {
+        "12.txt": 1
+    },
+    "doorknobs": {
+        "12.txt": 2
+    },
+    "dived": {
+        "12.txt": 1
+    },
+    "denim": {
+        "12.txt": 1
+    },
+    "darwin": {
+        "12.txt": 1
+    },
+    "discouraged": {
+        "12.txt": 1
+    },
+    "doves": {
+        "12.txt": 1
+    },
+    "disintegrate": {
+        "12.txt": 1
+    },
+    "dominoes": {
+        "12.txt": 1
+    },
+    "displaced": {
+        "12.txt": 1
+    },
+    "descartes": {
+        "21.txt": 6
+    },
+    "doctorum": {
+        "21.txt": 1
+    },
+    "dutch": {
+        "21.txt": 1
+    },
+    "duc": {
+        "21.txt": 1
+    },
+    "dean": {
+        "21.txt": 1
+    },
+    "discern": {
+        "21.txt": 2
+    },
+    "derived": {
+        "21.txt": 7
+    },
+    "declare": {
+        "21.txt": 1
+    },
+    "difficulty\u4ed8": {
+        "21.txt": 1
+    },
+    "dependence": {
+        "21.txt": 1
+    },
+    "differs": {
+        "21.txt": 7
+    },
+    "deserving": {
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "diverse": {
+        "21.txt": 5
+    },
+    "divisible": {
+        "21.txt": 3
+    },
+    "deduced": {
+        "21.txt": 2
+    },
+    "deduce": {
+        "21.txt": 1
+    },
+    "deliberation": {
+        "21.txt": 1
+    },
+    "downfall": {
+        "21.txt": 1
+    },
+    "deceptive": {
+        "21.txt": 2
+    },
+    "dubious": {
+        "21.txt": 4
+    },
+    "deferring": {
+        "21.txt": 1
+    },
+    "dominated": {
+        "21.txt": 1
+    },
+    "deceitful": {
+        "21.txt": 2
+    },
+    "deceiving": {
+        "21.txt": 4
+    },
+    "deceiver": {
+        "21.txt": 9
+    },
+    "deceives": {
+        "21.txt": 1
+    },
+    "distinctness": {
+        "21.txt": 7
+    },
+    "denies": {
+        "21.txt": 3
+    },
+    "distinguished": {
+        "21.txt": 1
+    },
+    "derives": {
+        "21.txt": 4
+    },
+    "dissimilar": {
+        "21.txt": 1
+    },
+    "diligently": {
+        "21.txt": 2
+    },
+    "divine": {
+        "21.txt": 4
+    },
+    "deprived": {
+        "21.txt": 3,
+        "17.txt": 1
+    },
+    "dispositions": {
+        "21.txt": 1
+    },
+    "denote": {
+        "21.txt": 1
+    },
+    "distinguishing": {
+        "21.txt": 2
+    },
+    "dimple": {
+        "21.txt": 1
+    },
+    "disposes": {
+        "21.txt": 1
+    },
+    "diminishing": {
+        "21.txt": 1
+    },
+    "deliberating": {
+        "21.txt": 2
+    },
+    "disposed": {
+        "21.txt": 4
+    },
+    "devote": {
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "determinate": {
+        "21.txt": 1
+    },
+    "demonstrating": {
+        "21.txt": 1
+    },
+    "desirous": {
+        "21.txt": 1
+    },
+    "dryness": {
+        "21.txt": 2
+    },
+    "defended": {
+        "21.txt": 1
+    },
+    "deceit": {
+        "21.txt": 1
+    },
+    "define": {
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "deceptiveness": {
+        "21.txt": 1
+    },
+    "dropsical": {
+        "21.txt": 3
+    },
+    "differently": {
+        "21.txt": 2
+    },
+    "dorsae": {
+        "21.txt": 1
+    },
+    "decomposition": {
+        "17.txt": 1
+    },
+    "dalton": {
+        "17.txt": 4
+    },
+    "diversity": {
+        "17.txt": 1
+    },
+    "dresser": {
+        "17.txt": 3
+    },
+    "dreamland": {
+        "17.txt": 1
+    },
+    "demolished": {
+        "17.txt": 1
+    },
+    "duct": {
+        "17.txt": 2
+    },
+    "downtime": {
+        "17.txt": 1
+    },
+    "defending": {
+        "17.txt": 3
+    },
+    "distraught": {
+        "17.txt": 1
+    },
+    "demotion": {
+        "17.txt": 1
+    },
+    "decimated": {
+        "17.txt": 1
+    },
+    "darkens": {
+        "17.txt": 1
+    },
+    "dependable": {
+        "17.txt": 1
+    },
+    "drawbacks": {
+        "17.txt": 1
+    },
+    "defection": {
+        "17.txt": 1
+    },
+    "devoting": {
+        "17.txt": 1
+    },
+    "discrepancies": {
+        "17.txt": 1
+    },
+    "deflating": {
+        "17.txt": 1
+    },
+    "disfigured": {
+        "17.txt": 1
+    },
+    "definitions": {
+        "17.txt": 1
+    },
+    "deviance": {
+        "17.txt": 1
+    },
+    "designating": {
+        "17.txt": 1
+    },
+    "determining": {
+        "17.txt": 1
+    },
+    "dismissive": {
+        "17.txt": 1
+    },
+    "dictate": {
+        "17.txt": 1
+    },
+    "dungeons": {
+        "17.txt": 2
+    },
+    "dna": {
+        "17.txt": 2
+    },
+    "detectors": {
+        "17.txt": 1
+    },
+    "distinctive": {
+        "17.txt": 2
+    },
+    "deactivate": {
+        "17.txt": 1
+    },
+    "disjointed": {
+        "17.txt": 1
+    },
+    "deprivation": {
+        "17.txt": 1
+    },
+    "debts": {
+        "17.txt": 1
+    },
+    "disembarks": {
+        "17.txt": 1
+    },
+    "devour": {
+        "17.txt": 1
+    },
+    "duress": {
+        "17.txt": 1
+    },
+    "devastated": {
+        "17.txt": 1
+    },
+    "detonates": {
+        "17.txt": 1
+    },
+    "debris": {
+        "17.txt": 1
+    },
+    "dissect": {
+        "17.txt": 1
+    },
+    "deluding": {
+        "17.txt": 2
+    },
+    "disappointingly": {
+        "17.txt": 1
+    },
+    "disobeyed": {
+        "17.txt": 1
+    },
+    "disregarded": {
+        "17.txt": 1
+    },
+    "depiction": {
+        "17.txt": 1
+    },
+    "dumps": {
+        "17.txt": 1
+    },
+    "dizzying": {
+        "17.txt": 1
+    }
+}

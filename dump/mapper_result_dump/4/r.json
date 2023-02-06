@@ -1,0 +1,4285 @@
+{
+    "renewed": {
+        "15.txt": 1,
+        "6.txt": 2
+    },
+    "right": {
+        "15.txt": 189,
+        "7.txt": 58,
+        "18.txt": 80,
+        "13.txt": 51,
+        "14.txt": 11,
+        "23.txt": 11,
+        "6.txt": 9
+    },
+    "radley": {
+        "15.txt": 160
+    },
+    "really": {
+        "15.txt": 26,
+        "7.txt": 41,
+        "18.txt": 65,
+        "13.txt": 15,
+        "14.txt": 13,
+        "23.txt": 10,
+        "6.txt": 6
+    },
+    "run": {
+        "15.txt": 59,
+        "7.txt": 12,
+        "18.txt": 32,
+        "13.txt": 12,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "recorded": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "6.txt": 2
+    },
+    "river": {
+        "15.txt": 13,
+        "7.txt": 12,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "returned": {
+        "15.txt": 32,
+        "7.txt": 87,
+        "13.txt": 6,
+        "6.txt": 2
+    },
+    "ran": {
+        "15.txt": 74,
+        "7.txt": 16,
+        "18.txt": 8,
+        "13.txt": 13,
+        "6.txt": 1
+    },
+    "rich": {
+        "15.txt": 4,
+        "7.txt": 38,
+        "18.txt": 3,
+        "13.txt": 9,
+        "23.txt": 2,
+        "6.txt": 5
+    },
+    "remain": {
+        "15.txt": 4,
+        "7.txt": 14,
+        "18.txt": 3,
+        "13.txt": 2,
+        "14.txt": 5,
+        "23.txt": 8,
+        "6.txt": 5
+    },
+    "required": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 8,
+        "23.txt": 4
+    },
+    "regarded": {
+        "15.txt": 3,
+        "13.txt": 2,
+        "14.txt": 14,
+        "6.txt": 2
+    },
+    "remained": {
+        "15.txt": 14,
+        "7.txt": 36,
+        "18.txt": 1,
+        "13.txt": 5,
+        "23.txt": 7,
+        "6.txt": 4
+    },
+    "read": {
+        "15.txt": 58,
+        "7.txt": 17,
+        "18.txt": 4,
+        "13.txt": 13,
+        "14.txt": 3,
+        "23.txt": 4,
+        "6.txt": 5
+    },
+    "rack": {
+        "15.txt": 4,
+        "18.txt": 5,
+        "6.txt": 1
+    },
+    "reasonable": {
+        "15.txt": 10,
+        "7.txt": 6,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "related": {
+        "15.txt": 1,
+        "7.txt": 12,
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "rainy": {
+        "15.txt": 3
+    },
+    "red": {
+        "15.txt": 20,
+        "7.txt": 4,
+        "18.txt": 19,
+        "13.txt": 9,
+        "6.txt": 9
+    },
+    "recently": {
+        "15.txt": 3,
+        "18.txt": 2,
+        "13.txt": 2,
+        "23.txt": 2,
+        "6.txt": 2
+    },
+    "residential": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "ready": {
+        "15.txt": 8,
+        "7.txt": 37,
+        "18.txt": 8,
+        "13.txt": 3,
+        "14.txt": 2,
+        "6.txt": 2
+    },
+    "remember": {
+        "15.txt": 43,
+        "7.txt": 14,
+        "18.txt": 48,
+        "13.txt": 18,
+        "14.txt": 1,
+        "6.txt": 4
+    },
+    "remembered": {
+        "15.txt": 18,
+        "7.txt": 8,
+        "18.txt": 1,
+        "13.txt": 10,
+        "6.txt": 1
+    },
+    "rachel": {
+        "15.txt": 42,
+        "18.txt": 1
+    },
+    "rat": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "readin": {
+        "15.txt": 8
+    },
+    "revelation": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 3
+    },
+    "respect": {
+        "15.txt": 6,
+        "7.txt": 11,
+        "18.txt": 1,
+        "14.txt": 47,
+        "23.txt": 5,
+        "6.txt": 2
+    },
+    "reduced": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 3,
+        "6.txt": 4
+    },
+    "routine": {
+        "15.txt": 9,
+        "18.txt": 1
+    },
+    "rested": {
+        "15.txt": 8,
+        "7.txt": 3,
+        "13.txt": 6,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "running": {
+        "15.txt": 17,
+        "7.txt": 9,
+        "18.txt": 13,
+        "13.txt": 5
+    },
+    "rice": {
+        "15.txt": 2,
+        "7.txt": 8,
+        "18.txt": 1
+    },
+    "rover": {
+        "15.txt": 3
+    },
+    "repertoire": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "reproductions": {
+        "15.txt": 1
+    },
+    "rain": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "18.txt": 7,
+        "13.txt": 17
+    },
+    "rotted": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "remains": {
+        "15.txt": 4,
+        "7.txt": 7,
+        "18.txt": 10,
+        "13.txt": 1,
+        "14.txt": 14,
+        "23.txt": 4,
+        "6.txt": 3
+    },
+    "rabbit": {
+        "15.txt": 5,
+        "18.txt": 5
+    },
+    "radleys": {
+        "15.txt": 11
+    },
+    "recreation": {
+        "15.txt": 1
+    },
+    "rode": {
+        "15.txt": 5,
+        "7.txt": 15,
+        "13.txt": 1
+    },
+    "riverside": {
+        "15.txt": 2
+    },
+    "resisted": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "reason": {
+        "15.txt": 32,
+        "7.txt": 29,
+        "18.txt": 13,
+        "13.txt": 6,
+        "14.txt": 210,
+        "23.txt": 46,
+        "6.txt": 7
+    },
+    "released": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "18.txt": 9,
+        "6.txt": 1
+    },
+    "received": {
+        "15.txt": 16,
+        "7.txt": 40,
+        "18.txt": 2,
+        "13.txt": 4,
+        "14.txt": 7,
+        "23.txt": 7
+    },
+    "room": {
+        "15.txt": 78,
+        "7.txt": 76,
+        "18.txt": 54,
+        "13.txt": 72,
+        "23.txt": 4,
+        "6.txt": 6
+    },
+    "resumed": {
+        "15.txt": 6,
+        "7.txt": 4,
+        "13.txt": 1
+    },
+    "reflect": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "23.txt": 2
+    },
+    "ramrod": {
+        "15.txt": 1
+    },
+    "reply": {
+        "15.txt": 1,
+        "7.txt": 22,
+        "18.txt": 5,
+        "13.txt": 2,
+        "23.txt": 3
+    },
+    "road": {
+        "15.txt": 28,
+        "7.txt": 23,
+        "18.txt": 1,
+        "13.txt": 22,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 4
+    },
+    "reynolds": {
+        "15.txt": 25
+    },
+    "rarely": {
+        "15.txt": 10,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "raw": {
+        "15.txt": 4,
+        "18.txt": 2,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "rotten": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "13.txt": 2
+    },
+    "raid": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "re": {
+        "15.txt": 171,
+        "7.txt": 4,
+        "18.txt": 194,
+        "13.txt": 63,
+        "6.txt": 2
+    },
+    "respectful": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "reckoned": {
+        "15.txt": 4,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "runnin": {
+        "15.txt": 8
+    },
+    "responsibility": {
+        "15.txt": 2
+    },
+    "reckon": {
+        "15.txt": 50,
+        "7.txt": 4,
+        "14.txt": 4
+    },
+    "rock": {
+        "15.txt": 2,
+        "7.txt": 11,
+        "18.txt": 6,
+        "13.txt": 4,
+        "23.txt": 1
+    },
+    "return": {
+        "15.txt": 9,
+        "7.txt": 75,
+        "18.txt": 15,
+        "13.txt": 4,
+        "14.txt": 3,
+        "23.txt": 3,
+        "6.txt": 4
+    },
+    "requests": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "references": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "recess": {
+        "15.txt": 5
+    },
+    "ruler": {
+        "15.txt": 2,
+        "7.txt": 3
+    },
+    "region": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "republicans": {
+        "15.txt": 2
+    },
+    "reading": {
+        "15.txt": 32,
+        "7.txt": 3,
+        "13.txt": 4,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "ragged": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "13.txt": 3
+    },
+    "reader": {
+        "15.txt": 4,
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "register": {
+        "15.txt": 5,
+        "18.txt": 5,
+        "13.txt": 1
+    },
+    "reads": {
+        "15.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "retired": {
+        "15.txt": 3,
+        "7.txt": 11,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "revelations": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "reproduced": {
+        "15.txt": 1
+    },
+    "rewarded": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "rows": {
+        "15.txt": 3,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "rose": {
+        "15.txt": 25,
+        "7.txt": 36,
+        "18.txt": 19,
+        "13.txt": 21,
+        "6.txt": 8
+    },
+    "rest": {
+        "15.txt": 34,
+        "7.txt": 57,
+        "18.txt": 44,
+        "13.txt": 11,
+        "14.txt": 16,
+        "23.txt": 6,
+        "6.txt": 3
+    },
+    "ruin": {
+        "15.txt": 4,
+        "7.txt": 6,
+        "13.txt": 1
+    },
+    "racket": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "rubbing": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "raised": {
+        "15.txt": 25,
+        "7.txt": 17,
+        "18.txt": 5,
+        "13.txt": 12,
+        "14.txt": 2,
+        "6.txt": 3
+    },
+    "rimmed": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "real": {
+        "15.txt": 34,
+        "7.txt": 13,
+        "18.txt": 64,
+        "13.txt": 11,
+        "14.txt": 3,
+        "23.txt": 5,
+        "6.txt": 4
+    },
+    "reached": {
+        "15.txt": 29,
+        "7.txt": 60,
+        "18.txt": 1,
+        "13.txt": 15,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "replaced": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 5,
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "requested": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "remarkin": {
+        "15.txt": 1
+    },
+    "retrieved": {
+        "15.txt": 2
+    },
+    "rid": {
+        "15.txt": 5,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "resentments": {
+        "15.txt": 2
+    },
+    "revived": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "rushed": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "13.txt": 5
+    },
+    "roll": {
+        "15.txt": 7,
+        "7.txt": 4,
+        "18.txt": 5
+    },
+    "remedy": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "rusty": {
+        "15.txt": 6
+    },
+    "rudely": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "reckons": {
+        "15.txt": 2,
+        "14.txt": 2
+    },
+    "recital": {
+        "15.txt": 2
+    },
+    "report": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 6,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "range": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 7,
+        "6.txt": 3
+    },
+    "remainder": {
+        "15.txt": 4,
+        "23.txt": 3
+    },
+    "refraining": {
+        "15.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "raced": {
+        "15.txt": 6,
+        "13.txt": 3
+    },
+    "race": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 3,
+        "13.txt": 4,
+        "14.txt": 1
+    },
+    "round": {
+        "15.txt": 14,
+        "7.txt": 42,
+        "18.txt": 10,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "replies": {
+        "15.txt": 1,
+        "18.txt": 5,
+        "23.txt": 1
+    },
+    "radio": {
+        "15.txt": 5
+    },
+    "rainin": {
+        "15.txt": 1
+    },
+    "reinforce": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "responsible": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "rigid": {
+        "15.txt": 4,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "recollection": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "relief": {
+        "15.txt": 6,
+        "7.txt": 2,
+        "18.txt": 5,
+        "13.txt": 2,
+        "6.txt": 2
+    },
+    "receiving": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 3
+    },
+    "roots": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "rather": {
+        "15.txt": 18,
+        "7.txt": 18,
+        "18.txt": 6,
+        "13.txt": 26,
+        "14.txt": 15,
+        "23.txt": 17,
+        "6.txt": 12
+    },
+    "risk": {
+        "15.txt": 3,
+        "7.txt": 9,
+        "18.txt": 4,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "relationship": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "6.txt": 3
+    },
+    "rings": {
+        "15.txt": 1,
+        "18.txt": 5
+    },
+    "ridden": {
+        "15.txt": 3,
+        "7.txt": 2
+    },
+    "regardless": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "railroad": {
+        "15.txt": 1,
+        "13.txt": 4
+    },
+    "respectable": {
+        "15.txt": 6,
+        "6.txt": 4
+    },
+    "roads": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "realize": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 25,
+        "13.txt": 4,
+        "23.txt": 1
+    },
+    "reward": {
+        "15.txt": 3,
+        "7.txt": 8,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "ritual": {
+        "15.txt": 1,
+        "6.txt": 2
+    },
+    "restore": {
+        "15.txt": 2,
+        "7.txt": 7
+    },
+    "roles": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "rang": {
+        "15.txt": 5,
+        "13.txt": 10
+    },
+    "reluctantly": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "reappear": {
+        "15.txt": 2
+    },
+    "rolled": {
+        "15.txt": 7,
+        "7.txt": 7,
+        "13.txt": 2
+    },
+    "reddening": {
+        "15.txt": 2
+    },
+    "remaining": {
+        "15.txt": 4,
+        "7.txt": 3,
+        "18.txt": 8,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "relatively": {
+        "15.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "reign": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "18.txt": 2
+    },
+    "revealed": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "23.txt": 1,
+        "6.txt": 4
+    },
+    "reaped": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "rooftops": {
+        "15.txt": 1,
+        "18.txt": 3
+    },
+    "rocking": {
+        "15.txt": 9,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "results": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 3,
+        "14.txt": 3,
+        "23.txt": 5,
+        "6.txt": 2
+    },
+    "raveling": {
+        "15.txt": 1
+    },
+    "rising": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 5,
+        "13.txt": 3
+    },
+    "ring": {
+        "15.txt": 7,
+        "7.txt": 20,
+        "18.txt": 3,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "reach": {
+        "15.txt": 6,
+        "7.txt": 13,
+        "18.txt": 35,
+        "13.txt": 8,
+        "14.txt": 6,
+        "23.txt": 11
+    },
+    "reeled": {
+        "15.txt": 1
+    },
+    "ringing": {
+        "15.txt": 5,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "rooms": {
+        "15.txt": 5,
+        "7.txt": 5,
+        "18.txt": 4,
+        "13.txt": 13,
+        "6.txt": 1
+    },
+    "retrieve": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "realized": {
+        "15.txt": 8,
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 7,
+        "14.txt": 2,
+        "23.txt": 2,
+        "6.txt": 4
+    },
+    "record": {
+        "15.txt": 4,
+        "18.txt": 4,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "relative": {
+        "15.txt": 3,
+        "18.txt": 4,
+        "14.txt": 5
+    },
+    "respective": {
+        "15.txt": 1,
+        "7.txt": 2
+    },
+    "rear": {
+        "15.txt": 5,
+        "18.txt": 1,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "row": {
+        "15.txt": 8,
+        "7.txt": 2,
+        "18.txt": 9,
+        "13.txt": 6,
+        "6.txt": 1
+    },
+    "resting": {
+        "15.txt": 4,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 2
+    },
+    "ramshackle": {
+        "15.txt": 2
+    },
+    "rough": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 5,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "roof": {
+        "15.txt": 8,
+        "7.txt": 13,
+        "18.txt": 7
+    },
+    "r": {
+        "15.txt": 3,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "regained": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 1
+    },
+    "returning": {
+        "15.txt": 4,
+        "7.txt": 11,
+        "18.txt": 7,
+        "13.txt": 2,
+        "23.txt": 3
+    },
+    "roar": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "racing": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "respiration": {
+        "15.txt": 1,
+        "23.txt": 1
+    },
+    "rounder": {
+        "15.txt": 1
+    },
+    "relaxed": {
+        "15.txt": 4,
+        "7.txt": 1
+    },
+    "revenge": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "18.txt": 3
+    },
+    "ripe": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "reassured": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "rubbed": {
+        "15.txt": 11,
+        "7.txt": 11,
+        "18.txt": 1
+    },
+    "rendered": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 5
+    },
+    "repeated": {
+        "15.txt": 5,
+        "7.txt": 12,
+        "18.txt": 3,
+        "13.txt": 11,
+        "23.txt": 2,
+        "6.txt": 3
+    },
+    "reasons": {
+        "15.txt": 9,
+        "7.txt": 8,
+        "18.txt": 4,
+        "13.txt": 2,
+        "14.txt": 3,
+        "23.txt": 15
+    },
+    "rosetta": {
+        "15.txt": 2
+    },
+    "ripple": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "restrained": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "repeat": {
+        "15.txt": 7,
+        "7.txt": 3,
+        "18.txt": 3,
+        "13.txt": 3,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "reflected": {
+        "15.txt": 4,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "rake": {
+        "15.txt": 3
+    },
+    "reddened": {
+        "15.txt": 2
+    },
+    "raise": {
+        "15.txt": 6,
+        "7.txt": 3,
+        "18.txt": 3,
+        "23.txt": 1
+    },
+    "registered": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "robe": {
+        "15.txt": 1,
+        "7.txt": 12,
+        "18.txt": 4
+    },
+    "rains": {
+        "15.txt": 1
+    },
+    "railing": {
+        "15.txt": 6
+    },
+    "rolling": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "riverbank": {
+        "15.txt": 3
+    },
+    "roaring": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 2
+    },
+    "roomers": {
+        "15.txt": 1
+    },
+    "recipe": {
+        "15.txt": 2,
+        "6.txt": 1
+    },
+    "rattle": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "ruined": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "ringworm": {
+        "15.txt": 1
+    },
+    "robinson": {
+        "15.txt": 69,
+        "18.txt": 1
+    },
+    "represent": {
+        "15.txt": 2,
+        "14.txt": 2,
+        "23.txt": 3
+    },
+    "resist": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 4
+    },
+    "respectfully": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "13.txt": 1
+    },
+    "rehash": {
+        "15.txt": 1
+    },
+    "rocked": {
+        "15.txt": 4,
+        "13.txt": 1
+    },
+    "religious": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "6.txt": 11
+    },
+    "removing": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "relativity": {
+        "15.txt": 2
+    },
+    "rifles": {
+        "15.txt": 4
+    },
+    "rut": {
+        "15.txt": 1
+    },
+    "resemblance": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "13.txt": 2
+    },
+    "relatives": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "raiders": {
+        "15.txt": 1
+    },
+    "ray": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "runt": {
+        "15.txt": 1
+    },
+    "ruinin": {
+        "15.txt": 1
+    },
+    "roared": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "reflecting": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "retreated": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "ruination": {
+        "15.txt": 1
+    },
+    "ruther": {
+        "15.txt": 1
+    },
+    "romped": {
+        "15.txt": 1
+    },
+    "remorseful": {
+        "15.txt": 1
+    },
+    "raving": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "rudiments": {
+        "15.txt": 1
+    },
+    "rightly": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "23.txt": 3
+    },
+    "rinsed": {
+        "15.txt": 1
+    },
+    "reminded": {
+        "15.txt": 7,
+        "18.txt": 1,
+        "13.txt": 4,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "rattled": {
+        "15.txt": 3
+    },
+    "rifle": {
+        "15.txt": 5,
+        "18.txt": 1
+    },
+    "rung": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "rim": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "rumored": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "raked": {
+        "15.txt": 2
+    },
+    "ruthless": {
+        "15.txt": 1
+    },
+    "regarding": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 1,
+        "23.txt": 5
+    },
+    "receive": {
+        "15.txt": 2,
+        "7.txt": 17,
+        "18.txt": 3,
+        "13.txt": 4,
+        "14.txt": 6,
+        "23.txt": 1
+    },
+    "refer": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "reaction": {
+        "15.txt": 5,
+        "18.txt": 6,
+        "13.txt": 3
+    },
+    "remarried": {
+        "15.txt": 1
+    },
+    "reform": {
+        "15.txt": 1
+    },
+    "raising": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "resented": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "remarks": {
+        "15.txt": 4,
+        "7.txt": 2,
+        "13.txt": 3,
+        "23.txt": 1
+    },
+    "rectitude": {
+        "15.txt": 1
+    },
+    "roughly": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "rug": {
+        "15.txt": 4,
+        "13.txt": 1
+    },
+    "relic": {
+        "15.txt": 1
+    },
+    "rule": {
+        "15.txt": 4,
+        "7.txt": 4,
+        "18.txt": 5,
+        "13.txt": 2,
+        "14.txt": 13,
+        "23.txt": 6,
+        "6.txt": 2
+    },
+    "reconnaissance": {
+        "15.txt": 1
+    },
+    "reopened": {
+        "15.txt": 1
+    },
+    "regular": {
+        "15.txt": 3,
+        "18.txt": 2,
+        "13.txt": 3,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "release": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 7,
+        "14.txt": 5,
+        "6.txt": 2
+    },
+    "regret": {
+        "15.txt": 3,
+        "7.txt": 5,
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "resentment": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "remote": {
+        "15.txt": 1,
+        "13.txt": 2,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "reorganizing": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "radiator": {
+        "15.txt": 1
+    },
+    "rinse": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "rods": {
+        "15.txt": 1
+    },
+    "responding": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "roses": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 17,
+        "13.txt": 1,
+        "6.txt": 2
+    },
+    "reverend": {
+        "15.txt": 51
+    },
+    "rotogravure": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "reeves": {
+        "15.txt": 1
+    },
+    "rumble": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "richardson": {
+        "15.txt": 1
+    },
+    "resided": {
+        "15.txt": 1
+    },
+    "rapin": {
+        "15.txt": 1
+    },
+    "rape": {
+        "15.txt": 13
+    },
+    "rememberin": {
+        "15.txt": 1
+    },
+    "rare": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "refreshments": {
+        "15.txt": 6,
+        "7.txt": 2
+    },
+    "reputation": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 4
+    },
+    "reports": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 2,
+        "6.txt": 5
+    },
+    "royal": {
+        "15.txt": 1,
+        "7.txt": 16
+    },
+    "requirements": {
+        "15.txt": 1,
+        "14.txt": 2
+    },
+    "result": {
+        "15.txt": 2,
+        "7.txt": 7,
+        "18.txt": 6,
+        "13.txt": 1,
+        "14.txt": 4,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "reconstruction": {
+        "15.txt": 1
+    },
+    "refined": {
+        "15.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "regretted": {
+        "15.txt": 1,
+        "7.txt": 3
+    },
+    "request": {
+        "15.txt": 5,
+        "7.txt": 17,
+        "18.txt": 2,
+        "13.txt": 9,
+        "14.txt": 4,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "rm": {
+        "15.txt": 3
+    },
+    "redbug": {
+        "15.txt": 2
+    },
+    "retire": {
+        "15.txt": 1,
+        "7.txt": 7
+    },
+    "rankling": {
+        "15.txt": 1
+    },
+    "resignation": {
+        "15.txt": 1
+    },
+    "resilient": {
+        "15.txt": 1
+    },
+    "rubber": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "reptiles": {
+        "15.txt": 1
+    },
+    "rattler": {
+        "15.txt": 1
+    },
+    "reverent": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "restored": {
+        "15.txt": 2,
+        "7.txt": 6
+    },
+    "route": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "refreshed": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "recited": {
+        "15.txt": 2
+    },
+    "retreating": {
+        "15.txt": 1,
+        "6.txt": 2
+    },
+    "reaching": {
+        "15.txt": 3,
+        "7.txt": 2,
+        "18.txt": 2,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "riot": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "runaways": {
+        "15.txt": 1
+    },
+    "roomful": {
+        "15.txt": 1
+    },
+    "rowed": {
+        "15.txt": 1,
+        "7.txt": 5
+    },
+    "rope": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 16,
+        "13.txt": 1
+    },
+    "rattling": {
+        "15.txt": 1
+    },
+    "rail": {
+        "15.txt": 6,
+        "13.txt": 1
+    },
+    "rounded": {
+        "15.txt": 1,
+        "13.txt": 2
+    },
+    "roofed": {
+        "15.txt": 1
+    },
+    "ride": {
+        "15.txt": 4,
+        "7.txt": 4,
+        "18.txt": 6,
+        "13.txt": 5
+    },
+    "remind": {
+        "15.txt": 3,
+        "7.txt": 4,
+        "18.txt": 6,
+        "13.txt": 1
+    },
+    "radiated": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "raymond": {
+        "15.txt": 20
+    },
+    "roman": {
+        "15.txt": 1
+    },
+    "rehearsal": {
+        "15.txt": 1
+    },
+    "rise": {
+        "15.txt": 3,
+        "7.txt": 23,
+        "18.txt": 10,
+        "13.txt": 4,
+        "14.txt": 1,
+        "23.txt": 6,
+        "6.txt": 1
+    },
+    "reminiscent": {
+        "15.txt": 1
+    },
+    "revival": {
+        "15.txt": 1
+    },
+    "resentful": {
+        "15.txt": 1
+    },
+    "rapidly": {
+        "15.txt": 2,
+        "7.txt": 5,
+        "18.txt": 5,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "ruddy": {
+        "15.txt": 2
+    },
+    "reality": {
+        "15.txt": 2,
+        "7.txt": 4,
+        "18.txt": 9,
+        "13.txt": 2,
+        "14.txt": 11,
+        "23.txt": 8,
+        "6.txt": 17
+    },
+    "raped": {
+        "15.txt": 4
+    },
+    "reporter": {
+        "15.txt": 10,
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "robert": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "refuse": {
+        "15.txt": 1,
+        "7.txt": 19,
+        "18.txt": 4,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "radios": {
+        "15.txt": 2
+    },
+    "residence": {
+        "15.txt": 4,
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "rude": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "recall": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "raisin": {
+        "15.txt": 1
+    },
+    "ruttin": {
+        "15.txt": 1
+    },
+    "remembering": {
+        "15.txt": 3,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 2,
+        "6.txt": 3
+    },
+    "rapping": {
+        "15.txt": 2
+    },
+    "relax": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "risen": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "rooster": {
+        "15.txt": 1
+    },
+    "regularly": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "resentfully": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "require": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 5,
+        "14.txt": 7,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "riled": {
+        "15.txt": 1
+    },
+    "recollect": {
+        "15.txt": 1
+    },
+    "rippled": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "raging": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "reconsider": {
+        "15.txt": 1
+    },
+    "rained": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "reserved": {
+        "15.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "rove": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "reversed": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "reachin": {
+        "15.txt": 1
+    },
+    "reviewed": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "resisting": {
+        "15.txt": 1
+    },
+    "recovered": {
+        "15.txt": 1,
+        "7.txt": 16
+    },
+    "riding": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "13.txt": 3
+    },
+    "requires": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "14.txt": 10,
+        "23.txt": 1
+    },
+    "relied": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "removed": {
+        "15.txt": 4,
+        "7.txt": 4,
+        "18.txt": 2,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 4
+    },
+    "reminder": {
+        "15.txt": 1
+    },
+    "ridiculous": {
+        "15.txt": 1,
+        "18.txt": 5,
+        "23.txt": 3
+    },
+    "rockefeller": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "review": {
+        "15.txt": 2
+    },
+    "relenting": {
+        "15.txt": 1
+    },
+    "remorse": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "rearranged": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "reappeared": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "13.txt": 2
+    },
+    "redheads": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "research": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "6.txt": 5
+    },
+    "reasonably": {
+        "15.txt": 2,
+        "6.txt": 1
+    },
+    "roused": {
+        "15.txt": 1,
+        "7.txt": 4
+    },
+    "reluctant": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 5
+    },
+    "rolls": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "runner": {
+        "15.txt": 2,
+        "7.txt": 1
+    },
+    "replied": {
+        "15.txt": 1,
+        "7.txt": 163
+    },
+    "recognizing": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "ruefully": {
+        "15.txt": 1
+    },
+    "ridin": {
+        "15.txt": 1
+    },
+    "reasoning": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1,
+        "6.txt": 6
+    },
+    "rainbow": {
+        "15.txt": 1,
+        "18.txt": 2
+    },
+    "rarin": {
+        "15.txt": 1
+    },
+    "recognize": {
+        "15.txt": 1,
+        "18.txt": 3,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "reverently": {
+        "15.txt": 1
+    },
+    "rugs": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "resolve": {
+        "15.txt": 1,
+        "18.txt": 4,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "rearranging": {
+        "15.txt": 1
+    },
+    "ruins": {
+        "15.txt": 1,
+        "18.txt": 2,
+        "23.txt": 1
+    },
+    "replenishing": {
+        "15.txt": 1
+    },
+    "ringlets": {
+        "15.txt": 1
+    },
+    "roosevelt": {
+        "15.txt": 1,
+        "13.txt": 4
+    },
+    "refrigerator": {
+        "15.txt": 1
+    },
+    "ridges": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "refilling": {
+        "15.txt": 1
+    },
+    "roly": {
+        "15.txt": 1
+    },
+    "reasoned": {
+        "15.txt": 1,
+        "14.txt": 1
+    },
+    "reprinted": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "routines": {
+        "15.txt": 1
+    },
+    "recluse": {
+        "15.txt": 1
+    },
+    "respectively": {
+        "15.txt": 1,
+        "14.txt": 1
+    },
+    "reveal": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "rural": {
+        "15.txt": 3
+    },
+    "roller": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "rights": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "14.txt": 4
+    },
+    "religion": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "23.txt": 2,
+        "6.txt": 16
+    },
+    "ruth": {
+        "15.txt": 2
+    },
+    "reported": {
+        "15.txt": 1,
+        "7.txt": 5,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "radical": {
+        "15.txt": 2
+    },
+    "ruled": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "roost": {
+        "15.txt": 1
+    },
+    "recovery": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 6
+    },
+    "rk": {
+        "15.txt": 1
+    },
+    "rehearsals": {
+        "15.txt": 1
+    },
+    "resemble": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "raining": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "root": {
+        "15.txt": 2,
+        "7.txt": 2,
+        "18.txt": 2,
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "runners": {
+        "15.txt": 1
+    },
+    "reshaped": {
+        "15.txt": 1
+    },
+    "rustic": {
+        "15.txt": 1
+    },
+    "relayed": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "rout": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "rescued": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 3
+    },
+    "rustlin": {
+        "15.txt": 1
+    },
+    "rustling": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "reeling": {
+        "15.txt": 1
+    },
+    "ripped": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "receiver": {
+        "15.txt": 2,
+        "13.txt": 5
+    },
+    "ribs": {
+        "15.txt": 3,
+        "18.txt": 11
+    },
+    "role": {
+        "15.txt": 1,
+        "18.txt": 5,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "reprimand": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "raling": {
+        "15.txt": 1
+    },
+    "reviving": {
+        "15.txt": 1
+    },
+    "raschid": {
+        "7.txt": 19
+    },
+    "reigns": {
+        "7.txt": 2
+    },
+    "rocs": {
+        "7.txt": 2
+    },
+    "repent": {
+        "7.txt": 6
+    },
+    "reigned": {
+        "7.txt": 6
+    },
+    "reluctance": {
+        "7.txt": 1,
+        "13.txt": 3
+    },
+    "rate": {
+        "7.txt": 4,
+        "18.txt": 4,
+        "13.txt": 2,
+        "6.txt": 4
+    },
+    "resolved": {
+        "7.txt": 26,
+        "18.txt": 1,
+        "13.txt": 3,
+        "14.txt": 1,
+        "23.txt": 10
+    },
+    "refused": {
+        "7.txt": 18,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "receives": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "rises": {
+        "7.txt": 2,
+        "18.txt": 5
+    },
+    "rage": {
+        "7.txt": 12,
+        "18.txt": 3
+    },
+    "remonstrances": {
+        "7.txt": 1
+    },
+    "repugnance": {
+        "7.txt": 1
+    },
+    "recognise": {
+        "7.txt": 4,
+        "14.txt": 7
+    },
+    "renew": {
+        "7.txt": 2
+    },
+    "robes": {
+        "7.txt": 8
+    },
+    "repeatedly": {
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "reproach": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "rubbish": {
+        "7.txt": 2
+    },
+    "rebelled": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "repay": {
+        "7.txt": 3,
+        "14.txt": 3
+    },
+    "rejoin": {
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "rein": {
+        "7.txt": 1
+    },
+    "rejoice": {
+        "7.txt": 4
+    },
+    "resolution": {
+        "7.txt": 3,
+        "14.txt": 1,
+        "23.txt": 5
+    },
+    "relieved": {
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 3
+    },
+    "rubies": {
+        "7.txt": 10,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "rod": {
+        "7.txt": 1
+    },
+    "richly": {
+        "7.txt": 13
+    },
+    "reverence": {
+        "7.txt": 1
+    },
+    "rank": {
+        "7.txt": 10,
+        "6.txt": 1
+    },
+    "races": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "regain": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "rudeness": {
+        "7.txt": 1
+    },
+    "repast": {
+        "7.txt": 11
+    },
+    "recite": {
+        "7.txt": 1
+    },
+    "rouse": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "rejected": {
+        "7.txt": 2,
+        "13.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "repented": {
+        "7.txt": 1
+    },
+    "refrain": {
+        "7.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "relations": {
+        "7.txt": 5,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 2,
+        "6.txt": 3
+    },
+    "relate": {
+        "7.txt": 9,
+        "18.txt": 1
+    },
+    "refusing": {
+        "7.txt": 4,
+        "18.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "rebel": {
+        "7.txt": 1,
+        "18.txt": 26
+    },
+    "regrets": {
+        "7.txt": 1
+    },
+    "recognised": {
+        "7.txt": 17,
+        "14.txt": 2
+    },
+    "resistance": {
+        "7.txt": 4,
+        "18.txt": 4
+    },
+    "refuge": {
+        "7.txt": 5,
+        "18.txt": 4,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "respecting": {
+        "7.txt": 1,
+        "14.txt": 5,
+        "23.txt": 7
+    },
+    "robbers": {
+        "7.txt": 6
+    },
+    "rags": {
+        "7.txt": 2
+    },
+    "rejoiced": {
+        "7.txt": 6
+    },
+    "render": {
+        "7.txt": 2,
+        "14.txt": 1,
+        "23.txt": 10,
+        "6.txt": 6
+    },
+    "restores": {
+        "7.txt": 1
+    },
+    "rapped": {
+        "7.txt": 1
+    },
+    "refusal": {
+        "7.txt": 4,
+        "13.txt": 1
+    },
+    "reappearance": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "rewards": {
+        "7.txt": 2
+    },
+    "riches": {
+        "7.txt": 15,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "rules": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 3,
+        "14.txt": 8,
+        "23.txt": 9,
+        "6.txt": 1
+    },
+    "retorted": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "rescue": {
+        "7.txt": 6,
+        "18.txt": 13
+    },
+    "repeating": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "resume": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "resort": {
+        "7.txt": 4,
+        "18.txt": 1,
+        "6.txt": 2
+    },
+    "rugged": {
+        "7.txt": 1
+    },
+    "rider": {
+        "7.txt": 4
+    },
+    "refresh": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "rent": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "recover": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "refrained": {
+        "7.txt": 1
+    },
+    "roc": {
+        "7.txt": 16
+    },
+    "reclining": {
+        "7.txt": 3,
+        "13.txt": 1
+    },
+    "rarest": {
+        "7.txt": 2
+    },
+    "reins": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "relating": {
+        "7.txt": 2
+    },
+    "recklessly": {
+        "7.txt": 2
+    },
+    "removal": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "rocky": {
+        "7.txt": 4,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "rocks": {
+        "7.txt": 6,
+        "18.txt": 3,
+        "23.txt": 1
+    },
+    "robbed": {
+        "7.txt": 3
+    },
+    "rohat": {
+        "7.txt": 2
+    },
+    "rhinoceros": {
+        "7.txt": 2
+    },
+    "reckoning": {
+        "7.txt": 1
+    },
+    "reddish": {
+        "7.txt": 1
+    },
+    "ropes": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "roasting": {
+        "7.txt": 1
+    },
+    "roasted": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "rafts": {
+        "7.txt": 7
+    },
+    "raft": {
+        "7.txt": 10,
+        "13.txt": 1
+    },
+    "rowing": {
+        "7.txt": 1
+    },
+    "reared": {
+        "7.txt": 1,
+        "23.txt": 2
+    },
+    "reeds": {
+        "7.txt": 1
+    },
+    "regaled": {
+        "7.txt": 2
+    },
+    "reassembled": {
+        "7.txt": 1
+    },
+    "rashly": {
+        "7.txt": 1
+    },
+    "raiment": {
+        "7.txt": 3
+    },
+    "remarked": {
+        "7.txt": 6,
+        "13.txt": 12,
+        "23.txt": 6,
+        "6.txt": 1
+    },
+    "richest": {
+        "7.txt": 3
+    },
+    "reproaching": {
+        "7.txt": 1
+    },
+    "recourse": {
+        "7.txt": 4,
+        "23.txt": 1
+    },
+    "realised": {
+        "7.txt": 2
+    },
+    "roast": {
+        "7.txt": 1
+    },
+    "remembrance": {
+        "7.txt": 2,
+        "18.txt": 1
+    },
+    "revive": {
+        "7.txt": 1
+    },
+    "refreshing": {
+        "7.txt": 1
+    },
+    "repose": {
+        "7.txt": 4,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "rejoicing": {
+        "7.txt": 4
+    },
+    "rapidity": {
+        "7.txt": 2
+    },
+    "rivers": {
+        "7.txt": 2,
+        "23.txt": 1
+    },
+    "roving": {
+        "7.txt": 1
+    },
+    "rapid": {
+        "7.txt": 3,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "regard": {
+        "7.txt": 6,
+        "14.txt": 26,
+        "23.txt": 3,
+        "6.txt": 3
+    },
+    "ruby": {
+        "7.txt": 1
+    },
+    "risks": {
+        "7.txt": 2,
+        "18.txt": 2
+    },
+    "recovering": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "remounted": {
+        "7.txt": 1
+    },
+    "rushing": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "resigned": {
+        "7.txt": 1
+    },
+    "rats": {
+        "7.txt": 2,
+        "18.txt": 3
+    },
+    "revel": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "redoubled": {
+        "7.txt": 3
+    },
+    "rob": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "readily": {
+        "7.txt": 6,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 6,
+        "23.txt": 4
+    },
+    "recognising": {
+        "7.txt": 3
+    },
+    "respected": {
+        "7.txt": 2,
+        "6.txt": 1
+    },
+    "replace": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "reject": {
+        "7.txt": 2,
+        "23.txt": 1
+    },
+    "revenged": {
+        "7.txt": 2
+    },
+    "roadside": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "rub": {
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "ransom": {
+        "7.txt": 1
+    },
+    "rejoicings": {
+        "7.txt": 5
+    },
+    "respite": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "reverse": {
+        "7.txt": 2,
+        "18.txt": 3,
+        "13.txt": 1
+    },
+    "revolts": {
+        "7.txt": 1
+    },
+    "roam": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "retreat": {
+        "7.txt": 1,
+        "18.txt": 4,
+        "6.txt": 3
+    },
+    "receptions": {
+        "7.txt": 1
+    },
+    "rival": {
+        "7.txt": 1
+    },
+    "restrain": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "realise": {
+        "7.txt": 3
+    },
+    "remove": {
+        "7.txt": 3,
+        "18.txt": 4,
+        "13.txt": 1,
+        "14.txt": 4,
+        "23.txt": 2
+    },
+    "reception": {
+        "7.txt": 5
+    },
+    "rejoined": {
+        "7.txt": 3
+    },
+    "renounce": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "resign": {
+        "7.txt": 3
+    },
+    "regards": {
+        "7.txt": 1,
+        "14.txt": 14,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "remarkable": {
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "roosted": {
+        "7.txt": 2
+    },
+    "roundly": {
+        "7.txt": 1
+    },
+    "retinue": {
+        "7.txt": 1
+    },
+    "reverie": {
+        "7.txt": 1
+    },
+    "roomy": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "remit": {
+        "7.txt": 1
+    },
+    "reunion": {
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "recognition": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "repelled": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "retain": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "rending": {
+        "7.txt": 1
+    },
+    "reassure": {
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 2
+    },
+    "returns": {
+        "7.txt": 1,
+        "18.txt": 5,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "resulted": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "revenue": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "resource": {
+        "7.txt": 2,
+        "14.txt": 1
+    },
+    "remonstrated": {
+        "7.txt": 1
+    },
+    "remonstrance": {
+        "7.txt": 1
+    },
+    "rase": {
+        "7.txt": 1
+    },
+    "renounced": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "renouncing": {
+        "7.txt": 1
+    },
+    "recognises": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "relish": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "reproaches": {
+        "7.txt": 1
+    },
+    "recounted": {
+        "7.txt": 1
+    },
+    "recommending": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "rescuing": {
+        "7.txt": 2
+    },
+    "recommendation": {
+        "7.txt": 1,
+        "14.txt": 1
+    },
+    "richer": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "resounded": {
+        "7.txt": 1
+    },
+    "reconciled": {
+        "7.txt": 1,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "requesting": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "reserve": {
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 2,
+        "14.txt": 2,
+        "23.txt": 2
+    },
+    "routes": {
+        "7.txt": 1
+    },
+    "reflection": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "resolutely": {
+        "7.txt": 2
+    },
+    "responded": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "rooted": {
+        "7.txt": 2,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "repulsive": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "roaming": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "rousing": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "rush": {
+        "7.txt": 1,
+        "18.txt": 3,
+        "13.txt": 3,
+        "6.txt": 1
+    },
+    "rufus": {
+        "7.txt": 4
+    },
+    "rendering": {
+        "7.txt": 1,
+        "14.txt": 2,
+        "23.txt": 1,
+        "6.txt": 2
+    },
+    "reproached": {
+        "7.txt": 1
+    },
+    "reserving": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "remarking": {
+        "7.txt": 2,
+        "13.txt": 1
+    },
+    "reminds": {
+        "7.txt": 1,
+        "18.txt": 8
+    },
+    "recorked": {
+        "7.txt": 2
+    },
+    "receipt": {
+        "7.txt": 1
+    },
+    "recalled": {
+        "7.txt": 1
+    },
+    "repaid": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "represented": {
+        "7.txt": 1,
+        "13.txt": 2,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "regions": {
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "respects": {
+        "7.txt": 1,
+        "14.txt": 5
+    },
+    "riders": {
+        "7.txt": 1
+    },
+    "remedies": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "rapture": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "rumour": {
+        "7.txt": 1
+    },
+    "refuses": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "referring": {
+        "7.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "rarities": {
+        "7.txt": 1
+    },
+    "reaches": {
+        "7.txt": 1,
+        "18.txt": 7,
+        "14.txt": 1
+    },
+    "rash": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "remark": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 7,
+        "14.txt": 2,
+        "23.txt": 3
+    },
+    "reproved": {
+        "7.txt": 1
+    },
+    "repair": {
+        "7.txt": 1,
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "replaying": {
+        "18.txt": 1
+    },
+    "rebellion": {
+        "18.txt": 12
+    },
+    "reinforced": {
+        "18.txt": 2
+    },
+    "rebels": {
+        "18.txt": 49
+    },
+    "registers": {
+        "18.txt": 2
+    },
+    "replaces": {
+        "18.txt": 3
+    },
+    "remake": {
+        "18.txt": 4
+    },
+    "rallied": {
+        "18.txt": 1
+    },
+    "remnant": {
+        "18.txt": 1
+    },
+    "reenact": {
+        "18.txt": 1
+    },
+    "raises": {
+        "18.txt": 5,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "rue": {
+        "18.txt": 3
+    },
+    "repeats": {
+        "18.txt": 2
+    },
+    "rustle": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "rendition": {
+        "18.txt": 1
+    },
+    "rendezvous": {
+        "18.txt": 3
+    },
+    "rubble": {
+        "18.txt": 8
+    },
+    "resources": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "reinstated": {
+        "18.txt": 1
+    },
+    "radiation": {
+        "18.txt": 2
+    },
+    "recent": {
+        "18.txt": 5,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "react": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "residual": {
+        "18.txt": 1
+    },
+    "relocate": {
+        "18.txt": 1
+    },
+    "rotating": {
+        "18.txt": 1
+    },
+    "retaliation": {
+        "18.txt": 1
+    },
+    "raindrops": {
+        "18.txt": 1
+    },
+    "rubs": {
+        "18.txt": 5
+    },
+    "recesses": {
+        "18.txt": 1
+    },
+    "reference": {
+        "18.txt": 2,
+        "13.txt": 1,
+        "14.txt": 10,
+        "23.txt": 2
+    },
+    "resonates": {
+        "18.txt": 1
+    },
+    "rely": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "recovers": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "realization": {
+        "18.txt": 1,
+        "14.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "razorsharp": {
+        "18.txt": 1
+    },
+    "restless": {
+        "18.txt": 2,
+        "13.txt": 5,
+        "23.txt": 1
+    },
+    "risked": {
+        "18.txt": 2
+    },
+    "romance": {
+        "18.txt": 3,
+        "23.txt": 1
+    },
+    "rushes": {
+        "18.txt": 2
+    },
+    "rebuild": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "ringed": {
+        "18.txt": 2
+    },
+    "rally": {
+        "18.txt": 1
+    },
+    "reruns": {
+        "18.txt": 1
+    },
+    "riveting": {
+        "18.txt": 1
+    },
+    "reservations": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "recrimination": {
+        "18.txt": 1
+    },
+    "reek": {
+        "18.txt": 2
+    },
+    "reacts": {
+        "18.txt": 1
+    },
+    "relinquishing": {
+        "18.txt": 1
+    },
+    "reacting": {
+        "18.txt": 2
+    },
+    "replay": {
+        "18.txt": 1
+    },
+    "removes": {
+        "18.txt": 3
+    },
+    "runs": {
+        "18.txt": 10,
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "revised": {
+        "18.txt": 1
+    },
+    "rehabilitation": {
+        "18.txt": 3
+    },
+    "records": {
+        "18.txt": 1,
+        "6.txt": 2
+    },
+    "restraint": {
+        "18.txt": 1
+    },
+    "remade": {
+        "18.txt": 1
+    },
+    "restraints": {
+        "18.txt": 5
+    },
+    "replicate": {
+        "18.txt": 2
+    },
+    "ranks": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "relocated": {
+        "18.txt": 1
+    },
+    "ribbons": {
+        "18.txt": 1
+    },
+    "relieve": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "redheaded": {
+        "18.txt": 1
+    },
+    "recounts": {
+        "18.txt": 1
+    },
+    "realistic": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "rudimentary": {
+        "18.txt": 1
+    },
+    "rips": {
+        "18.txt": 3
+    },
+    "retorts": {
+        "18.txt": 2
+    },
+    "rounds": {
+        "18.txt": 2,
+        "13.txt": 1
+    },
+    "response": {
+        "18.txt": 8,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "retrospect": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "retaliate": {
+        "18.txt": 1
+    },
+    "recognized": {
+        "18.txt": 3,
+        "13.txt": 2,
+        "14.txt": 1,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "realizing": {
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "recedes": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "rooftop": {
+        "18.txt": 3
+    },
+    "remembers": {
+        "18.txt": 1
+    },
+    "recording": {
+        "18.txt": 1,
+        "6.txt": 2
+    },
+    "reconciliation": {
+        "18.txt": 1
+    },
+    "riddled": {
+        "18.txt": 1
+    },
+    "rustily": {
+        "18.txt": 1
+    },
+    "ruptured": {
+        "18.txt": 1
+    },
+    "romantic": {
+        "18.txt": 1,
+        "13.txt": 10
+    },
+    "reattaches": {
+        "18.txt": 1
+    },
+    "resent": {
+        "18.txt": 1
+    },
+    "rumors": {
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "rampant": {
+        "18.txt": 1
+    },
+    "regroup": {
+        "18.txt": 1
+    },
+    "reinvent": {
+        "18.txt": 1
+    },
+    "rome": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "responsibilities": {
+        "18.txt": 1
+    },
+    "refugees": {
+        "18.txt": 16
+    },
+    "radiant": {
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "rhythm": {
+        "18.txt": 1,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "reduces": {
+        "18.txt": 1,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "rarity": {
+        "18.txt": 1
+    },
+    "rational": {
+        "18.txt": 2,
+        "14.txt": 133,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "razzle": {
+        "18.txt": 1
+    },
+    "responds": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "remotely": {
+        "18.txt": 1,
+        "13.txt": 2,
+        "6.txt": 3
+    },
+    "recuperating": {
+        "18.txt": 1
+    },
+    "recommend": {
+        "18.txt": 2,
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "rib": {
+        "18.txt": 1
+    },
+    "radiates": {
+        "18.txt": 2
+    },
+    "rejuvenating": {
+        "18.txt": 1
+    },
+    "restarted": {
+        "18.txt": 1
+    },
+    "reproachful": {
+        "18.txt": 1
+    },
+    "riveted": {
+        "18.txt": 1
+    },
+    "rigged": {
+        "18.txt": 1
+    },
+    "reduce": {
+        "18.txt": 1,
+        "14.txt": 5
+    },
+    "readied": {
+        "18.txt": 2
+    },
+    "recommended": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "represents": {
+        "18.txt": 1,
+        "14.txt": 3,
+        "23.txt": 2
+    },
+    "respond": {
+        "18.txt": 6
+    },
+    "regulation": {
+        "18.txt": 1
+    },
+    "reassuring": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "recognizes": {
+        "18.txt": 2,
+        "14.txt": 2
+    },
+    "regrouped": {
+        "18.txt": 1
+    },
+    "remedial": {
+        "18.txt": 1
+    },
+    "radius": {
+        "18.txt": 1
+    },
+    "replacement": {
+        "18.txt": 1,
+        "13.txt": 3,
+        "14.txt": 3
+    },
+    "relieves": {
+        "18.txt": 1
+    },
+    "rallying": {
+        "18.txt": 1
+    },
+    "rotation": {
+        "18.txt": 2
+    },
+    "rattles": {
+        "18.txt": 1
+    },
+    "revisit": {
+        "18.txt": 1
+    },
+    "rhythmic": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "reconstructing": {
+        "18.txt": 1
+    },
+    "releasing": {
+        "18.txt": 2
+    },
+    "reenacting": {
+        "18.txt": 1
+    },
+    "responses": {
+        "18.txt": 1
+    },
+    "revealing": {
+        "18.txt": 3
+    },
+    "receding": {
+        "18.txt": 1
+    },
+    "rammed": {
+        "18.txt": 1
+    },
+    "reporters": {
+        "18.txt": 3
+    },
+    "rabbits": {
+        "18.txt": 1
+    },
+    "rigging": {
+        "18.txt": 1
+    },
+    "resetting": {
+        "18.txt": 1
+    },
+    "rory": {
+        "18.txt": 2
+    },
+    "redness": {
+        "18.txt": 1
+    },
+    "ripper": {
+        "18.txt": 1
+    },
+    "ribbon": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "reliability": {
+        "18.txt": 1
+    },
+    "replica": {
+        "18.txt": 1
+    },
+    "ridding": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "rabble": {
+        "18.txt": 1
+    },
+    "ruling": {
+        "18.txt": 1
+    },
+    "reliving": {
+        "18.txt": 1
+    },
+    "registering": {
+        "18.txt": 1
+    },
+    "rests": {
+        "18.txt": 2,
+        "14.txt": 7
+    },
+    "reflects": {
+        "18.txt": 2
+    },
+    "recoil": {
+        "18.txt": 1
+    },
+    "rebounded": {
+        "18.txt": 1
+    },
+    "roadway": {
+        "18.txt": 1
+    },
+    "reptilian": {
+        "18.txt": 2
+    },
+    "rip": {
+        "18.txt": 2
+    },
+    "runoff": {
+        "18.txt": 1
+    },
+    "replicating": {
+        "18.txt": 1
+    },
+    "rungs": {
+        "18.txt": 2
+    },
+    "remnants": {
+        "18.txt": 1
+    },
+    "rabid": {
+        "18.txt": 1
+    },
+    "ripping": {
+        "18.txt": 2
+    },
+    "resembling": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "racks": {
+        "18.txt": 2
+    },
+    "repellence": {
+        "18.txt": 1
+    },
+    "reinforces": {
+        "18.txt": 1
+    },
+    "rust": {
+        "18.txt": 1
+    },
+    "rinsing": {
+        "18.txt": 1
+    },
+    "reappears": {
+        "18.txt": 1
+    },
+    "retracing": {
+        "18.txt": 1
+    },
+    "residents": {
+        "18.txt": 1
+    },
+    "redone": {
+        "18.txt": 1
+    },
+    "refute": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "referred": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 1,
+        "6.txt": 2
+    },
+    "rosebushes": {
+        "18.txt": 1
+    },
+    "resident": {
+        "18.txt": 1
+    },
+    "resembled": {
+        "18.txt": 1
+    },
+    "rejecting": {
+        "18.txt": 1
+    },
+    "remaking": {
+        "18.txt": 1
+    },
+    "redresses": {
+        "18.txt": 1
+    },
+    "reflexively": {
+        "18.txt": 1
+    },
+    "recede": {
+        "18.txt": 1
+    },
+    "refugee": {
+        "18.txt": 1
+    },
+    "rectangle": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "reaping": {
+        "18.txt": 2
+    },
+    "rawness": {
+        "18.txt": 1
+    },
+    "rosy": {
+        "18.txt": 1,
+        "13.txt": 6
+    },
+    "redder": {
+        "18.txt": 1
+    },
+    "reminding": {
+        "18.txt": 1
+    },
+    "rescuers": {
+        "18.txt": 1
+    },
+    "resolving": {
+        "18.txt": 1
+    },
+    "rampage": {
+        "18.txt": 1
+    },
+    "ravaged": {
+        "18.txt": 1
+    },
+    "remarkably": {
+        "18.txt": 1
+    },
+    "raking": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "revise": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "rehydrate": {
+        "18.txt": 1
+    },
+    "rag": {
+        "18.txt": 2,
+        "13.txt": 2
+    },
+    "ruckus": {
+        "18.txt": 1
+    },
+    "rocker": {
+        "18.txt": 1
+    },
+    "reprogramming": {
+        "18.txt": 1
+    },
+    "rebirth": {
+        "18.txt": 1
+    },
+    "repetitive": {
+        "18.txt": 1
+    },
+    "rees": {
+        "18.txt": 1
+    },
+    "rosemary": {
+        "18.txt": 1
+    },
+    "richard": {
+        "18.txt": 1
+    },
+    "reviews": {
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "redistributing": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "readable": {
+        "13.txt": 3,
+        "14.txt": 4
+    },
+    "riotous": {
+        "13.txt": 2
+    },
+    "responsiveness": {
+        "13.txt": 1
+    },
+    "readiness": {
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "rented": {
+        "13.txt": 2
+    },
+    "restlessly": {
+        "13.txt": 2
+    },
+    "rippling": {
+        "13.txt": 1
+    },
+    "reciprocal": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "radiantly": {
+        "13.txt": 1
+    },
+    "roadhouse": {
+        "13.txt": 1
+    },
+    "roofs": {
+        "13.txt": 2,
+        "6.txt": 1
+    },
+    "restaurants": {
+        "13.txt": 2
+    },
+    "restaurant": {
+        "13.txt": 5
+    },
+    "repairs": {
+        "13.txt": 1
+    },
+    "regal": {
+        "13.txt": 1
+    },
+    "rakish": {
+        "13.txt": 1
+    },
+    "restoration": {
+        "13.txt": 2
+    },
+    "revolving": {
+        "13.txt": 1
+    },
+    "royce": {
+        "13.txt": 1
+    },
+    "repairing": {
+        "13.txt": 1
+    },
+    "ravages": {
+        "13.txt": 1
+    },
+    "robin": {
+        "13.txt": 1
+    },
+    "rambling": {
+        "13.txt": 1
+    },
+    "representing": {
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "realism": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "relieving": {
+        "13.txt": 1
+    },
+    "rowdy": {
+        "13.txt": 1
+    },
+    "reassurance": {
+        "13.txt": 1
+    },
+    "rivulets": {
+        "13.txt": 1
+    },
+    "resorted": {
+        "13.txt": 1
+    },
+    "reassuringly": {
+        "13.txt": 1
+    },
+    "rioters": {
+        "13.txt": 1
+    },
+    "racy": {
+        "13.txt": 2
+    },
+    "retracted": {
+        "13.txt": 1
+    },
+    "ripley": {
+        "13.txt": 1
+    },
+    "roebuck": {
+        "13.txt": 1
+    },
+    "rot": {
+        "13.txt": 1
+    },
+    "russel": {
+        "13.txt": 1
+    },
+    "reputed": {
+        "13.txt": 1
+    },
+    "resourcefulness": {
+        "13.txt": 1
+    },
+    "restlessness": {
+        "13.txt": 1
+    },
+    "retribution": {
+        "13.txt": 1
+    },
+    "rajah": {
+        "13.txt": 1
+    },
+    "rex": {
+        "13.txt": 1
+    },
+    "rivalry": {
+        "13.txt": 1
+    },
+    "rosenthal": {
+        "13.txt": 1
+    },
+    "roved": {
+        "13.txt": 1
+    },
+    "roadster": {
+        "13.txt": 2
+    },
+    "responsive": {
+        "13.txt": 1
+    },
+    "raincoat": {
+        "13.txt": 1
+    },
+    "receptacles": {
+        "13.txt": 1
+    },
+    "reproachfully": {
+        "13.txt": 1
+    },
+    "rackrent": {
+        "13.txt": 1
+    },
+    "rigidly": {
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "recurrent": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "revalued": {
+        "13.txt": 1
+    },
+    "random": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "rowboat": {
+        "13.txt": 1
+    },
+    "reveries": {
+        "13.txt": 1
+    },
+    "robust": {
+        "13.txt": 1
+    },
+    "ramifications": {
+        "13.txt": 1
+    },
+    "railed": {
+        "13.txt": 1
+    },
+    "reposing": {
+        "13.txt": 1
+    },
+    "roamed": {
+        "13.txt": 1
+    },
+    "rouged": {
+        "13.txt": 1
+    },
+    "rinds": {
+        "13.txt": 1
+    },
+    "romp": {
+        "13.txt": 1
+    },
+    "rumor": {
+        "13.txt": 1
+    },
+    "relinquished": {
+        "13.txt": 1
+    },
+    "rickeys": {
+        "13.txt": 1
+    },
+    "recognizable": {
+        "13.txt": 2
+    },
+    "relentless": {
+        "13.txt": 1
+    },
+    "renewals": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "revolting": {
+        "13.txt": 1
+    },
+    "rancor": {
+        "13.txt": 1
+    },
+    "realizes": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "rift": {
+        "13.txt": 1
+    },
+    "romances": {
+        "13.txt": 1
+    },
+    "redolent": {
+        "13.txt": 2
+    },
+    "ravenously": {
+        "13.txt": 1
+    },
+    "revisiting": {
+        "13.txt": 1
+    },
+    "ripples": {
+        "13.txt": 1
+    },
+    "revolved": {
+        "13.txt": 1
+    },
+    "rosary": {
+        "13.txt": 1
+    },
+    "resolves": {
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "revolver": {
+        "13.txt": 1
+    },
+    "raspingly": {
+        "13.txt": 1
+    },
+    "republic": {
+        "13.txt": 1
+    },
+    "refund": {
+        "13.txt": 4,
+        "14.txt": 4
+    },
+    "royalties": {
+        "13.txt": 2,
+        "14.txt": 2
+    },
+    "resulting": {
+        "13.txt": 1,
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "royalty": {
+        "13.txt": 1,
+        "14.txt": 2
+    },
+    "restrictions": {
+        "14.txt": 2
+    },
+    "restricted": {
+        "14.txt": 2,
+        "23.txt": 2
+    },
+    "rectify": {
+        "14.txt": 1
+    },
+    "requisite": {
+        "14.txt": 3,
+        "23.txt": 2
+    },
+    "requiring": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "ridicule": {
+        "14.txt": 2
+    },
+    "renounces": {
+        "14.txt": 1
+    },
+    "rightfully": {
+        "14.txt": 1
+    },
+    "relation": {
+        "14.txt": 18,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "requirement": {
+        "14.txt": 1
+    },
+    "refers": {
+        "14.txt": 2
+    },
+    "regimen": {
+        "14.txt": 1
+    },
+    "restricting": {
+        "14.txt": 4,
+        "23.txt": 1
+    },
+    "rigorous": {
+        "14.txt": 1,
+        "23.txt": 1
+    },
+    "restricts": {
+        "14.txt": 1
+    },
+    "refutation": {
+        "14.txt": 1
+    },
+    "restrict": {
+        "14.txt": 1
+    },
+    "receptivity": {
+        "14.txt": 1
+    },
+    "restriction": {
+        "14.txt": 1
+    },
+    "readers": {
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "rhode": {
+        "14.txt": 1
+    },
+    "rene": {
+        "23.txt": 1
+    },
+    "reasonings": {
+        "23.txt": 14
+    },
+    "relates": {
+        "23.txt": 3
+    },
+    "ravishing": {
+        "23.txt": 1
+    },
+    "regulate": {
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "raptures": {
+        "23.txt": 1
+    },
+    "rhetoric": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "revered": {
+        "23.txt": 1
+    },
+    "regularity": {
+        "23.txt": 1
+    },
+    "rebuilding": {
+        "23.txt": 1
+    },
+    "reforming": {
+        "23.txt": 2
+    },
+    "reformation": {
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "reforms": {
+        "23.txt": 1
+    },
+    "repugnant": {
+        "23.txt": 3
+    },
+    "regulating": {
+        "23.txt": 1
+    },
+    "repute": {
+        "23.txt": 1
+    },
+    "resolute": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "repentings": {
+        "23.txt": 1
+    },
+    "reviewing": {
+        "23.txt": 1
+    },
+    "retirement": {
+        "23.txt": 2
+    },
+    "recurring": {
+        "23.txt": 1
+    },
+    "receptacle": {
+        "23.txt": 1
+    },
+    "reflux": {
+        "23.txt": 1
+    },
+    "rarefied": {
+        "23.txt": 6
+    },
+    "rarefies": {
+        "23.txt": 1
+    },
+    "repassing": {
+        "23.txt": 1
+    },
+    "retains": {
+        "23.txt": 1
+    },
+    "refuted": {
+        "23.txt": 1
+    },
+    "reformers": {
+        "23.txt": 1
+    },
+    "rulers": {
+        "23.txt": 1
+    },
+    "recondite": {
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "residue": {
+        "23.txt": 1
+    },
+    "renders": {
+        "23.txt": 1
+    },
+    "repertory": {
+        "6.txt": 1
+    },
+    "riddles": {
+        "6.txt": 1
+    },
+    "realms": {
+        "6.txt": 1
+    },
+    "radically": {
+        "6.txt": 1
+    },
+    "revolutionary": {
+        "6.txt": 1
+    },
+    "realm": {
+        "6.txt": 2
+    },
+    "relationships": {
+        "6.txt": 6
+    },
+    "recognizably": {
+        "6.txt": 1
+    },
+    "recorder": {
+        "6.txt": 1
+    },
+    "reducing": {
+        "6.txt": 6
+    },
+    "ration": {
+        "6.txt": 1
+    },
+    "recordings": {
+        "6.txt": 1
+    },
+    "rateness": {
+        "6.txt": 2
+    },
+    "ruskin": {
+        "6.txt": 1
+    },
+    "representations": {
+        "6.txt": 1
+    },
+    "representational": {
+        "6.txt": 4
+    },
+    "reveals": {
+        "6.txt": 1
+    },
+    "reconcile": {
+        "6.txt": 1
+    },
+    "reproduction": {
+        "6.txt": 1
+    },
+    "regency": {
+        "6.txt": 1
+    },
+    "renie": {
+        "6.txt": 1
+    },
+    "rapt": {
+        "6.txt": 1
+    },
+    "rembrandt": {
+        "6.txt": 1
+    },
+    "refrains": {
+        "6.txt": 1
+    },
+    "ranging": {
+        "6.txt": 1
+    },
+    "rubens": {
+        "6.txt": 1
+    },
+    "retaining": {
+        "6.txt": 1
+    },
+    "representative": {
+        "6.txt": 1
+    },
+    "reacted": {
+        "6.txt": 2
+    },
+    "rarer": {
+        "6.txt": 1
+    },
+    "renewal": {
+        "6.txt": 1
+    },
+    "reborn": {
+        "6.txt": 1
+    },
+    "recorders": {
+        "6.txt": 1
+    },
+    "radiance": {
+        "6.txt": 1
+    },
+    "ravenous": {
+        "6.txt": 1
+    },
+    "ripen": {
+        "6.txt": 1
+    },
+    "rationalist": {
+        "6.txt": 1
+    },
+    "rocketing": {
+        "6.txt": 1
+    },
+    "religions": {
+        "6.txt": 1
+    },
+    "rites": {
+        "6.txt": 6
+    },
+    "rite": {
+        "6.txt": 1
+    },
+    "redeemer": {
+        "6.txt": 1
+    },
+    "ruts": {
+        "6.txt": 1
+    },
+    "ridge": {
+        "6.txt": 1
+    },
+    "renshaw": {
+        "6.txt": 1
+    },
+    "rationalists": {
+        "6.txt": 1
+    },
+    "realizations": {
+        "6.txt": 1
+    },
+    "reservation": {
+        "6.txt": 1
+    }
+}

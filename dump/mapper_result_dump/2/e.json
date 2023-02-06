@@ -1,0 +1,3342 @@
+{
+    "evokes": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "experiences": {
+        "19.txt": 6,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "epidemics": {
+        "19.txt": 1
+    },
+    "epic": {
+        "19.txt": 2,
+        "8.txt": 6
+    },
+    "emotional": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "evocative": {
+        "19.txt": 1
+    },
+    "equal": {
+        "19.txt": 12,
+        "1.txt": 2,
+        "5.txt": 2
+    },
+    "effort": {
+        "19.txt": 19,
+        "1.txt": 14,
+        "24.txt": 4,
+        "5.txt": 6,
+        "8.txt": 2
+    },
+    "eeriness": {
+        "19.txt": 2
+    },
+    "edition": {
+        "19.txt": 3,
+        "24.txt": 2,
+        "5.txt": 3
+    },
+    "esenin": {
+        "19.txt": 1
+    },
+    "eldest": {
+        "19.txt": 2,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "early": {
+        "19.txt": 43,
+        "1.txt": 10,
+        "24.txt": 5,
+        "5.txt": 4,
+        "8.txt": 3
+    },
+    "employed": {
+        "19.txt": 3,
+        "24.txt": 4
+    },
+    "education": {
+        "19.txt": 9,
+        "24.txt": 2,
+        "5.txt": 10
+    },
+    "experimenting": {
+        "19.txt": 1
+    },
+    "eminent": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "editore": {
+        "19.txt": 1
+    },
+    "english": {
+        "19.txt": 4,
+        "24.txt": 1,
+        "5.txt": 6,
+        "8.txt": 1
+    },
+    "east": {
+        "19.txt": 17,
+        "1.txt": 2,
+        "5.txt": 1,
+        "8.txt": 4
+    },
+    "en": {
+        "19.txt": 1,
+        "8.txt": 5
+    },
+    "eight": {
+        "19.txt": 9,
+        "1.txt": 6,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "eleven": {
+        "19.txt": 7,
+        "1.txt": 23,
+        "8.txt": 1
+    },
+    "evgraf": {
+        "19.txt": 16
+    },
+    "enrici": {
+        "19.txt": 2
+    },
+    "ernestovich": {
+        "19.txt": 2
+    },
+    "exile": {
+        "19.txt": 5,
+        "5.txt": 1,
+        "8.txt": 7
+    },
+    "express": {
+        "19.txt": 14,
+        "24.txt": 6,
+        "5.txt": 4
+    },
+    "eternal": {
+        "19.txt": 4,
+        "24.txt": 1,
+        "8.txt": 4
+    },
+    "earth": {
+        "19.txt": 90,
+        "1.txt": 12,
+        "5.txt": 4,
+        "8.txt": 51,
+        "4.txt": 2
+    },
+    "everything": {
+        "19.txt": 193,
+        "1.txt": 29,
+        "24.txt": 28,
+        "5.txt": 11,
+        "4.txt": 1
+    },
+    "everyone": {
+        "19.txt": 76,
+        "1.txt": 31,
+        "24.txt": 28,
+        "5.txt": 4
+    },
+    "eve": {
+        "19.txt": 13,
+        "8.txt": 1
+    },
+    "engines": {
+        "19.txt": 4
+    },
+    "evening": {
+        "19.txt": 43,
+        "1.txt": 15,
+        "5.txt": 1,
+        "8.txt": 5
+    },
+    "earlier": {
+        "19.txt": 31,
+        "1.txt": 10,
+        "24.txt": 1,
+        "5.txt": 2,
+        "8.txt": 2
+    },
+    "except": {
+        "19.txt": 26,
+        "1.txt": 22,
+        "24.txt": 17,
+        "5.txt": 3
+    },
+    "each": {
+        "19.txt": 140,
+        "1.txt": 68,
+        "24.txt": 14,
+        "5.txt": 27,
+        "8.txt": 23,
+        "4.txt": 6
+    },
+    "ended": {
+        "19.txt": 11,
+        "1.txt": 5,
+        "24.txt": 2,
+        "8.txt": 3
+    },
+    "even": {
+        "19.txt": 200,
+        "1.txt": 215,
+        "24.txt": 171,
+        "5.txt": 34,
+        "8.txt": 5,
+        "4.txt": 3
+    },
+    "echoed": {
+        "19.txt": 6,
+        "8.txt": 1
+    },
+    "estate": {
+        "19.txt": 15,
+        "8.txt": 1
+    },
+    "eared": {
+        "19.txt": 4
+    },
+    "enough": {
+        "19.txt": 80,
+        "1.txt": 103,
+        "24.txt": 14,
+        "5.txt": 14,
+        "8.txt": 3,
+        "4.txt": 3
+    },
+    "end": {
+        "19.txt": 176,
+        "1.txt": 34,
+        "24.txt": 47,
+        "5.txt": 15,
+        "8.txt": 22,
+        "4.txt": 5
+    },
+    "eye": {
+        "19.txt": 31,
+        "1.txt": 24,
+        "24.txt": 1,
+        "5.txt": 1,
+        "4.txt": 4
+    },
+    "engineer": {
+        "19.txt": 14,
+        "5.txt": 1
+    },
+    "evidently": {
+        "19.txt": 13,
+        "24.txt": 2,
+        "8.txt": 1
+    },
+    "every": {
+        "19.txt": 139,
+        "1.txt": 67,
+        "24.txt": 90,
+        "5.txt": 38,
+        "8.txt": 8,
+        "4.txt": 10
+    },
+    "expanses": {
+        "19.txt": 4
+    },
+    "elation": {
+        "19.txt": 2
+    },
+    "expression": {
+        "19.txt": 21,
+        "1.txt": 8,
+        "24.txt": 9,
+        "5.txt": 4
+    },
+    "exception": {
+        "19.txt": 7,
+        "5.txt": 1
+    },
+    "enjoyed": {
+        "19.txt": 9,
+        "1.txt": 1,
+        "5.txt": 2,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "equality": {
+        "19.txt": 3,
+        "24.txt": 2,
+        "5.txt": 4
+    },
+    "expressing": {
+        "19.txt": 1
+    },
+    "essence": {
+        "19.txt": 3,
+        "24.txt": 3,
+        "5.txt": 3
+    },
+    "eel": {
+        "19.txt": 1
+    },
+    "explain": {
+        "19.txt": 14,
+        "1.txt": 8,
+        "24.txt": 8,
+        "5.txt": 3
+    },
+    "exists": {
+        "19.txt": 6,
+        "24.txt": 7,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "explorations": {
+        "19.txt": 1
+    },
+    "electromagnetic": {
+        "19.txt": 1
+    },
+    "equipment": {
+        "19.txt": 8,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "elements": {
+        "19.txt": 9,
+        "24.txt": 9,
+        "5.txt": 2
+    },
+    "energy": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "5.txt": 5
+    },
+    "extraordinarily": {
+        "19.txt": 3
+    },
+    "enslaver": {
+        "19.txt": 1
+    },
+    "eternity": {
+        "19.txt": 7,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "eyes": {
+        "19.txt": 127,
+        "1.txt": 118,
+        "24.txt": 20,
+        "5.txt": 8,
+        "8.txt": 3,
+        "4.txt": 2
+    },
+    "engine": {
+        "19.txt": 24,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "enchanting": {
+        "19.txt": 3
+    },
+    "edge": {
+        "19.txt": 38,
+        "1.txt": 22,
+        "8.txt": 20,
+        "4.txt": 1
+    },
+    "egyptian": {
+        "19.txt": 2
+    },
+    "events": {
+        "19.txt": 19,
+        "1.txt": 4,
+        "24.txt": 14,
+        "5.txt": 12,
+        "8.txt": 1
+    },
+    "ennobled": {
+        "19.txt": 3
+    },
+    "else": {
+        "19.txt": 75,
+        "1.txt": 35,
+        "24.txt": 18,
+        "5.txt": 6,
+        "8.txt": 4,
+        "4.txt": 2
+    },
+    "emergency": {
+        "19.txt": 4
+    },
+    "exact": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "24.txt": 7,
+        "8.txt": 1
+    },
+    "eau": {
+        "19.txt": 1
+    },
+    "embankment": {
+        "19.txt": 7
+    },
+    "expressionless": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "engineers": {
+        "19.txt": 1
+    },
+    "existence": {
+        "19.txt": 17,
+        "24.txt": 121,
+        "5.txt": 21
+    },
+    "event": {
+        "19.txt": 12,
+        "1.txt": 7,
+        "24.txt": 4,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "endless": {
+        "19.txt": 26,
+        "1.txt": 6,
+        "24.txt": 10,
+        "8.txt": 1
+    },
+    "exchange": {
+        "19.txt": 9,
+        "1.txt": 8,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "exclaimed": {
+        "19.txt": 6
+    },
+    "escape": {
+        "19.txt": 18,
+        "1.txt": 23,
+        "24.txt": 3,
+        "5.txt": 2,
+        "8.txt": 1,
+        "4.txt": 3
+    },
+    "examining": {
+        "19.txt": 5,
+        "1.txt": 2
+    },
+    "entered": {
+        "19.txt": 9,
+        "1.txt": 4,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 3,
+        "4.txt": 1
+    },
+    "excited": {
+        "19.txt": 8,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "eristov": {
+        "19.txt": 1
+    },
+    "extremist": {
+        "19.txt": 2
+    },
+    "elephant": {
+        "19.txt": 1
+    },
+    "ears": {
+        "19.txt": 19,
+        "1.txt": 6,
+        "24.txt": 1,
+        "5.txt": 2,
+        "4.txt": 1
+    },
+    "egg": {
+        "19.txt": 4,
+        "1.txt": 4,
+        "4.txt": 2
+    },
+    "emerged": {
+        "19.txt": 6
+    },
+    "earned": {
+        "19.txt": 3
+    },
+    "equations": {
+        "19.txt": 2
+    },
+    "exam": {
+        "19.txt": 2
+    },
+    "exhausted": {
+        "19.txt": 14,
+        "1.txt": 5,
+        "24.txt": 2
+    },
+    "equally": {
+        "19.txt": 11,
+        "1.txt": 1,
+        "24.txt": 4,
+        "5.txt": 3,
+        "4.txt": 1
+    },
+    "ever": {
+        "19.txt": 68,
+        "1.txt": 50,
+        "24.txt": 16,
+        "5.txt": 11,
+        "8.txt": 41,
+        "4.txt": 4
+    },
+    "extraordinary": {
+        "19.txt": 29,
+        "5.txt": 3
+    },
+    "establishment": {
+        "19.txt": 6,
+        "5.txt": 6
+    },
+    "example": {
+        "19.txt": 11,
+        "24.txt": 33,
+        "5.txt": 8,
+        "4.txt": 2
+    },
+    "ecstasy": {
+        "19.txt": 3
+    },
+    "embarrassed": {
+        "19.txt": 9,
+        "1.txt": 5
+    },
+    "employees": {
+        "19.txt": 4
+    },
+    "experience": {
+        "19.txt": 13,
+        "1.txt": 1,
+        "24.txt": 59,
+        "5.txt": 10
+    },
+    "ear": {
+        "19.txt": 13,
+        "1.txt": 34,
+        "4.txt": 4
+    },
+    "easter": {
+        "19.txt": 12
+    },
+    "eggs": {
+        "19.txt": 5,
+        "1.txt": 4,
+        "8.txt": 2,
+        "4.txt": 5
+    },
+    "envy": {
+        "19.txt": 4,
+        "5.txt": 1,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "eighteen": {
+        "19.txt": 4,
+        "1.txt": 3,
+        "5.txt": 2
+    },
+    "easy": {
+        "19.txt": 17,
+        "1.txt": 22,
+        "24.txt": 5,
+        "5.txt": 8,
+        "8.txt": 4,
+        "4.txt": 3
+    },
+    "errands": {
+        "19.txt": 1
+    },
+    "enormous": {
+        "19.txt": 12,
+        "1.txt": 7
+    },
+    "exercising": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "effrontery": {
+        "19.txt": 1
+    },
+    "evil": {
+        "19.txt": 15,
+        "1.txt": 1,
+        "24.txt": 36,
+        "5.txt": 4,
+        "8.txt": 12,
+        "4.txt": 1
+    },
+    "expected": {
+        "19.txt": 21,
+        "1.txt": 3,
+        "24.txt": 9,
+        "5.txt": 3
+    },
+    "expensive": {
+        "19.txt": 4,
+        "1.txt": 7,
+        "5.txt": 1
+    },
+    "elegant": {
+        "19.txt": 6,
+        "1.txt": 1
+    },
+    "ends": {
+        "19.txt": 11,
+        "1.txt": 9,
+        "24.txt": 12,
+        "5.txt": 9,
+        "8.txt": 1
+    },
+    "empties": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "eyed": {
+        "19.txt": 6,
+        "4.txt": 2
+    },
+    "elbowing": {
+        "19.txt": 1
+    },
+    "everybody": {
+        "19.txt": 18,
+        "1.txt": 10,
+        "5.txt": 6
+    },
+    "earnestly": {
+        "19.txt": 1
+    },
+    "evicted": {
+        "19.txt": 1
+    },
+    "efforts": {
+        "19.txt": 7,
+        "1.txt": 2,
+        "24.txt": 4,
+        "5.txt": 21,
+        "4.txt": 1
+    },
+    "entrance": {
+        "19.txt": 22,
+        "1.txt": 2,
+        "24.txt": 1,
+        "8.txt": 2
+    },
+    "essential": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "24.txt": 8,
+        "5.txt": 5
+    },
+    "extracted": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "echoing": {
+        "19.txt": 5
+    },
+    "established": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "24.txt": 14
+    },
+    "eminently": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "eccentric": {
+        "19.txt": 5,
+        "1.txt": 1
+    },
+    "exploitation": {
+        "19.txt": 1
+    },
+    "encumbrances": {
+        "19.txt": 1
+    },
+    "enjoy": {
+        "19.txt": 4,
+        "1.txt": 5,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "exiles": {
+        "19.txt": 4,
+        "8.txt": 1
+    },
+    "ephebes": {
+        "19.txt": 1
+    },
+    "emblem": {
+        "19.txt": 1
+    },
+    "ethical": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "5.txt": 3
+    },
+    "explains": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "everyday": {
+        "19.txt": 9,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "extremely": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "5.txt": 4
+    },
+    "etc": {
+        "19.txt": 2,
+        "24.txt": 14,
+        "5.txt": 1
+    },
+    "eclipsed": {
+        "19.txt": 1
+    },
+    "emperors": {
+        "19.txt": 1
+    },
+    "emphatically": {
+        "19.txt": 1
+    },
+    "entrances": {
+        "19.txt": 2
+    },
+    "excellent": {
+        "19.txt": 9,
+        "1.txt": 11,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 6
+    },
+    "emma": {
+        "19.txt": 4
+    },
+    "ernestovna": {
+        "19.txt": 4
+    },
+    "equalled": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "embroidery": {
+        "19.txt": 1
+    },
+    "exhausting": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "entangled": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1,
+        "4.txt": 1
+    },
+    "empty": {
+        "19.txt": 36,
+        "1.txt": 21,
+        "24.txt": 7,
+        "5.txt": 1,
+        "8.txt": 4,
+        "4.txt": 1
+    },
+    "effect": {
+        "19.txt": 12,
+        "1.txt": 13,
+        "24.txt": 57,
+        "5.txt": 11
+    },
+    "enthusiasm": {
+        "19.txt": 5,
+        "1.txt": 2,
+        "24.txt": 1,
+        "5.txt": 4
+    },
+    "easygoing": {
+        "19.txt": 1
+    },
+    "emotion": {
+        "19.txt": 5,
+        "1.txt": 2,
+        "5.txt": 4
+    },
+    "emptily": {
+        "19.txt": 1
+    },
+    "evenings": {
+        "19.txt": 6,
+        "1.txt": 4
+    },
+    "emperor": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "4.txt": 2
+    },
+    "especially": {
+        "19.txt": 9,
+        "1.txt": 8,
+        "24.txt": 13,
+        "5.txt": 16
+    },
+    "expert": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "esoteric": {
+        "19.txt": 1
+    },
+    "earthly": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "egorovna": {
+        "19.txt": 11
+    },
+    "emetic": {
+        "19.txt": 1
+    },
+    "embarrassing": {
+        "19.txt": 5
+    },
+    "exertion": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "excruciatingly": {
+        "19.txt": 1
+    },
+    "excitement": {
+        "19.txt": 12,
+        "1.txt": 7,
+        "4.txt": 1
+    },
+    "experienced": {
+        "19.txt": 8,
+        "1.txt": 1,
+        "24.txt": 3,
+        "5.txt": 4
+    },
+    "endlessly": {
+        "19.txt": 8,
+        "1.txt": 1
+    },
+    "easily": {
+        "19.txt": 15,
+        "1.txt": 19,
+        "24.txt": 10,
+        "5.txt": 5,
+        "8.txt": 4,
+        "4.txt": 7
+    },
+    "encouraged": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "ebony": {
+        "19.txt": 1
+    },
+    "exhibition": {
+        "19.txt": 2,
+        "24.txt": 2
+    },
+    "explosives": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "enthusiasms": {
+        "19.txt": 2
+    },
+    "extravagant": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "eaten": {
+        "19.txt": 3,
+        "1.txt": 5,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "expectorated": {
+        "19.txt": 1
+    },
+    "encouraging": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "external": {
+        "19.txt": 2,
+        "24.txt": 17,
+        "5.txt": 10
+    },
+    "enters": {
+        "19.txt": 1,
+        "1.txt": 4,
+        "24.txt": 2
+    },
+    "elbow": {
+        "19.txt": 7,
+        "1.txt": 4
+    },
+    "eyebrows": {
+        "19.txt": 5,
+        "1.txt": 8
+    },
+    "engaged": {
+        "19.txt": 8,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "endurance": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "exercise": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 9
+    },
+    "estranged": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "expropriated": {
+        "19.txt": 1
+    },
+    "entrusted": {
+        "19.txt": 5,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "earn": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "8.txt": 2
+    },
+    "expenses": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "examinations": {
+        "19.txt": 2
+    },
+    "enacted": {
+        "19.txt": 1
+    },
+    "expanse": {
+        "19.txt": 7,
+        "1.txt": 1
+    },
+    "enchantment": {
+        "19.txt": 4
+    },
+    "exasperation": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "exist": {
+        "19.txt": 9,
+        "1.txt": 1,
+        "24.txt": 11,
+        "5.txt": 6,
+        "4.txt": 1
+    },
+    "explanations": {
+        "19.txt": 5,
+        "1.txt": 1
+    },
+    "electricity": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "eyelet": {
+        "19.txt": 1
+    },
+    "evaded": {
+        "19.txt": 1
+    },
+    "exchanging": {
+        "19.txt": 7
+    },
+    "edited": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "explaining": {
+        "19.txt": 6,
+        "5.txt": 1
+    },
+    "echo": {
+        "19.txt": 5,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "exhilarating": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "either": {
+        "19.txt": 45,
+        "1.txt": 35,
+        "24.txt": 32,
+        "5.txt": 2,
+        "8.txt": 3,
+        "4.txt": 1
+    },
+    "exchanged": {
+        "19.txt": 9,
+        "1.txt": 1
+    },
+    "eloquently": {
+        "19.txt": 1
+    },
+    "enchantingly": {
+        "19.txt": 1
+    },
+    "exposing": {
+        "19.txt": 1
+    },
+    "edema": {
+        "19.txt": 1
+    },
+    "existed": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "24.txt": 2
+    },
+    "escort": {
+        "19.txt": 6,
+        "1.txt": 4
+    },
+    "expecting": {
+        "19.txt": 5,
+        "1.txt": 2
+    },
+    "evidence": {
+        "19.txt": 7,
+        "1.txt": 1,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "entirely": {
+        "19.txt": 15,
+        "1.txt": 12,
+        "24.txt": 1,
+        "5.txt": 12,
+        "4.txt": 1
+    },
+    "erfurt": {
+        "19.txt": 1
+    },
+    "expressed": {
+        "19.txt": 8,
+        "24.txt": 2,
+        "5.txt": 2,
+        "4.txt": 1
+    },
+    "emitted": {
+        "19.txt": 1
+    },
+    "explanation": {
+        "19.txt": 3,
+        "1.txt": 3,
+        "24.txt": 12,
+        "5.txt": 3
+    },
+    "ensure": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "entertaining": {
+        "19.txt": 3
+    },
+    "enterprising": {
+        "19.txt": 1
+    },
+    "eat": {
+        "19.txt": 13,
+        "1.txt": 59,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 4
+    },
+    "eighth": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "ebb": {
+        "19.txt": 1
+    },
+    "evacuating": {
+        "19.txt": 1
+    },
+    "enraged": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "echinococcus": {
+        "19.txt": 3
+    },
+    "expect": {
+        "19.txt": 11,
+        "1.txt": 8,
+        "24.txt": 10,
+        "5.txt": 4,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "exaggerating": {
+        "19.txt": 5
+    },
+    "explored": {
+        "19.txt": 2
+    },
+    "elderly": {
+        "19.txt": 7,
+        "1.txt": 1
+    },
+    "exemptions": {
+        "19.txt": 1
+    },
+    "exactly": {
+        "19.txt": 15,
+        "1.txt": 31,
+        "24.txt": 4,
+        "5.txt": 3
+    },
+    "element": {
+        "19.txt": 6,
+        "24.txt": 11,
+        "5.txt": 2
+    },
+    "embodiment": {
+        "19.txt": 5,
+        "5.txt": 2
+    },
+    "examination": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "24.txt": 18
+    },
+    "exploit": {
+        "19.txt": 3
+    },
+    "enemy": {
+        "19.txt": 28,
+        "1.txt": 1,
+        "5.txt": 1,
+        "8.txt": 4,
+        "4.txt": 9
+    },
+    "equipped": {
+        "19.txt": 1
+    },
+    "earthquake": {
+        "19.txt": 3,
+        "4.txt": 1
+    },
+    "encompassed": {
+        "19.txt": 1
+    },
+    "explosion": {
+        "19.txt": 5,
+        "1.txt": 9
+    },
+    "engage": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "engaging": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "enlisted": {
+        "19.txt": 3
+    },
+    "enforced": {
+        "19.txt": 4,
+        "5.txt": 1
+    },
+    "engagement": {
+        "19.txt": 3,
+        "24.txt": 1
+    },
+    "encircled": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "everywhere": {
+        "19.txt": 13,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 9,
+        "8.txt": 1
+    },
+    "extermination": {
+        "19.txt": 1
+    },
+    "entertainment": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "24.txt": 1
+    },
+    "echoes": {
+        "19.txt": 7
+    },
+    "ease": {
+        "19.txt": 5,
+        "1.txt": 7,
+        "5.txt": 2,
+        "8.txt": 2
+    },
+    "embarrassment": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "eyebrow": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "era": {
+        "19.txt": 4
+    },
+    "excuses": {
+        "19.txt": 4
+    },
+    "evacuation": {
+        "19.txt": 1
+    },
+    "explosions": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "evacuated": {
+        "19.txt": 1
+    },
+    "exclaiming": {
+        "19.txt": 1
+    },
+    "exciting": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "elected": {
+        "19.txt": 5,
+        "5.txt": 6
+    },
+    "exaggerations": {
+        "19.txt": 1
+    },
+    "eccentrics": {
+        "19.txt": 2
+    },
+    "executive": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "eccentrically": {
+        "19.txt": 1
+    },
+    "exaggerated": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "epaulettes": {
+        "19.txt": 5
+    },
+    "encircling": {
+        "19.txt": 2
+    },
+    "eloquence": {
+        "19.txt": 3
+    },
+    "educated": {
+        "19.txt": 13,
+        "5.txt": 2
+    },
+    "explained": {
+        "19.txt": 11,
+        "24.txt": 4,
+        "5.txt": 1
+    },
+    "expectations": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "enriched": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "endowed": {
+        "19.txt": 3,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "excuse": {
+        "19.txt": 3,
+        "1.txt": 2,
+        "24.txt": 1,
+        "4.txt": 2
+    },
+    "earliest": {
+        "19.txt": 1
+    },
+    "evolved": {
+        "19.txt": 1
+    },
+    "enabled": {
+        "19.txt": 2,
+        "24.txt": 2,
+        "5.txt": 3
+    },
+    "expressions": {
+        "19.txt": 4,
+        "24.txt": 10
+    },
+    "excellency": {
+        "19.txt": 4
+    },
+    "exposure": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "elbows": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "excellence": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "exhaustion": {
+        "19.txt": 5
+    },
+    "elemental": {
+        "19.txt": 2
+    },
+    "endeavor": {
+        "19.txt": 1
+    },
+    "extreme": {
+        "19.txt": 2,
+        "1.txt": 3,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "extremism": {
+        "19.txt": 2
+    },
+    "expedition": {
+        "19.txt": 1
+    },
+    "exposition": {
+        "19.txt": 1,
+        "24.txt": 6
+    },
+    "experiments": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "encampment": {
+        "19.txt": 1
+    },
+    "embrace": {
+        "19.txt": 5,
+        "1.txt": 2,
+        "24.txt": 3
+    },
+    "easier": {
+        "19.txt": 5,
+        "1.txt": 5,
+        "24.txt": 3,
+        "5.txt": 4,
+        "4.txt": 1
+    },
+    "expense": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "eating": {
+        "19.txt": 4,
+        "1.txt": 22,
+        "4.txt": 3
+    },
+    "erratic": {
+        "19.txt": 1
+    },
+    "expelled": {
+        "19.txt": 3
+    },
+    "exclamations": {
+        "19.txt": 3
+    },
+    "encounter": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "energies": {
+        "19.txt": 1,
+        "5.txt": 9
+    },
+    "excitedly": {
+        "19.txt": 2
+    },
+    "exalting": {
+        "19.txt": 1
+    },
+    "elementary": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "enlightenment": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "enthusiastic": {
+        "19.txt": 3,
+        "5.txt": 3
+    },
+    "explore": {
+        "19.txt": 1
+    },
+    "electric": {
+        "19.txt": 5,
+        "1.txt": 4
+    },
+    "earnings": {
+        "19.txt": 1
+    },
+    "elections": {
+        "19.txt": 3
+    },
+    "exterminator": {
+        "19.txt": 3
+    },
+    "empire": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "emergencies": {
+        "19.txt": 1
+    },
+    "examine": {
+        "19.txt": 5,
+        "1.txt": 9,
+        "24.txt": 2
+    },
+    "eddied": {
+        "19.txt": 1
+    },
+    "engulfed": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "extra": {
+        "19.txt": 5,
+        "1.txt": 13
+    },
+    "exploded": {
+        "19.txt": 1
+    },
+    "enterprise": {
+        "19.txt": 3,
+        "5.txt": 15
+    },
+    "epidemic": {
+        "19.txt": 4
+    },
+    "experts": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "5.txt": 2
+    },
+    "economic": {
+        "19.txt": 5,
+        "5.txt": 30
+    },
+    "examined": {
+        "19.txt": 4,
+        "24.txt": 1
+    },
+    "elect": {
+        "19.txt": 1
+    },
+    "election": {
+        "19.txt": 4,
+        "5.txt": 1
+    },
+    "evicting": {
+        "19.txt": 1
+    },
+    "evict": {
+        "19.txt": 1
+    },
+    "eagerly": {
+        "19.txt": 3,
+        "1.txt": 3,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "entombment": {
+        "19.txt": 1
+    },
+    "endure": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "8.txt": 3
+    },
+    "explicit": {
+        "19.txt": 1
+    },
+    "eastern": {
+        "19.txt": 7,
+        "1.txt": 1,
+        "5.txt": 3,
+        "8.txt": 1
+    },
+    "escaped": {
+        "19.txt": 8,
+        "1.txt": 1,
+        "24.txt": 1,
+        "8.txt": 3,
+        "4.txt": 3
+    },
+    "exploiting": {
+        "19.txt": 2
+    },
+    "embroidered": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "escorted": {
+        "19.txt": 3
+    },
+    "eyelashes": {
+        "19.txt": 2
+    },
+    "elders": {
+        "19.txt": 1
+    },
+    "enemies": {
+        "19.txt": 6,
+        "1.txt": 8,
+        "5.txt": 4,
+        "8.txt": 2,
+        "4.txt": 6
+    },
+    "eep": {
+        "19.txt": 1
+    },
+    "exposed": {
+        "19.txt": 3,
+        "24.txt": 3,
+        "5.txt": 4
+    },
+    "eiderdown": {
+        "19.txt": 1
+    },
+    "entire": {
+        "19.txt": 4,
+        "1.txt": 16,
+        "24.txt": 3,
+        "5.txt": 3
+    },
+    "escarpments": {
+        "19.txt": 1
+    },
+    "edges": {
+        "19.txt": 4,
+        "1.txt": 5,
+        "8.txt": 1
+    },
+    "ending": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "enchanted": {
+        "19.txt": 1
+    },
+    "excused": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "emerges": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "earning": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "emptiness": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "enlightening": {
+        "19.txt": 1
+    },
+    "elsewhere": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "24.txt": 4,
+        "8.txt": 3
+    },
+    "electrician": {
+        "19.txt": 2
+    },
+    "executioner": {
+        "19.txt": 1
+    },
+    "exempted": {
+        "19.txt": 2
+    },
+    "embittered": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "evade": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 1
+    },
+    "eh": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "embraced": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "efimovich": {
+        "19.txt": 6
+    },
+    "emerge": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "5.txt": 1
+    },
+    "extended": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "24.txt": 5,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "establish": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 6,
+        "5.txt": 4
+    },
+    "exclusive": {
+        "19.txt": 1
+    },
+    "enterprises": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "excess": {
+        "19.txt": 2,
+        "5.txt": 2
+    },
+    "elena": {
+        "19.txt": 3
+    },
+    "enumerate": {
+        "19.txt": 1
+    },
+    "engineering": {
+        "19.txt": 1
+    },
+    "exaggerate": {
+        "19.txt": 1
+    },
+    "efinovich": {
+        "19.txt": 1
+    },
+    "eager": {
+        "19.txt": 2,
+        "1.txt": 3,
+        "5.txt": 1,
+        "8.txt": 9
+    },
+    "exuberantly": {
+        "19.txt": 1
+    },
+    "enclosed": {
+        "19.txt": 1
+    },
+    "elastic": {
+        "19.txt": 3
+    },
+    "emancipation": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "emphasized": {
+        "19.txt": 1
+    },
+    "economy": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "effectiveness": {
+        "19.txt": 1
+    },
+    "evgenii": {
+        "19.txt": 3
+    },
+    "efficient": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 6
+    },
+    "expresses": {
+        "19.txt": 3,
+        "24.txt": 6
+    },
+    "egypt": {
+        "19.txt": 4
+    },
+    "embracing": {
+        "19.txt": 2
+    },
+    "ethnography": {
+        "19.txt": 2
+    },
+    "exceptionally": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "extend": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 11,
+        "5.txt": 2
+    },
+    "epicureanism": {
+        "19.txt": 1
+    },
+    "errors": {
+        "19.txt": 2,
+        "24.txt": 4
+    },
+    "epithet": {
+        "19.txt": 1
+    },
+    "evasive": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "emptying": {
+        "19.txt": 1
+    },
+    "entering": {
+        "19.txt": 4
+    },
+    "earthy": {
+        "19.txt": 3
+    },
+    "excerpts": {
+        "19.txt": 2
+    },
+    "educating": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "exclamation": {
+        "19.txt": 1
+    },
+    "effortlessly": {
+        "19.txt": 1
+    },
+    "escapades": {
+        "19.txt": 1
+    },
+    "extortions": {
+        "19.txt": 1
+    },
+    "elapsed": {
+        "19.txt": 1
+    },
+    "exhorting": {
+        "19.txt": 1
+    },
+    "eleninskaia": {
+        "19.txt": 2
+    },
+    "engraver": {
+        "19.txt": 1
+    },
+    "envied": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "employ": {
+        "19.txt": 1,
+        "24.txt": 3
+    },
+    "ensign": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "edging": {
+        "19.txt": 1
+    },
+    "eternally": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "excessive": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "24.txt": 1,
+        "5.txt": 5
+    },
+    "ermola\u00ef": {
+        "19.txt": 7
+    },
+    "extending": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "eggshells": {
+        "19.txt": 1
+    },
+    "enjoying": {
+        "19.txt": 2,
+        "24.txt": 2,
+        "4.txt": 1
+    },
+    "exemption": {
+        "19.txt": 1
+    },
+    "escaping": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "24.txt": 2,
+        "8.txt": 1,
+        "4.txt": 2
+    },
+    "eastward": {
+        "19.txt": 3
+    },
+    "encircle": {
+        "19.txt": 1
+    },
+    "expressive": {
+        "19.txt": 1
+    },
+    "excelling": {
+        "19.txt": 1
+    },
+    "emptied": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "exhortation": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "existing": {
+        "19.txt": 2,
+        "24.txt": 5,
+        "5.txt": 5
+    },
+    "esteemed": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "educational": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "everlasting": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "earthworks": {
+        "19.txt": 1
+    },
+    "extinguished": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "execution": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "24.txt": 3,
+        "4.txt": 1
+    },
+    "exasperated": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "emergence": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "eunuchs": {
+        "19.txt": 1
+    },
+    "episode": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "encouragement": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "esteem": {
+        "19.txt": 1,
+        "24.txt": 13
+    },
+    "excursions": {
+        "19.txt": 1
+    },
+    "escarpment": {
+        "19.txt": 1
+    },
+    "executed": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "4.txt": 1
+    },
+    "edged": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "executioners": {
+        "19.txt": 1
+    },
+    "encirclement": {
+        "19.txt": 2
+    },
+    "european": {
+        "19.txt": 1,
+        "5.txt": 16
+    },
+    "exceeds": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "epatievo": {
+        "19.txt": 1
+    },
+    "emaciated": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "eroded": {
+        "19.txt": 1
+    },
+    "eloquent": {
+        "19.txt": 1
+    },
+    "enslaved": {
+        "19.txt": 2
+    },
+    "enviable": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "exhilarated": {
+        "19.txt": 1
+    },
+    "entitled": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "expectation": {
+        "19.txt": 1,
+        "24.txt": 6
+    },
+    "exceptional": {
+        "19.txt": 3,
+        "5.txt": 2
+    },
+    "evasively": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "enormously": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "equals": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "exacting": {
+        "19.txt": 1
+    },
+    "excluded": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "5.txt": 5
+    },
+    "environment": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "evolutionary": {
+        "19.txt": 1
+    },
+    "epochs": {
+        "19.txt": 1
+    },
+    "extracts": {
+        "19.txt": 1
+    },
+    "exodus": {
+        "19.txt": 1
+    },
+    "emmanuel": {
+        "19.txt": 1
+    },
+    "epoch": {
+        "19.txt": 3
+    },
+    "egyptians": {
+        "19.txt": 1
+    },
+    "exclaims": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "envelope": {
+        "19.txt": 1
+    },
+    "exit": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "enigmatic": {
+        "19.txt": 1
+    },
+    "expansive": {
+        "19.txt": 1
+    },
+    "emissary": {
+        "19.txt": 1
+    },
+    "exploits": {
+        "19.txt": 2
+    },
+    "emotions": {
+        "19.txt": 1,
+        "1.txt": 6,
+        "5.txt": 2
+    },
+    "enveloped": {
+        "19.txt": 3
+    },
+    "evoked": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "eavesdrop": {
+        "19.txt": 3
+    },
+    "engrave": {
+        "19.txt": 1
+    },
+    "exactness": {
+        "19.txt": 1,
+        "24.txt": 5
+    },
+    "eliminated": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "ennobling": {
+        "19.txt": 1
+    },
+    "effusively": {
+        "19.txt": 1
+    },
+    "europe": {
+        "19.txt": 1,
+        "5.txt": 30
+    },
+    "elaborated": {
+        "19.txt": 1
+    },
+    "emerging": {
+        "19.txt": 1
+    },
+    "effects": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "24.txt": 7,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "elm": {
+        "19.txt": 1
+    },
+    "enter": {
+        "19.txt": 5,
+        "1.txt": 9,
+        "24.txt": 4,
+        "5.txt": 2
+    },
+    "editions": {
+        "19.txt": 2,
+        "24.txt": 2
+    },
+    "evolution": {
+        "19.txt": 2
+    },
+    "error": {
+        "19.txt": 2,
+        "24.txt": 10
+    },
+    "eccentricities": {
+        "19.txt": 1
+    },
+    "engrossed": {
+        "19.txt": 1
+    },
+    "excesses": {
+        "19.txt": 1
+    },
+    "emotionalism": {
+        "19.txt": 1
+    },
+    "exploited": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "exemplary": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "exceeded": {
+        "19.txt": 1
+    },
+    "eventually": {
+        "19.txt": 1,
+        "1.txt": 13
+    },
+    "embassy": {
+        "19.txt": 1
+    },
+    "exhalation": {
+        "19.txt": 1
+    },
+    "emanated": {
+        "19.txt": 1
+    },
+    "elevation": {
+        "19.txt": 1,
+        "24.txt": 4,
+        "5.txt": 2
+    },
+    "effortless": {
+        "19.txt": 1
+    },
+    "epilogue": {
+        "19.txt": 2
+    },
+    "electrified": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "erroneous": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "elite": {
+        "19.txt": 1
+    },
+    "enduring": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "exploding": {
+        "19.txt": 1
+    },
+    "eyewitnesses": {
+        "19.txt": 1
+    },
+    "evgaf": {
+        "19.txt": 1
+    },
+    "encourage": {
+        "19.txt": 1,
+        "5.txt": 2,
+        "4.txt": 1
+    },
+    "eastertide": {
+        "19.txt": 1
+    },
+    "extends": {
+        "19.txt": 1
+    },
+    "eddies": {
+        "19.txt": 1
+    },
+    "ensorcelled": {
+        "19.txt": 1
+    },
+    "eavesdropped": {
+        "19.txt": 1
+    },
+    "eater": {
+        "19.txt": 1
+    },
+    "enfevered": {
+        "19.txt": 1
+    },
+    "endured": {
+        "19.txt": 1,
+        "8.txt": 6
+    },
+    "entwined": {
+        "19.txt": 2
+    },
+    "erred": {
+        "19.txt": 1
+    },
+    "embraces": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "eyelids": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "erect": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "etched": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "envoys": {
+        "19.txt": 1
+    },
+    "enhungered": {
+        "19.txt": 1
+    },
+    "evenglows": {
+        "19.txt": 1
+    },
+    "exceeding": {
+        "19.txt": 2
+    },
+    "enticed": {
+        "19.txt": 1
+    },
+    "expound": {
+        "19.txt": 1
+    },
+    "eased": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "entrails": {
+        "1.txt": 3
+    },
+    "enclosing": {
+        "1.txt": 2
+    },
+    "eaters": {
+        "1.txt": 1
+    },
+    "effie": {
+        "1.txt": 79
+    },
+    "explodes": {
+        "1.txt": 2
+    },
+    "entries": {
+        "1.txt": 3
+    },
+    "eligible": {
+        "1.txt": 2
+    },
+    "eligibility": {
+        "1.txt": 1
+    },
+    "everdeen": {
+        "1.txt": 8
+    },
+    "encroaching": {
+        "1.txt": 1
+    },
+    "exhale": {
+        "1.txt": 1
+    },
+    "extinct": {
+        "1.txt": 1
+    },
+    "encountered": {
+        "1.txt": 1
+    },
+    "encounters": {
+        "1.txt": 1
+    },
+    "emotionless": {
+        "1.txt": 1
+    },
+    "essentially": {
+        "1.txt": 3,
+        "24.txt": 1
+    },
+    "exclusively": {
+        "1.txt": 2,
+        "24.txt": 4,
+        "5.txt": 2
+    },
+    "enunciate": {
+        "1.txt": 1
+    },
+    "edible": {
+        "1.txt": 6,
+        "5.txt": 1
+    },
+    "elaborate": {
+        "1.txt": 1
+    },
+    "encased": {
+        "1.txt": 1
+    },
+    "encouragingly": {
+        "1.txt": 3
+    },
+    "eyeliner": {
+        "1.txt": 1
+    },
+    "extinguishes": {
+        "1.txt": 1
+    },
+    "elevator": {
+        "1.txt": 14
+    },
+    "enthusiastically": {
+        "1.txt": 1
+    },
+    "effies": {
+        "1.txt": 7
+    },
+    "expectantly": {
+        "1.txt": 2
+    },
+    "elevators": {
+        "1.txt": 4
+    },
+    "exceptions": {
+        "1.txt": 1,
+        "24.txt": 4,
+        "5.txt": 2
+    },
+    "excels": {
+        "1.txt": 1
+    },
+    "elevated": {
+        "1.txt": 2,
+        "24.txt": 4
+    },
+    "execute": {
+        "1.txt": 1
+    },
+    "everyones": {
+        "1.txt": 4
+    },
+    "enjoyable": {
+        "1.txt": 1
+    },
+    "erase": {
+        "1.txt": 2
+    },
+    "emerald": {
+        "1.txt": 1
+    },
+    "elusive": {
+        "1.txt": 1
+    },
+    "engulf": {
+        "1.txt": 2
+    },
+    "e": {
+        "1.txt": 1,
+        "24.txt": 49,
+        "5.txt": 7,
+        "8.txt": 9
+    },
+    "everdeens": {
+        "1.txt": 1
+    },
+    "entourages": {
+        "1.txt": 1
+    },
+    "eludes": {
+        "1.txt": 1
+    },
+    "endearment": {
+        "1.txt": 1
+    },
+    "engineered": {
+        "1.txt": 1
+    },
+    "efficiently": {
+        "1.txt": 1
+    },
+    "encloses": {
+        "1.txt": 1
+    },
+    "equidistant": {
+        "1.txt": 1
+    },
+    "evolve": {
+        "1.txt": 1
+    },
+    "effective": {
+        "1.txt": 1,
+        "5.txt": 3,
+        "8.txt": 1
+    },
+    "energized": {
+        "1.txt": 1
+    },
+    "engulfing": {
+        "1.txt": 1
+    },
+    "eighty": {
+        "1.txt": 1
+    },
+    "evident": {
+        "1.txt": 1,
+        "24.txt": 4
+    },
+    "erasing": {
+        "1.txt": 2
+    },
+    "eradicated": {
+        "1.txt": 1
+    },
+    "explode": {
+        "1.txt": 2
+    },
+    "extinguish": {
+        "1.txt": 1
+    },
+    "evasion": {
+        "1.txt": 1
+    },
+    "ensuring": {
+        "1.txt": 1
+    },
+    "enlist": {
+        "1.txt": 1
+    },
+    "expertly": {
+        "1.txt": 1
+    },
+    "embedded": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "eyesand": {
+        "1.txt": 1
+    },
+    "everythings": {
+        "1.txt": 1
+    },
+    "eerily": {
+        "1.txt": 2
+    },
+    "experiment": {
+        "1.txt": 1,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "euh": {
+        "1.txt": 1
+    },
+    "euuuh": {
+        "1.txt": 1
+    },
+    "eats": {
+        "1.txt": 2
+    },
+    "emanating": {
+        "1.txt": 1
+    },
+    "effectively": {
+        "1.txt": 2,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "exquisitely": {
+        "1.txt": 1
+    },
+    "electrify": {
+        "1.txt": 1
+    },
+    "entwining": {
+        "1.txt": 1
+    },
+    "emotionally": {
+        "1.txt": 1
+    },
+    "elses": {
+        "1.txt": 2
+    },
+    "exorbitant": {
+        "1.txt": 1
+    },
+    "exclaim": {
+        "1.txt": 1
+    },
+    "extricating": {
+        "1.txt": 1
+    },
+    "erased": {
+        "1.txt": 1
+    },
+    "eerie": {
+        "1.txt": 1
+    },
+    "ego": {
+        "1.txt": 1
+    },
+    "escapes": {
+        "1.txt": 1,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "evils": {
+        "1.txt": 1,
+        "24.txt": 2,
+        "8.txt": 4
+    },
+    "expects": {
+        "1.txt": 1,
+        "24.txt": 2
+    },
+    "engulfs": {
+        "1.txt": 1
+    },
+    "eliminating": {
+        "1.txt": 2
+    },
+    "eagerness": {
+        "1.txt": 1
+    },
+    "ecstatically": {
+        "1.txt": 1
+    },
+    "enviously": {
+        "1.txt": 1
+    },
+    "escorts": {
+        "1.txt": 1
+    },
+    "extent": {
+        "1.txt": 1,
+        "24.txt": 7,
+        "5.txt": 9
+    },
+    "ebook": {
+        "24.txt": 34
+    },
+    "edit": {
+        "24.txt": 1
+    },
+    "electronic": {
+        "24.txt": 1
+    },
+    "ebooks": {
+        "24.txt": 20
+    },
+    "encoding": {
+        "24.txt": 1
+    },
+    "exhibit": {
+        "24.txt": 8
+    },
+    "endanger": {
+        "24.txt": 1
+    },
+    "enlarged": {
+        "24.txt": 4
+    },
+    "essendi": {
+        "24.txt": 1
+    },
+    "esse": {
+        "24.txt": 1
+    },
+    "enigma": {
+        "24.txt": 1
+    },
+    "extension": {
+        "24.txt": 13
+    },
+    "establishes": {
+        "24.txt": 2
+    },
+    "empirical": {
+        "24.txt": 68
+    },
+    "empiricists": {
+        "24.txt": 1
+    },
+    "extract": {
+        "24.txt": 1
+    },
+    "ex": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "enlargement": {
+        "24.txt": 3
+    },
+    "empiricism": {
+        "24.txt": 18
+    },
+    "effecting": {
+        "24.txt": 3
+    },
+    "empirically": {
+        "24.txt": 18
+    },
+    "employment": {
+        "24.txt": 20,
+        "5.txt": 2
+    },
+    "enjoyment": {
+        "24.txt": 10
+    },
+    "enjoyments": {
+        "24.txt": 1
+    },
+    "epicurus": {
+        "24.txt": 6
+    },
+    "examples": {
+        "24.txt": 10
+    },
+    "expressly": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "elimination": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "erected": {
+        "24.txt": 2
+    },
+    "elective": {
+        "24.txt": 6,
+        "5.txt": 1
+    },
+    "exhibited": {
+        "24.txt": 7,
+        "5.txt": 1
+    },
+    "enumerating": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "extols": {
+        "24.txt": 1
+    },
+    "epicurean": {
+        "24.txt": 5
+    },
+    "enables": {
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "ectypal": {
+        "24.txt": 1
+    },
+    "ectypa": {
+        "24.txt": 1
+    },
+    "expedient": {
+        "24.txt": 1
+    },
+    "employs": {
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "enable": {
+        "24.txt": 5,
+        "5.txt": 1
+    },
+    "excusable": {
+        "24.txt": 1
+    },
+    "excepted": {
+        "24.txt": 1
+    },
+    "enlarging": {
+        "24.txt": 1
+    },
+    "excites": {
+        "24.txt": 2
+    },
+    "employing": {
+        "24.txt": 1
+    },
+    "estimation": {
+        "24.txt": 5,
+        "5.txt": 1
+    },
+    "estimated": {
+        "24.txt": 3
+    },
+    "equip": {
+        "24.txt": 1
+    },
+    "estimate": {
+        "24.txt": 2,
+        "5.txt": 4
+    },
+    "estimating": {
+        "24.txt": 2
+    },
+    "exceptivae": {
+        "24.txt": 1
+    },
+    "exhibits": {
+        "24.txt": 6
+    },
+    "elater": {
+        "24.txt": 1
+    },
+    "excludes": {
+        "24.txt": 3
+    },
+    "equivalent": {
+        "24.txt": 6,
+        "5.txt": 1
+    },
+    "endeavour": {
+        "24.txt": 10,
+        "5.txt": 3
+    },
+    "exclusion": {
+        "24.txt": 3,
+        "5.txt": 2
+    },
+    "exercised": {
+        "24.txt": 1
+    },
+    "elevating": {
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "egotistic": {
+        "24.txt": 1
+    },
+    "endeavours": {
+        "24.txt": 6,
+        "5.txt": 2
+    },
+    "evangelical": {
+        "24.txt": 1
+    },
+    "educators": {
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "effeminate": {
+        "24.txt": 1
+    },
+    "elevates": {
+        "24.txt": 2
+    },
+    "eclipse": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "equity": {
+        "24.txt": 1
+    },
+    "effected": {
+        "24.txt": 1
+    },
+    "enlarges": {
+        "24.txt": 2
+    },
+    "extraneous": {
+        "24.txt": 1
+    },
+    "extolled": {
+        "24.txt": 1
+    },
+    "esteems": {
+        "24.txt": 1
+    },
+    "extolling": {
+        "24.txt": 1
+    },
+    "efficacy": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "extensions": {
+        "24.txt": 1
+    },
+    "endlessness": {
+        "24.txt": 1
+    },
+    "epicureans": {
+        "24.txt": 2
+    },
+    "enabling": {
+        "24.txt": 1
+    },
+    "enjoined": {
+        "24.txt": 1
+    },
+    "endeavoured": {
+        "24.txt": 1
+    },
+    "expounded": {
+        "24.txt": 1
+    },
+    "estimable": {
+        "24.txt": 1
+    },
+    "existential": {
+        "24.txt": 1
+    },
+    "elicit": {
+        "24.txt": 1
+    },
+    "embellishing": {
+        "24.txt": 1
+    },
+    "exert": {
+        "24.txt": 1,
+        "5.txt": 4
+    },
+    "excogitating": {
+        "24.txt": 1
+    },
+    "examines": {
+        "24.txt": 1
+    },
+    "extol": {
+        "24.txt": 1
+    },
+    "ebullitions": {
+        "24.txt": 1
+    },
+    "enjoys": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "england": {
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "excite": {
+        "24.txt": 3
+    },
+    "entreating": {
+        "24.txt": 1
+    },
+    "earnest": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "exertions": {
+        "24.txt": 1
+    },
+    "esteeming": {
+        "24.txt": 1
+    },
+    "esto": {
+        "24.txt": 1
+    },
+    "et": {
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "entangle": {
+        "24.txt": 1
+    },
+    "extravagances": {
+        "24.txt": 1
+    },
+    "editing": {
+        "24.txt": 2
+    },
+    "email": {
+        "24.txt": 3
+    },
+    "etext04": {
+        "24.txt": 2
+    },
+    "etext03": {
+        "24.txt": 1
+    },
+    "ein": {
+        "24.txt": 1
+    },
+    "employee": {
+        "24.txt": 1
+    },
+    "expends": {
+        "24.txt": 1
+    },
+    "explanatory": {
+        "24.txt": 1
+    },
+    "electronically": {
+        "24.txt": 3
+    },
+    "exclusions": {
+        "24.txt": 1
+    },
+    "ebcdic": {
+        "24.txt": 2
+    },
+    "einstein": {
+        "5.txt": 34
+    },
+    "experiencing": {
+        "5.txt": 3
+    },
+    "electrochemical": {
+        "5.txt": 1
+    },
+    "elder": {
+        "5.txt": 1,
+        "8.txt": 4,
+        "4.txt": 1
+    },
+    "examiner": {
+        "5.txt": 1
+    },
+    "exponent": {
+        "5.txt": 1
+    },
+    "essays": {
+        "5.txt": 1
+    },
+    "engrossing": {
+        "5.txt": 1
+    },
+    "electoral": {
+        "5.txt": 1
+    },
+    "extensive": {
+        "5.txt": 2
+    },
+    "engendered": {
+        "5.txt": 1
+    },
+    "egoism": {
+        "5.txt": 3
+    },
+    "enshrine": {
+        "5.txt": 1
+    },
+    "expel": {
+        "5.txt": 1
+    },
+    "elevate": {
+        "5.txt": 1
+    },
+    "enrich": {
+        "5.txt": 1
+    },
+    "europeo": {
+        "5.txt": 1
+    },
+    "expanded": {
+        "5.txt": 1
+    },
+    "editor": {
+        "5.txt": 1
+    },
+    "embody": {
+        "5.txt": 1
+    },
+    "enquire": {
+        "5.txt": 1
+    },
+    "enquiry": {
+        "5.txt": 2
+    },
+    "endorsed": {
+        "5.txt": 1
+    },
+    "epithelium": {
+        "5.txt": 2
+    },
+    "everwidening": {
+        "5.txt": 1
+    },
+    "exponents": {
+        "5.txt": 1
+    },
+    "exalted": {
+        "5.txt": 1
+    },
+    "erects": {
+        "5.txt": 1
+    },
+    "endowments": {
+        "5.txt": 1
+    },
+    "entertain": {
+        "5.txt": 1
+    },
+    "effectually": {
+        "5.txt": 1
+    },
+    "emphatic": {
+        "5.txt": 2
+    },
+    "economically": {
+        "5.txt": 2
+    },
+    "enriching": {
+        "5.txt": 1
+    },
+    "emphasis": {
+        "5.txt": 1
+    },
+    "europeans": {
+        "5.txt": 1
+    },
+    "enfeeblement": {
+        "5.txt": 1
+    },
+    "energetic": {
+        "5.txt": 1
+    },
+    "egoismo": {
+        "5.txt": 1
+    },
+    "expositions": {
+        "5.txt": 1
+    },
+    "establishments": {
+        "5.txt": 1
+    },
+    "emil": {
+        "5.txt": 1
+    },
+    "enforcing": {
+        "5.txt": 1
+    },
+    "enforce": {
+        "5.txt": 1
+    },
+    "estimates": {
+        "5.txt": 1
+    },
+    "exceedingly": {
+        "5.txt": 1
+    },
+    "exercises": {
+        "5.txt": 1
+    },
+    "efficiency": {
+        "5.txt": 1
+    },
+    "exhaustive": {
+        "5.txt": 1
+    },
+    "envisaged": {
+        "5.txt": 1
+    },
+    "educate": {
+        "5.txt": 1
+    },
+    "export": {
+        "5.txt": 1
+    },
+    "economics": {
+        "5.txt": 2
+    },
+    "erection": {
+        "5.txt": 1
+    },
+    "essentials": {
+        "5.txt": 1
+    },
+    "earners": {
+        "5.txt": 1
+    },
+    "egotism": {
+        "5.txt": 3
+    },
+    "economists": {
+        "5.txt": 1
+    },
+    "encourages": {
+        "5.txt": 1
+    },
+    "ernst": {
+        "5.txt": 1
+    },
+    "enlisting": {
+        "5.txt": 1
+    },
+    "exhibiting": {
+        "5.txt": 1
+    },
+    "ehrenfest": {
+        "5.txt": 1
+    },
+    "envisage": {
+        "5.txt": 1
+    },
+    "ennoblement": {
+        "5.txt": 1
+    },
+    "equated": {
+        "5.txt": 1
+    },
+    "embodied": {
+        "5.txt": 1
+    },
+    "erecting": {
+        "5.txt": 1
+    },
+    "equilibrium": {
+        "5.txt": 1
+    },
+    "enthusiasts": {
+        "5.txt": 1
+    },
+    "emancipate": {
+        "5.txt": 1
+    },
+    "extremer": {
+        "5.txt": 1
+    },
+    "ecclesiastic": {
+        "5.txt": 1
+    },
+    "ecclesiastics": {
+        "5.txt": 1
+    },
+    "espouse": {
+        "5.txt": 1
+    },
+    "ephemeral": {
+        "5.txt": 1
+    },
+    "earls": {
+        "8.txt": 24
+    },
+    "erst": {
+        "8.txt": 13
+    },
+    "earl": {
+        "8.txt": 29
+    },
+    "er": {
+        "8.txt": 83,
+        "4.txt": 1
+    },
+    "enfolded": {
+        "8.txt": 2
+    },
+    "etins": {
+        "8.txt": 1
+    },
+    "elves": {
+        "8.txt": 1
+    },
+    "englishmen": {
+        "8.txt": 1
+    },
+    "enclosure": {
+        "8.txt": 1
+    },
+    "ecgtheow": {
+        "8.txt": 17
+    },
+    "errand": {
+        "8.txt": 1
+    },
+    "enkindled": {
+        "8.txt": 2
+    },
+    "ecglaf": {
+        "8.txt": 5
+    },
+    "emulous": {
+        "8.txt": 1
+    },
+    "ether": {
+        "8.txt": 1
+    },
+    "ere": {
+        "8.txt": 9
+    },
+    "essayed": {
+        "8.txt": 2
+    },
+    "essay": {
+        "8.txt": 3
+    },
+    "estmere": {
+        "8.txt": 1
+    },
+    "endures": {
+        "8.txt": 1
+    },
+    "eormenric": {
+        "8.txt": 1
+    },
+    "erwhelmed": {
+        "8.txt": 3
+    },
+    "expands": {
+        "8.txt": 1
+    },
+    "enfolding": {
+        "8.txt": 1
+    },
+    "eotens": {
+        "8.txt": 2
+    },
+    "ecgwela": {
+        "8.txt": 1
+    },
+    "erelong": {
+        "8.txt": 2
+    },
+    "erwhelm": {
+        "8.txt": 1
+    },
+    "exults": {
+        "8.txt": 1
+    },
+    "erewhile": {
+        "8.txt": 3
+    },
+    "eomer": {
+        "8.txt": 1
+    },
+    "erwhelming": {
+        "8.txt": 2
+    },
+    "exacts": {
+        "8.txt": 1
+    },
+    "eanmund": {
+        "8.txt": 3
+    },
+    "eadgils": {
+        "8.txt": 4
+    },
+    "enwound": {
+        "8.txt": 1
+    },
+    "euphemism": {
+        "8.txt": 1
+    },
+    "eofor": {
+        "8.txt": 8
+    },
+    "earlship": {
+        "8.txt": 2
+    },
+    "eagle": {
+        "8.txt": 1,
+        "4.txt": 8
+    },
+    "eagles": {
+        "8.txt": 1
+    },
+    "edifying": {
+        "8.txt": 1
+    },
+    "enow": {
+        "8.txt": 1
+    },
+    "envious": {
+        "4.txt": 3
+    },
+    "espied": {
+        "4.txt": 1
+    },
+    "earthenware": {
+        "4.txt": 2
+    },
+    "encumbrance": {
+        "4.txt": 1
+    },
+    "enrage": {
+        "4.txt": 1
+    }
+}

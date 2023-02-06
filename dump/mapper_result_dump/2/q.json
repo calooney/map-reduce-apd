@@ -1,0 +1,292 @@
+{
+    "quiet": {
+        "19.txt": 36,
+        "1.txt": 11,
+        "5.txt": 3,
+        "4.txt": 2
+    },
+    "question": {
+        "19.txt": 32,
+        "1.txt": 17,
+        "24.txt": 36,
+        "5.txt": 10,
+        "8.txt": 1,
+        "4.txt": 2
+    },
+    "quite": {
+        "19.txt": 113,
+        "1.txt": 19,
+        "24.txt": 58,
+        "5.txt": 10,
+        "8.txt": 2,
+        "4.txt": 4
+    },
+    "questions": {
+        "19.txt": 21,
+        "1.txt": 13,
+        "24.txt": 6,
+        "5.txt": 4
+    },
+    "quietly": {
+        "19.txt": 19,
+        "1.txt": 9,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "quicksilver": {
+        "19.txt": 1
+    },
+    "quit": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "quarrel": {
+        "19.txt": 6,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "quick": {
+        "19.txt": 13,
+        "1.txt": 8
+    },
+    "quality": {
+        "19.txt": 9,
+        "1.txt": 1,
+        "24.txt": 7
+    },
+    "quickly": {
+        "19.txt": 30,
+        "1.txt": 27,
+        "5.txt": 2,
+        "8.txt": 5
+    },
+    "quarrelled": {
+        "19.txt": 3
+    },
+    "quilted": {
+        "19.txt": 4
+    },
+    "quivered": {
+        "19.txt": 2
+    },
+    "quivering": {
+        "19.txt": 1
+    },
+    "quarter": {
+        "19.txt": 6,
+        "4.txt": 3
+    },
+    "quickening": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "quartets": {
+        "19.txt": 1
+    },
+    "quarrels": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "qualities": {
+        "19.txt": 5,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "quack": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "querulous": {
+        "19.txt": 1
+    },
+    "qualified": {
+        "19.txt": 3,
+        "24.txt": 2
+    },
+    "questioned": {
+        "19.txt": 3
+    },
+    "quarters": {
+        "19.txt": 5,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "q": {
+        "19.txt": 3
+    },
+    "quickened": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "quarreling": {
+        "19.txt": 1
+    },
+    "questioning": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "quests": {
+        "19.txt": 1
+    },
+    "questionnaires": {
+        "19.txt": 1
+    },
+    "quaking": {
+        "19.txt": 2,
+        "4.txt": 1
+    },
+    "queues": {
+        "19.txt": 3
+    },
+    "queue": {
+        "19.txt": 5
+    },
+    "quarry": {
+        "19.txt": 4
+    },
+    "quarrelling": {
+        "19.txt": 2,
+        "4.txt": 1
+    },
+    "quaint": {
+        "19.txt": 1
+    },
+    "qualifications": {
+        "19.txt": 1
+    },
+    "quoted": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "quarrelsome": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "quartermaster": {
+        "19.txt": 1
+    },
+    "quinine": {
+        "19.txt": 2
+    },
+    "quadri": {
+        "19.txt": 1
+    },
+    "qualify": {
+        "19.txt": 1
+    },
+    "queueing": {
+        "19.txt": 1
+    },
+    "quicker": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "quantities": {
+        "19.txt": 1
+    },
+    "quantity": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "quarried": {
+        "19.txt": 1
+    },
+    "quarries": {
+        "19.txt": 1
+    },
+    "quilts": {
+        "19.txt": 1
+    },
+    "quote": {
+        "19.txt": 1
+    },
+    "queer": {
+        "19.txt": 1
+    },
+    "quirks": {
+        "19.txt": 1
+    },
+    "quart": {
+        "1.txt": 2
+    },
+    "queasy": {
+        "1.txt": 1
+    },
+    "quiver": {
+        "1.txt": 7
+    },
+    "quest": {
+        "1.txt": 1,
+        "8.txt": 7
+    },
+    "quieter": {
+        "1.txt": 3
+    },
+    "quench": {
+        "1.txt": 2,
+        "4.txt": 2
+    },
+    "quell": {
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "quotas": {
+        "1.txt": 1
+    },
+    "quitting": {
+        "1.txt": 2
+    },
+    "questionable": {
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "quarts": {
+        "1.txt": 1
+    },
+    "quilting": {
+        "1.txt": 1
+    },
+    "quicksand": {
+        "1.txt": 1
+    },
+    "quid": {
+        "24.txt": 1
+    },
+    "qua": {
+        "24.txt": 2
+    },
+    "qualifying": {
+        "24.txt": 1
+    },
+    "quando": {
+        "24.txt": 1
+    },
+    "questioner": {
+        "5.txt": 1
+    },
+    "quarrelsomeness": {
+        "5.txt": 1
+    },
+    "quasi": {
+        "5.txt": 1
+    },
+    "questionnaire": {
+        "5.txt": 1
+    },
+    "queen": {
+        "8.txt": 13,
+        "4.txt": 1
+    },
+    "quaff": {
+        "8.txt": 1
+    },
+    "quoth": {
+        "8.txt": 2,
+        "4.txt": 5
+    },
+    "queenly": {
+        "8.txt": 1
+    }
+}

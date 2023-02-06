@@ -1,0 +1,1019 @@
+{
+    "view": {
+        "15.txt": 8,
+        "7.txt": 3,
+        "18.txt": 9,
+        "13.txt": 6,
+        "14.txt": 33,
+        "23.txt": 11,
+        "6.txt": 5
+    },
+    "vague": {
+        "15.txt": 4,
+        "13.txt": 5
+    },
+    "versions": {
+        "15.txt": 1,
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "ve": {
+        "15.txt": 124,
+        "18.txt": 147,
+        "13.txt": 65
+    },
+    "victor": {
+        "15.txt": 1,
+        "18.txt": 16
+    },
+    "vapid": {
+        "15.txt": 1
+    },
+    "veranda": {
+        "15.txt": 2,
+        "13.txt": 4
+    },
+    "visiting": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "victories": {
+        "15.txt": 1,
+        "23.txt": 2
+    },
+    "voice": {
+        "15.txt": 67,
+        "7.txt": 32,
+        "18.txt": 48,
+        "13.txt": 58,
+        "6.txt": 2
+    },
+    "vexations": {
+        "15.txt": 1
+    },
+    "vote": {
+        "15.txt": 3,
+        "18.txt": 6
+    },
+    "very": {
+        "15.txt": 40,
+        "7.txt": 175,
+        "18.txt": 44,
+        "13.txt": 61,
+        "14.txt": 34,
+        "23.txt": 37,
+        "6.txt": 32
+    },
+    "vegetables": {
+        "15.txt": 2
+    },
+    "volume": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 3
+    },
+    "verge": {
+        "15.txt": 2,
+        "18.txt": 2,
+        "13.txt": 3,
+        "6.txt": 2
+    },
+    "various": {
+        "15.txt": 5,
+        "7.txt": 16,
+        "18.txt": 1,
+        "13.txt": 5,
+        "14.txt": 3,
+        "23.txt": 9,
+        "6.txt": 1
+    },
+    "vine": {
+        "15.txt": 2,
+        "18.txt": 1
+    },
+    "velvet": {
+        "15.txt": 5,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "valuable": {
+        "15.txt": 1,
+        "7.txt": 3,
+        "18.txt": 5,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "villain": {
+        "15.txt": 2,
+        "14.txt": 2
+    },
+    "vast": {
+        "15.txt": 1,
+        "7.txt": 12,
+        "18.txt": 1,
+        "13.txt": 3,
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "vision": {
+        "15.txt": 3,
+        "7.txt": 1,
+        "18.txt": 4,
+        "6.txt": 8
+    },
+    "vacation": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "vaguely": {
+        "15.txt": 4,
+        "18.txt": 2,
+        "13.txt": 4,
+        "6.txt": 1
+    },
+    "value": {
+        "15.txt": 1,
+        "7.txt": 11,
+        "18.txt": 1,
+        "13.txt": 1,
+        "14.txt": 23,
+        "23.txt": 4,
+        "6.txt": 2
+    },
+    "vigil": {
+        "15.txt": 1,
+        "13.txt": 3
+    },
+    "viewed": {
+        "15.txt": 2,
+        "18.txt": 2,
+        "14.txt": 2
+    },
+    "valued": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "vivid": {
+        "15.txt": 3,
+        "13.txt": 4,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "veteran": {
+        "15.txt": 2,
+        "13.txt": 1
+    },
+    "vain": {
+        "15.txt": 2,
+        "7.txt": 17,
+        "13.txt": 1,
+        "14.txt": 6,
+        "23.txt": 3,
+        "6.txt": 2
+    },
+    "vanished": {
+        "15.txt": 5,
+        "7.txt": 9,
+        "18.txt": 1,
+        "13.txt": 7
+    },
+    "vehemently": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "vicious": {
+        "15.txt": 2,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "v": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "23.txt": 1
+    },
+    "voo": {
+        "15.txt": 1
+    },
+    "vacated": {
+        "15.txt": 1
+    },
+    "visible": {
+        "15.txt": 3,
+        "18.txt": 3,
+        "13.txt": 4,
+        "14.txt": 1,
+        "6.txt": 1
+    },
+    "viscous": {
+        "15.txt": 1
+    },
+    "vital": {
+        "15.txt": 1
+    },
+    "views": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "values": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "6.txt": 1
+    },
+    "voices": {
+        "15.txt": 7,
+        "7.txt": 20,
+        "18.txt": 5,
+        "13.txt": 11,
+        "6.txt": 2
+    },
+    "voile": {
+        "15.txt": 1
+    },
+    "visit": {
+        "15.txt": 4,
+        "7.txt": 21,
+        "18.txt": 5,
+        "6.txt": 5
+    },
+    "visits": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 2
+    },
+    "vetted": {
+        "15.txt": 1
+    },
+    "vest": {
+        "15.txt": 6,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "ventilator": {
+        "15.txt": 1
+    },
+    "venue": {
+        "15.txt": 1
+    },
+    "visitin": {
+        "15.txt": 1
+    },
+    "venerable": {
+        "15.txt": 1,
+        "7.txt": 1
+    },
+    "victorian": {
+        "15.txt": 2
+    },
+    "violently": {
+        "15.txt": 3,
+        "7.txt": 5,
+        "13.txt": 5
+    },
+    "voted": {
+        "15.txt": 1,
+        "18.txt": 1
+    },
+    "violin": {
+        "15.txt": 1
+    },
+    "voiced": {
+        "15.txt": 1
+    },
+    "vanity": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "14.txt": 2,
+        "23.txt": 3,
+        "6.txt": 1
+    },
+    "vista": {
+        "15.txt": 1,
+        "13.txt": 1
+    },
+    "varmints": {
+        "15.txt": 2
+    },
+    "violet": {
+        "15.txt": 2,
+        "18.txt": 2
+    },
+    "vigorously": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "vibrations": {
+        "15.txt": 1
+    },
+    "volition": {
+        "15.txt": 1,
+        "14.txt": 20
+    },
+    "version": {
+        "15.txt": 2,
+        "7.txt": 1,
+        "18.txt": 4,
+        "14.txt": 1
+    },
+    "victim": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "18.txt": 5,
+        "13.txt": 1,
+        "23.txt": 1,
+        "6.txt": 3
+    },
+    "verdict": {
+        "15.txt": 3,
+        "7.txt": 4
+    },
+    "vengeance": {
+        "15.txt": 1,
+        "7.txt": 4,
+        "18.txt": 2,
+        "14.txt": 1
+    },
+    "varying": {
+        "15.txt": 2
+    },
+    "vehement": {
+        "15.txt": 1
+    },
+    "vividly": {
+        "15.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "vocation": {
+        "15.txt": 1
+    },
+    "varmint": {
+        "15.txt": 1
+    },
+    "veneer": {
+        "15.txt": 1
+    },
+    "variety": {
+        "15.txt": 1,
+        "7.txt": 2,
+        "18.txt": 1,
+        "13.txt": 1,
+        "23.txt": 4
+    },
+    "visitor": {
+        "15.txt": 1,
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "victrolas": {
+        "15.txt": 1
+    },
+    "ventured": {
+        "15.txt": 2,
+        "7.txt": 3,
+        "13.txt": 1,
+        "23.txt": 2
+    },
+    "visited": {
+        "15.txt": 1,
+        "7.txt": 6,
+        "18.txt": 1
+    },
+    "virgin": {
+        "15.txt": 1,
+        "6.txt": 1
+    },
+    "vicinity": {
+        "15.txt": 1,
+        "13.txt": 3
+    },
+    "vizir": {
+        "7.txt": 168
+    },
+    "verses": {
+        "7.txt": 6
+    },
+    "vizirs": {
+        "7.txt": 3
+    },
+    "volumes": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "veil": {
+        "7.txt": 9
+    },
+    "vexed": {
+        "7.txt": 4
+    },
+    "vessel": {
+        "7.txt": 29,
+        "23.txt": 1
+    },
+    "voyages": {
+        "7.txt": 5
+    },
+    "voyage": {
+        "7.txt": 36,
+        "18.txt": 1
+    },
+    "vase": {
+        "7.txt": 48,
+        "18.txt": 3,
+        "6.txt": 2
+    },
+    "vowed": {
+        "7.txt": 4
+    },
+    "vows": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "23.txt": 1
+    },
+    "virtuous": {
+        "7.txt": 2,
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "vainly": {
+        "7.txt": 2,
+        "6.txt": 1
+    },
+    "versification": {
+        "7.txt": 1
+    },
+    "vow": {
+        "7.txt": 3
+    },
+    "virtue": {
+        "7.txt": 3,
+        "14.txt": 10,
+        "23.txt": 4,
+        "6.txt": 1
+    },
+    "veiled": {
+        "7.txt": 2,
+        "13.txt": 2
+    },
+    "verse": {
+        "7.txt": 2,
+        "18.txt": 3
+    },
+    "victory": {
+        "7.txt": 2,
+        "18.txt": 12,
+        "23.txt": 3
+    },
+    "vessels": {
+        "7.txt": 4,
+        "23.txt": 4
+    },
+    "vaulted": {
+        "7.txt": 2
+    },
+    "violent": {
+        "7.txt": 8,
+        "18.txt": 3,
+        "13.txt": 5
+    },
+    "voyager": {
+        "7.txt": 1
+    },
+    "valley": {
+        "7.txt": 13,
+        "18.txt": 1,
+        "13.txt": 3
+    },
+    "vault": {
+        "7.txt": 3,
+        "18.txt": 1
+    },
+    "vigorous": {
+        "7.txt": 1,
+        "23.txt": 1
+    },
+    "voyaged": {
+        "7.txt": 1
+    },
+    "valleys": {
+        "7.txt": 1
+    },
+    "valiant": {
+        "7.txt": 1
+    },
+    "vile": {
+        "7.txt": 1,
+        "18.txt": 1
+    },
+    "vex": {
+        "7.txt": 1
+    },
+    "visions": {
+        "7.txt": 1,
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 7
+    },
+    "violence": {
+        "7.txt": 4,
+        "13.txt": 3,
+        "6.txt": 2
+    },
+    "vulgar": {
+        "7.txt": 1,
+        "13.txt": 2,
+        "14.txt": 1,
+        "23.txt": 2
+    },
+    "veiling": {
+        "7.txt": 1
+    },
+    "venture": {
+        "7.txt": 3,
+        "14.txt": 1,
+        "23.txt": 5
+    },
+    "virtues": {
+        "7.txt": 3,
+        "13.txt": 1,
+        "23.txt": 2,
+        "6.txt": 1
+    },
+    "vestibule": {
+        "7.txt": 1,
+        "13.txt": 1
+    },
+    "voraciously": {
+        "7.txt": 1
+    },
+    "vexing": {
+        "7.txt": 1
+    },
+    "vexation": {
+        "7.txt": 1
+    },
+    "veins": {
+        "7.txt": 1,
+        "18.txt": 4,
+        "23.txt": 13,
+        "6.txt": 1
+    },
+    "venison": {
+        "18.txt": 1
+    },
+    "violation": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "variation": {
+        "18.txt": 1
+    },
+    "village": {
+        "18.txt": 7,
+        "13.txt": 8
+    },
+    "visualize": {
+        "18.txt": 1
+    },
+    "vanish": {
+        "18.txt": 1
+    },
+    "virtually": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "visibly": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "vomit": {
+        "18.txt": 1
+    },
+    "volunteer": {
+        "18.txt": 2
+    },
+    "volunteered": {
+        "18.txt": 4
+    },
+    "void": {
+        "18.txt": 1,
+        "23.txt": 1,
+        "6.txt": 4
+    },
+    "vulnerable": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "viruses": {
+        "18.txt": 1
+    },
+    "victors": {
+        "18.txt": 12
+    },
+    "ventilation": {
+        "18.txt": 4
+    },
+    "venom": {
+        "18.txt": 7
+    },
+    "verbal": {
+        "18.txt": 1,
+        "6.txt": 11
+    },
+    "vying": {
+        "18.txt": 1
+    },
+    "villages": {
+        "18.txt": 3,
+        "13.txt": 2,
+        "23.txt": 1
+    },
+    "virile": {
+        "18.txt": 1
+    },
+    "virtual": {
+        "18.txt": 2,
+        "6.txt": 1
+    },
+    "variations": {
+        "18.txt": 1,
+        "6.txt": 1
+    },
+    "vents": {
+        "18.txt": 1
+    },
+    "vomited": {
+        "18.txt": 1
+    },
+    "vetoes": {
+        "18.txt": 1
+    },
+    "volunteers": {
+        "18.txt": 2,
+        "13.txt": 2,
+        "14.txt": 2
+    },
+    "vise": {
+        "18.txt": 1
+    },
+    "vendetta": {
+        "18.txt": 1
+    },
+    "voltage": {
+        "18.txt": 1
+    },
+    "vick": {
+        "18.txt": 1
+    },
+    "violates": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "voicing": {
+        "18.txt": 1
+    },
+    "vertical": {
+        "18.txt": 1
+    },
+    "voluntarily": {
+        "18.txt": 3
+    },
+    "via": {
+        "18.txt": 1
+    },
+    "vehicles": {
+        "18.txt": 2
+    },
+    "vapor": {
+        "18.txt": 1
+    },
+    "victims": {
+        "18.txt": 4,
+        "6.txt": 1
+    },
+    "vines": {
+        "18.txt": 1,
+        "13.txt": 2
+    },
+    "vigilant": {
+        "18.txt": 1
+    },
+    "viable": {
+        "18.txt": 1
+    },
+    "visibility": {
+        "18.txt": 1
+    },
+    "vanishes": {
+        "18.txt": 2
+    },
+    "visitors": {
+        "18.txt": 1,
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "vocal": {
+        "18.txt": 1
+    },
+    "vary": {
+        "18.txt": 1
+    },
+    "venia": {
+        "18.txt": 3
+    },
+    "vacant": {
+        "18.txt": 1,
+        "13.txt": 1
+    },
+    "votes": {
+        "18.txt": 3,
+        "14.txt": 1
+    },
+    "viewing": {
+        "18.txt": 1,
+        "14.txt": 1
+    },
+    "van": {
+        "18.txt": 1,
+        "6.txt": 4
+    },
+    "vrettos": {
+        "18.txt": 1
+    },
+    "vanilla": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "ville": {
+        "13.txt": 1
+    },
+    "verandas": {
+        "13.txt": 2
+    },
+    "vitality": {
+        "13.txt": 5
+    },
+    "versailles": {
+        "13.txt": 2
+    },
+    "viols": {
+        "13.txt": 1
+    },
+    "varies": {
+        "13.txt": 1
+    },
+    "vacuous": {
+        "13.txt": 1
+    },
+    "vladimir": {
+        "13.txt": 2
+    },
+    "vinous": {
+        "13.txt": 1
+    },
+    "von": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "voltaires": {
+        "13.txt": 1
+    },
+    "venice": {
+        "13.txt": 1
+    },
+    "valour": {
+        "13.txt": 1
+    },
+    "ventura": {
+        "13.txt": 1
+    },
+    "victoria": {
+        "13.txt": 1
+    },
+    "vestige": {
+        "13.txt": 1
+    },
+    "virgins": {
+        "13.txt": 1,
+        "6.txt": 1
+    },
+    "ver": {
+        "13.txt": 2,
+        "14.txt": 1
+    },
+    "vigor": {
+        "13.txt": 1
+    },
+    "volleying": {
+        "13.txt": 1
+    },
+    "villainous": {
+        "13.txt": 1
+    },
+    "vicariously": {
+        "13.txt": 1
+    },
+    "vibrant": {
+        "13.txt": 1
+    },
+    "vanishing": {
+        "13.txt": 1
+    },
+    "vestibules": {
+        "13.txt": 1
+    },
+    "virus": {
+        "13.txt": 1,
+        "14.txt": 1
+    },
+    "valid": {
+        "14.txt": 12
+    },
+    "viz": {
+        "14.txt": 9,
+        "23.txt": 5
+    },
+    "ventures": {
+        "14.txt": 1
+    },
+    "validity": {
+        "14.txt": 14
+    },
+    "volitions": {
+        "14.txt": 1
+    },
+    "violate": {
+        "14.txt": 2,
+        "6.txt": 1
+    },
+    "vis": {
+        "14.txt": 1
+    },
+    "violating": {
+        "14.txt": 1
+    },
+    "vice": {
+        "14.txt": 2,
+        "23.txt": 1
+    },
+    "vacans": {
+        "14.txt": 1
+    },
+    "voluntary": {
+        "14.txt": 1
+    },
+    "vermont": {
+        "14.txt": 1
+    },
+    "virginia": {
+        "14.txt": 2
+    },
+    "varied": {
+        "23.txt": 2
+    },
+    "veracious": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "variously": {
+        "23.txt": 3
+    },
+    "vegetative": {
+        "23.txt": 1
+    },
+    "versed": {
+        "23.txt": 1
+    },
+    "ventricles": {
+        "23.txt": 1
+    },
+    "vein": {
+        "23.txt": 16
+    },
+    "vena": {
+        "23.txt": 2
+    },
+    "venous": {
+        "23.txt": 7
+    },
+    "venosa": {
+        "23.txt": 1
+    },
+    "valves": {
+        "23.txt": 5
+    },
+    "ventricle": {
+        "23.txt": 2
+    },
+    "verisimilitudes": {
+        "23.txt": 1
+    },
+    "vapors": {
+        "23.txt": 1
+    },
+    "vocables": {
+        "23.txt": 1
+    },
+    "vi": {
+        "23.txt": 1
+    },
+    "verisimilitude": {
+        "23.txt": 1,
+        "6.txt": 1
+    },
+    "venerate": {
+        "6.txt": 1
+    },
+    "venerated": {
+        "6.txt": 1
+    },
+    "visionary": {
+        "6.txt": 5
+    },
+    "viscerotonia": {
+        "6.txt": 1
+    },
+    "visualizer": {
+        "6.txt": 1
+    },
+    "visualization": {
+        "6.txt": 1
+    },
+    "vibrated": {
+        "6.txt": 1
+    },
+    "valve": {
+        "6.txt": 8
+    },
+    "visual": {
+        "6.txt": 2
+    },
+    "venus": {
+        "6.txt": 2
+    },
+    "vernal": {
+        "6.txt": 1
+    },
+    "visceral": {
+        "6.txt": 1
+    },
+    "vermeer": {
+        "6.txt": 10
+    },
+    "vuillard": {
+        "6.txt": 2
+    },
+    "veufs": {
+        "6.txt": 1
+    },
+    "vernie": {
+        "6.txt": 1
+    },
+    "villa": {
+        "6.txt": 1
+    },
+    "visualizers": {
+        "6.txt": 1
+    },
+    "visionaries": {
+        "6.txt": 2
+    },
+    "verbalizations": {
+        "6.txt": 1
+    },
+    "validating": {
+        "6.txt": 1
+    },
+    "vantage": {
+        "6.txt": 1
+    },
+    "vegetable": {
+        "6.txt": 1
+    },
+    "vacations": {
+        "6.txt": 1
+    },
+    "versifier": {
+        "6.txt": 1
+    },
+    "verba": {
+        "6.txt": 1
+    },
+    "verbalists": {
+        "6.txt": 1
+    },
+    "vol": {
+        "6.txt": 4
+    }
+}

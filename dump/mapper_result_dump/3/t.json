@@ -1,0 +1,4087 @@
+{
+    "the": {
+        "10.txt": 7932,
+        "2.txt": 5493,
+        "3.txt": 3654,
+        "12.txt": 2917,
+        "21.txt": 1460,
+        "17.txt": 1693
+    },
+    "to": {
+        "10.txt": 4503,
+        "2.txt": 2871,
+        "3.txt": 1646,
+        "12.txt": 874,
+        "21.txt": 1038,
+        "17.txt": 869
+    },
+    "these": {
+        "10.txt": 118,
+        "2.txt": 49,
+        "3.txt": 76,
+        "12.txt": 28,
+        "21.txt": 140,
+        "17.txt": 17
+    },
+    "those": {
+        "10.txt": 86,
+        "2.txt": 70,
+        "3.txt": 43,
+        "12.txt": 23,
+        "21.txt": 83,
+        "17.txt": 27
+    },
+    "thus": {
+        "10.txt": 27,
+        "2.txt": 2,
+        "3.txt": 9,
+        "12.txt": 3,
+        "21.txt": 41,
+        "17.txt": 1
+    },
+    "this": {
+        "10.txt": 655,
+        "2.txt": 395,
+        "3.txt": 204,
+        "12.txt": 170,
+        "21.txt": 310,
+        "17.txt": 104
+    },
+    "take": {
+        "10.txt": 152,
+        "2.txt": 148,
+        "3.txt": 62,
+        "12.txt": 37,
+        "21.txt": 12,
+        "17.txt": 40
+    },
+    "texts": {
+        "10.txt": 1
+    },
+    "txt": {
+        "10.txt": 3
+    },
+    "trying": {
+        "10.txt": 24,
+        "2.txt": 77,
+        "3.txt": 8,
+        "12.txt": 22,
+        "21.txt": 2,
+        "17.txt": 18
+    },
+    "time": {
+        "10.txt": 390,
+        "2.txt": 225,
+        "3.txt": 62,
+        "12.txt": 115,
+        "21.txt": 45,
+        "17.txt": 50
+    },
+    "till": {
+        "10.txt": 135,
+        "3.txt": 3
+    },
+    "that": {
+        "10.txt": 2472,
+        "2.txt": 1010,
+        "3.txt": 410,
+        "12.txt": 433,
+        "21.txt": 1075,
+        "17.txt": 329
+    },
+    "tried": {
+        "10.txt": 63,
+        "2.txt": 15,
+        "3.txt": 5,
+        "12.txt": 17,
+        "21.txt": 1,
+        "17.txt": 6
+    },
+    "try": {
+        "10.txt": 64,
+        "2.txt": 76,
+        "3.txt": 49,
+        "12.txt": 8,
+        "21.txt": 2,
+        "17.txt": 21
+    },
+    "two": {
+        "10.txt": 134,
+        "2.txt": 109,
+        "3.txt": 83,
+        "12.txt": 81,
+        "21.txt": 32,
+        "17.txt": 23
+    },
+    "text": {
+        "10.txt": 2,
+        "3.txt": 2,
+        "21.txt": 2
+    },
+    "then": {
+        "10.txt": 538,
+        "2.txt": 270,
+        "3.txt": 60,
+        "12.txt": 110,
+        "21.txt": 31,
+        "17.txt": 63
+    },
+    "trillion": {
+        "10.txt": 2
+    },
+    "ten": {
+        "10.txt": 15,
+        "2.txt": 35,
+        "3.txt": 8,
+        "12.txt": 33,
+        "17.txt": 3
+    },
+    "thousand": {
+        "10.txt": 11,
+        "2.txt": 2,
+        "3.txt": 5,
+        "12.txt": 24,
+        "21.txt": 2
+    },
+    "titles": {
+        "10.txt": 1,
+        "12.txt": 2
+    },
+    "than": {
+        "10.txt": 220,
+        "2.txt": 116,
+        "3.txt": 83,
+        "12.txt": 26,
+        "21.txt": 121,
+        "17.txt": 37
+    },
+    "tax": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "3.txt": 6,
+        "12.txt": 1
+    },
+    "too": {
+        "10.txt": 215,
+        "2.txt": 173,
+        "3.txt": 35,
+        "12.txt": 46,
+        "21.txt": 3,
+        "17.txt": 45
+    },
+    "type": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "3.txt": 44,
+        "12.txt": 3,
+        "17.txt": 3
+    },
+    "through": {
+        "10.txt": 215,
+        "2.txt": 121,
+        "3.txt": 53,
+        "12.txt": 38,
+        "21.txt": 19,
+        "17.txt": 35
+    },
+    "three": {
+        "10.txt": 62,
+        "2.txt": 48,
+        "3.txt": 29,
+        "12.txt": 44,
+        "21.txt": 13,
+        "17.txt": 19
+    },
+    "they": {
+        "10.txt": 457,
+        "2.txt": 551,
+        "3.txt": 307,
+        "12.txt": 263,
+        "21.txt": 134,
+        "17.txt": 226
+    },
+    "tell": {
+        "10.txt": 196,
+        "2.txt": 91,
+        "3.txt": 52,
+        "12.txt": 25,
+        "21.txt": 1,
+        "17.txt": 37
+    },
+    "there": {
+        "10.txt": 767,
+        "2.txt": 383,
+        "3.txt": 183,
+        "12.txt": 242,
+        "21.txt": 150,
+        "17.txt": 104
+    },
+    "things": {
+        "10.txt": 178,
+        "2.txt": 78,
+        "3.txt": 26,
+        "12.txt": 70,
+        "21.txt": 178,
+        "17.txt": 22
+    },
+    "tells": {
+        "10.txt": 18,
+        "2.txt": 19,
+        "3.txt": 3,
+        "12.txt": 1,
+        "21.txt": 1,
+        "17.txt": 9
+    },
+    "tm": {
+        "10.txt": 6
+    },
+    "trademark": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "transcribe": {
+        "10.txt": 1
+    },
+    "transcription": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "tilde": {
+        "10.txt": 1
+    },
+    "taxes": {
+        "10.txt": 1,
+        "3.txt": 4
+    },
+    "t": {
+        "10.txt": 252,
+        "2.txt": 910,
+        "3.txt": 172,
+        "12.txt": 378,
+        "17.txt": 218
+    },
+    "think": {
+        "10.txt": 220,
+        "2.txt": 275,
+        "3.txt": 11,
+        "12.txt": 71,
+        "21.txt": 36,
+        "17.txt": 66
+    },
+    "train": {
+        "10.txt": 36,
+        "2.txt": 43,
+        "3.txt": 8,
+        "12.txt": 10,
+        "17.txt": 1
+    },
+    "took": {
+        "10.txt": 222,
+        "2.txt": 29,
+        "3.txt": 4,
+        "12.txt": 28,
+        "21.txt": 2,
+        "17.txt": 15
+    },
+    "traditions": {
+        "10.txt": 3
+    },
+    "turkish": {
+        "10.txt": 3,
+        "3.txt": 1
+    },
+    "thirsty": {
+        "10.txt": 3,
+        "2.txt": 4
+    },
+    "transylvania": {
+        "10.txt": 15
+    },
+    "town": {
+        "10.txt": 22,
+        "2.txt": 16,
+        "3.txt": 21,
+        "12.txt": 14,
+        "17.txt": 2
+    },
+    "talk": {
+        "10.txt": 36,
+        "2.txt": 35,
+        "3.txt": 11,
+        "12.txt": 35,
+        "17.txt": 1
+    },
+    "travels": {
+        "10.txt": 2,
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "them": {
+        "10.txt": 471,
+        "2.txt": 284,
+        "3.txt": 159,
+        "12.txt": 152,
+        "21.txt": 116,
+        "17.txt": 89
+    },
+    "though": {
+        "10.txt": 219,
+        "2.txt": 75,
+        "3.txt": 22,
+        "12.txt": 11,
+        "21.txt": 21,
+        "17.txt": 19
+    },
+    "towards": {
+        "10.txt": 40,
+        "3.txt": 4,
+        "12.txt": 2,
+        "21.txt": 5
+    },
+    "trains": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 5,
+        "17.txt": 1
+    },
+    "towns": {
+        "10.txt": 2,
+        "3.txt": 2,
+        "12.txt": 2
+    },
+    "top": {
+        "10.txt": 22,
+        "2.txt": 24,
+        "3.txt": 19,
+        "12.txt": 10,
+        "17.txt": 5
+    },
+    "takes": {
+        "10.txt": 7,
+        "2.txt": 59,
+        "3.txt": 11,
+        "12.txt": 2,
+        "21.txt": 1,
+        "17.txt": 17
+    },
+    "trousers": {
+        "10.txt": 4,
+        "3.txt": 1
+    },
+    "their": {
+        "10.txt": 218,
+        "2.txt": 128,
+        "3.txt": 90,
+        "12.txt": 111,
+        "21.txt": 43,
+        "17.txt": 55
+    },
+    "tucked": {
+        "10.txt": 3,
+        "2.txt": 2,
+        "3.txt": 5,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "told": {
+        "10.txt": 141,
+        "2.txt": 24,
+        "3.txt": 1,
+        "12.txt": 9,
+        "17.txt": 11
+    },
+    "twilight": {
+        "10.txt": 3,
+        "2.txt": 2
+    },
+    "terrible": {
+        "10.txt": 97,
+        "2.txt": 11,
+        "3.txt": 2,
+        "12.txt": 14,
+        "17.txt": 1
+    },
+    "thoroughly": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "tight": {
+        "10.txt": 13,
+        "2.txt": 10,
+        "3.txt": 8,
+        "12.txt": 6,
+        "17.txt": 3
+    },
+    "tonight": {
+        "10.txt": 88,
+        "2.txt": 17,
+        "12.txt": 26,
+        "17.txt": 1
+    },
+    "tomorrow": {
+        "10.txt": 45,
+        "2.txt": 7,
+        "3.txt": 1,
+        "12.txt": 9,
+        "17.txt": 3
+    },
+    "trust": {
+        "10.txt": 53,
+        "2.txt": 13,
+        "3.txt": 1,
+        "12.txt": 5,
+        "21.txt": 2,
+        "17.txt": 5
+    },
+    "true": {
+        "10.txt": 59,
+        "2.txt": 21,
+        "3.txt": 4,
+        "12.txt": 9,
+        "21.txt": 84,
+        "17.txt": 4
+    },
+    "themselves": {
+        "10.txt": 30,
+        "2.txt": 10,
+        "3.txt": 8,
+        "12.txt": 8,
+        "21.txt": 21
+    },
+    "thanked": {
+        "10.txt": 10,
+        "2.txt": 2
+    },
+    "taking": {
+        "10.txt": 33,
+        "2.txt": 20,
+        "3.txt": 7,
+        "12.txt": 5,
+        "21.txt": 4,
+        "17.txt": 5
+    },
+    "taught": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "3.txt": 3,
+        "21.txt": 6
+    },
+    "trees": {
+        "10.txt": 24,
+        "2.txt": 30,
+        "3.txt": 5,
+        "12.txt": 12,
+        "17.txt": 2
+    },
+    "tongue": {
+        "10.txt": 10,
+        "2.txt": 12,
+        "12.txt": 3,
+        "17.txt": 3
+    },
+    "taken": {
+        "10.txt": 49,
+        "2.txt": 22,
+        "3.txt": 7,
+        "12.txt": 5,
+        "21.txt": 10,
+        "17.txt": 4
+    },
+    "talking": {
+        "10.txt": 18,
+        "2.txt": 19,
+        "3.txt": 7,
+        "12.txt": 35,
+        "21.txt": 1,
+        "17.txt": 9
+    },
+    "thing": {
+        "10.txt": 96,
+        "2.txt": 79,
+        "3.txt": 22,
+        "12.txt": 53,
+        "21.txt": 70,
+        "17.txt": 20
+    },
+    "touched": {
+        "10.txt": 27,
+        "2.txt": 6,
+        "12.txt": 27,
+        "21.txt": 5
+    },
+    "tubs": {
+        "10.txt": 1
+    },
+    "throw": {
+        "10.txt": 12,
+        "2.txt": 11,
+        "3.txt": 7,
+        "12.txt": 2,
+        "17.txt": 3
+    },
+    "tongues": {
+        "10.txt": 7,
+        "2.txt": 4,
+        "12.txt": 3
+    },
+    "tradition": {
+        "10.txt": 2,
+        "3.txt": 1
+    },
+    "turk": {
+        "10.txt": 6
+    },
+    "troops": {
+        "10.txt": 3,
+        "17.txt": 1
+    },
+    "towered": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "turn": {
+        "10.txt": 33,
+        "2.txt": 64,
+        "3.txt": 21,
+        "12.txt": 37,
+        "17.txt": 16
+    },
+    "thoughts": {
+        "10.txt": 20,
+        "2.txt": 12,
+        "12.txt": 7,
+        "21.txt": 12,
+        "17.txt": 7
+    },
+    "threw": {
+        "10.txt": 39,
+        "2.txt": 2,
+        "3.txt": 1,
+        "12.txt": 4,
+        "17.txt": 1
+    },
+    "tossed": {
+        "10.txt": 3,
+        "2.txt": 5,
+        "12.txt": 4
+    },
+    "thunder": {
+        "10.txt": 8,
+        "12.txt": 6
+    },
+    "thunderous": {
+        "10.txt": 1
+    },
+    "thinking": {
+        "10.txt": 24,
+        "2.txt": 45,
+        "3.txt": 3,
+        "12.txt": 15,
+        "21.txt": 23,
+        "17.txt": 10
+    },
+    "tone": {
+        "10.txt": 11,
+        "2.txt": 6,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "thought": {
+        "10.txt": 153,
+        "2.txt": 59,
+        "3.txt": 2,
+        "12.txt": 80,
+        "21.txt": 43,
+        "17.txt": 24
+    },
+    "turning": {
+        "10.txt": 22,
+        "2.txt": 13,
+        "3.txt": 5,
+        "12.txt": 10,
+        "17.txt": 2
+    },
+    "tall": {
+        "10.txt": 14,
+        "2.txt": 5,
+        "3.txt": 5,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "turned": {
+        "10.txt": 84,
+        "2.txt": 18,
+        "3.txt": 7,
+        "12.txt": 54,
+        "21.txt": 1,
+        "17.txt": 5
+    },
+    "teeth": {
+        "10.txt": 40,
+        "2.txt": 11,
+        "3.txt": 2,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "todten": {
+        "10.txt": 1
+    },
+    "travel": {
+        "10.txt": 10,
+        "2.txt": 6,
+        "3.txt": 22,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "thrown": {
+        "10.txt": 11,
+        "2.txt": 2,
+        "3.txt": 5,
+        "12.txt": 3,
+        "17.txt": 2
+    },
+    "tamers": {
+        "10.txt": 1
+    },
+    "trembled": {
+        "10.txt": 7,
+        "12.txt": 3
+    },
+    "tunnel": {
+        "10.txt": 2,
+        "3.txt": 1
+    },
+    "together": {
+        "10.txt": 72,
+        "2.txt": 31,
+        "3.txt": 25,
+        "12.txt": 17,
+        "21.txt": 6,
+        "17.txt": 11
+    },
+    "tremble": {
+        "10.txt": 7,
+        "12.txt": 2
+    },
+    "times": {
+        "10.txt": 56,
+        "2.txt": 25,
+        "3.txt": 21,
+        "12.txt": 20,
+        "21.txt": 2,
+        "17.txt": 6
+    },
+    "terror": {
+        "10.txt": 25,
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "trap": {
+        "10.txt": 5,
+        "2.txt": 11,
+        "12.txt": 2
+    },
+    "traps": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "21.txt": 1
+    },
+    "th": {
+        "10.txt": 2
+    },
+    "test": {
+        "10.txt": 5,
+        "3.txt": 6,
+        "12.txt": 1
+    },
+    "throwing": {
+        "10.txt": 2,
+        "2.txt": 10,
+        "3.txt": 4,
+        "12.txt": 3
+    },
+    "threshold": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "table": {
+        "10.txt": 32,
+        "2.txt": 57,
+        "3.txt": 8,
+        "12.txt": 9,
+        "17.txt": 17
+    },
+    "toilet": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 5
+    },
+    "thrill": {
+        "10.txt": 3
+    },
+    "travelling": {
+        "10.txt": 4,
+        "12.txt": 3
+    },
+    "talent": {
+        "10.txt": 1,
+        "2.txt": 5,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "tokay": {
+        "10.txt": 1
+    },
+    "thin": {
+        "10.txt": 33,
+        "2.txt": 14,
+        "3.txt": 5,
+        "12.txt": 5,
+        "21.txt": 1,
+        "17.txt": 5
+    },
+    "temples": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "tops": {
+        "10.txt": 7,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "tired": {
+        "10.txt": 25,
+        "2.txt": 3,
+        "12.txt": 5,
+        "17.txt": 1
+    },
+    "twenty": {
+        "10.txt": 13,
+        "2.txt": 27,
+        "3.txt": 12,
+        "12.txt": 13,
+        "17.txt": 5
+    },
+    "thank": {
+        "10.txt": 30,
+        "2.txt": 17,
+        "3.txt": 1,
+        "12.txt": 4,
+        "17.txt": 4
+    },
+    "today": {
+        "10.txt": 58,
+        "2.txt": 27,
+        "3.txt": 3,
+        "12.txt": 10,
+        "17.txt": 9
+    },
+    "treasure": {
+        "10.txt": 3,
+        "3.txt": 1
+    },
+    "triumphant": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "trouble": {
+        "10.txt": 53,
+        "2.txt": 15,
+        "3.txt": 16,
+        "12.txt": 1,
+        "21.txt": 6,
+        "17.txt": 2
+    },
+    "thick": {
+        "10.txt": 13,
+        "2.txt": 12,
+        "3.txt": 4,
+        "12.txt": 1,
+        "17.txt": 3
+    },
+    "transylvanian": {
+        "10.txt": 1
+    },
+    "tide": {
+        "10.txt": 15,
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "tied": {
+        "10.txt": 11,
+        "2.txt": 4,
+        "3.txt": 3,
+        "17.txt": 2
+    },
+    "telling": {
+        "10.txt": 24,
+        "2.txt": 9,
+        "3.txt": 7,
+        "12.txt": 6,
+        "17.txt": 1
+    },
+    "trickling": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "throat": {
+        "10.txt": 42,
+        "2.txt": 16,
+        "3.txt": 1,
+        "12.txt": 3,
+        "21.txt": 6,
+        "17.txt": 3
+    },
+    "terrific": {
+        "10.txt": 2,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "touching": {
+        "10.txt": 7,
+        "3.txt": 1,
+        "12.txt": 13,
+        "17.txt": 1
+    },
+    "tree": {
+        "10.txt": 7,
+        "2.txt": 91,
+        "3.txt": 2,
+        "12.txt": 10,
+        "17.txt": 2
+    },
+    "threads": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "trusted": {
+        "10.txt": 7,
+        "2.txt": 2,
+        "3.txt": 3,
+        "17.txt": 2
+    },
+    "touch": {
+        "10.txt": 22,
+        "2.txt": 18,
+        "3.txt": 6,
+        "12.txt": 16,
+        "21.txt": 6,
+        "17.txt": 4
+    },
+    "tangible": {
+        "10.txt": 1
+    },
+    "tribe": {
+        "10.txt": 1,
+        "3.txt": 3
+    },
+    "thor": {
+        "10.txt": 2
+    },
+    "thousands": {
+        "10.txt": 8,
+        "2.txt": 3,
+        "3.txt": 6,
+        "12.txt": 4,
+        "17.txt": 4
+    },
+    "turkeyland": {
+        "10.txt": 3
+    },
+    "turks": {
+        "10.txt": 1
+    },
+    "throughout": {
+        "10.txt": 6,
+        "2.txt": 2,
+        "3.txt": 10,
+        "21.txt": 1
+    },
+    "triumph": {
+        "10.txt": 6,
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "tale": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 3
+    },
+    "transaction": {
+        "10.txt": 4
+    },
+    "thinnest": {
+        "10.txt": 1
+    },
+    "third": {
+        "10.txt": 6,
+        "2.txt": 10,
+        "3.txt": 11,
+        "12.txt": 10,
+        "21.txt": 1,
+        "17.txt": 2
+    },
+    "trick": {
+        "10.txt": 4,
+        "2.txt": 8,
+        "3.txt": 13,
+        "12.txt": 2
+    },
+    "toes": {
+        "10.txt": 1,
+        "2.txt": 7,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "terrors": {
+        "10.txt": 4
+    },
+    "thorough": {
+        "10.txt": 4
+    },
+    "thorn": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "tablets": {
+        "10.txt": 2,
+        "12.txt": 4
+    },
+    "tis": {
+        "10.txt": 1
+    },
+    "truth": {
+        "10.txt": 21,
+        "2.txt": 6,
+        "3.txt": 2,
+        "12.txt": 7,
+        "21.txt": 58,
+        "17.txt": 2
+    },
+    "tingling": {
+        "10.txt": 3
+    },
+    "thrilling": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "tingle": {
+        "10.txt": 3
+    },
+    "tickle": {
+        "10.txt": 1
+    },
+    "transformed": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "task": {
+        "10.txt": 37,
+        "3.txt": 1,
+        "21.txt": 5
+    },
+    "toils": {
+        "10.txt": 1
+    },
+    "tones": {
+        "10.txt": 9,
+        "3.txt": 2
+    },
+    "therefore": {
+        "10.txt": 17,
+        "2.txt": 3,
+        "3.txt": 2,
+        "12.txt": 1,
+        "21.txt": 10,
+        "17.txt": 2
+    },
+    "travelled": {
+        "10.txt": 5
+    },
+    "trace": {
+        "10.txt": 13,
+        "2.txt": 3,
+        "3.txt": 4,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "tiniest": {
+        "10.txt": 2,
+        "17.txt": 2
+    },
+    "tore": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "12.txt": 4
+    },
+    "tower": {
+        "10.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "traces": {
+        "10.txt": 6
+    },
+    "threatened": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "tears": {
+        "10.txt": 21,
+        "2.txt": 18,
+        "12.txt": 4,
+        "17.txt": 1
+    },
+    "trickled": {
+        "10.txt": 5
+    },
+    "transfer": {
+        "10.txt": 2,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "teeming": {
+        "10.txt": 3
+    },
+    "tramping": {
+        "10.txt": 4
+    },
+    "typewriter": {
+        "10.txt": 10,
+        "3.txt": 4
+    },
+    "twice": {
+        "10.txt": 14,
+        "2.txt": 9,
+        "3.txt": 4,
+        "12.txt": 6,
+        "17.txt": 2
+    },
+    "tales": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "tries": {
+        "10.txt": 4,
+        "2.txt": 10,
+        "3.txt": 4,
+        "12.txt": 1,
+        "17.txt": 3
+    },
+    "tough": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 2,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "tear": {
+        "10.txt": 6,
+        "2.txt": 2,
+        "3.txt": 10,
+        "12.txt": 1
+    },
+    "thanks": {
+        "10.txt": 6,
+        "2.txt": 21,
+        "12.txt": 6,
+        "21.txt": 1
+    },
+    "truly": {
+        "10.txt": 9,
+        "2.txt": 4,
+        "21.txt": 7,
+        "17.txt": 3
+    },
+    "texas": {
+        "10.txt": 2,
+        "3.txt": 7
+    },
+    "torrent": {
+        "10.txt": 2,
+        "12.txt": 2
+    },
+    "trod": {
+        "10.txt": 1
+    },
+    "temperament": {
+        "10.txt": 2
+    },
+    "titicaca": {
+        "10.txt": 1
+    },
+    "telegram": {
+        "10.txt": 27
+    },
+    "tombstones": {
+        "10.txt": 6
+    },
+    "twisted": {
+        "10.txt": 3,
+        "2.txt": 4,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "trippers": {
+        "10.txt": 1
+    },
+    "tea": {
+        "10.txt": 21,
+        "2.txt": 25,
+        "3.txt": 1
+    },
+    "tellin": {
+        "10.txt": 2
+    },
+    "timber": {
+        "10.txt": 1
+    },
+    "touters": {
+        "10.txt": 1
+    },
+    "tumblin": {
+        "10.txt": 2
+    },
+    "tombsteans": {
+        "10.txt": 2
+    },
+    "trimmlin": {
+        "10.txt": 1
+    },
+    "toom": {
+        "10.txt": 1
+    },
+    "trumpet": {
+        "10.txt": 3
+    },
+    "tryin": {
+        "10.txt": 1
+    },
+    "tie": {
+        "10.txt": 5,
+        "2.txt": 2,
+        "3.txt": 3,
+        "12.txt": 1
+    },
+    "thruff": {
+        "10.txt": 1
+    },
+    "tomb": {
+        "10.txt": 36,
+        "12.txt": 2
+    },
+    "twarn": {
+        "10.txt": 1
+    },
+    "tompstean": {
+        "10.txt": 1
+    },
+    "trim": {
+        "10.txt": 2,
+        "3.txt": 3
+    },
+    "turns": {
+        "10.txt": 6,
+        "2.txt": 33,
+        "3.txt": 4,
+        "12.txt": 1,
+        "21.txt": 3,
+        "17.txt": 12
+    },
+    "thumb": {
+        "10.txt": 3,
+        "2.txt": 4,
+        "3.txt": 4,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "totals": {
+        "10.txt": 1
+    },
+    "tamed": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "taming": {
+        "10.txt": 1
+    },
+    "tempting": {
+        "10.txt": 1
+    },
+    "teach": {
+        "10.txt": 3,
+        "2.txt": 5,
+        "3.txt": 6,
+        "12.txt": 3,
+        "21.txt": 4
+    },
+    "tame": {
+        "10.txt": 1
+    },
+    "tune": {
+        "10.txt": 2,
+        "2.txt": 4,
+        "3.txt": 2,
+        "12.txt": 2
+    },
+    "theory": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "12.txt": 3
+    },
+    "tempted": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "trifle": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "threatening": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "tinged": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "tumbling": {
+        "10.txt": 1,
+        "12.txt": 2
+    },
+    "tastes": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 2,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "trips": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 5
+    },
+    "tripping": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "tails": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "tints": {
+        "10.txt": 2
+    },
+    "term": {
+        "10.txt": 2,
+        "3.txt": 3,
+        "21.txt": 6
+    },
+    "theme": {
+        "10.txt": 2,
+        "17.txt": 1
+    },
+    "tempest": {
+        "10.txt": 4
+    },
+    "topping": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "trembling": {
+        "10.txt": 5,
+        "2.txt": 5,
+        "3.txt": 1,
+        "12.txt": 15,
+        "17.txt": 1
+    },
+    "troughs": {
+        "10.txt": 1
+    },
+    "tides": {
+        "10.txt": 1,
+        "12.txt": 3
+    },
+    "tate": {
+        "10.txt": 6
+    },
+    "thruffsteans": {
+        "10.txt": 1
+    },
+    "tiller": {
+        "10.txt": 1
+    },
+    "talked": {
+        "10.txt": 9,
+        "2.txt": 4,
+        "3.txt": 2,
+        "12.txt": 21,
+        "17.txt": 1
+    },
+    "trade": {
+        "10.txt": 4,
+        "2.txt": 4,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "torn": {
+        "10.txt": 9,
+        "2.txt": 5,
+        "3.txt": 4,
+        "12.txt": 7
+    },
+    "transcript": {
+        "10.txt": 4
+    },
+    "technical": {
+        "10.txt": 1,
+        "3.txt": 3
+    },
+    "translated": {
+        "10.txt": 1,
+        "21.txt": 2
+    },
+    "temper": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "terms": {
+        "10.txt": 2,
+        "2.txt": 5,
+        "3.txt": 5,
+        "21.txt": 2,
+        "17.txt": 1
+    },
+    "tragedy": {
+        "10.txt": 3,
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "tool": {
+        "10.txt": 1
+    },
+    "thwarted": {
+        "10.txt": 1
+    },
+    "topped": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "tail": {
+        "10.txt": 3,
+        "2.txt": 5,
+        "12.txt": 1,
+        "17.txt": 3
+    },
+    "tombstone": {
+        "10.txt": 1
+    },
+    "tolerant": {
+        "10.txt": 1
+    },
+    "troubles": {
+        "10.txt": 5,
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "terrace": {
+        "10.txt": 2,
+        "3.txt": 2,
+        "12.txt": 2
+    },
+    "toiled": {
+        "10.txt": 1
+    },
+    "thankfulness": {
+        "10.txt": 2
+    },
+    "transfixed": {
+        "10.txt": 1
+    },
+    "tiny": {
+        "10.txt": 10,
+        "2.txt": 12,
+        "3.txt": 1,
+        "12.txt": 7,
+        "21.txt": 1,
+        "17.txt": 5
+    },
+    "teams": {
+        "10.txt": 1,
+        "2.txt": 3,
+        "3.txt": 4
+    },
+    "tapped": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "trunk": {
+        "10.txt": 2,
+        "2.txt": 13,
+        "3.txt": 6
+    },
+    "ticket": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "3.txt": 26,
+        "12.txt": 1
+    },
+    "thither": {
+        "10.txt": 2
+    },
+    "thinks": {
+        "10.txt": 9,
+        "2.txt": 12,
+        "3.txt": 1,
+        "12.txt": 4,
+        "21.txt": 13,
+        "17.txt": 5
+    },
+    "taketh": {
+        "10.txt": 1
+    },
+    "testily": {
+        "10.txt": 1
+    },
+    "tossing": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "tiger": {
+        "10.txt": 5,
+        "2.txt": 2
+    },
+    "troubled": {
+        "10.txt": 5,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "treat": {
+        "10.txt": 2,
+        "2.txt": 6,
+        "3.txt": 6,
+        "21.txt": 6,
+        "17.txt": 3
+    },
+    "tennis": {
+        "10.txt": 1
+    },
+    "tempt": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "talks": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "twelve": {
+        "10.txt": 6,
+        "2.txt": 50,
+        "3.txt": 1,
+        "12.txt": 5,
+        "17.txt": 10
+    },
+    "toleration": {
+        "10.txt": 1
+    },
+    "truest": {
+        "10.txt": 3
+    },
+    "telegraph": {
+        "10.txt": 7,
+        "3.txt": 2
+    },
+    "tissue": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "transfusion": {
+        "10.txt": 9,
+        "3.txt": 1
+    },
+    "thankful": {
+        "10.txt": 3,
+        "2.txt": 2
+    },
+    "toil": {
+        "10.txt": 2,
+        "12.txt": 3
+    },
+    "trituration": {
+        "10.txt": 1
+    },
+    "tackled": {
+        "10.txt": 1
+    },
+    "tranquil": {
+        "10.txt": 1
+    },
+    "tread": {
+        "10.txt": 3,
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "tinge": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "trifling": {
+        "10.txt": 1
+    },
+    "thwart": {
+        "10.txt": 2
+    },
+    "treatment": {
+        "10.txt": 3,
+        "3.txt": 8
+    },
+    "talisman": {
+        "10.txt": 1
+    },
+    "thomas": {
+        "10.txt": 7,
+        "3.txt": 3,
+        "12.txt": 3
+    },
+    "talkative": {
+        "10.txt": 1
+    },
+    "theer": {
+        "10.txt": 1
+    },
+    "tigers": {
+        "10.txt": 1
+    },
+    "teapot": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "tom": {
+        "10.txt": 1,
+        "3.txt": 3,
+        "12.txt": 3
+    },
+    "tearin": {
+        "10.txt": 1
+    },
+    "talkin": {
+        "10.txt": 1
+    },
+    "tyke": {
+        "10.txt": 1
+    },
+    "tyking": {
+        "10.txt": 1
+    },
+    "trades": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "turnin": {
+        "10.txt": 1
+    },
+    "tender": {
+        "10.txt": 6
+    },
+    "thunderstruck": {
+        "10.txt": 1
+    },
+    "terribly": {
+        "10.txt": 11,
+        "2.txt": 2
+    },
+    "travellers": {
+        "10.txt": 2
+    },
+    "tolling": {
+        "10.txt": 1,
+        "2.txt": 3
+    },
+    "taste": {
+        "10.txt": 2,
+        "2.txt": 5,
+        "3.txt": 3,
+        "12.txt": 1,
+        "21.txt": 6,
+        "17.txt": 2
+    },
+    "towel": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "3.txt": 4,
+        "17.txt": 2
+    },
+    "torturing": {
+        "10.txt": 2,
+        "2.txt": 3
+    },
+    "thatlove": {
+        "10.txt": 1
+    },
+    "torture": {
+        "10.txt": 5,
+        "2.txt": 5,
+        "17.txt": 3
+    },
+    "tearing": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "telegraphed": {
+        "10.txt": 2
+    },
+    "tenses": {
+        "10.txt": 1
+    },
+    "threats": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "treated": {
+        "10.txt": 9,
+        "2.txt": 3,
+        "3.txt": 11,
+        "21.txt": 1,
+        "17.txt": 4
+    },
+    "troubling": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "trusts": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "tap": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "12.txt": 1
+    },
+    "tenderness": {
+        "10.txt": 4
+    },
+    "testamentary": {
+        "10.txt": 1
+    },
+    "tightening": {
+        "10.txt": 1
+    },
+    "title": {
+        "10.txt": 5,
+        "3.txt": 1,
+        "12.txt": 4,
+        "21.txt": 2
+    },
+    "teaching": {
+        "10.txt": 4,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "terrified": {
+        "10.txt": 3,
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "transfused": {
+        "10.txt": 1
+    },
+    "thud": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "toll": {
+        "10.txt": 3,
+        "2.txt": 2,
+        "3.txt": 2
+    },
+    "themes": {
+        "10.txt": 1
+    },
+    "thread": {
+        "10.txt": 3,
+        "2.txt": 26,
+        "17.txt": 2
+    },
+    "tots": {
+        "10.txt": 1
+    },
+    "terry": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "tend": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 6,
+        "12.txt": 1
+    },
+    "transcribing": {
+        "10.txt": 1
+    },
+    "tinges": {
+        "10.txt": 1
+    },
+    "typewritten": {
+        "10.txt": 6
+    },
+    "tightens": {
+        "10.txt": 1,
+        "2.txt": 3
+    },
+    "tumble": {
+        "10.txt": 1
+    },
+    "tenderly": {
+        "10.txt": 6
+    },
+    "temptation": {
+        "10.txt": 1
+    },
+    "thursday": {
+        "10.txt": 1,
+        "3.txt": 6,
+        "12.txt": 1
+    },
+    "tumult": {
+        "10.txt": 1
+    },
+    "truths": {
+        "10.txt": 2,
+        "12.txt": 1,
+        "21.txt": 8
+    },
+    "thrust": {
+        "10.txt": 2,
+        "12.txt": 4
+    },
+    "throats": {
+        "10.txt": 3,
+        "2.txt": 1
+    },
+    "transference": {
+        "10.txt": 1
+    },
+    "tortoise": {
+        "10.txt": 1
+    },
+    "toads": {
+        "10.txt": 1
+    },
+    "thesis": {
+        "10.txt": 2
+    },
+    "tussock": {
+        "10.txt": 3
+    },
+    "truck": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "3.txt": 8,
+        "12.txt": 1
+    },
+    "traced": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "tarnished": {
+        "10.txt": 1
+    },
+    "turnscrew": {
+        "10.txt": 2
+    },
+    "thee": {
+        "10.txt": 1
+    },
+    "tombs": {
+        "10.txt": 3
+    },
+    "triumphantly": {
+        "10.txt": 1
+    },
+    "thankfully": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "tramp": {
+        "10.txt": 1
+    },
+    "trance": {
+        "10.txt": 16
+    },
+    "theories": {
+        "10.txt": 2
+    },
+    "trusting": {
+        "10.txt": 3
+    },
+    "thorny": {
+        "10.txt": 1
+    },
+    "taint": {
+        "10.txt": 1
+    },
+    "tolerably": {
+        "10.txt": 1
+    },
+    "tobacco": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "tremulous": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "tinkling": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "trial": {
+        "10.txt": 3,
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "token": {
+        "10.txt": 1,
+        "2.txt": 6,
+        "3.txt": 11,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "tuned": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 3,
+        "17.txt": 1
+    },
+    "tempered": {
+        "10.txt": 1
+    },
+    "tacit": {
+        "10.txt": 1
+    },
+    "tidied": {
+        "10.txt": 1
+    },
+    "typewriting": {
+        "10.txt": 3
+    },
+    "typed": {
+        "10.txt": 1,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "traveled": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "thoughtfully": {
+        "10.txt": 1,
+        "12.txt": 3
+    },
+    "typewrite": {
+        "10.txt": 1
+    },
+    "thoughtful": {
+        "10.txt": 2,
+        "12.txt": 1
+    },
+    "tally": {
+        "10.txt": 4
+    },
+    "thirst": {
+        "10.txt": 5,
+        "2.txt": 4,
+        "21.txt": 8
+    },
+    "thence": {
+        "10.txt": 3
+    },
+    "telephoned": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "teaming": {
+        "10.txt": 1
+    },
+    "thort": {
+        "10.txt": 1
+    },
+    "tidy": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "tidying": {
+        "10.txt": 1
+    },
+    "tendencies": {
+        "10.txt": 1
+    },
+    "topic": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "truism": {
+        "10.txt": 1
+    },
+    "trivial": {
+        "10.txt": 1
+    },
+    "teachings": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "trained": {
+        "10.txt": 2,
+        "2.txt": 3,
+        "3.txt": 1,
+        "17.txt": 3
+    },
+    "throws": {
+        "10.txt": 2,
+        "2.txt": 11,
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "transform": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "17.txt": 1
+    },
+    "tenth": {
+        "10.txt": 1
+    },
+    "tropics": {
+        "10.txt": 1
+    },
+    "treaty": {
+        "10.txt": 1
+    },
+    "therapeutics": {
+        "10.txt": 1
+    },
+    "tuas": {
+        "10.txt": 1
+    },
+    "tattered": {
+        "10.txt": 1
+    },
+    "turnings": {
+        "10.txt": 1
+    },
+    "twinkled": {
+        "10.txt": 1
+    },
+    "terriers": {
+        "10.txt": 1
+    },
+    "thereinto": {
+        "10.txt": 1
+    },
+    "tiptoe": {
+        "10.txt": 2,
+        "2.txt": 2,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "tumultuous": {
+        "10.txt": 1
+    },
+    "typical": {
+        "10.txt": 2,
+        "3.txt": 2
+    },
+    "thicker": {
+        "10.txt": 5,
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "tricks": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "3.txt": 3
+    },
+    "thinkin": {
+        "10.txt": 2
+    },
+    "track": {
+        "10.txt": 10,
+        "2.txt": 6,
+        "3.txt": 3,
+        "12.txt": 9
+    },
+    "tasks": {
+        "10.txt": 2
+    },
+    "tip": {
+        "10.txt": 1,
+        "2.txt": 5,
+        "3.txt": 4,
+        "12.txt": 2
+    },
+    "tooked": {
+        "10.txt": 1
+    },
+    "thrilled": {
+        "10.txt": 1,
+        "2.txt": 2
+    },
+    "thanking": {
+        "10.txt": 1
+    },
+    "typified": {
+        "10.txt": 1
+    },
+    "terrestrial": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "twittering": {
+        "10.txt": 1
+    },
+    "tightly": {
+        "10.txt": 1,
+        "2.txt": 16,
+        "3.txt": 9,
+        "12.txt": 1,
+        "17.txt": 3
+    },
+    "tolerate": {
+        "10.txt": 1,
+        "17.txt": 2
+    },
+    "trephine": {
+        "10.txt": 1
+    },
+    "tapping": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "trephining": {
+        "10.txt": 1
+    },
+    "tension": {
+        "10.txt": 2,
+        "2.txt": 1,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "trailed": {
+        "10.txt": 1,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "twitched": {
+        "10.txt": 1,
+        "12.txt": 4
+    },
+    "thwarting": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "tested": {
+        "10.txt": 1,
+        "21.txt": 1
+    },
+    "traffic": {
+        "10.txt": 2,
+        "3.txt": 3
+    },
+    "thoughtlessness": {
+        "10.txt": 1
+    },
+    "thereon": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "tools": {
+        "10.txt": 3,
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "teribly": {
+        "10.txt": 1
+    },
+    "thereto": {
+        "10.txt": 1
+    },
+    "trenchant": {
+        "10.txt": 1
+    },
+    "tumbled": {
+        "10.txt": 1
+    },
+    "ting": {
+        "10.txt": 1
+    },
+    "toward": {
+        "10.txt": 1,
+        "2.txt": 29,
+        "3.txt": 4,
+        "12.txt": 24,
+        "17.txt": 13
+    },
+    "threaten": {
+        "10.txt": 1,
+        "12.txt": 2
+    },
+    "treasured": {
+        "10.txt": 1
+    },
+    "trip": {
+        "10.txt": 1,
+        "2.txt": 10,
+        "3.txt": 16,
+        "12.txt": 1,
+        "17.txt": 4
+    },
+    "tinkle": {
+        "10.txt": 1
+    },
+    "teems": {
+        "10.txt": 1
+    },
+    "thrive": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "tasted": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "turkey": {
+        "10.txt": 3,
+        "2.txt": 7,
+        "17.txt": 1
+    },
+    "tortured": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "17.txt": 2
+    },
+    "thames": {
+        "10.txt": 2
+    },
+    "tobolsk": {
+        "10.txt": 1
+    },
+    "tickets": {
+        "10.txt": 2,
+        "3.txt": 28
+    },
+    "tightened": {
+        "10.txt": 3
+    },
+    "thrall": {
+        "10.txt": 1
+    },
+    "travesty": {
+        "10.txt": 1
+    },
+    "telegrams": {
+        "10.txt": 3
+    },
+    "tour": {
+        "10.txt": 1,
+        "2.txt": 30,
+        "3.txt": 1,
+        "17.txt": 3
+    },
+    "touches": {
+        "10.txt": 1,
+        "2.txt": 4,
+        "3.txt": 1,
+        "17.txt": 4
+    },
+    "tidings": {
+        "10.txt": 1
+    },
+    "transcendentalism": {
+        "10.txt": 1
+    },
+    "tables": {
+        "10.txt": 2,
+        "2.txt": 4,
+        "3.txt": 7,
+        "12.txt": 1
+    },
+    "tripped": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "til": {
+        "10.txt": 1
+    },
+    "thocht": {
+        "10.txt": 2
+    },
+    "twa": {
+        "10.txt": 1
+    },
+    "theatre": {
+        "10.txt": 1,
+        "3.txt": 2
+    },
+    "traded": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "traveller": {
+        "10.txt": 1
+    },
+    "trail": {
+        "10.txt": 1,
+        "2.txt": 2,
+        "12.txt": 3,
+        "17.txt": 1
+    },
+    "typescript": {
+        "10.txt": 1
+    },
+    "teacher": {
+        "10.txt": 1,
+        "3.txt": 3,
+        "12.txt": 2
+    },
+    "tainted": {
+        "10.txt": 2,
+        "2.txt": 1
+    },
+    "throbbing": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "tireless": {
+        "10.txt": 1,
+        "12.txt": 1
+    },
+    "tethered": {
+        "10.txt": 1
+    },
+    "tremor": {
+        "10.txt": 1,
+        "17.txt": 1
+    },
+    "tethers": {
+        "10.txt": 1
+    },
+    "trailing": {
+        "10.txt": 1,
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "twined": {
+        "10.txt": 1
+    },
+    "transparent": {
+        "10.txt": 1,
+        "2.txt": 1
+    },
+    "tim": {
+        "10.txt": 1,
+        "3.txt": 1
+    },
+    "twos": {
+        "10.txt": 1
+    },
+    "threes": {
+        "10.txt": 1
+    },
+    "trinket": {
+        "2.txt": 6,
+        "17.txt": 1
+    },
+    "team": {
+        "2.txt": 40,
+        "3.txt": 2,
+        "12.txt": 1,
+        "17.txt": 24
+    },
+    "trek": {
+        "2.txt": 3
+    },
+    "training": {
+        "2.txt": 38,
+        "3.txt": 6,
+        "12.txt": 1,
+        "17.txt": 6
+    },
+    "tunnels": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "triggers": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "telltale": {
+        "2.txt": 3
+    },
+    "ticking": {
+        "2.txt": 4,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "tomcat": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "tesserae": {
+        "2.txt": 4
+    },
+    "tribute": {
+        "2.txt": 23,
+        "17.txt": 3
+    },
+    "trapper": {
+        "2.txt": 1
+    },
+    "traditionally": {
+        "2.txt": 2
+    },
+    "trading": {
+        "2.txt": 2
+    },
+    "tributes": {
+        "2.txt": 76,
+        "17.txt": 9
+    },
+    "terrifying": {
+        "2.txt": 2
+    },
+    "twenties": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "teasing": {
+        "2.txt": 2
+    },
+    "tin": {
+        "2.txt": 5,
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "twists": {
+        "2.txt": 4,
+        "3.txt": 2,
+        "17.txt": 2
+    },
+    "tosses": {
+        "2.txt": 11
+    },
+    "tracking": {
+        "2.txt": 2,
+        "3.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "tailored": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "twist": {
+        "2.txt": 5
+    },
+    "tours": {
+        "2.txt": 1
+    },
+    "taller": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "tray": {
+        "2.txt": 5,
+        "3.txt": 2,
+        "17.txt": 6
+    },
+    "treasonous": {
+        "2.txt": 1
+    },
+    "tins": {
+        "2.txt": 1
+    },
+    "threat": {
+        "2.txt": 7,
+        "17.txt": 3
+    },
+    "thereby": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "teacup": {
+        "2.txt": 1
+    },
+    "television": {
+        "2.txt": 24,
+        "3.txt": 13,
+        "12.txt": 3,
+        "17.txt": 9
+    },
+    "tolerating": {
+        "2.txt": 1
+    },
+    "tub": {
+        "2.txt": 4,
+        "17.txt": 1
+    },
+    "tubers": {
+        "2.txt": 1
+    },
+    "tattoos": {
+        "2.txt": 3,
+        "17.txt": 3
+    },
+    "trends": {
+        "2.txt": 1
+    },
+    "tangled": {
+        "2.txt": 3
+    },
+    "totally": {
+        "2.txt": 1,
+        "3.txt": 9,
+        "17.txt": 1
+    },
+    "teachers": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "televised": {
+        "2.txt": 2,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "telephone": {
+        "2.txt": 2,
+        "3.txt": 11,
+        "12.txt": 7
+    },
+    "testing": {
+        "2.txt": 3,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "tuck": {
+        "2.txt": 3,
+        "3.txt": 2
+    },
+    "tilts": {
+        "2.txt": 3,
+        "17.txt": 1
+    },
+    "tattoo": {
+        "2.txt": 1,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "talons": {
+        "2.txt": 2
+    },
+    "triggering": {
+        "2.txt": 1
+    },
+    "towering": {
+        "2.txt": 3
+    },
+    "thirty": {
+        "2.txt": 15,
+        "3.txt": 7,
+        "12.txt": 10,
+        "17.txt": 3
+    },
+    "tiled": {
+        "2.txt": 2,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "thresh": {
+        "2.txt": 11
+    },
+    "tremendous": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "twisting": {
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "trapdoor": {
+        "2.txt": 2
+    },
+    "trucks": {
+        "2.txt": 1,
+        "3.txt": 3
+    },
+    "trigger": {
+        "2.txt": 3,
+        "3.txt": 4,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "temporary": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "twinkling": {
+        "2.txt": 2
+    },
+    "traditional": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "transformation": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "tasting": {
+        "2.txt": 2
+    },
+    "tattooed": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "temptations": {
+        "2.txt": 1
+    },
+    "toilets": {
+        "2.txt": 1,
+        "3.txt": 3
+    },
+    "takers": {
+        "2.txt": 1
+    },
+    "trills": {
+        "2.txt": 2
+    },
+    "throngs": {
+        "2.txt": 1
+    },
+    "thrash": {
+        "2.txt": 1
+    },
+    "textile": {
+        "2.txt": 2
+    },
+    "twigs": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "trudge": {
+        "2.txt": 2
+    },
+    "twig": {
+        "2.txt": 1
+    },
+    "thawing": {
+        "2.txt": 1
+    },
+    "tucks": {
+        "2.txt": 2
+    },
+    "toasting": {
+        "2.txt": 4
+    },
+    "transfers": {
+        "2.txt": 1
+    },
+    "temperature": {
+        "2.txt": 2,
+        "3.txt": 2,
+        "12.txt": 3
+    },
+    "twinge": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "tipping": {
+        "2.txt": 3
+    },
+    "thom": {
+        "2.txt": 1
+    },
+    "tinctures": {
+        "2.txt": 1
+    },
+    "tapered": {
+        "2.txt": 3
+    },
+    "treats": {
+        "2.txt": 3
+    },
+    "throbs": {
+        "2.txt": 2
+    },
+    "tion": {
+        "2.txt": 1
+    },
+    "terrorized": {
+        "2.txt": 1
+    },
+    "target": {
+        "2.txt": 10,
+        "3.txt": 9,
+        "12.txt": 7,
+        "17.txt": 5
+    },
+    "threatens": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "tending": {
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "tinted": {
+        "2.txt": 1
+    },
+    "tormented": {
+        "2.txt": 1
+    },
+    "tepid": {
+        "2.txt": 1
+    },
+    "trudges": {
+        "2.txt": 1
+    },
+    "torches": {
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "trickle": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "toss": {
+        "2.txt": 9,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "toe": {
+        "2.txt": 3,
+        "3.txt": 2
+    },
+    "thermal": {
+        "2.txt": 1
+    },
+    "tech": {
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "tracks": {
+        "2.txt": 5,
+        "3.txt": 1,
+        "12.txt": 5
+    },
+    "twill": {
+        "2.txt": 37,
+        "17.txt": 1
+    },
+    "thirteen": {
+        "2.txt": 11,
+        "17.txt": 8
+    },
+    "translucent": {
+        "2.txt": 1
+    },
+    "tenements": {
+        "2.txt": 1
+    },
+    "traders": {
+        "2.txt": 1
+    },
+    "thriving": {
+        "2.txt": 2
+    },
+    "tiredly": {
+        "2.txt": 1,
+        "12.txt": 2,
+        "17.txt": 1
+    },
+    "tantalizing": {
+        "2.txt": 1
+    },
+    "tracker": {
+        "2.txt": 3,
+        "17.txt": 4
+    },
+    "trespassing": {
+        "2.txt": 1
+    },
+    "tackle": {
+        "2.txt": 1
+    },
+    "tailbone": {
+        "2.txt": 4
+    },
+    "trapped": {
+        "2.txt": 7,
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "tendrils": {
+        "2.txt": 3
+    },
+    "toxic": {
+        "2.txt": 1
+    },
+    "types": {
+        "2.txt": 1,
+        "3.txt": 17,
+        "12.txt": 1
+    },
+    "tugs": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "thorns": {
+        "2.txt": 2
+    },
+    "tuckered": {
+        "2.txt": 1
+    },
+    "trio": {
+        "2.txt": 2,
+        "17.txt": 2
+    },
+    "toast": {
+        "2.txt": 3,
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "thirstily": {
+        "2.txt": 1
+    },
+    "tracked": {
+        "2.txt": 1
+    },
+    "teaches": {
+        "2.txt": 1,
+        "21.txt": 10
+    },
+    "tapes": {
+        "2.txt": 4,
+        "3.txt": 1
+    },
+    "teary": {
+        "2.txt": 2
+    },
+    "transforms": {
+        "2.txt": 1
+    },
+    "tape": {
+        "2.txt": 5,
+        "3.txt": 17,
+        "12.txt": 1,
+        "17.txt": 2
+    },
+    "transforming": {
+        "2.txt": 4
+    },
+    "trainer": {
+        "2.txt": 6
+    },
+    "techniques": {
+        "2.txt": 1,
+        "3.txt": 10
+    },
+    "twins": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "tube": {
+        "2.txt": 8,
+        "3.txt": 4,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "trumpets": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "teammates": {
+        "2.txt": 2
+    },
+    "trident": {
+        "2.txt": 16,
+        "17.txt": 3
+    },
+    "technically": {
+        "2.txt": 2,
+        "3.txt": 2
+    },
+    "tips": {
+        "2.txt": 3,
+        "3.txt": 6,
+        "12.txt": 1
+    },
+    "tended": {
+        "2.txt": 1
+    },
+    "torturers": {
+        "2.txt": 1
+    },
+    "tease": {
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "territory": {
+        "2.txt": 2
+    },
+    "tying": {
+        "2.txt": 5,
+        "17.txt": 1
+    },
+    "tridents": {
+        "2.txt": 6
+    },
+    "throwers": {
+        "2.txt": 1
+    },
+    "talents": {
+        "2.txt": 3,
+        "3.txt": 1
+    },
+    "trails": {
+        "2.txt": 3
+    },
+    "trimmed": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "teased": {
+        "2.txt": 2
+    },
+    "toothless": {
+        "2.txt": 1
+    },
+    "targets": {
+        "2.txt": 3,
+        "3.txt": 7,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "tidbits": {
+        "2.txt": 1
+    },
+    "transgression": {
+        "2.txt": 1
+    },
+    "ton": {
+        "2.txt": 2,
+        "12.txt": 1
+    },
+    "tragic": {
+        "2.txt": 2
+    },
+    "tinkles": {
+        "2.txt": 1
+    },
+    "technique": {
+        "2.txt": 2,
+        "3.txt": 8,
+        "17.txt": 1
+    },
+    "twirl": {
+        "2.txt": 2
+    },
+    "twirling": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "tuxedo": {
+        "2.txt": 1
+    },
+    "throwbacks": {
+        "2.txt": 1
+    },
+    "twitchy": {
+        "2.txt": 1
+    },
+    "trembles": {
+        "2.txt": 1
+    },
+    "thickens": {
+        "2.txt": 1
+    },
+    "tentative": {
+        "2.txt": 2,
+        "17.txt": 1
+    },
+    "timing": {
+        "2.txt": 1,
+        "3.txt": 6,
+        "12.txt": 1
+    },
+    "total": {
+        "2.txt": 1,
+        "3.txt": 8,
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "temple": {
+        "2.txt": 3,
+        "3.txt": 2,
+        "17.txt": 4
+    },
+    "templesmith": {
+        "2.txt": 2,
+        "17.txt": 2
+    },
+    "towing": {
+        "2.txt": 2
+    },
+    "trunks": {
+        "2.txt": 3
+    },
+    "tangles": {
+        "2.txt": 1
+    },
+    "truce": {
+        "2.txt": 1
+    },
+    "targeted": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "tilted": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "tufts": {
+        "2.txt": 1
+    },
+    "thereof": {
+        "2.txt": 1,
+        "21.txt": 1
+    },
+    "tense": {
+        "2.txt": 1,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "tangle": {
+        "2.txt": 1,
+        "17.txt": 2
+    },
+    "twitching": {
+        "2.txt": 3,
+        "12.txt": 1
+    },
+    "temporarily": {
+        "2.txt": 2,
+        "3.txt": 2
+    },
+    "torturous": {
+        "2.txt": 1
+    },
+    "thinning": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "triggered": {
+        "2.txt": 2
+    },
+    "targeting": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "trampled": {
+        "2.txt": 2
+    },
+    "triangle": {
+        "2.txt": 1,
+        "21.txt": 12
+    },
+    "trajectory": {
+        "2.txt": 1,
+        "12.txt": 2
+    },
+    "trickles": {
+        "2.txt": 1
+    },
+    "tar": {
+        "2.txt": 1,
+        "3.txt": 2,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "timed": {
+        "2.txt": 1
+    },
+    "tint": {
+        "2.txt": 1
+    },
+    "tromp": {
+        "2.txt": 1
+    },
+    "tick": {
+        "2.txt": 22,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "tock": {
+        "2.txt": 20
+    },
+    "treating": {
+        "2.txt": 1,
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "tolled": {
+        "2.txt": 1
+    },
+    "tocking": {
+        "2.txt": 2
+    },
+    "tighten": {
+        "2.txt": 2,
+        "3.txt": 1
+    },
+    "topics": {
+        "2.txt": 1
+    },
+    "toddle": {
+        "2.txt": 1
+    },
+    "thigh": {
+        "2.txt": 2,
+        "21.txt": 1
+    },
+    "ties": {
+        "2.txt": 3,
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "thirds": {
+        "2.txt": 1
+    },
+    "theoretically": {
+        "2.txt": 1,
+        "3.txt": 3
+    },
+    "tug": {
+        "2.txt": 1,
+        "17.txt": 1
+    },
+    "tricky": {
+        "2.txt": 1,
+        "3.txt": 2
+    },
+    "towers": {
+        "2.txt": 1,
+        "21.txt": 3
+    },
+    "taps": {
+        "2.txt": 1,
+        "3.txt": 2,
+        "17.txt": 3
+    },
+    "tasty": {
+        "2.txt": 1,
+        "3.txt": 1
+    },
+    "thirsting": {
+        "2.txt": 1
+    },
+    "teamed": {
+        "2.txt": 1
+    },
+    "tilting": {
+        "2.txt": 1
+    },
+    "tentatively": {
+        "2.txt": 1
+    },
+    "tugging": {
+        "2.txt": 1
+    },
+    "tortures": {
+        "2.txt": 1,
+        "12.txt": 1
+    },
+    "tubes": {
+        "2.txt": 5,
+        "3.txt": 1
+    },
+    "transportation": {
+        "2.txt": 1,
+        "3.txt": 8
+    },
+    "telephones": {
+        "3.txt": 7
+    },
+    "talkies": {
+        "3.txt": 6
+    },
+    "trashing": {
+        "3.txt": 11
+    },
+    "toothpaste": {
+        "3.txt": 1
+    },
+    "technology": {
+        "3.txt": 2,
+        "12.txt": 1
+    },
+    "theirs": {
+        "3.txt": 3
+    },
+    "topsy": {
+        "3.txt": 1
+    },
+    "turvy": {
+        "3.txt": 1
+    },
+    "trustees": {
+        "3.txt": 1
+    },
+    "typesetting": {
+        "3.txt": 1
+    },
+    "tolerance": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "tricia": {
+        "3.txt": 1
+    },
+    "theater": {
+        "3.txt": 30
+    },
+    "troi": {
+        "3.txt": 2
+    },
+    "tupamaros": {
+        "3.txt": 3
+    },
+    "tier": {
+        "3.txt": 1
+    },
+    "ted": {
+        "3.txt": 1
+    },
+    "tee": {
+        "3.txt": 1
+    },
+    "tourist": {
+        "3.txt": 5
+    },
+    "testimonials": {
+        "3.txt": 1
+    },
+    "tons": {
+        "3.txt": 5
+    },
+    "thieves": {
+        "3.txt": 2
+    },
+    "transferred": {
+        "3.txt": 1
+    },
+    "trench": {
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "thievery": {
+        "3.txt": 3
+    },
+    "tags": {
+        "3.txt": 1
+    },
+    "turnover": {
+        "3.txt": 1
+    },
+    "trash": {
+        "3.txt": 7,
+        "12.txt": 2
+    },
+    "tbs": {
+        "3.txt": 6
+    },
+    "toasted": {
+        "3.txt": 1
+    },
+    "tsp": {
+        "3.txt": 3
+    },
+    "tablespoon": {
+        "3.txt": 1
+    },
+    "thicken": {
+        "3.txt": 1
+    },
+    "thingies": {
+        "3.txt": 1
+    },
+    "tidal": {
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "tires": {
+        "3.txt": 3
+    },
+    "tire": {
+        "3.txt": 4,
+        "17.txt": 2
+    },
+    "tubing": {
+        "3.txt": 6
+    },
+    "transporting": {
+        "3.txt": 1
+    },
+    "typewriters": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "turmoil": {
+        "3.txt": 1
+    },
+    "towels": {
+        "3.txt": 1
+    },
+    "traveling": {
+        "3.txt": 6
+    },
+    "thy": {
+        "3.txt": 1
+    },
+    "trailers": {
+        "3.txt": 1
+    },
+    "trucking": {
+        "3.txt": 1
+    },
+    "tank": {
+        "3.txt": 10,
+        "12.txt": 1
+    },
+    "tolls": {
+        "3.txt": 2
+    },
+    "thru": {
+        "3.txt": 8
+    },
+    "tinfoil": {
+        "3.txt": 1
+    },
+    "turnstile": {
+        "3.txt": 10
+    },
+    "twain": {
+        "3.txt": 1
+    },
+    "tourists": {
+        "3.txt": 2
+    },
+    "troopers": {
+        "3.txt": 2
+    },
+    "tarred": {
+        "3.txt": 1
+    },
+    "tenants": {
+        "3.txt": 1
+    },
+    "tillable": {
+        "3.txt": 2
+    },
+    "township": {
+        "3.txt": 1
+    },
+    "terrain": {
+        "3.txt": 2
+    },
+    "termites": {
+        "3.txt": 1
+    },
+    "tepees": {
+        "3.txt": 1
+    },
+    "tribal": {
+        "3.txt": 1
+    },
+    "trinidad": {
+        "3.txt": 2
+    },
+    "tanguy": {
+        "3.txt": 1
+    },
+    "tuberculosis": {
+        "3.txt": 1
+    },
+    "tetanus": {
+        "3.txt": 3
+    },
+    "thermometers": {
+        "3.txt": 1
+    },
+    "therapeutic": {
+        "3.txt": 1
+    },
+    "trauma": {
+        "3.txt": 1
+    },
+    "transmittable": {
+        "3.txt": 1
+    },
+    "trenton": {
+        "3.txt": 1
+    },
+    "tv": {
+        "3.txt": 13,
+        "12.txt": 10,
+        "17.txt": 1
+    },
+    "theaters": {
+        "3.txt": 6
+    },
+    "theoreticians": {
+        "3.txt": 1
+    },
+    "transmitter": {
+        "3.txt": 12,
+        "17.txt": 1
+    },
+    "transistorized": {
+        "3.txt": 1
+    },
+    "tack": {
+        "3.txt": 2
+    },
+    "thereafter": {
+        "3.txt": 3
+    },
+    "terminated": {
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "theatrical": {
+        "3.txt": 2
+    },
+    "taxed": {
+        "3.txt": 1
+    },
+    "taxable": {
+        "3.txt": 1
+    },
+    "taxation": {
+        "3.txt": 2
+    },
+    "tipped": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "tokens": {
+        "3.txt": 2
+    },
+    "turnstiles": {
+        "3.txt": 5
+    },
+    "treasury": {
+        "3.txt": 1
+    },
+    "texture": {
+        "3.txt": 1,
+        "12.txt": 2
+    },
+    "tomato": {
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "tamp": {
+        "3.txt": 1
+    },
+    "transplant": {
+        "3.txt": 2
+    },
+    "transplanted": {
+        "3.txt": 1
+    },
+    "taping": {
+        "3.txt": 1,
+        "17.txt": 2
+    },
+    "travelers": {
+        "3.txt": 3
+    },
+    "timer": {
+        "3.txt": 1
+    },
+    "termed": {
+        "3.txt": 1,
+        "21.txt": 4
+    },
+    "typing": {
+        "3.txt": 2
+    },
+    "trappings": {
+        "3.txt": 1
+    },
+    "tabloid": {
+        "3.txt": 1
+    },
+    "typically": {
+        "3.txt": 1
+    },
+    "textbook": {
+        "3.txt": 1
+    },
+    "tends": {
+        "3.txt": 2
+    },
+    "troublemakers": {
+        "3.txt": 1
+    },
+    "terminals": {
+        "3.txt": 2
+    },
+    "tallahassee": {
+        "3.txt": 1
+    },
+    "tampa": {
+        "3.txt": 1
+    },
+    "tribune": {
+        "3.txt": 2
+    },
+    "tenn": {
+        "3.txt": 2
+    },
+    "tex": {
+        "3.txt": 2
+    },
+    "torch": {
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "tuscon": {
+        "3.txt": 2
+    },
+    "toronto": {
+        "3.txt": 1
+    },
+    "tommsaco": {
+        "3.txt": 1
+    },
+    "transmitted": {
+        "3.txt": 1
+    },
+    "taos": {
+        "3.txt": 2
+    },
+    "transmission": {
+        "3.txt": 4,
+        "12.txt": 1
+    },
+    "transmit": {
+        "3.txt": 2,
+        "21.txt": 1
+    },
+    "transformer": {
+        "3.txt": 2
+    },
+    "transmitting": {
+        "3.txt": 1
+    },
+    "turntables": {
+        "3.txt": 1
+    },
+    "transmitters": {
+        "3.txt": 3
+    },
+    "transmissions": {
+        "3.txt": 1
+    },
+    "thirdly": {
+        "3.txt": 1
+    },
+    "tuner": {
+        "3.txt": 1
+    },
+    "tracer": {
+        "3.txt": 1
+    },
+    "tactics": {
+        "3.txt": 3
+    },
+    "tactical": {
+        "3.txt": 1
+    },
+    "transistors": {
+        "3.txt": 1
+    },
+    "talkie": {
+        "3.txt": 3
+    },
+    "tourniquet": {
+        "3.txt": 5
+    },
+    "trashers": {
+        "3.txt": 1
+    },
+    "tue": {
+        "3.txt": 1
+    },
+    "toy": {
+        "3.txt": 1
+    },
+    "thumbs": {
+        "3.txt": 1
+    },
+    "topple": {
+        "3.txt": 1
+    },
+    "thrower": {
+        "3.txt": 1,
+        "12.txt": 4
+    },
+    "tampax": {
+        "3.txt": 2
+    },
+    "taped": {
+        "3.txt": 2,
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "transport": {
+        "3.txt": 1,
+        "21.txt": 1,
+        "17.txt": 1
+    },
+    "threaded": {
+        "3.txt": 1
+    },
+    "thinner": {
+        "3.txt": 1
+    },
+    "timers": {
+        "3.txt": 1
+    },
+    "tag": {
+        "3.txt": 2
+    },
+    "taylor": {
+        "3.txt": 1
+    },
+    "technicality": {
+        "3.txt": 1
+    },
+    "tendency": {
+        "3.txt": 2,
+        "17.txt": 1
+    },
+    "ta5": {
+        "3.txt": 1
+    },
+    "treaties": {
+        "3.txt": 1
+    },
+    "thighs": {
+        "3.txt": 1,
+        "17.txt": 1
+    },
+    "toaster": {
+        "3.txt": 1,
+        "12.txt": 3
+    },
+    "toys": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "truckload": {
+        "3.txt": 1
+    },
+    "teddy": {
+        "3.txt": 1
+    },
+    "toro": {
+        "3.txt": 1
+    },
+    "trials": {
+        "3.txt": 1
+    },
+    "traitor": {
+        "3.txt": 1,
+        "17.txt": 5
+    },
+    "truckin": {
+        "3.txt": 2
+    },
+    "teenagers": {
+        "3.txt": 1
+    },
+    "tuesday": {
+        "3.txt": 7
+    },
+    "tuesdays": {
+        "3.txt": 3
+    },
+    "teenage": {
+        "3.txt": 1
+    },
+    "tr": {
+        "3.txt": 9
+    },
+    "tremont": {
+        "3.txt": 1
+    },
+    "throop": {
+        "3.txt": 1
+    },
+    "toughest": {
+        "3.txt": 1
+    },
+    "theological": {
+        "3.txt": 1,
+        "21.txt": 1
+    },
+    "tu": {
+        "3.txt": 1
+    },
+    "thursdays": {
+        "3.txt": 2
+    },
+    "ti": {
+        "3.txt": 1
+    },
+    "teller": {
+        "3.txt": 2
+    },
+    "trickier": {
+        "3.txt": 1
+    },
+    "tunes": {
+        "3.txt": 1
+    },
+    "tellers": {
+        "3.txt": 1,
+        "12.txt": 1
+    },
+    "truckers": {
+        "3.txt": 1
+    },
+    "traveler": {
+        "3.txt": 4
+    },
+    "tomatoes": {
+        "3.txt": 1
+    },
+    "thrift": {
+        "3.txt": 2
+    },
+    "trojan": {
+        "3.txt": 1
+    },
+    "tujunga": {
+        "3.txt": 2
+    },
+    "topanga": {
+        "3.txt": 1
+    },
+    "terminal": {
+        "3.txt": 1
+    },
+    "twelfth": {
+        "3.txt": 1
+    },
+    "tatters": {
+        "12.txt": 1
+    },
+    "tallow": {
+        "12.txt": 1
+    },
+    "thimble": {
+        "12.txt": 4
+    },
+    "tamped": {
+        "12.txt": 3
+    },
+    "throb": {
+        "12.txt": 1
+    },
+    "trot": {
+        "12.txt": 1
+    },
+    "tissues": {
+        "12.txt": 1
+    },
+    "thimbles": {
+        "12.txt": 1
+    },
+    "technicians": {
+        "12.txt": 2
+    },
+    "tacked": {
+        "12.txt": 1
+    },
+    "thunderheads": {
+        "12.txt": 1
+    },
+    "thief": {
+        "12.txt": 1
+    },
+    "tanks": {
+        "12.txt": 1
+    },
+    "thunderstorm": {
+        "12.txt": 1
+    },
+    "tendons": {
+        "12.txt": 2
+    },
+    "twentieth": {
+        "12.txt": 2
+    },
+    "triple": {
+        "12.txt": 1
+    },
+    "tabloids": {
+        "12.txt": 1
+    },
+    "tracing": {
+        "12.txt": 1
+    },
+    "theatres": {
+        "12.txt": 1
+    },
+    "texans": {
+        "12.txt": 1
+    },
+    "tapioca": {
+        "12.txt": 1
+    },
+    "tinkerers": {
+        "12.txt": 1
+    },
+    "toms": {
+        "12.txt": 1
+    },
+    "titillation": {
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "theremin": {
+        "12.txt": 1
+    },
+    "tactile": {
+        "12.txt": 1,
+        "21.txt": 1
+    },
+    "tyres": {
+        "12.txt": 2
+    },
+    "toppled": {
+        "12.txt": 1
+    },
+    "teem": {
+        "12.txt": 1
+    },
+    "testament": {
+        "12.txt": 1
+    },
+    "thoreau": {
+        "12.txt": 2
+    },
+    "tile": {
+        "12.txt": 2
+    },
+    "tiles": {
+        "12.txt": 1,
+        "17.txt": 1
+    },
+    "televisors": {
+        "12.txt": 1
+    },
+    "truthfully": {
+        "12.txt": 1
+    },
+    "televisor": {
+        "12.txt": 2
+    },
+    "thou": {
+        "12.txt": 2
+    },
+    "treason": {
+        "12.txt": 1
+    },
+    "tickling": {
+        "12.txt": 1
+    },
+    "tittered": {
+        "12.txt": 1
+    },
+    "tumpty": {
+        "12.txt": 1
+    },
+    "trotting": {
+        "12.txt": 1
+    },
+    "threadbare": {
+        "12.txt": 1
+    },
+    "traitors": {
+        "12.txt": 1
+    },
+    "tyranny": {
+        "12.txt": 1
+    },
+    "tacking": {
+        "12.txt": 2
+    },
+    "throne": {
+        "12.txt": 1
+    },
+    "taxi": {
+        "12.txt": 1
+    },
+    "twin": {
+        "12.txt": 1
+    },
+    "tents": {
+        "12.txt": 1
+    },
+    "tiredness": {
+        "12.txt": 1
+    },
+    "tilt": {
+        "12.txt": 1
+    },
+    "tooth": {
+        "12.txt": 1
+    },
+    "thoroughfare": {
+        "12.txt": 1
+    },
+    "towelled": {
+        "12.txt": 1
+    },
+    "tyre": {
+        "12.txt": 1
+    },
+    "trotted": {
+        "12.txt": 1
+    },
+    "throwrug": {
+        "12.txt": 1
+    },
+    "ticked": {
+        "12.txt": 1
+    },
+    "thumbprint": {
+        "12.txt": 1
+    },
+    "translation": {
+        "21.txt": 2
+    },
+    "tannery": {
+        "21.txt": 2
+    },
+    "theology": {
+        "21.txt": 1
+    },
+    "treatise": {
+        "21.txt": 7
+    },
+    "theologians": {
+        "21.txt": 1
+    },
+    "tenets": {
+        "21.txt": 1
+    },
+    "tot": {
+        "21.txt": 2
+    },
+    "truths3": {
+        "21.txt": 1
+    },
+    "them4": {
+        "21.txt": 1
+    },
+    "testimony": {
+        "21.txt": 2
+    },
+    "thoroughness": {
+        "21.txt": 1
+    },
+    "trodden": {
+        "21.txt": 1
+    },
+    "tranquillity": {
+        "21.txt": 1
+    },
+    "tedious": {
+        "21.txt": 1
+    },
+    "tome": {
+        "21.txt": 1
+    },
+    "triangular": {
+        "21.txt": 2
+    },
+    "trustworthy": {
+        "21.txt": 1
+    },
+    "termination": {
+        "21.txt": 1
+    },
+    "treasures": {
+        "21.txt": 1
+    },
+    "testifies": {
+        "21.txt": 1
+    },
+    "transcend": {
+        "21.txt": 1
+    },
+    "temerity": {
+        "21.txt": 1
+    },
+    "testify": {
+        "21.txt": 1
+    },
+    "thought\u53e6he": {
+        "21.txt": 1
+    },
+    "true\u4edflthough": {
+        "21.txt": 1
+    },
+    "tactice": {
+        "21.txt": 1
+    },
+    "testified": {
+        "21.txt": 1
+    },
+    "tibia": {
+        "21.txt": 1
+    },
+    "them28": {
+        "21.txt": 1
+    },
+    "televisions": {
+        "17.txt": 1
+    },
+    "tasteless": {
+        "17.txt": 1
+    },
+    "torments": {
+        "17.txt": 1
+    },
+    "twitches": {
+        "17.txt": 1
+    },
+    "thrashes": {
+        "17.txt": 1
+    },
+    "throated": {
+        "17.txt": 1
+    },
+    "troop": {
+        "17.txt": 2
+    },
+    "transition": {
+        "17.txt": 1
+    },
+    "tenuous": {
+        "17.txt": 1
+    },
+    "thrashing": {
+        "17.txt": 1
+    },
+    "turnips": {
+        "17.txt": 5
+    },
+    "trays": {
+        "17.txt": 1
+    },
+    "tribunal": {
+        "17.txt": 1
+    },
+    "tallying": {
+        "17.txt": 1
+    },
+    "transmits": {
+        "17.txt": 1
+    },
+    "tunic": {
+        "17.txt": 1
+    },
+    "trackers": {
+        "17.txt": 1
+    },
+    "turkeys": {
+        "17.txt": 1
+    },
+    "therapy": {
+        "17.txt": 1
+    },
+    "traitorous": {
+        "17.txt": 1
+    },
+    "tresses": {
+        "17.txt": 1
+    },
+    "thumping": {
+        "17.txt": 1
+    },
+    "talker": {
+        "17.txt": 1
+    },
+    "takeoff": {
+        "17.txt": 1
+    },
+    "thirties": {
+        "17.txt": 1
+    },
+    "trapping": {
+        "17.txt": 1
+    },
+    "transported": {
+        "17.txt": 1
+    },
+    "twentyfour": {
+        "17.txt": 1
+    }
+}

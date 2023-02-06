@@ -1,0 +1,718 @@
+{
+    "killings": {
+        "19.txt": 1
+    },
+    "key": {
+        "19.txt": 15,
+        "24.txt": 3
+    },
+    "kaufman": {
+        "19.txt": 1
+    },
+    "kolia": {
+        "19.txt": 19
+    },
+    "krueger": {
+        "19.txt": 21
+    },
+    "karlovna": {
+        "19.txt": 6
+    },
+    "komarovsky": {
+        "19.txt": 58
+    },
+    "kologrivov": {
+        "19.txt": 11
+    },
+    "kuprian": {
+        "19.txt": 3
+    },
+    "kitchen": {
+        "19.txt": 24,
+        "1.txt": 4
+    },
+    "knocking": {
+        "19.txt": 20,
+        "1.txt": 6
+    },
+    "know": {
+        "19.txt": 356,
+        "1.txt": 272,
+        "24.txt": 43,
+        "5.txt": 10,
+        "8.txt": 4,
+        "4.txt": 6
+    },
+    "known": {
+        "19.txt": 54,
+        "1.txt": 8,
+        "24.txt": 28,
+        "5.txt": 3,
+        "8.txt": 13,
+        "4.txt": 2
+    },
+    "kind": {
+        "19.txt": 57,
+        "1.txt": 43,
+        "24.txt": 25,
+        "5.txt": 10,
+        "8.txt": 6
+    },
+    "kingdom": {
+        "19.txt": 10,
+        "24.txt": 8,
+        "8.txt": 4
+    },
+    "kazan": {
+        "19.txt": 2
+    },
+    "keeping": {
+        "19.txt": 26,
+        "1.txt": 15,
+        "24.txt": 1,
+        "5.txt": 4,
+        "8.txt": 2
+    },
+    "knows": {
+        "19.txt": 39,
+        "1.txt": 37,
+        "24.txt": 6,
+        "5.txt": 6,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "kant": {
+        "19.txt": 1,
+        "24.txt": 5,
+        "5.txt": 3
+    },
+    "keep": {
+        "19.txt": 98,
+        "1.txt": 76,
+        "24.txt": 6,
+        "5.txt": 16,
+        "8.txt": 1,
+        "4.txt": 8
+    },
+    "kept": {
+        "19.txt": 111,
+        "1.txt": 8,
+        "24.txt": 1,
+        "5.txt": 3,
+        "8.txt": 7,
+        "4.txt": 3
+    },
+    "knees": {
+        "19.txt": 19,
+        "1.txt": 15,
+        "4.txt": 1
+    },
+    "knew": {
+        "19.txt": 106,
+        "1.txt": 28,
+        "5.txt": 1,
+        "8.txt": 22,
+        "4.txt": 4
+    },
+    "kologrivovka": {
+        "19.txt": 1
+    },
+    "kerchief": {
+        "19.txt": 7
+    },
+    "kill": {
+        "19.txt": 24,
+        "1.txt": 62,
+        "5.txt": 2,
+        "8.txt": 4,
+        "4.txt": 2
+    },
+    "kologrivova": {
+        "19.txt": 2
+    },
+    "kindly": {
+        "19.txt": 4,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 2
+    },
+    "knocked": {
+        "19.txt": 5,
+        "1.txt": 3
+    },
+    "kirill": {
+        "19.txt": 2
+    },
+    "killer": {
+        "19.txt": 3,
+        "1.txt": 3
+    },
+    "kiss": {
+        "19.txt": 13,
+        "1.txt": 26
+    },
+    "kuprik": {
+        "19.txt": 1
+    },
+    "khudoleiev": {
+        "19.txt": 11
+    },
+    "killing": {
+        "19.txt": 6,
+        "1.txt": 9,
+        "8.txt": 9
+    },
+    "knock": {
+        "19.txt": 6,
+        "1.txt": 6
+    },
+    "killed": {
+        "19.txt": 39,
+        "1.txt": 19,
+        "8.txt": 14,
+        "4.txt": 3
+    },
+    "knife": {
+        "19.txt": 10,
+        "1.txt": 50,
+        "8.txt": 2
+    },
+    "krasnoyarsk": {
+        "19.txt": 1
+    },
+    "kuprinka": {
+        "19.txt": 5
+    },
+    "kid": {
+        "19.txt": 1,
+        "4.txt": 3
+    },
+    "kaluga": {
+        "19.txt": 2
+    },
+    "knee": {
+        "19.txt": 6,
+        "1.txt": 7
+    },
+    "killers": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "kinsman": {
+        "19.txt": 1,
+        "8.txt": 21
+    },
+    "kreutzer": {
+        "19.txt": 1
+    },
+    "knowledge": {
+        "19.txt": 8,
+        "1.txt": 4,
+        "24.txt": 106,
+        "5.txt": 18
+    },
+    "knowing": {
+        "19.txt": 18,
+        "1.txt": 15,
+        "24.txt": 2,
+        "8.txt": 1
+    },
+    "knot": {
+        "19.txt": 4,
+        "1.txt": 4
+    },
+    "knightly": {
+        "19.txt": 1
+    },
+    "kuznetsky": {
+        "19.txt": 5
+    },
+    "kicked": {
+        "19.txt": 8,
+        "4.txt": 2
+    },
+    "kindness": {
+        "19.txt": 5,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 2,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "kavkaztsev": {
+        "19.txt": 1
+    },
+    "knots": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "kerimbekov": {
+        "19.txt": 2
+    },
+    "kerosene": {
+        "19.txt": 11
+    },
+    "kazimirovich": {
+        "19.txt": 3
+    },
+    "kinds": {
+        "19.txt": 10,
+        "1.txt": 2,
+        "24.txt": 3
+    },
+    "kidneys": {
+        "19.txt": 1
+    },
+    "kisses": {
+        "19.txt": 1,
+        "1.txt": 10
+    },
+    "kologrivovs": {
+        "19.txt": 8
+    },
+    "keen": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "8.txt": 15
+    },
+    "kopek": {
+        "19.txt": 3
+    },
+    "kamerger": {
+        "19.txt": 7
+    },
+    "kin": {
+        "19.txt": 1,
+        "8.txt": 17
+    },
+    "koka": {
+        "19.txt": 7
+    },
+    "kornakov": {
+        "19.txt": 12
+    },
+    "kokochka": {
+        "19.txt": 1
+    },
+    "knelt": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "4.txt": 1
+    },
+    "keeper": {
+        "19.txt": 1,
+        "8.txt": 4
+    },
+    "kruegers": {
+        "19.txt": 2
+    },
+    "kapitonovna": {
+        "19.txt": 1
+    },
+    "kissed": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "kissing": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "knuckle": {
+        "19.txt": 1
+    },
+    "katenka": {
+        "19.txt": 42
+    },
+    "karpenko": {
+        "19.txt": 4
+    },
+    "kaiser": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "kings": {
+        "19.txt": 2,
+        "8.txt": 4
+    },
+    "keeps": {
+        "19.txt": 7,
+        "1.txt": 15,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "keyhole": {
+        "19.txt": 1
+    },
+    "kinship": {
+        "19.txt": 3,
+        "8.txt": 3
+    },
+    "klintsov": {
+        "19.txt": 1
+    },
+    "kit": {
+        "19.txt": 1,
+        "1.txt": 4
+    },
+    "koteri": {
+        "19.txt": 3
+    },
+    "kirghiz": {
+        "19.txt": 4
+    },
+    "kasha": {
+        "19.txt": 3
+    },
+    "khrapugina": {
+        "19.txt": 4
+    },
+    "karetnaia": {
+        "19.txt": 2
+    },
+    "kerenkas": {
+        "19.txt": 2
+    },
+    "keys": {
+        "19.txt": 3
+    },
+    "kharitonovich": {
+        "19.txt": 2
+    },
+    "kostoied": {
+        "19.txt": 8
+    },
+    "kostoried": {
+        "19.txt": 1
+    },
+    "kelmes": {
+        "19.txt": 3
+    },
+    "kulaks": {
+        "19.txt": 5
+    },
+    "kurban": {
+        "19.txt": 2
+    },
+    "katia": {
+        "19.txt": 10
+    },
+    "keyed": {
+        "19.txt": 1
+    },
+    "khokhriki": {
+        "19.txt": 1
+    },
+    "kholodeievo": {
+        "19.txt": 1
+    },
+    "knitting": {
+        "19.txt": 1
+    },
+    "kicking": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "komuch": {
+        "19.txt": 3
+    },
+    "knit": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "kleist": {
+        "19.txt": 1
+    },
+    "kishinev": {
+        "19.txt": 1
+    },
+    "knotted": {
+        "19.txt": 2
+    },
+    "khodatskoie": {
+        "19.txt": 5
+    },
+    "kolchak": {
+        "19.txt": 13
+    },
+    "kezhma": {
+        "19.txt": 1
+    },
+    "ksiusha": {
+        "19.txt": 3
+    },
+    "kuteiny": {
+        "19.txt": 7
+    },
+    "kick": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "knitters": {
+        "19.txt": 1
+    },
+    "krestovozdvizhensk": {
+        "19.txt": 7
+    },
+    "kaminsky": {
+        "19.txt": 1
+    },
+    "kehillah": {
+        "19.txt": 1
+    },
+    "kerenyi": {
+        "19.txt": 2
+    },
+    "kubarikha": {
+        "19.txt": 9
+    },
+    "kezhemsk": {
+        "19.txt": 4
+    },
+    "kulich": {
+        "19.txt": 1
+    },
+    "koska": {
+        "19.txt": 5
+    },
+    "kappel": {
+        "19.txt": 2
+    },
+    "knifed": {
+        "19.txt": 1
+    },
+    "kamennodvorsky": {
+        "19.txt": 8
+    },
+    "kaleidoscopic": {
+        "19.txt": 2
+    },
+    "kerensky": {
+        "19.txt": 2
+    },
+    "kneeling": {
+        "19.txt": 2
+    },
+    "knight": {
+        "19.txt": 8
+    },
+    "knocks": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "k": {
+        "19.txt": 3
+    },
+    "kettle": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "krapulsky": {
+        "19.txt": 1
+    },
+    "kulabish": {
+        "19.txt": 2
+    },
+    "komarvosky": {
+        "19.txt": 1
+    },
+    "kizevetter": {
+        "19.txt": 1
+    },
+    "kuskov": {
+        "19.txt": 1
+    },
+    "kindling": {
+        "19.txt": 1
+    },
+    "kharlam": {
+        "19.txt": 6
+    },
+    "kapka": {
+        "19.txt": 3
+    },
+    "klazhka": {
+        "19.txt": 2
+    },
+    "kudrinskaia": {
+        "19.txt": 2
+    },
+    "kicks": {
+        "19.txt": 1
+    },
+    "kursk": {
+        "19.txt": 2
+    },
+    "karachev": {
+        "19.txt": 1
+    },
+    "komarova": {
+        "19.txt": 1
+    },
+    "komarov": {
+        "19.txt": 4
+    },
+    "krushitsy": {
+        "19.txt": 1
+    },
+    "kopeck": {
+        "19.txt": 1
+    },
+    "kerenki": {
+        "19.txt": 1
+    },
+    "keening": {
+        "19.txt": 1
+    },
+    "knoll": {
+        "19.txt": 2
+    },
+    "kneel": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "kingdoms": {
+        "19.txt": 1
+    },
+    "kedron": {
+        "19.txt": 1
+    },
+    "kiev": {
+        "19.txt": 2
+    },
+    "kitten": {
+        "1.txt": 1
+    },
+    "knuckles": {
+        "1.txt": 1
+    },
+    "katniss": {
+        "1.txt": 80
+    },
+    "kids": {
+        "1.txt": 19
+    },
+    "keel": {
+        "1.txt": 2,
+        "8.txt": 3
+    },
+    "knives": {
+        "1.txt": 5
+    },
+    "kills": {
+        "1.txt": 4
+    },
+    "kidding": {
+        "1.txt": 1
+    },
+    "kernels": {
+        "1.txt": 1
+    },
+    "kneels": {
+        "1.txt": 1
+    },
+    "knob": {
+        "1.txt": 1
+    },
+    "kingsmill": {
+        "24.txt": 1
+    },
+    "keystone": {
+        "24.txt": 1
+    },
+    "knowable": {
+        "24.txt": 2
+    },
+    "kakov": {
+        "24.txt": 1
+    },
+    "kindred": {
+        "24.txt": 1,
+        "8.txt": 2
+    },
+    "kinsfolk": {
+        "24.txt": 1
+    },
+    "kansas": {
+        "24.txt": 1
+    },
+    "kentucky": {
+        "24.txt": 1
+    },
+    "katzenstein": {
+        "5.txt": 2
+    },
+    "knake": {
+        "5.txt": 1
+    },
+    "kepler": {
+        "5.txt": 1
+    },
+    "knifing": {
+        "5.txt": 1
+    },
+    "kellogg": {
+        "5.txt": 1
+    },
+    "keynes": {
+        "5.txt": 1
+    },
+    "karl": {
+        "5.txt": 1
+    },
+    "keren": {
+        "5.txt": 1
+    },
+    "king": {
+        "8.txt": 82,
+        "4.txt": 14
+    },
+    "kenning": {
+        "8.txt": 6
+    },
+    "keenest": {
+        "8.txt": 4
+    },
+    "knowest": {
+        "8.txt": 1
+    },
+    "kinsmen": {
+        "8.txt": 8
+    },
+    "kinder": {
+        "8.txt": 1
+    },
+    "kenned": {
+        "8.txt": 1
+    },
+    "kinswoman": {
+        "8.txt": 1
+    },
+    "keenness": {
+        "8.txt": 2
+    },
+    "killedst": {
+        "8.txt": 1
+    },
+    "knowst": {
+        "8.txt": 1
+    },
+    "ken": {
+        "8.txt": 3
+    },
+    "knoweth": {
+        "8.txt": 1
+    },
+    "kens": {
+        "8.txt": 1
+    },
+    "kindled": {
+        "8.txt": 1
+    },
+    "keels": {
+        "8.txt": 1
+    },
+    "kindest": {
+        "8.txt": 1
+    }
+}

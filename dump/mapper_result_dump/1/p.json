@@ -1,0 +1,4883 @@
+{
+    "project": {
+        "25.txt": 40,
+        "16.txt": 39,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "pure": {
+        "25.txt": 742,
+        "16.txt": 7,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "path": {
+        "25.txt": 43,
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 22,
+        "22.txt": 6
+    },
+    "please": {
+        "25.txt": 11,
+        "16.txt": 14,
+        "11.txt": 5,
+        "20.txt": 14,
+        "22.txt": 1,
+        "9.txt": 16
+    },
+    "permission": {
+        "25.txt": 6,
+        "16.txt": 1,
+        "11.txt": 4,
+        "22.txt": 1
+    },
+    "provide": {
+        "25.txt": 6,
+        "16.txt": 3,
+        "11.txt": 3,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "plain": {
+        "25.txt": 19,
+        "16.txt": 11,
+        "11.txt": 3,
+        "20.txt": 3,
+        "22.txt": 3
+    },
+    "prepared": {
+        "25.txt": 4,
+        "16.txt": 7,
+        "11.txt": 9,
+        "9.txt": 1
+    },
+    "posted": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "11.txt": 3
+    },
+    "produced": {
+        "25.txt": 35,
+        "16.txt": 2,
+        "11.txt": 3,
+        "20.txt": 1,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "printed": {
+        "25.txt": 1,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "public": {
+        "25.txt": 18,
+        "16.txt": 30,
+        "22.txt": 15,
+        "9.txt": 3
+    },
+    "particular": {
+        "25.txt": 92,
+        "16.txt": 65,
+        "11.txt": 6,
+        "20.txt": 3,
+        "22.txt": 22
+    },
+    "paper": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "11.txt": 7,
+        "20.txt": 3,
+        "9.txt": 4
+    },
+    "publication": {
+        "25.txt": 1,
+        "22.txt": 2
+    },
+    "preliminary": {
+        "25.txt": 4,
+        "16.txt": 1,
+        "11.txt": 3
+    },
+    "people": {
+        "25.txt": 10,
+        "16.txt": 8,
+        "11.txt": 16,
+        "20.txt": 33,
+        "22.txt": 3,
+        "9.txt": 10
+    },
+    "promo": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "pg": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "produce": {
+        "25.txt": 50,
+        "16.txt": 2,
+        "11.txt": 2,
+        "20.txt": 1,
+        "22.txt": 2
+    },
+    "pub": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "page": {
+        "25.txt": 1,
+        "16.txt": 4,
+        "20.txt": 57
+    },
+    "proofread": {
+        "25.txt": 2,
+        "16.txt": 2
+    },
+    "projected": {
+        "25.txt": 4,
+        "16.txt": 1
+    },
+    "per": {
+        "25.txt": 28,
+        "16.txt": 3
+    },
+    "population": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "present": {
+        "25.txt": 201,
+        "16.txt": 72,
+        "11.txt": 15,
+        "20.txt": 1,
+        "22.txt": 13,
+        "9.txt": 2
+    },
+    "production": {
+        "25.txt": 25,
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "pennsylvania": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "progress": {
+        "25.txt": 37,
+        "16.txt": 2,
+        "11.txt": 6,
+        "20.txt": 1,
+        "22.txt": 6
+    },
+    "paperwork": {
+        "25.txt": 1
+    },
+    "prohibition": {
+        "25.txt": 2
+    },
+    "pmb": {
+        "25.txt": 1
+    },
+    "payment": {
+        "25.txt": 1
+    },
+    "permitted": {
+        "25.txt": 7,
+        "22.txt": 3
+    },
+    "pobox": {
+        "25.txt": 2,
+        "16.txt": 4
+    },
+    "prof": {
+        "25.txt": 1
+    },
+    "prefer": {
+        "25.txt": 5,
+        "16.txt": 8,
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "print": {
+        "25.txt": 9,
+        "16.txt": 10,
+        "20.txt": 2
+    },
+    "pages": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "20.txt": 1
+    },
+    "part": {
+        "25.txt": 160,
+        "16.txt": 125,
+        "11.txt": 28,
+        "20.txt": 3,
+        "22.txt": 14,
+        "9.txt": 7
+    },
+    "paid": {
+        "25.txt": 3,
+        "16.txt": 4,
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "person": {
+        "25.txt": 18,
+        "16.txt": 7,
+        "11.txt": 10,
+        "20.txt": 6,
+        "22.txt": 4,
+        "9.txt": 3
+    },
+    "physical": {
+        "25.txt": 31,
+        "16.txt": 3,
+        "11.txt": 5,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "professor": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "paying": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "products": {
+        "25.txt": 11,
+        "20.txt": 1
+    },
+    "property": {
+        "25.txt": 39,
+        "16.txt": 6,
+        "11.txt": 8,
+        "9.txt": 1
+    },
+    "party": {
+        "25.txt": 19,
+        "16.txt": 2,
+        "11.txt": 5,
+        "20.txt": 4,
+        "9.txt": 2
+    },
+    "punitive": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "possibility": {
+        "25.txt": 337,
+        "16.txt": 1,
+        "11.txt": 5,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "provided": {
+        "25.txt": 9,
+        "16.txt": 8,
+        "11.txt": 4,
+        "22.txt": 10
+    },
+    "purpose": {
+        "25.txt": 132,
+        "16.txt": 18,
+        "11.txt": 18,
+        "20.txt": 1,
+        "22.txt": 4
+    },
+    "proprietary": {
+        "25.txt": 2,
+        "16.txt": 2
+    },
+    "processing": {
+        "25.txt": 1
+    },
+    "punctuation": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "program": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "processors": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "provisions": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "pay": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "20.txt": 7,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "profits": {
+        "25.txt": 2,
+        "16.txt": 2
+    },
+    "payable": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "prepare": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "11.txt": 3,
+        "20.txt": 1
+    },
+    "periodic": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "plans": {
+        "25.txt": 3,
+        "11.txt": 8
+    },
+    "portions": {
+        "25.txt": 5,
+        "16.txt": 1
+    },
+    "product": {
+        "25.txt": 16
+    },
+    "preface": {
+        "25.txt": 3
+    },
+    "presented": {
+        "25.txt": 108,
+        "16.txt": 1,
+        "11.txt": 1,
+        "22.txt": 7
+    },
+    "principles": {
+        "25.txt": 379,
+        "16.txt": 2,
+        "22.txt": 23
+    },
+    "presence": {
+        "25.txt": 23,
+        "16.txt": 4,
+        "11.txt": 10,
+        "20.txt": 3,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "potens": {
+        "25.txt": 1
+    },
+    "permanent": {
+        "25.txt": 66,
+        "11.txt": 3
+    },
+    "put": {
+        "25.txt": 7,
+        "16.txt": 46,
+        "11.txt": 37,
+        "20.txt": 33,
+        "22.txt": 3,
+        "9.txt": 15
+    },
+    "persisted": {
+        "25.txt": 3
+    },
+    "plan": {
+        "25.txt": 20,
+        "16.txt": 2,
+        "11.txt": 4,
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "physiology": {
+        "25.txt": 11
+    },
+    "persuasion": {
+        "25.txt": 13,
+        "16.txt": 2,
+        "22.txt": 1
+    },
+    "prelude": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "profess": {
+        "25.txt": 7,
+        "16.txt": 3,
+        "22.txt": 2
+    },
+    "pretended": {
+        "25.txt": 7
+    },
+    "popular": {
+        "25.txt": 7,
+        "16.txt": 4,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "propositions": {
+        "25.txt": 125,
+        "22.txt": 2
+    },
+    "phenomenon": {
+        "25.txt": 195,
+        "11.txt": 1
+    },
+    "plainly": {
+        "25.txt": 5,
+        "16.txt": 3,
+        "11.txt": 4,
+        "22.txt": 1
+    },
+    "pronounces": {
+        "25.txt": 1
+    },
+    "pretensions": {
+        "25.txt": 28
+    },
+    "profound": {
+        "25.txt": 13,
+        "16.txt": 3
+    },
+    "perfect": {
+        "25.txt": 58,
+        "16.txt": 19,
+        "11.txt": 3,
+        "20.txt": 3,
+        "22.txt": 25,
+        "9.txt": 2
+    },
+    "powers": {
+        "25.txt": 52,
+        "16.txt": 1,
+        "11.txt": 7,
+        "22.txt": 4
+    },
+    "philosophy": {
+        "25.txt": 146,
+        "16.txt": 30,
+        "20.txt": 2,
+        "22.txt": 14
+    },
+    "problem": {
+        "25.txt": 38,
+        "11.txt": 4,
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "principle": {
+        "25.txt": 345,
+        "16.txt": 4,
+        "20.txt": 1,
+        "22.txt": 9
+    },
+    "prove": {
+        "25.txt": 54,
+        "16.txt": 5,
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 5,
+        "9.txt": 1
+    },
+    "perfectly": {
+        "25.txt": 80,
+        "16.txt": 3,
+        "11.txt": 3,
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "philosophical": {
+        "25.txt": 32,
+        "16.txt": 4,
+        "11.txt": 1
+    },
+    "programme": {
+        "25.txt": 1,
+        "20.txt": 1
+    },
+    "professes": {
+        "25.txt": 4
+    },
+    "primal": {
+        "25.txt": 33,
+        "11.txt": 1
+    },
+    "promises": {
+        "25.txt": 4,
+        "22.txt": 2
+    },
+    "possible": {
+        "25.txt": 610,
+        "16.txt": 25,
+        "11.txt": 22,
+        "20.txt": 2,
+        "22.txt": 14
+    },
+    "power": {
+        "25.txt": 106,
+        "16.txt": 77,
+        "11.txt": 27,
+        "20.txt": 1,
+        "22.txt": 13,
+        "9.txt": 1
+    },
+    "presents": {
+        "25.txt": 42,
+        "16.txt": 7,
+        "22.txt": 1
+    },
+    "proposed": {
+        "25.txt": 12,
+        "16.txt": 4
+    },
+    "priori": {
+        "25.txt": 610
+    },
+    "professed": {
+        "25.txt": 4,
+        "16.txt": 2
+    },
+    "point": {
+        "25.txt": 100,
+        "16.txt": 11,
+        "11.txt": 17,
+        "20.txt": 1,
+        "22.txt": 8,
+        "9.txt": 2
+    },
+    "passages": {
+        "25.txt": 6,
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "properly": {
+        "25.txt": 61,
+        "16.txt": 31,
+        "11.txt": 1,
+        "22.txt": 2,
+        "9.txt": 2
+    },
+    "place": {
+        "25.txt": 174,
+        "16.txt": 41,
+        "11.txt": 69,
+        "20.txt": 9,
+        "22.txt": 31,
+        "9.txt": 8
+    },
+    "proper": {
+        "25.txt": 122,
+        "16.txt": 93,
+        "11.txt": 4,
+        "22.txt": 1,
+        "9.txt": 3
+    },
+    "places": {
+        "25.txt": 13,
+        "16.txt": 12,
+        "11.txt": 23,
+        "22.txt": 3,
+        "9.txt": 1
+    },
+    "problems": {
+        "25.txt": 23,
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "perceived": {
+        "25.txt": 27,
+        "20.txt": 1,
+        "22.txt": 4
+    },
+    "parts": {
+        "25.txt": 139,
+        "16.txt": 25,
+        "11.txt": 4,
+        "20.txt": 1,
+        "22.txt": 16,
+        "9.txt": 1
+    },
+    "prevent": {
+        "25.txt": 11,
+        "16.txt": 4,
+        "11.txt": 2,
+        "20.txt": 1,
+        "22.txt": 14
+    },
+    "produces": {
+        "25.txt": 14,
+        "22.txt": 1
+    },
+    "peculiar": {
+        "25.txt": 53,
+        "16.txt": 5,
+        "11.txt": 6,
+        "20.txt": 3
+    },
+    "practicable": {
+        "25.txt": 3
+    },
+    "persius": {
+        "25.txt": 3
+    },
+    "publish": {
+        "25.txt": 1,
+        "22.txt": 5
+    },
+    "patient": {
+        "25.txt": 4,
+        "16.txt": 7,
+        "11.txt": 2,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "published": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "portion": {
+        "25.txt": 5,
+        "16.txt": 11,
+        "22.txt": 1
+    },
+    "province": {
+        "25.txt": 12
+    },
+    "pursuits": {
+        "25.txt": 2,
+        "22.txt": 3
+    },
+    "preparations": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "paths": {
+        "25.txt": 8,
+        "22.txt": 2
+    },
+    "psychological": {
+        "25.txt": 15,
+        "20.txt": 4
+    },
+    "prejudices": {
+        "25.txt": 3
+    },
+    "proof": {
+        "25.txt": 142,
+        "16.txt": 4,
+        "11.txt": 2,
+        "22.txt": 3,
+        "9.txt": 1
+    },
+    "propaedeutic": {
+        "25.txt": 6
+    },
+    "practical": {
+        "25.txt": 114,
+        "16.txt": 4,
+        "11.txt": 4,
+        "22.txt": 2
+    },
+    "physics": {
+        "25.txt": 11,
+        "16.txt": 3,
+        "22.txt": 4
+    },
+    "purely": {
+        "25.txt": 68,
+        "11.txt": 2,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "partially": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "passage": {
+        "25.txt": 2,
+        "16.txt": 5,
+        "11.txt": 5,
+        "22.txt": 1
+    },
+    "preserved": {
+        "25.txt": 3,
+        "16.txt": 6,
+        "11.txt": 4
+    },
+    "proved": {
+        "25.txt": 43,
+        "16.txt": 1,
+        "11.txt": 4,
+        "9.txt": 1
+    },
+    "properties": {
+        "25.txt": 57,
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "positive": {
+        "25.txt": 23,
+        "11.txt": 2,
+        "20.txt": 2
+    },
+    "placed": {
+        "25.txt": 31,
+        "16.txt": 2,
+        "11.txt": 11,
+        "20.txt": 2,
+        "22.txt": 5
+    },
+    "period": {
+        "25.txt": 6,
+        "16.txt": 7,
+        "11.txt": 5,
+        "20.txt": 1,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "pursuit": {
+        "25.txt": 5,
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "plane": {
+        "25.txt": 4,
+        "16.txt": 1
+    },
+    "philosophers": {
+        "25.txt": 39,
+        "16.txt": 15,
+        "22.txt": 6
+    },
+    "perceives": {
+        "25.txt": 2
+    },
+    "proceed": {
+        "25.txt": 95,
+        "16.txt": 22,
+        "11.txt": 4,
+        "22.txt": 11
+    },
+    "preconceived": {
+        "25.txt": 2,
+        "16.txt": 1
+    },
+    "phenomena": {
+        "25.txt": 592,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "pupil": {
+        "25.txt": 4,
+        "16.txt": 4,
+        "11.txt": 3
+    },
+    "propose": {
+        "25.txt": 11,
+        "16.txt": 7,
+        "11.txt": 2
+    },
+    "position": {
+        "25.txt": 28,
+        "16.txt": 1,
+        "11.txt": 9,
+        "22.txt": 4
+    },
+    "perpetually": {
+        "25.txt": 4,
+        "16.txt": 1,
+        "11.txt": 5
+    },
+    "perception": {
+        "25.txt": 159,
+        "16.txt": 1
+    },
+    "possession": {
+        "25.txt": 23,
+        "16.txt": 10,
+        "11.txt": 8,
+        "22.txt": 2
+    },
+    "phantoms": {
+        "25.txt": 2,
+        "20.txt": 1
+    },
+    "possess": {
+        "25.txt": 112,
+        "16.txt": 5,
+        "22.txt": 7
+    },
+    "predecessors": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "permit": {
+        "25.txt": 13,
+        "20.txt": 1,
+        "22.txt": 5
+    },
+    "process": {
+        "25.txt": 20,
+        "11.txt": 8,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "perplexity": {
+        "25.txt": 2
+    },
+    "presuppose": {
+        "25.txt": 35,
+        "22.txt": 1
+    },
+    "philosopher": {
+        "25.txt": 45,
+        "16.txt": 24,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "procedure": {
+        "25.txt": 76,
+        "22.txt": 1
+    },
+    "precisely": {
+        "25.txt": 12,
+        "16.txt": 1,
+        "20.txt": 1,
+        "22.txt": 3
+    },
+    "possessing": {
+        "25.txt": 8,
+        "22.txt": 2
+    },
+    "peculiarity": {
+        "25.txt": 14
+    },
+    "proposing": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "posterity": {
+        "25.txt": 4,
+        "22.txt": 2
+    },
+    "perfection": {
+        "25.txt": 31,
+        "16.txt": 8,
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 14
+    },
+    "purified": {
+        "25.txt": 2
+    },
+    "primary": {
+        "25.txt": 10,
+        "22.txt": 1
+    },
+    "possesses": {
+        "25.txt": 58
+    },
+    "police": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 20
+    },
+    "productive": {
+        "25.txt": 12
+    },
+    "pursue": {
+        "25.txt": 12,
+        "16.txt": 2
+    },
+    "peace": {
+        "25.txt": 7,
+        "16.txt": 6,
+        "11.txt": 2,
+        "20.txt": 1,
+        "22.txt": 1,
+        "9.txt": 3
+    },
+    "palpable": {
+        "25.txt": 1
+    },
+    "previous": {
+        "25.txt": 16,
+        "11.txt": 13,
+        "22.txt": 1
+    },
+    "phenomenal": {
+        "25.txt": 42
+    },
+    "presupposed": {
+        "25.txt": 22
+    },
+    "presupposition": {
+        "25.txt": 27
+    },
+    "possibilities": {
+        "25.txt": 5,
+        "11.txt": 3
+    },
+    "presumption": {
+        "25.txt": 5,
+        "16.txt": 1
+    },
+    "proving": {
+        "25.txt": 10,
+        "16.txt": 1,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "powerless": {
+        "25.txt": 2
+    },
+    "possessions": {
+        "25.txt": 6,
+        "11.txt": 2
+    },
+    "prime": {
+        "25.txt": 4,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "pass": {
+        "25.txt": 27,
+        "16.txt": 42,
+        "11.txt": 9,
+        "20.txt": 4,
+        "22.txt": 8,
+        "9.txt": 2
+    },
+    "penetrate": {
+        "25.txt": 5,
+        "16.txt": 7
+    },
+    "providential": {
+        "25.txt": 1,
+        "9.txt": 1
+    },
+    "proofs": {
+        "25.txt": 22,
+        "11.txt": 1
+    },
+    "perversion": {
+        "25.txt": 1
+    },
+    "popularity": {
+        "25.txt": 3,
+        "9.txt": 1
+    },
+    "preparation": {
+        "25.txt": 3,
+        "11.txt": 2,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "perform": {
+        "25.txt": 1,
+        "16.txt": 10,
+        "9.txt": 1
+    },
+    "popularly": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "prescribes": {
+        "25.txt": 9
+    },
+    "peculiarly": {
+        "25.txt": 2,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "perceive": {
+        "25.txt": 31,
+        "16.txt": 9,
+        "22.txt": 4,
+        "9.txt": 1
+    },
+    "philodoxy": {
+        "25.txt": 1
+    },
+    "perhaps": {
+        "25.txt": 37,
+        "16.txt": 7,
+        "11.txt": 14,
+        "20.txt": 16,
+        "22.txt": 26,
+        "9.txt": 5
+    },
+    "partly": {
+        "25.txt": 22,
+        "16.txt": 6,
+        "11.txt": 11,
+        "22.txt": 2
+    },
+    "paralogisms": {
+        "25.txt": 4,
+        "22.txt": 1
+    },
+    "precede": {
+        "25.txt": 16
+    },
+    "psychology": {
+        "25.txt": 38
+    },
+    "praise": {
+        "25.txt": 3,
+        "16.txt": 14,
+        "11.txt": 1,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "probably": {
+        "25.txt": 7,
+        "16.txt": 3,
+        "11.txt": 17,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "preceded": {
+        "25.txt": 9
+    },
+    "proposition": {
+        "25.txt": 240,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "pleasure": {
+        "25.txt": 15,
+        "16.txt": 43,
+        "11.txt": 7,
+        "20.txt": 3,
+        "22.txt": 2,
+        "9.txt": 2
+    },
+    "prevented": {
+        "25.txt": 4,
+        "16.txt": 1,
+        "11.txt": 1,
+        "22.txt": 3
+    },
+    "profundity": {
+        "25.txt": 2
+    },
+    "pretty": {
+        "25.txt": 1,
+        "16.txt": 4,
+        "11.txt": 5,
+        "9.txt": 4
+    },
+    "points": {
+        "25.txt": 30,
+        "16.txt": 4,
+        "11.txt": 7,
+        "22.txt": 2,
+        "9.txt": 3
+    },
+    "pick": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 5,
+        "9.txt": 2
+    },
+    "practice": {
+        "25.txt": 6,
+        "16.txt": 10,
+        "11.txt": 4,
+        "22.txt": 7
+    },
+    "posteriori": {
+        "25.txt": 25
+    },
+    "previously": {
+        "25.txt": 18,
+        "11.txt": 3,
+        "22.txt": 4
+    },
+    "possibly": {
+        "25.txt": 15,
+        "16.txt": 3,
+        "11.txt": 6,
+        "9.txt": 1
+    },
+    "predicated": {
+        "25.txt": 9
+    },
+    "precedes": {
+        "25.txt": 22
+    },
+    "pointed": {
+        "25.txt": 1,
+        "11.txt": 7,
+        "20.txt": 7,
+        "22.txt": 1
+    },
+    "preferable": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "22.txt": 1
+    },
+    "persist": {
+        "25.txt": 1
+    },
+    "preliminaries": {
+        "25.txt": 1
+    },
+    "plato": {
+        "25.txt": 12,
+        "16.txt": 19
+    },
+    "prized": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "predicate": {
+        "25.txt": 82
+    },
+    "persuaded": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "11.txt": 1,
+        "22.txt": 8
+    },
+    "preposited": {
+        "25.txt": 2
+    },
+    "pertains": {
+        "25.txt": 3,
+        "22.txt": 1
+    },
+    "permanency": {
+        "25.txt": 1
+    },
+    "precision": {
+        "25.txt": 6
+    },
+    "principium": {
+        "25.txt": 3
+    },
+    "propriety": {
+        "25.txt": 8,
+        "22.txt": 1
+    },
+    "permanence": {
+        "25.txt": 29,
+        "11.txt": 1
+    },
+    "physica": {
+        "25.txt": 3
+    },
+    "pura": {
+        "25.txt": 1
+    },
+    "progresses": {
+        "25.txt": 1,
+        "9.txt": 1
+    },
+    "proposes": {
+        "25.txt": 4,
+        "16.txt": 1
+    },
+    "prompted": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "prolixity": {
+        "25.txt": 2
+    },
+    "purify": {
+        "25.txt": 1
+    },
+    "preclude": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "probability": {
+        "25.txt": 9,
+        "11.txt": 4,
+        "22.txt": 1
+    },
+    "proceeds": {
+        "25.txt": 28,
+        "16.txt": 6,
+        "22.txt": 3
+    },
+    "principal": {
+        "25.txt": 2,
+        "16.txt": 5,
+        "11.txt": 1,
+        "22.txt": 5
+    },
+    "pain": {
+        "25.txt": 7,
+        "16.txt": 23,
+        "11.txt": 10,
+        "20.txt": 1,
+        "9.txt": 15
+    },
+    "precepts": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "22.txt": 6
+    },
+    "particularize": {
+        "25.txt": 1
+    },
+    "premonition": {
+        "25.txt": 2,
+        "20.txt": 1
+    },
+    "perceptions": {
+        "25.txt": 65
+    },
+    "predicates": {
+        "25.txt": 51
+    },
+    "prior": {
+        "25.txt": 24
+    },
+    "partial": {
+        "25.txt": 4,
+        "16.txt": 1,
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "presenting": {
+        "25.txt": 13
+    },
+    "progressing": {
+        "25.txt": 3
+    },
+    "pertaining": {
+        "25.txt": 3,
+        "22.txt": 1
+    },
+    "problematical": {
+        "25.txt": 29,
+        "11.txt": 1
+    },
+    "preferred": {
+        "25.txt": 2,
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "parties": {
+        "25.txt": 14,
+        "22.txt": 3
+    },
+    "presupposes": {
+        "25.txt": 40
+    },
+    "perceiving": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "phenomenization": {
+        "25.txt": 2
+    },
+    "profoundly": {
+        "25.txt": 1
+    },
+    "plausible": {
+        "25.txt": 3,
+        "16.txt": 2
+    },
+    "probable": {
+        "25.txt": 7,
+        "16.txt": 4,
+        "11.txt": 1,
+        "22.txt": 4
+    },
+    "perfume": {
+        "25.txt": 1
+    },
+    "primitive": {
+        "25.txt": 20,
+        "11.txt": 1
+    },
+    "producing": {
+        "25.txt": 12,
+        "11.txt": 2
+    },
+    "preference": {
+        "25.txt": 3,
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "play": {
+        "25.txt": 11,
+        "16.txt": 5,
+        "11.txt": 6,
+        "20.txt": 5,
+        "9.txt": 2
+    },
+    "prejudice": {
+        "25.txt": 3,
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "promote": {
+        "25.txt": 1,
+        "22.txt": 2
+    },
+    "passions": {
+        "25.txt": 1,
+        "16.txt": 7,
+        "11.txt": 2,
+        "22.txt": 2
+    },
+    "proves": {
+        "25.txt": 11,
+        "22.txt": 2
+    },
+    "primitively": {
+        "25.txt": 1
+    },
+    "push": {
+        "25.txt": 1,
+        "22.txt": 1,
+        "9.txt": 3
+    },
+    "pitiful": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 3
+    },
+    "prating": {
+        "25.txt": 1
+    },
+    "passing": {
+        "25.txt": 11,
+        "16.txt": 2,
+        "11.txt": 7,
+        "20.txt": 7,
+        "22.txt": 7
+    },
+    "practitioners": {
+        "25.txt": 1
+    },
+    "purity": {
+        "25.txt": 6,
+        "16.txt": 1
+    },
+    "penetration": {
+        "25.txt": 2
+    },
+    "particularly": {
+        "25.txt": 8,
+        "16.txt": 5,
+        "11.txt": 2,
+        "22.txt": 3,
+        "9.txt": 1
+    },
+    "prevention": {
+        "25.txt": 1
+    },
+    "proceeding": {
+        "25.txt": 18,
+        "16.txt": 4,
+        "11.txt": 2,
+        "22.txt": 1
+    },
+    "punished": {
+        "25.txt": 2,
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "placing": {
+        "25.txt": 5,
+        "11.txt": 1
+    },
+    "problematically": {
+        "25.txt": 4
+    },
+    "plurality": {
+        "25.txt": 12,
+        "22.txt": 1
+    },
+    "picked": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 4,
+        "9.txt": 1
+    },
+    "predicaments": {
+        "25.txt": 4
+    },
+    "post": {
+        "25.txt": 1,
+        "9.txt": 1
+    },
+    "prius": {
+        "25.txt": 1
+    },
+    "passio": {
+        "25.txt": 1
+    },
+    "passed": {
+        "25.txt": 5,
+        "16.txt": 5,
+        "11.txt": 23,
+        "20.txt": 11,
+        "22.txt": 4,
+        "9.txt": 1
+    },
+    "predicables": {
+        "25.txt": 2
+    },
+    "passion": {
+        "25.txt": 1,
+        "16.txt": 11,
+        "11.txt": 6
+    },
+    "purposely": {
+        "25.txt": 1
+    },
+    "postponed": {
+        "25.txt": 1
+    },
+    "posited": {
+        "25.txt": 11
+    },
+    "physiological": {
+        "25.txt": 3
+    },
+    "productions": {
+        "25.txt": 1
+    },
+    "proceeded": {
+        "25.txt": 7,
+        "16.txt": 1,
+        "11.txt": 5,
+        "22.txt": 4
+    },
+    "premise": {
+        "25.txt": 2
+    },
+    "premises": {
+        "25.txt": 1,
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "perceptive": {
+        "25.txt": 1
+    },
+    "presentation": {
+        "25.txt": 8
+    },
+    "paradox": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "passive": {
+        "25.txt": 3,
+        "16.txt": 2
+    },
+    "perpendicular": {
+        "25.txt": 1
+    },
+    "periods": {
+        "25.txt": 4,
+        "16.txt": 5,
+        "11.txt": 4
+    },
+    "perceptible": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "prescribing": {
+        "25.txt": 4
+    },
+    "prescribe": {
+        "25.txt": 6,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "preformation": {
+        "25.txt": 1
+    },
+    "predetermined": {
+        "25.txt": 3
+    },
+    "paragraphs": {
+        "25.txt": 1
+    },
+    "physician": {
+        "25.txt": 3,
+        "16.txt": 7,
+        "11.txt": 1,
+        "20.txt": 5,
+        "22.txt": 2
+    },
+    "pathological": {
+        "25.txt": 2
+    },
+    "political": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "9.txt": 2
+    },
+    "persons": {
+        "25.txt": 3,
+        "16.txt": 5,
+        "11.txt": 6,
+        "22.txt": 9
+    },
+    "plate": {
+        "25.txt": 1,
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "passes": {
+        "25.txt": 11,
+        "16.txt": 1,
+        "11.txt": 3,
+        "20.txt": 3,
+        "22.txt": 6,
+        "9.txt": 1
+    },
+    "phaenomenon": {
+        "25.txt": 11
+    },
+    "perdurabile": {
+        "25.txt": 1
+    },
+    "phaenomena": {
+        "25.txt": 2
+    },
+    "premier": {
+        "25.txt": 1
+    },
+    "preceding": {
+        "25.txt": 43,
+        "22.txt": 4
+    },
+    "played": {
+        "25.txt": 1,
+        "11.txt": 3,
+        "20.txt": 6,
+        "9.txt": 1
+    },
+    "postulates": {
+        "25.txt": 6
+    },
+    "possessed": {
+        "25.txt": 10,
+        "16.txt": 1,
+        "11.txt": 1,
+        "22.txt": 17
+    },
+    "prholepsis": {
+        "25.txt": 1
+    },
+    "preception": {
+        "25.txt": 1
+    },
+    "positions": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "progression": {
+        "25.txt": 14
+    },
+    "piece": {
+        "25.txt": 6,
+        "16.txt": 6,
+        "11.txt": 6,
+        "20.txt": 5,
+        "9.txt": 2
+    },
+    "pieces": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 6,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "proportion": {
+        "25.txt": 6,
+        "16.txt": 3,
+        "11.txt": 3,
+        "20.txt": 1,
+        "22.txt": 4
+    },
+    "pronounce": {
+        "25.txt": 1
+    },
+    "precise": {
+        "25.txt": 3,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "presumed": {
+        "25.txt": 1
+    },
+    "perish": {
+        "25.txt": 2
+    },
+    "past": {
+        "25.txt": 19,
+        "16.txt": 12,
+        "11.txt": 9,
+        "20.txt": 18,
+        "22.txt": 3,
+        "9.txt": 3
+    },
+    "posse": {
+        "25.txt": 1
+    },
+    "parted": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "positively": {
+        "25.txt": 3,
+        "20.txt": 1
+    },
+    "paradoxical": {
+        "25.txt": 3,
+        "22.txt": 1
+    },
+    "progressively": {
+        "25.txt": 1
+    },
+    "particularity": {
+        "25.txt": 1
+    },
+    "precondition": {
+        "25.txt": 1
+    },
+    "plays": {
+        "25.txt": 2,
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "postulate": {
+        "25.txt": 8
+    },
+    "permanently": {
+        "25.txt": 2
+    },
+    "penetrating": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "powerful": {
+        "25.txt": 7,
+        "16.txt": 7,
+        "11.txt": 1,
+        "22.txt": 5
+    },
+    "practised": {
+        "25.txt": 4,
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "poverty": {
+        "25.txt": 2,
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "propound": {
+        "25.txt": 1
+    },
+    "prejudicial": {
+        "25.txt": 4,
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "prerogative": {
+        "25.txt": 2
+    },
+    "proud": {
+        "25.txt": 1,
+        "16.txt": 6,
+        "11.txt": 3,
+        "20.txt": 1
+    },
+    "presupposing": {
+        "25.txt": 3
+    },
+    "preventing": {
+        "25.txt": 2
+    },
+    "peculiarities": {
+        "25.txt": 2
+    },
+    "pomp": {
+        "25.txt": 1,
+        "16.txt": 5
+    },
+    "performs": {
+        "25.txt": 1
+    },
+    "processes": {
+        "25.txt": 1
+    },
+    "positives": {
+        "25.txt": 1
+    },
+    "privativum": {
+        "25.txt": 3
+    },
+    "propounded": {
+        "25.txt": 2
+    },
+    "prescribed": {
+        "25.txt": 3,
+        "16.txt": 6,
+        "22.txt": 5
+    },
+    "prosyllogism": {
+        "25.txt": 1
+    },
+    "precept": {
+        "25.txt": 2
+    },
+    "petitio": {
+        "25.txt": 1
+    },
+    "postulatum": {
+        "25.txt": 1
+    },
+    "pertain": {
+        "25.txt": 1
+    },
+    "pretension": {
+        "25.txt": 2
+    },
+    "preserve": {
+        "25.txt": 8,
+        "16.txt": 5,
+        "20.txt": 1,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "practicability": {
+        "25.txt": 2
+    },
+    "platonic": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "proverbial": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "prince": {
+        "25.txt": 1,
+        "16.txt": 12
+    },
+    "participant": {
+        "25.txt": 1
+    },
+    "pernicious": {
+        "25.txt": 2
+    },
+    "pretext": {
+        "25.txt": 3
+    },
+    "punishments": {
+        "25.txt": 2
+    },
+    "plant": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "parent": {
+        "25.txt": 5,
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "preparing": {
+        "25.txt": 1,
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "perceptio": {
+        "25.txt": 1
+    },
+    "prosyllogisms": {
+        "25.txt": 2
+    },
+    "preservation": {
+        "25.txt": 2,
+        "16.txt": 4,
+        "22.txt": 1
+    },
+    "premisses": {
+        "25.txt": 10
+    },
+    "polysyllogistica": {
+        "25.txt": 1
+    },
+    "prosyllogismos": {
+        "25.txt": 1
+    },
+    "progressive": {
+        "25.txt": 2
+    },
+    "potential": {
+        "25.txt": 1
+    },
+    "parte": {
+        "25.txt": 5
+    },
+    "psychologia": {
+        "25.txt": 2
+    },
+    "preposit": {
+        "25.txt": 1
+    },
+    "paralogism": {
+        "25.txt": 10
+    },
+    "perspicuity": {
+        "25.txt": 1
+    },
+    "personality": {
+        "25.txt": 4,
+        "11.txt": 1
+    },
+    "perpetual": {
+        "25.txt": 2,
+        "16.txt": 11,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "presume": {
+        "25.txt": 2,
+        "11.txt": 2,
+        "22.txt": 2
+    },
+    "poorest": {
+        "25.txt": 1
+    },
+    "penetrated": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "premiss": {
+        "25.txt": 2
+    },
+    "phaedo": {
+        "25.txt": 1
+    },
+    "psychologist": {
+        "25.txt": 1,
+        "20.txt": 4
+    },
+    "preserving": {
+        "25.txt": 2
+    },
+    "predicating": {
+        "25.txt": 1
+    },
+    "prize": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "probity": {
+        "25.txt": 1
+    },
+    "posthumous": {
+        "25.txt": 1
+    },
+    "pays": {
+        "25.txt": 3
+    },
+    "pneumatism": {
+        "25.txt": 1
+    },
+    "plausibility": {
+        "25.txt": 1
+    },
+    "persistence": {
+        "25.txt": 1
+    },
+    "procession": {
+        "25.txt": 1
+    },
+    "prolonging": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "p": {
+        "25.txt": 2,
+        "16.txt": 12,
+        "9.txt": 2
+    },
+    "progressus": {
+        "25.txt": 7
+    },
+    "potentially": {
+        "25.txt": 1
+    },
+    "putting": {
+        "25.txt": 3,
+        "11.txt": 5,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "pleading": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "promise": {
+        "25.txt": 3,
+        "16.txt": 1,
+        "11.txt": 3,
+        "20.txt": 2,
+        "22.txt": 2
+    },
+    "physiocracy": {
+        "25.txt": 1
+    },
+    "proximity": {
+        "25.txt": 1,
+        "11.txt": 2
+    },
+    "professing": {
+        "25.txt": 2
+    },
+    "pride": {
+        "25.txt": 3,
+        "16.txt": 8,
+        "11.txt": 4,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "provides": {
+        "25.txt": 3
+    },
+    "press": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "partisans": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "pretence": {
+        "25.txt": 3,
+        "16.txt": 2
+    },
+    "pompous": {
+        "25.txt": 1
+    },
+    "platonism": {
+        "25.txt": 1
+    },
+    "philosophic": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "posed": {
+        "25.txt": 1
+    },
+    "permits": {
+        "25.txt": 2
+    },
+    "promising": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "partiality": {
+        "25.txt": 2,
+        "22.txt": 1
+    },
+    "profession": {
+        "25.txt": 3,
+        "16.txt": 9,
+        "22.txt": 1
+    },
+    "plea": {
+        "25.txt": 3
+    },
+    "posses": {
+        "25.txt": 1
+    },
+    "prudent": {
+        "25.txt": 2,
+        "16.txt": 3
+    },
+    "presumptuous": {
+        "25.txt": 1
+    },
+    "prolongation": {
+        "25.txt": 1
+    },
+    "presently": {
+        "25.txt": 3,
+        "16.txt": 29,
+        "11.txt": 15,
+        "20.txt": 1,
+        "22.txt": 2
+    },
+    "pair": {
+        "25.txt": 4,
+        "11.txt": 4,
+        "20.txt": 1,
+        "9.txt": 4
+    },
+    "profitable": {
+        "25.txt": 1,
+        "16.txt": 12
+    },
+    "prohibiting": {
+        "25.txt": 1
+    },
+    "pause": {
+        "25.txt": 2,
+        "11.txt": 4,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "procuring": {
+        "25.txt": 1
+    },
+    "personal": {
+        "25.txt": 5,
+        "16.txt": 6,
+        "11.txt": 8,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "primeval": {
+        "25.txt": 2,
+        "11.txt": 4,
+        "20.txt": 1
+    },
+    "pathologically": {
+        "25.txt": 2
+    },
+    "perplexities": {
+        "25.txt": 1
+    },
+    "phantom": {
+        "25.txt": 1
+    },
+    "phenomenized": {
+        "25.txt": 1
+    },
+    "prevailed": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "pursued": {
+        "25.txt": 8,
+        "11.txt": 1
+    },
+    "permissive": {
+        "25.txt": 1
+    },
+    "prohibitive": {
+        "25.txt": 1
+    },
+    "protest": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "perfectibility": {
+        "25.txt": 1
+    },
+    "picture": {
+        "25.txt": 1,
+        "20.txt": 5,
+        "22.txt": 1,
+        "9.txt": 3
+    },
+    "painters": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "physiognomists": {
+        "25.txt": 1
+    },
+    "prototypon": {
+        "25.txt": 1
+    },
+    "predicable": {
+        "25.txt": 1
+    },
+    "privation": {
+        "25.txt": 1
+    },
+    "pursues": {
+        "25.txt": 9,
+        "16.txt": 1
+    },
+    "parallelism": {
+        "25.txt": 1
+    },
+    "prototype": {
+        "25.txt": 3
+    },
+    "pursuing": {
+        "25.txt": 7,
+        "16.txt": 1
+    },
+    "presentable": {
+        "25.txt": 1
+    },
+    "personified": {
+        "25.txt": 2
+    },
+    "pressing": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 4
+    },
+    "persuade": {
+        "25.txt": 3,
+        "16.txt": 4,
+        "22.txt": 2
+    },
+    "persuading": {
+        "25.txt": 1
+    },
+    "preponderate": {
+        "25.txt": 1
+    },
+    "polytheism": {
+        "25.txt": 1
+    },
+    "physicotheological": {
+        "25.txt": 1
+    },
+    "pilgrimage": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "positing": {
+        "25.txt": 3
+    },
+    "posit": {
+        "25.txt": 4
+    },
+    "physico": {
+        "25.txt": 18
+    },
+    "postpone": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "professions": {
+        "25.txt": 2,
+        "16.txt": 4,
+        "22.txt": 1
+    },
+    "probandi": {
+        "25.txt": 1
+    },
+    "parallel": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "prevents": {
+        "25.txt": 3,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "philosophize": {
+        "25.txt": 4
+    },
+    "parsimony": {
+        "25.txt": 3
+    },
+    "purposes": {
+        "25.txt": 8,
+        "16.txt": 4,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "proportionate": {
+        "25.txt": 1
+    },
+    "postulated": {
+        "25.txt": 3
+    },
+    "prepares": {
+        "25.txt": 2
+    },
+    "prefers": {
+        "25.txt": 1
+    },
+    "perfects": {
+        "25.txt": 1
+    },
+    "problematic": {
+        "25.txt": 1
+    },
+    "parents": {
+        "25.txt": 3,
+        "16.txt": 4,
+        "20.txt": 10,
+        "9.txt": 3
+    },
+    "praeter": {
+        "25.txt": 1
+    },
+    "planets": {
+        "25.txt": 4,
+        "16.txt": 2,
+        "20.txt": 1,
+        "22.txt": 3
+    },
+    "parabola": {
+        "25.txt": 2
+    },
+    "plants": {
+        "25.txt": 1,
+        "16.txt": 5,
+        "20.txt": 1,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "polemic": {
+        "25.txt": 6
+    },
+    "petty": {
+        "25.txt": 1,
+        "16.txt": 3
+    },
+    "promotive": {
+        "25.txt": 5
+    },
+    "plainer": {
+        "25.txt": 1
+    },
+    "palingenesis": {
+        "25.txt": 1
+    },
+    "prolonged": {
+        "25.txt": 1,
+        "11.txt": 4,
+        "22.txt": 1
+    },
+    "prospects": {
+        "25.txt": 3,
+        "11.txt": 1
+    },
+    "poles": {
+        "25.txt": 2
+    },
+    "protuberance": {
+        "25.txt": 1
+    },
+    "predetermine": {
+        "25.txt": 1
+    },
+    "puts": {
+        "25.txt": 3,
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 7
+    },
+    "perverted": {
+        "25.txt": 1
+    },
+    "perversa": {
+        "25.txt": 1
+    },
+    "preferring": {
+        "25.txt": 1
+    },
+    "pretending": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "purposed": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 1
+    },
+    "purposeless": {
+        "25.txt": 1
+    },
+    "propensity": {
+        "25.txt": 3
+    },
+    "pleases": {
+        "25.txt": 1,
+        "9.txt": 1
+    },
+    "posterio": {
+        "25.txt": 1
+    },
+    "philosophized": {
+        "25.txt": 1
+    },
+    "plainest": {
+        "25.txt": 1
+    },
+    "primarily": {
+        "25.txt": 1
+    },
+    "polemics": {
+        "25.txt": 1
+    },
+    "privilege": {
+        "25.txt": 3,
+        "16.txt": 4,
+        "11.txt": 2
+    },
+    "possessor": {
+        "25.txt": 1
+    },
+    "poisons": {
+        "25.txt": 2
+    },
+    "pharmacopoeia": {
+        "25.txt": 1
+    },
+    "providence": {
+        "25.txt": 1,
+        "16.txt": 29,
+        "9.txt": 1
+    },
+    "permissible": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "priestley": {
+        "25.txt": 1
+    },
+    "pillars": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "pious": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "pushed": {
+        "25.txt": 1,
+        "11.txt": 2,
+        "20.txt": 3,
+        "9.txt": 2
+    },
+    "provisionary": {
+        "25.txt": 1
+    },
+    "prevalent": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "poison": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "9.txt": 1
+    },
+    "prospect": {
+        "25.txt": 3,
+        "11.txt": 2,
+        "9.txt": 1
+    },
+    "principally": {
+        "25.txt": 1
+    },
+    "performed": {
+        "25.txt": 1,
+        "16.txt": 4,
+        "22.txt": 1
+    },
+    "practically": {
+        "25.txt": 4,
+        "16.txt": 1
+    },
+    "possidentis": {
+        "25.txt": 1
+    },
+    "prudential": {
+        "25.txt": 2
+    },
+    "posits": {
+        "25.txt": 1
+    },
+    "ponens": {
+        "25.txt": 1
+    },
+    "predicata": {
+        "25.txt": 1
+    },
+    "prescription": {
+        "25.txt": 1
+    },
+    "precedence": {
+        "25.txt": 1
+    },
+    "promoted": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "prudence": {
+        "25.txt": 1,
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "pragmatical": {
+        "25.txt": 4
+    },
+    "protensive": {
+        "25.txt": 1
+    },
+    "pravity": {
+        "25.txt": 1
+    },
+    "proportioned": {
+        "25.txt": 1
+    },
+    "participation": {
+        "25.txt": 2,
+        "16.txt": 2
+    },
+    "private": {
+        "25.txt": 3,
+        "16.txt": 9,
+        "11.txt": 3,
+        "22.txt": 4,
+        "9.txt": 1
+    },
+    "promoting": {
+        "25.txt": 1
+    },
+    "pervert": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "phthisis": {
+        "25.txt": 1
+    },
+    "pretend": {
+        "25.txt": 2,
+        "20.txt": 2
+    },
+    "preponderance": {
+        "25.txt": 1
+    },
+    "proportions": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "principiis": {
+        "25.txt": 1
+    },
+    "plaster": {
+        "25.txt": 1,
+        "9.txt": 1
+    },
+    "pupilage": {
+        "25.txt": 1
+    },
+    "philosophizing": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "philosophies": {
+        "25.txt": 1
+    },
+    "pendant": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "pleasant": {
+        "25.txt": 2,
+        "16.txt": 4,
+        "11.txt": 4,
+        "20.txt": 1
+    },
+    "pleasing": {
+        "25.txt": 1,
+        "16.txt": 11
+    },
+    "paraded": {
+        "25.txt": 1,
+        "20.txt": 1
+    },
+    "parading": {
+        "25.txt": 1
+    },
+    "praiseworthy": {
+        "25.txt": 1,
+        "16.txt": 3
+    },
+    "posting": {
+        "16.txt": 1
+    },
+    "prairienet": {
+        "16.txt": 2
+    },
+    "password": {
+        "16.txt": 1
+    },
+    "pro": {
+        "16.txt": 1
+    },
+    "planning": {
+        "16.txt": 1
+    },
+    "priesthood": {
+        "16.txt": 1
+    },
+    "pius": {
+        "16.txt": 10
+    },
+    "parthia": {
+        "16.txt": 1
+    },
+    "plunging": {
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "pestilence": {
+        "16.txt": 1
+    },
+    "pertinax": {
+        "16.txt": 1
+    },
+    "prayers": {
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "parthian": {
+        "16.txt": 1
+    },
+    "provinces": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "proclaiming": {
+        "16.txt": 1
+    },
+    "planned": {
+        "16.txt": 1,
+        "20.txt": 2,
+        "22.txt": 2,
+        "9.txt": 1
+    },
+    "patched": {
+        "16.txt": 1
+    },
+    "peril": {
+        "16.txt": 2
+    },
+    "praised": {
+        "16.txt": 7
+    },
+    "pardon": {
+        "16.txt": 3,
+        "20.txt": 1,
+        "9.txt": 4
+    },
+    "pannonia": {
+        "16.txt": 2
+    },
+    "passionately": {
+        "16.txt": 3
+    },
+    "precedent": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "protect": {
+        "16.txt": 1,
+        "11.txt": 5
+    },
+    "poor": {
+        "16.txt": 9,
+        "11.txt": 12,
+        "20.txt": 6,
+        "22.txt": 1,
+        "9.txt": 7
+    },
+    "protected": {
+        "16.txt": 1,
+        "11.txt": 8
+    },
+    "polycarp": {
+        "16.txt": 1
+    },
+    "plead": {
+        "16.txt": 2
+    },
+    "phoenician": {
+        "16.txt": 1
+    },
+    "phoenicians": {
+        "16.txt": 1
+    },
+    "painted": {
+        "16.txt": 1,
+        "20.txt": 2,
+        "9.txt": 1
+    },
+    "porch": {
+        "16.txt": 3,
+        "20.txt": 5
+    },
+    "pantheism": {
+        "16.txt": 1
+    },
+    "prototypes": {
+        "16.txt": 1
+    },
+    "prolhyeis": {
+        "16.txt": 1
+    },
+    "prohgmena": {
+        "16.txt": 1
+    },
+    "purged": {
+        "16.txt": 2
+    },
+    "peaceable": {
+        "16.txt": 2
+    },
+    "patiently": {
+        "16.txt": 7,
+        "11.txt": 1
+    },
+    "passeth": {
+        "16.txt": 5
+    },
+    "preachings": {
+        "16.txt": 1
+    },
+    "peccadilloes": {
+        "16.txt": 1
+    },
+    "poses": {
+        "16.txt": 1
+    },
+    "pity": {
+        "16.txt": 3,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "paul": {
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "propitiate": {
+        "16.txt": 1
+    },
+    "parricides": {
+        "16.txt": 2
+    },
+    "pleasures": {
+        "16.txt": 15,
+        "11.txt": 1
+    },
+    "pomps": {
+        "16.txt": 1
+    },
+    "pushing": {
+        "16.txt": 1
+    },
+    "peaceful": {
+        "16.txt": 2,
+        "11.txt": 2
+    },
+    "pater": {
+        "16.txt": 1
+    },
+    "parallels": {
+        "16.txt": 2
+    },
+    "prasini": {
+        "16.txt": 1
+    },
+    "parmularii": {
+        "16.txt": 2
+    },
+    "prestidigitators": {
+        "16.txt": 1
+    },
+    "poetry": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "pleased": {
+        "16.txt": 13,
+        "11.txt": 5,
+        "20.txt": 1,
+        "22.txt": 4,
+        "9.txt": 5
+    },
+    "pains": {
+        "16.txt": 14,
+        "22.txt": 1
+    },
+    "pattern": {
+        "16.txt": 2,
+        "20.txt": 3
+    },
+    "paternal": {
+        "16.txt": 1
+    },
+    "pronunciation": {
+        "16.txt": 1
+    },
+    "perplexed": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "pleaser": {
+        "16.txt": 1
+    },
+    "plenty": {
+        "16.txt": 3,
+        "11.txt": 4,
+        "20.txt": 1
+    },
+    "physic": {
+        "16.txt": 1
+    },
+    "pastime": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "particulars": {
+        "16.txt": 5
+    },
+    "proficient": {
+        "16.txt": 2
+    },
+    "perchance": {
+        "16.txt": 18
+    },
+    "partaker": {
+        "16.txt": 2
+    },
+    "prayed": {
+        "16.txt": 2
+    },
+    "practising": {
+        "16.txt": 1
+    },
+    "particle": {
+        "16.txt": 1
+    },
+    "passionate": {
+        "16.txt": 2
+    },
+    "prosperous": {
+        "16.txt": 1
+    },
+    "promiscuously": {
+        "16.txt": 1
+    },
+    "prying": {
+        "16.txt": 1
+    },
+    "putrefaction": {
+        "16.txt": 3
+    },
+    "pompeius": {
+        "16.txt": 4
+    },
+    "priest": {
+        "16.txt": 3,
+        "20.txt": 2,
+        "9.txt": 23
+    },
+    "preserves": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "purposeth": {
+        "16.txt": 1
+    },
+    "partakes": {
+        "16.txt": 3
+    },
+    "prevail": {
+        "16.txt": 3
+    },
+    "preferreth": {
+        "16.txt": 1
+    },
+    "physicians": {
+        "16.txt": 5,
+        "22.txt": 1
+    },
+    "phalaris": {
+        "16.txt": 1
+    },
+    "propitious": {
+        "16.txt": 3
+    },
+    "prosecute": {
+        "16.txt": 3
+    },
+    "prevails": {
+        "16.txt": 1
+    },
+    "purge": {
+        "16.txt": 2
+    },
+    "prosecuted": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "prescribeth": {
+        "16.txt": 1
+    },
+    "partners": {
+        "16.txt": 1
+    },
+    "proviso": {
+        "16.txt": 1
+    },
+    "propagated": {
+        "16.txt": 2
+    },
+    "politic": {
+        "16.txt": 1
+    },
+    "purple": {
+        "16.txt": 3,
+        "20.txt": 1
+    },
+    "procure": {
+        "16.txt": 2,
+        "22.txt": 1
+    },
+    "paucity": {
+        "16.txt": 1
+    },
+    "privately": {
+        "16.txt": 3,
+        "11.txt": 1
+    },
+    "perturbations": {
+        "16.txt": 1
+    },
+    "pusillanimous": {
+        "16.txt": 1
+    },
+    "patients": {
+        "16.txt": 2,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "pompeii": {
+        "16.txt": 2
+    },
+    "promontory": {
+        "16.txt": 2
+    },
+    "pine": {
+        "16.txt": 2
+    },
+    "prattling": {
+        "16.txt": 1
+    },
+    "pacify": {
+        "16.txt": 1
+    },
+    "pleaseth": {
+        "16.txt": 3
+    },
+    "prayer": {
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "pray": {
+        "16.txt": 13,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "pyramids": {
+        "16.txt": 1,
+        "20.txt": 2
+    },
+    "prosperity": {
+        "16.txt": 1
+    },
+    "punctually": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "pedagogues": {
+        "16.txt": 1
+    },
+    "prudency": {
+        "16.txt": 1
+    },
+    "pleasantly": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "prosecution": {
+        "16.txt": 6
+    },
+    "puffed": {
+        "16.txt": 2,
+        "20.txt": 1
+    },
+    "painful": {
+        "16.txt": 2,
+        "11.txt": 4
+    },
+    "performing": {
+        "16.txt": 1
+    },
+    "pre": {
+        "16.txt": 2,
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "perverse": {
+        "16.txt": 1
+    },
+    "putrid": {
+        "16.txt": 3
+    },
+    "puppies": {
+        "16.txt": 1
+    },
+    "poets": {
+        "16.txt": 4,
+        "22.txt": 2
+    },
+    "pliable": {
+        "16.txt": 1
+    },
+    "prescript": {
+        "16.txt": 1
+    },
+    "phalernum": {
+        "16.txt": 1
+    },
+    "pronounceth": {
+        "16.txt": 1
+    },
+    "participate": {
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "perished": {
+        "16.txt": 3
+    },
+    "praises": {
+        "16.txt": 5
+    },
+    "prosper": {
+        "16.txt": 1
+    },
+    "palestra": {
+        "16.txt": 3
+    },
+    "partakers": {
+        "16.txt": 2
+    },
+    "profit": {
+        "16.txt": 4,
+        "22.txt": 2
+    },
+    "practise": {
+        "16.txt": 1
+    },
+    "philistio": {
+        "16.txt": 1
+    },
+    "phoebus": {
+        "16.txt": 1
+    },
+    "pythagoras": {
+        "16.txt": 2
+    },
+    "peremptory": {
+        "16.txt": 3,
+        "11.txt": 3
+    },
+    "pounds": {
+        "16.txt": 1,
+        "11.txt": 2,
+        "20.txt": 4
+    },
+    "patience": {
+        "16.txt": 4,
+        "11.txt": 2,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "passengers": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "painfulness": {
+        "16.txt": 1
+    },
+    "puppets": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "princely": {
+        "16.txt": 2
+    },
+    "pell": {
+        "16.txt": 1
+    },
+    "posture": {
+        "16.txt": 2
+    },
+    "ponder": {
+        "16.txt": 1
+    },
+    "pull": {
+        "16.txt": 1,
+        "20.txt": 3,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "pampered": {
+        "16.txt": 2
+    },
+    "profltable": {
+        "16.txt": 1
+    },
+    "pilot": {
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "pained": {
+        "16.txt": 1
+    },
+    "praiseth": {
+        "16.txt": 1
+    },
+    "pompeys": {
+        "16.txt": 1
+    },
+    "panthea": {
+        "16.txt": 1
+    },
+    "pergamus": {
+        "16.txt": 1
+    },
+    "prosecutive": {
+        "16.txt": 1
+    },
+    "performance": {
+        "16.txt": 2,
+        "22.txt": 2
+    },
+    "persecute": {
+        "16.txt": 1
+    },
+    "proposeth": {
+        "16.txt": 1
+    },
+    "pierceth": {
+        "16.txt": 2
+    },
+    "penetrable": {
+        "16.txt": 2,
+        "11.txt": 1
+    },
+    "pierce": {
+        "16.txt": 1
+    },
+    "piously": {
+        "16.txt": 1
+    },
+    "pursueth": {
+        "16.txt": 1
+    },
+    "plague": {
+        "16.txt": 3,
+        "11.txt": 2
+    },
+    "proudly": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "penetrative": {
+        "16.txt": 1
+    },
+    "presseth": {
+        "16.txt": 1
+    },
+    "pitied": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "politicians": {
+        "16.txt": 1
+    },
+    "philippus": {
+        "16.txt": 3
+    },
+    "phalereus": {
+        "16.txt": 1
+    },
+    "prayeth": {
+        "16.txt": 1
+    },
+    "partaking": {
+        "16.txt": 1
+    },
+    "perfidious": {
+        "16.txt": 2
+    },
+    "preferment": {
+        "16.txt": 1
+    },
+    "piety": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "plative": {
+        "16.txt": 1
+    },
+    "prey": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "precious": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "proprieties": {
+        "16.txt": 2
+    },
+    "pestle": {
+        "16.txt": 1
+    },
+    "poet": {
+        "16.txt": 7
+    },
+    "phrase": {
+        "16.txt": 2,
+        "11.txt": 1
+    },
+    "pig": {
+        "16.txt": 1,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "phorus": {
+        "16.txt": 1
+    },
+    "pretences": {
+        "16.txt": 1
+    },
+    "pedagogue": {
+        "16.txt": 1
+    },
+    "pen": {
+        "16.txt": 1
+    },
+    "privileges": {
+        "16.txt": 1
+    },
+    "players": {
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "penetrateth": {
+        "16.txt": 1
+    },
+    "pancratiast": {
+        "16.txt": 2
+    },
+    "phocion": {
+        "16.txt": 3
+    },
+    "prostitute": {
+        "16.txt": 1
+    },
+    "policy": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "privy": {
+        "16.txt": 1
+    },
+    "publicly": {
+        "16.txt": 1
+    },
+    "perdiccas": {
+        "16.txt": 1
+    },
+    "pythagoreans": {
+        "16.txt": 1
+    },
+    "planet": {
+        "16.txt": 1,
+        "20.txt": 2
+    },
+    "purest": {
+        "16.txt": 1
+    },
+    "pipe": {
+        "16.txt": 1,
+        "20.txt": 5,
+        "9.txt": 1
+    },
+    "pancratiastes": {
+        "16.txt": 1
+    },
+    "placable": {
+        "16.txt": 2
+    },
+    "p7poc": {
+        "16.txt": 1
+    },
+    "proceod": {
+        "16.txt": 1
+    },
+    "pitch": {
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "praetor": {
+        "16.txt": 1
+    },
+    "provincial": {
+        "16.txt": 1
+    },
+    "pleader": {
+        "16.txt": 2
+    },
+    "palimpsest": {
+        "16.txt": 1
+    },
+    "pedant": {
+        "16.txt": 1
+    },
+    "pedantry": {
+        "16.txt": 1
+    },
+    "praising": {
+        "16.txt": 1
+    },
+    "pronto": {
+        "16.txt": 6
+    },
+    "pupils": {
+        "16.txt": 1
+    },
+    "provocation": {
+        "16.txt": 1
+    },
+    "proclaim": {
+        "16.txt": 1
+    },
+    "plautus": {
+        "16.txt": 2
+    },
+    "parodies": {
+        "16.txt": 1
+    },
+    "proclamation": {
+        "16.txt": 1
+    },
+    "prolegomena": {
+        "16.txt": 1
+    },
+    "pack": {
+        "16.txt": 1,
+        "20.txt": 2
+    },
+    "polemon": {
+        "16.txt": 1
+    },
+    "pollio": {
+        "16.txt": 3
+    },
+    "prison": {
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 2,
+        "9.txt": 23
+    },
+    "pumped": {
+        "16.txt": 1
+    },
+    "polemo": {
+        "16.txt": 1
+    },
+    "pompeian": {
+        "16.txt": 1
+    },
+    "poetize": {
+        "16.txt": 1
+    },
+    "pheidias": {
+        "16.txt": 2
+    },
+    "pulchra": {
+        "16.txt": 1
+    },
+    "phlegm": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "pour": {
+        "16.txt": 1
+    },
+    "preceptor": {
+        "16.txt": 1
+    },
+    "pulled": {
+        "16.txt": 1,
+        "11.txt": 5,
+        "20.txt": 5,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "pontius": {
+        "16.txt": 1
+    },
+    "pluckt": {
+        "16.txt": 1
+    },
+    "preceptorial": {
+        "16.txt": 1
+    },
+    "peror": {
+        "16.txt": 1
+    },
+    "palace": {
+        "16.txt": 1
+    },
+    "pathos": {
+        "16.txt": 1
+    },
+    "promptly": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "paraphrase": {
+        "16.txt": 2
+    },
+    "palatine": {
+        "16.txt": 1
+    },
+    "paraklhsiz": {
+        "16.txt": 1
+    },
+    "proapsth": {
+        "16.txt": 1
+    },
+    "pal": {
+        "16.txt": 1
+    },
+    "praying": {
+        "16.txt": 1,
+        "20.txt": 2
+    },
+    "par": {
+        "16.txt": 1
+    },
+    "plutarch": {
+        "16.txt": 2
+    },
+    "pagus": {
+        "16.txt": 1
+    },
+    "paltry": {
+        "16.txt": 1
+    },
+    "princes": {
+        "16.txt": 1
+    },
+    "painter": {
+        "16.txt": 2,
+        "20.txt": 1
+    },
+    "priestly": {
+        "16.txt": 1
+    },
+    "prasina": {
+        "16.txt": 1
+    },
+    "politics": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "punck": {
+        "16.txt": 1
+    },
+    "phalerum": {
+        "16.txt": 1
+    },
+    "pithy": {
+        "16.txt": 1
+    },
+    "phrygia": {
+        "16.txt": 1
+    },
+    "priscus": {
+        "16.txt": 1
+    },
+    "paetus": {
+        "16.txt": 1
+    },
+    "patron": {
+        "16.txt": 1
+    },
+    "presided": {
+        "16.txt": 1
+    },
+    "poesy": {
+        "16.txt": 1,
+        "22.txt": 2
+    },
+    "pancratium": {
+        "16.txt": 1
+    },
+    "parma": {
+        "16.txt": 1
+    },
+    "pruner": {
+        "16.txt": 1
+    },
+    "platonics": {
+        "16.txt": 1
+    },
+    "prestidigitator": {
+        "16.txt": 1
+    },
+    "poland": {
+        "16.txt": 1
+    },
+    "pyrrho": {
+        "16.txt": 1
+    },
+    "pitted": {
+        "16.txt": 1
+    },
+    "pantheistic": {
+        "16.txt": 1
+    },
+    "president": {
+        "16.txt": 2,
+        "11.txt": 2,
+        "20.txt": 5
+    },
+    "pactus": {
+        "16.txt": 1
+    },
+    "plymouth": {
+        "11.txt": 1
+    },
+    "port": {
+        "11.txt": 1
+    },
+    "postillion": {
+        "11.txt": 3
+    },
+    "photo": {
+        "11.txt": 1
+    },
+    "pastoral": {
+        "11.txt": 1
+    },
+    "phase": {
+        "11.txt": 4
+    },
+    "peak": {
+        "11.txt": 6
+    },
+    "prehistoric": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "prevailing": {
+        "11.txt": 1
+    },
+    "pictures": {
+        "11.txt": 2,
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "piercing": {
+        "11.txt": 2
+    },
+    "pun": {
+        "11.txt": 1
+    },
+    "penda": {
+        "11.txt": 4
+    },
+    "paganism": {
+        "11.txt": 1
+    },
+    "pertained": {
+        "11.txt": 1
+    },
+    "postillions": {
+        "11.txt": 1
+    },
+    "pace": {
+        "11.txt": 3
+    },
+    "passer": {
+        "11.txt": 1
+    },
+    "passenger": {
+        "11.txt": 1
+    },
+    "profusion": {
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "pony": {
+        "11.txt": 1
+    },
+    "partner": {
+        "11.txt": 1
+    },
+    "pigeon": {
+        "11.txt": 5
+    },
+    "pregnant": {
+        "11.txt": 1
+    },
+    "plains": {
+        "11.txt": 1
+    },
+    "plentiful": {
+        "11.txt": 1
+    },
+    "perturbed": {
+        "11.txt": 1
+    },
+    "pledged": {
+        "11.txt": 3
+    },
+    "perplex": {
+        "11.txt": 1
+    },
+    "placid": {
+        "11.txt": 1
+    },
+    "pale": {
+        "11.txt": 9,
+        "20.txt": 11
+    },
+    "potent": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "predatory": {
+        "11.txt": 1
+    },
+    "playful": {
+        "11.txt": 1
+    },
+    "poured": {
+        "11.txt": 3,
+        "20.txt": 1
+    },
+    "puzzles": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "primaeval": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "pope": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "paris": {
+        "11.txt": 4
+    },
+    "protection": {
+        "11.txt": 8,
+        "9.txt": 1
+    },
+    "poisonous": {
+        "11.txt": 2,
+        "9.txt": 1
+    },
+    "pistol": {
+        "11.txt": 2
+    },
+    "packing": {
+        "11.txt": 2,
+        "20.txt": 1
+    },
+    "puzzled": {
+        "11.txt": 8,
+        "20.txt": 2
+    },
+    "panic": {
+        "11.txt": 1,
+        "20.txt": 4
+    },
+    "physiognomy": {
+        "11.txt": 1
+    },
+    "pet": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "paling": {
+        "11.txt": 2
+    },
+    "petting": {
+        "11.txt": 1
+    },
+    "puffing": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "patchy": {
+        "11.txt": 1
+    },
+    "pallor": {
+        "11.txt": 2
+    },
+    "passivity": {
+        "11.txt": 1
+    },
+    "pitiless": {
+        "11.txt": 1
+    },
+    "peal": {
+        "11.txt": 1
+    },
+    "promised": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "paddy": {
+        "11.txt": 1
+    },
+    "predominant": {
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "palliative": {
+        "11.txt": 1
+    },
+    "protests": {
+        "11.txt": 1
+    },
+    "pinched": {
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "parapet": {
+        "11.txt": 1
+    },
+    "pulling": {
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "pressure": {
+        "11.txt": 3,
+        "20.txt": 1
+    },
+    "papers": {
+        "11.txt": 1,
+        "9.txt": 4
+    },
+    "persian": {
+        "11.txt": 1
+    },
+    "pinders": {
+        "11.txt": 1
+    },
+    "polish": {
+        "11.txt": 1
+    },
+    "perturbation": {
+        "11.txt": 3
+    },
+    "pitiable": {
+        "11.txt": 2
+    },
+    "pausing": {
+        "11.txt": 1
+    },
+    "porterage": {
+        "11.txt": 1
+    },
+    "pointing": {
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "proceedings": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "pigeons": {
+        "11.txt": 3
+    },
+    "plucky": {
+        "11.txt": 1
+    },
+    "pipes": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "purchased": {
+        "11.txt": 1
+    },
+    "propos": {
+        "11.txt": 1
+    },
+    "prompt": {
+        "11.txt": 2
+    },
+    "patch": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "plank": {
+        "11.txt": 2
+    },
+    "pocket": {
+        "11.txt": 4,
+        "20.txt": 6,
+        "9.txt": 2
+    },
+    "polished": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "pistols": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "pit": {
+        "11.txt": 4,
+        "20.txt": 1
+    },
+    "progressed": {
+        "11.txt": 3
+    },
+    "pangs": {
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "premeditated": {
+        "11.txt": 1
+    },
+    "potentialities": {
+        "11.txt": 1
+    },
+    "protector": {
+        "11.txt": 1
+    },
+    "publicity": {
+        "11.txt": 4,
+        "22.txt": 1
+    },
+    "perceptibly": {
+        "11.txt": 1
+    },
+    "planted": {
+        "11.txt": 1
+    },
+    "palings": {
+        "11.txt": 1
+    },
+    "pole": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "plot": {
+        "11.txt": 1
+    },
+    "panelled": {
+        "11.txt": 1
+    },
+    "photographs": {
+        "11.txt": 2
+    },
+    "plied": {
+        "11.txt": 1
+    },
+    "protectingly": {
+        "11.txt": 1
+    },
+    "peep": {
+        "11.txt": 1
+    },
+    "pondering": {
+        "11.txt": 1
+    },
+    "pacific": {
+        "11.txt": 1
+    },
+    "price": {
+        "11.txt": 1,
+        "20.txt": 2
+    },
+    "purchaser": {
+        "11.txt": 1
+    },
+    "possessors": {
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "pierced": {
+        "11.txt": 1
+    },
+    "pouring": {
+        "11.txt": 1
+    },
+    "parcel": {
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "pane": {
+        "11.txt": 1
+    },
+    "precipice": {
+        "11.txt": 1
+    },
+    "puzzle": {
+        "11.txt": 1
+    },
+    "piano": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "parting": {
+        "11.txt": 1
+    },
+    "parti": {
+        "11.txt": 1
+    },
+    "poignant": {
+        "11.txt": 2
+    },
+    "prostrate": {
+        "11.txt": 1
+    },
+    "provender": {
+        "11.txt": 1
+    },
+    "pot": {
+        "11.txt": 1
+    },
+    "polite": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "psychic": {
+        "11.txt": 1
+    },
+    "prone": {
+        "11.txt": 1
+    },
+    "punishment": {
+        "11.txt": 1,
+        "20.txt": 3,
+        "9.txt": 6
+    },
+    "propria": {
+        "11.txt": 1
+    },
+    "persona": {
+        "11.txt": 1
+    },
+    "peeping": {
+        "11.txt": 1
+    },
+    "proclaimed": {
+        "11.txt": 1
+    },
+    "protrudes": {
+        "11.txt": 1
+    },
+    "pin": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "piling": {
+        "11.txt": 1
+    },
+    "precipitate": {
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "paroxysm": {
+        "11.txt": 1
+    },
+    "park": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "pendent": {
+        "11.txt": 1
+    },
+    "perspective": {
+        "11.txt": 1
+    },
+    "paralysed": {
+        "11.txt": 1
+    },
+    "presumably": {
+        "11.txt": 1
+    },
+    "perfected": {
+        "11.txt": 1
+    },
+    "pile": {
+        "11.txt": 1
+    },
+    "physically": {
+        "11.txt": 1
+    },
+    "peacefulness": {
+        "11.txt": 1
+    },
+    "piled": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "pounding": {
+        "20.txt": 4
+    },
+    "panics": {
+        "20.txt": 2
+    },
+    "powdering": {
+        "20.txt": 1
+    },
+    "persians": {
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "pink": {
+        "20.txt": 7
+    },
+    "porcelain": {
+        "20.txt": 1
+    },
+    "patted": {
+        "20.txt": 4
+    },
+    "pitifully": {
+        "20.txt": 1
+    },
+    "pill": {
+        "20.txt": 1
+    },
+    "popped": {
+        "20.txt": 1
+    },
+    "pulsed": {
+        "20.txt": 1
+    },
+    "pills": {
+        "20.txt": 3
+    },
+    "peach": {
+        "20.txt": 1
+    },
+    "pulse": {
+        "20.txt": 3,
+        "22.txt": 1
+    },
+    "petrified": {
+        "20.txt": 1
+    },
+    "pillow": {
+        "20.txt": 3
+    },
+    "pigtails": {
+        "20.txt": 1
+    },
+    "parlor": {
+        "20.txt": 2
+    },
+    "petted": {
+        "20.txt": 1
+    },
+    "plumes": {
+        "20.txt": 1
+    },
+    "plucked": {
+        "20.txt": 1
+    },
+    "precincts": {
+        "20.txt": 2
+    },
+    "peer": {
+        "20.txt": 4
+    },
+    "pat": {
+        "20.txt": 1
+    },
+    "pressed": {
+        "20.txt": 5
+    },
+    "peered": {
+        "20.txt": 7
+    },
+    "paced": {
+        "20.txt": 1
+    },
+    "papa": {
+        "20.txt": 9
+    },
+    "policeman": {
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "profundos": {
+        "20.txt": 1
+    },
+    "poorly": {
+        "20.txt": 4
+    },
+    "protested": {
+        "20.txt": 2
+    },
+    "picking": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "personally": {
+        "20.txt": 1,
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "panicking": {
+        "20.txt": 2
+    },
+    "pah": {
+        "20.txt": 1
+    },
+    "palely": {
+        "20.txt": 2
+    },
+    "parsley": {
+        "20.txt": 1
+    },
+    "parsey": {
+        "20.txt": 1
+    },
+    "pontic": {
+        "20.txt": 2
+    },
+    "paler": {
+        "20.txt": 1
+    },
+    "phalanxes": {
+        "20.txt": 1
+    },
+    "paint": {
+        "20.txt": 6
+    },
+    "pennies": {
+        "20.txt": 2
+    },
+    "pups": {
+        "20.txt": 1
+    },
+    "pants": {
+        "20.txt": 13,
+        "9.txt": 1
+    },
+    "paleness": {
+        "20.txt": 1
+    },
+    "potted": {
+        "20.txt": 1
+    },
+    "penny": {
+        "20.txt": 2,
+        "9.txt": 2
+    },
+    "pricked": {
+        "20.txt": 1
+    },
+    "palm": {
+        "20.txt": 2
+    },
+    "peaches": {
+        "20.txt": 1
+    },
+    "persimmons": {
+        "20.txt": 1
+    },
+    "penalty": {
+        "20.txt": 2
+    },
+    "plus": {
+        "20.txt": 1,
+        "9.txt": 4
+    },
+    "parchment": {
+        "20.txt": 1
+    },
+    "padded": {
+        "20.txt": 2
+    },
+    "palms": {
+        "20.txt": 2
+    },
+    "pollen": {
+        "20.txt": 1
+    },
+    "pterodactyls": {
+        "20.txt": 1
+    },
+    "playfully": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "piston": {
+        "20.txt": 1
+    },
+    "pebbled": {
+        "20.txt": 1
+    },
+    "pelvic": {
+        "20.txt": 1
+    },
+    "prints": {
+        "20.txt": 1
+    },
+    "poised": {
+        "20.txt": 3
+    },
+    "pronounced": {
+        "20.txt": 1
+    },
+    "pathway": {
+        "20.txt": 1
+    },
+    "pores": {
+        "20.txt": 2,
+        "22.txt": 1
+    },
+    "presidential": {
+        "20.txt": 1
+    },
+    "pleaded": {
+        "20.txt": 2
+    },
+    "prolong": {
+        "20.txt": 1
+    },
+    "paused": {
+        "20.txt": 8
+    },
+    "pumpkins": {
+        "20.txt": 5
+    },
+    "punch": {
+        "20.txt": 2
+    },
+    "peering": {
+        "20.txt": 2
+    },
+    "penduluming": {
+        "20.txt": 1
+    },
+    "picknicked": {
+        "20.txt": 1
+    },
+    "picnics": {
+        "20.txt": 1
+    },
+    "pumpkin": {
+        "20.txt": 2
+    },
+    "periphery": {
+        "20.txt": 1
+    },
+    "plum": {
+        "20.txt": 1
+    },
+    "pudding": {
+        "20.txt": 1
+    },
+    "potatoes": {
+        "20.txt": 1
+    },
+    "peacock": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "parked": {
+        "20.txt": 2
+    },
+    "pier": {
+        "20.txt": 1
+    },
+    "pressurizing": {
+        "20.txt": 1
+    },
+    "pits": {
+        "20.txt": 1
+    },
+    "painting": {
+        "20.txt": 1
+    },
+    "paws": {
+        "20.txt": 1
+    },
+    "projections": {
+        "20.txt": 1
+    },
+    "pendulum": {
+        "20.txt": 35
+    },
+    "prisoner": {
+        "20.txt": 3,
+        "9.txt": 7
+    },
+    "perched": {
+        "20.txt": 1
+    },
+    "plaza": {
+        "20.txt": 9
+    },
+    "powdery": {
+        "20.txt": 1
+    },
+    "perch": {
+        "20.txt": 1
+    },
+    "platform": {
+        "20.txt": 1
+    },
+    "ponderous": {
+        "20.txt": 2
+    },
+    "populace": {
+        "20.txt": 2
+    },
+    "pounded": {
+        "20.txt": 1
+    },
+    "pelted": {
+        "20.txt": 1
+    },
+    "parcels": {
+        "20.txt": 3
+    },
+    "plunked": {
+        "20.txt": 1
+    },
+    "persistent": {
+        "20.txt": 1
+    },
+    "packet": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "puny": {
+        "20.txt": 2
+    },
+    "pleadings": {
+        "20.txt": 1
+    },
+    "pencil": {
+        "20.txt": 3,
+        "9.txt": 1
+    },
+    "planes": {
+        "20.txt": 7
+    },
+    "pendulem": {
+        "20.txt": 1
+    },
+    "pictured": {
+        "20.txt": 1
+    },
+    "protective": {
+        "20.txt": 1
+    },
+    "protects": {
+        "20.txt": 1
+    },
+    "purr": {
+        "20.txt": 1
+    },
+    "pebble": {
+        "20.txt": 1
+    },
+    "perspiration": {
+        "20.txt": 1
+    },
+    "paprika": {
+        "20.txt": 1
+    },
+    "papery": {
+        "20.txt": 1
+    },
+    "prickling": {
+        "20.txt": 1
+    },
+    "pelts": {
+        "20.txt": 2
+    },
+    "panting": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "peter": {
+        "20.txt": 26
+    },
+    "plastic": {
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "paw": {
+        "20.txt": 1
+    },
+    "preoccupied": {
+        "20.txt": 1
+    },
+    "pumpkinhead": {
+        "20.txt": 1
+    },
+    "pegasus": {
+        "20.txt": 1
+    },
+    "peppermint": {
+        "20.txt": 1
+    },
+    "paranoia": {
+        "20.txt": 2
+    },
+    "persecuted": {
+        "20.txt": 2
+    },
+    "patterns": {
+        "20.txt": 2
+    },
+    "powered": {
+        "20.txt": 1
+    },
+    "pranced": {
+        "20.txt": 1
+    },
+    "padding": {
+        "20.txt": 1
+    },
+    "picnic": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "perspire": {
+        "20.txt": 1
+    },
+    "psychoanalyst": {
+        "20.txt": 1
+    },
+    "psychiatrist": {
+        "20.txt": 1,
+        "9.txt": 3
+    },
+    "periscope": {
+        "20.txt": 19
+    },
+    "pent": {
+        "20.txt": 1
+    },
+    "printing": {
+        "20.txt": 1
+    },
+    "plodding": {
+        "20.txt": 1
+    },
+    "plummeting": {
+        "20.txt": 1
+    },
+    "peed": {
+        "20.txt": 1
+    },
+    "pee": {
+        "20.txt": 2,
+        "9.txt": 26
+    },
+    "psychotic": {
+        "20.txt": 3
+    },
+    "psychiatrists": {
+        "20.txt": 1
+    },
+    "pasted": {
+        "20.txt": 1
+    },
+    "photos": {
+        "20.txt": 1
+    },
+    "psyche": {
+        "20.txt": 1
+    },
+    "performers": {
+        "20.txt": 1
+    },
+    "pantomimes": {
+        "20.txt": 1
+    },
+    "poisoned": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "paring": {
+        "20.txt": 1
+    },
+    "pecans": {
+        "20.txt": 1
+    },
+    "poker": {
+        "20.txt": 1
+    },
+    "pool": {
+        "20.txt": 5
+    },
+    "phrenologist": {
+        "20.txt": 1
+    },
+    "phil": {
+        "20.txt": 1
+    },
+    "pop": {
+        "20.txt": 2
+    },
+    "paste": {
+        "20.txt": 2
+    },
+    "paneling": {
+        "20.txt": 1
+    },
+    "peri": {
+        "20.txt": 1
+    },
+    "plagues": {
+        "20.txt": 1
+    },
+    "pasadena": {
+        "20.txt": 1
+    },
+    "panthers": {
+        "20.txt": 1
+    },
+    "perfecto": {
+        "20.txt": 1
+    },
+    "pumping": {
+        "20.txt": 1
+    },
+    "pockets": {
+        "20.txt": 2,
+        "9.txt": 4
+    },
+    "poolroom": {
+        "20.txt": 3
+    },
+    "phone": {
+        "20.txt": 1,
+        "9.txt": 3
+    },
+    "paso": {
+        "20.txt": 2
+    },
+    "punchboard": {
+        "20.txt": 1
+    },
+    "poofroom": {
+        "20.txt": 1
+    },
+    "plunged": {
+        "20.txt": 1
+    },
+    "phosphorescent": {
+        "20.txt": 1
+    },
+    "pad": {
+        "20.txt": 1
+    },
+    "porches": {
+        "20.txt": 1
+    },
+    "panama": {
+        "20.txt": 1
+    },
+    "peeked": {
+        "20.txt": 1
+    },
+    "peephole": {
+        "20.txt": 2
+    },
+    "powder": {
+        "20.txt": 2
+    },
+    "pads": {
+        "20.txt": 1
+    },
+    "phoned": {
+        "20.txt": 1,
+        "9.txt": 2
+    },
+    "pe\u00f3nes": {
+        "20.txt": 1
+    },
+    "pronsise": {
+        "20.txt": 1
+    },
+    "pillows": {
+        "20.txt": 2
+    },
+    "perspiring": {
+        "20.txt": 1
+    },
+    "playing": {
+        "20.txt": 1,
+        "9.txt": 3
+    },
+    "parade": {
+        "20.txt": 1
+    },
+    "prefatory": {
+        "22.txt": 1
+    },
+    "promptitude": {
+        "22.txt": 1
+    },
+    "perusal": {
+        "22.txt": 4
+    },
+    "projects": {
+        "22.txt": 1
+    },
+    "palaces": {
+        "22.txt": 1
+    },
+    "parricide": {
+        "22.txt": 1
+    },
+    "predictions": {
+        "22.txt": 1
+    },
+    "punish": {
+        "22.txt": 1
+    },
+    "professional": {
+        "22.txt": 1,
+        "9.txt": 1
+    },
+    "preceptors": {
+        "22.txt": 2
+    },
+    "preposterous": {
+        "22.txt": 1
+    },
+    "precipices": {
+        "22.txt": 1
+    },
+    "projecting": {
+        "22.txt": 1
+    },
+    "precipitancy": {
+        "22.txt": 2
+    },
+    "provisory": {
+        "22.txt": 1
+    },
+    "persevere": {
+        "22.txt": 1
+    },
+    "prosecuting": {
+        "22.txt": 2
+    },
+    "populous": {
+        "22.txt": 1
+    },
+    "presentations": {
+        "22.txt": 2
+    },
+    "perfections": {
+        "22.txt": 3
+    },
+    "publishing": {
+        "22.txt": 5
+    },
+    "pellicles": {
+        "22.txt": 3
+    },
+    "pouches": {
+        "22.txt": 2
+    },
+    "perforated": {
+        "22.txt": 1
+    },
+    "penetrates": {
+        "22.txt": 1
+    },
+    "parrots": {
+        "22.txt": 1
+    },
+    "parrot": {
+        "22.txt": 1
+    },
+    "printer": {
+        "22.txt": 1
+    },
+    "prophets": {
+        "22.txt": 1
+    },
+    "provision": {
+        "22.txt": 1
+    },
+    "precautions": {
+        "22.txt": 1
+    },
+    "publisher": {
+        "22.txt": 1
+    },
+    "prolix": {
+        "22.txt": 1
+    },
+    "performer": {
+        "22.txt": 1
+    },
+    "preferments": {
+        "22.txt": 1
+    },
+    "patrick": {
+        "9.txt": 1
+    },
+    "philip": {
+        "9.txt": 1
+    },
+    "pete": {
+        "9.txt": 5
+    },
+    "pedestrian": {
+        "9.txt": 1
+    },
+    "pedestrians": {
+        "9.txt": 1
+    },
+    "purred": {
+        "9.txt": 1
+    },
+    "pulls": {
+        "9.txt": 5
+    },
+    "peeps": {
+        "9.txt": 1
+    },
+    "piercingly": {
+        "9.txt": 1
+    },
+    "pushes": {
+        "9.txt": 3
+    },
+    "plott": {
+        "9.txt": 1
+    },
+    "pronging": {
+        "9.txt": 1
+    },
+    "publicwise": {
+        "9.txt": 1
+    },
+    "pees": {
+        "9.txt": 1
+    },
+    "player": {
+        "9.txt": 1
+    },
+    "ptitsas": {
+        "9.txt": 1
+    },
+    "proboscis": {
+        "9.txt": 1
+    },
+    "phallic": {
+        "9.txt": 3
+    },
+    "pointless": {
+        "9.txt": 1
+    },
+    "portable": {
+        "9.txt": 1
+    },
+    "polly": {
+        "9.txt": 2
+    },
+    "portend": {
+        "9.txt": 1
+    },
+    "pluck": {
+        "9.txt": 1
+    },
+    "ptitsa": {
+        "9.txt": 1
+    },
+    "phallus": {
+        "9.txt": 3
+    },
+    "presses": {
+        "9.txt": 1
+    },
+    "perverts": {
+        "9.txt": 2
+    },
+    "prestoopnicks": {
+        "9.txt": 1
+    },
+    "parkmoor": {
+        "9.txt": 2
+    },
+    "pens": {
+        "9.txt": 1
+    },
+    "pinstripe": {
+        "9.txt": 1
+    },
+    "pinstriped": {
+        "9.txt": 1
+    },
+    "penlight": {
+        "9.txt": 1
+    },
+    "pulpit": {
+        "9.txt": 1
+    },
+    "projector": {
+        "9.txt": 2
+    },
+    "porridge": {
+        "9.txt": 1
+    },
+    "peeling": {
+        "9.txt": 1
+    },
+    "prrrrrrrp": {
+        "9.txt": 1
+    },
+    "preachy": {
+        "9.txt": 1
+    },
+    "picks": {
+        "9.txt": 3
+    },
+    "proven": {
+        "9.txt": 1
+    },
+    "prisoners": {
+        "9.txt": 1
+    },
+    "prisons": {
+        "9.txt": 2
+    },
+    "penological": {
+        "9.txt": 1
+    },
+    "personage": {
+        "9.txt": 1
+    },
+    "pajama": {
+        "9.txt": 1
+    },
+    "professionals": {
+        "9.txt": 1
+    },
+    "punches": {
+        "9.txt": 3
+    },
+    "paralysis": {
+        "9.txt": 1
+    },
+    "practiced": {
+        "9.txt": 1
+    },
+    "pledge": {
+        "9.txt": 1
+    },
+    "polls": {
+        "9.txt": 1
+    },
+    "pooh": {
+        "9.txt": 1
+    },
+    "pullimg": {
+        "9.txt": 1
+    },
+    "paradoxically": {
+        "9.txt": 1
+    },
+    "padre": {
+        "9.txt": 1
+    },
+    "pa": {
+        "9.txt": 1
+    },
+    "proposals": {
+        "9.txt": 1
+    },
+    "pneumonia": {
+        "9.txt": 2
+    },
+    "pours": {
+        "9.txt": 1
+    },
+    "peacefully": {
+        "9.txt": 1
+    },
+    "pitches": {
+        "9.txt": 1
+    },
+    "plumage": {
+        "9.txt": 1
+    },
+    "pops": {
+        "9.txt": 1
+    }
+}

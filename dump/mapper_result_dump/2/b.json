@@ -1,0 +1,4201 @@
+{
+    "but": {
+        "19.txt": 1174,
+        "1.txt": 925,
+        "24.txt": 500,
+        "5.txt": 168,
+        "8.txt": 91,
+        "4.txt": 113
+    },
+    "book": {
+        "19.txt": 30,
+        "1.txt": 4,
+        "24.txt": 4,
+        "5.txt": 10
+    },
+    "between": {
+        "19.txt": 97,
+        "1.txt": 46,
+        "24.txt": 30,
+        "5.txt": 28,
+        "8.txt": 6,
+        "4.txt": 5
+    },
+    "bliss": {
+        "19.txt": 5,
+        "24.txt": 4,
+        "8.txt": 4
+    },
+    "bring": {
+        "19.txt": 30,
+        "1.txt": 17,
+        "24.txt": 12,
+        "5.txt": 9,
+        "8.txt": 7,
+        "4.txt": 2
+    },
+    "by": {
+        "19.txt": 950,
+        "1.txt": 231,
+        "24.txt": 506,
+        "5.txt": 213,
+        "8.txt": 154,
+        "4.txt": 56
+    },
+    "burned": {
+        "19.txt": 35,
+        "1.txt": 11,
+        "8.txt": 7
+    },
+    "background": {
+        "19.txt": 8,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "beautiful": {
+        "19.txt": 13,
+        "1.txt": 17,
+        "24.txt": 2,
+        "5.txt": 4,
+        "4.txt": 1
+    },
+    "books": {
+        "19.txt": 34,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "boris": {
+        "19.txt": 4
+    },
+    "belonged": {
+        "19.txt": 17,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 3,
+        "4.txt": 1
+    },
+    "blok": {
+        "19.txt": 9
+    },
+    "born": {
+        "19.txt": 22,
+        "1.txt": 3,
+        "24.txt": 1,
+        "5.txt": 3,
+        "8.txt": 9
+    },
+    "became": {
+        "19.txt": 55,
+        "1.txt": 5,
+        "24.txt": 1,
+        "5.txt": 2,
+        "4.txt": 1
+    },
+    "be": {
+        "19.txt": 875,
+        "1.txt": 587,
+        "24.txt": 785,
+        "5.txt": 245,
+        "8.txt": 59,
+        "4.txt": 44
+    },
+    "been": {
+        "19.txt": 630,
+        "1.txt": 235,
+        "24.txt": 58,
+        "5.txt": 61,
+        "8.txt": 10,
+        "4.txt": 23
+    },
+    "bernard": {
+        "19.txt": 1,
+        "5.txt": 3
+    },
+    "brother": {
+        "19.txt": 24,
+        "1.txt": 2,
+        "24.txt": 1,
+        "5.txt": 2,
+        "8.txt": 11
+    },
+    "being": {
+        "19.txt": 159,
+        "1.txt": 84,
+        "24.txt": 171,
+        "5.txt": 31,
+        "8.txt": 3,
+        "4.txt": 4
+    },
+    "buried": {
+        "19.txt": 28,
+        "1.txt": 4,
+        "4.txt": 1
+    },
+    "body": {
+        "19.txt": 33,
+        "1.txt": 77,
+        "5.txt": 6,
+        "8.txt": 14,
+        "4.txt": 4
+    },
+    "bustle": {
+        "19.txt": 6
+    },
+    "began": {
+        "19.txt": 93,
+        "1.txt": 13,
+        "24.txt": 3,
+        "5.txt": 3,
+        "8.txt": 11,
+        "4.txt": 16
+    },
+    "boy": {
+        "19.txt": 81,
+        "1.txt": 110,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 1,
+        "4.txt": 15
+    },
+    "big": {
+        "19.txt": 58,
+        "1.txt": 36,
+        "5.txt": 2,
+        "8.txt": 1,
+        "4.txt": 9
+    },
+    "bare": {
+        "19.txt": 16,
+        "1.txt": 6,
+        "24.txt": 1
+    },
+    "burst": {
+        "19.txt": 37,
+        "1.txt": 6,
+        "24.txt": 1,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "bearing": {
+        "19.txt": 4,
+        "5.txt": 2,
+        "8.txt": 3,
+        "4.txt": 1
+    },
+    "black": {
+        "19.txt": 95,
+        "1.txt": 34,
+        "8.txt": 3,
+        "4.txt": 2
+    },
+    "bought": {
+        "19.txt": 10,
+        "1.txt": 6,
+        "8.txt": 3
+    },
+    "bushes": {
+        "19.txt": 4,
+        "1.txt": 12
+    },
+    "beds": {
+        "19.txt": 10,
+        "1.txt": 2,
+        "8.txt": 2
+    },
+    "blue": {
+        "19.txt": 31,
+        "1.txt": 16
+    },
+    "blast": {
+        "19.txt": 4,
+        "1.txt": 3,
+        "8.txt": 1
+    },
+    "blizzard": {
+        "19.txt": 13
+    },
+    "breaking": {
+        "19.txt": 12,
+        "1.txt": 11,
+        "8.txt": 3
+    },
+    "business": {
+        "19.txt": 46,
+        "1.txt": 7,
+        "24.txt": 8,
+        "5.txt": 9,
+        "4.txt": 1
+    },
+    "bank": {
+        "19.txt": 11,
+        "1.txt": 10,
+        "4.txt": 4
+    },
+    "buildings": {
+        "19.txt": 12,
+        "1.txt": 4,
+        "5.txt": 1,
+        "8.txt": 3
+    },
+    "baba": {
+        "19.txt": 1
+    },
+    "branches": {
+        "19.txt": 23,
+        "1.txt": 17,
+        "24.txt": 1,
+        "4.txt": 2
+    },
+    "bred": {
+        "19.txt": 6,
+        "1.txt": 1
+    },
+    "because": {
+        "19.txt": 142,
+        "1.txt": 197,
+        "24.txt": 100,
+        "5.txt": 18,
+        "8.txt": 2,
+        "4.txt": 2
+    },
+    "break": {
+        "19.txt": 19,
+        "1.txt": 17,
+        "8.txt": 4,
+        "4.txt": 3
+    },
+    "birds": {
+        "19.txt": 9,
+        "1.txt": 24,
+        "5.txt": 1,
+        "4.txt": 15
+    },
+    "box": {
+        "19.txt": 14,
+        "1.txt": 6,
+        "5.txt": 1
+    },
+    "bells": {
+        "19.txt": 8
+    },
+    "border": {
+        "19.txt": 7,
+        "8.txt": 2
+    },
+    "briefly": {
+        "19.txt": 3,
+        "1.txt": 2,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "beyond": {
+        "19.txt": 63,
+        "1.txt": 15,
+        "24.txt": 15,
+        "5.txt": 7,
+        "4.txt": 1
+    },
+    "before": {
+        "19.txt": 237,
+        "1.txt": 131,
+        "24.txt": 39,
+        "5.txt": 19,
+        "8.txt": 8,
+        "4.txt": 16
+    },
+    "bowed": {
+        "19.txt": 4,
+        "8.txt": 5
+    },
+    "better": {
+        "19.txt": 84,
+        "1.txt": 71,
+        "24.txt": 12,
+        "5.txt": 7,
+        "8.txt": 11,
+        "4.txt": 8
+    },
+    "back": {
+        "19.txt": 347,
+        "1.txt": 325,
+        "24.txt": 4,
+        "5.txt": 8,
+        "8.txt": 16,
+        "4.txt": 11
+    },
+    "broken": {
+        "19.txt": 51,
+        "1.txt": 9,
+        "5.txt": 3,
+        "8.txt": 6,
+        "4.txt": 2
+    },
+    "boots": {
+        "19.txt": 22,
+        "1.txt": 16
+    },
+    "births": {
+        "19.txt": 1
+    },
+    "berries": {
+        "19.txt": 11,
+        "1.txt": 38
+    },
+    "bathe": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "blackthorn": {
+        "19.txt": 2
+    },
+    "beard": {
+        "19.txt": 14
+    },
+    "bunching": {
+        "19.txt": 1
+    },
+    "bet": {
+        "19.txt": 3,
+        "1.txt": 24
+    },
+    "banned": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "believe": {
+        "19.txt": 57,
+        "1.txt": 19,
+        "24.txt": 2,
+        "5.txt": 15,
+        "4.txt": 1
+    },
+    "basic": {
+        "19.txt": 2,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "begin": {
+        "19.txt": 25,
+        "1.txt": 52,
+        "24.txt": 13,
+        "5.txt": 2,
+        "4.txt": 1
+    },
+    "blood": {
+        "19.txt": 40,
+        "1.txt": 48,
+        "5.txt": 3,
+        "8.txt": 31,
+        "4.txt": 2
+    },
+    "beastliness": {
+        "19.txt": 1
+    },
+    "boastful": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "bronze": {
+        "19.txt": 5
+    },
+    "breathe": {
+        "19.txt": 6,
+        "1.txt": 5,
+        "8.txt": 2
+    },
+    "blank": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "bored": {
+        "19.txt": 8,
+        "1.txt": 5
+    },
+    "brought": {
+        "19.txt": 70,
+        "1.txt": 15,
+        "24.txt": 13,
+        "5.txt": 12,
+        "8.txt": 7,
+        "4.txt": 3
+    },
+    "bordighera": {
+        "19.txt": 1
+    },
+    "buzzing": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "4.txt": 1
+    },
+    "bees": {
+        "19.txt": 1
+    },
+    "bottom": {
+        "19.txt": 20,
+        "1.txt": 4,
+        "24.txt": 4,
+        "5.txt": 1,
+        "8.txt": 3
+    },
+    "bible": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "bear": {
+        "19.txt": 21,
+        "1.txt": 8,
+        "24.txt": 4,
+        "5.txt": 8,
+        "8.txt": 14,
+        "4.txt": 7
+    },
+    "bleached": {
+        "19.txt": 1
+    },
+    "buffet": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "behind": {
+        "19.txt": 88,
+        "1.txt": 40,
+        "24.txt": 2,
+        "5.txt": 6,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "bitter": {
+        "19.txt": 9,
+        "1.txt": 3,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 3,
+        "4.txt": 1
+    },
+    "bow": {
+        "19.txt": 3,
+        "1.txt": 58,
+        "24.txt": 2,
+        "5.txt": 1,
+        "8.txt": 3,
+        "4.txt": 1
+    },
+    "brakes": {
+        "19.txt": 2
+    },
+    "birch": {
+        "19.txt": 15
+    },
+    "broad": {
+        "19.txt": 17,
+        "1.txt": 2,
+        "5.txt": 1,
+        "8.txt": 12,
+        "4.txt": 1
+    },
+    "bills": {
+        "19.txt": 2
+    },
+    "bankruptcy": {
+        "19.txt": 2
+    },
+    "buy": {
+        "19.txt": 6,
+        "1.txt": 12,
+        "8.txt": 1,
+        "4.txt": 2
+    },
+    "bookstalls": {
+        "19.txt": 1
+    },
+    "businesslike": {
+        "19.txt": 2
+    },
+    "blew": {
+        "19.txt": 11,
+        "1.txt": 7,
+        "4.txt": 8
+    },
+    "bedroom": {
+        "19.txt": 20,
+        "1.txt": 3
+    },
+    "bits": {
+        "19.txt": 3,
+        "1.txt": 11
+    },
+    "bed": {
+        "19.txt": 49,
+        "1.txt": 43,
+        "5.txt": 1,
+        "8.txt": 7
+    },
+    "boat": {
+        "19.txt": 11,
+        "5.txt": 2,
+        "8.txt": 9,
+        "4.txt": 1
+    },
+    "both": {
+        "19.txt": 72,
+        "1.txt": 81,
+        "24.txt": 24,
+        "5.txt": 17,
+        "8.txt": 17,
+        "4.txt": 6
+    },
+    "bumped": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "boathook": {
+        "19.txt": 1
+    },
+    "bad": {
+        "19.txt": 43,
+        "1.txt": 34,
+        "24.txt": 9,
+        "5.txt": 3,
+        "4.txt": 4
+    },
+    "barb": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "baby": {
+        "19.txt": 10,
+        "1.txt": 5
+    },
+    "begun": {
+        "19.txt": 15,
+        "1.txt": 11,
+        "5.txt": 1
+    },
+    "balance": {
+        "19.txt": 4,
+        "1.txt": 7,
+        "5.txt": 1
+    },
+    "breath": {
+        "19.txt": 26,
+        "1.txt": 16,
+        "8.txt": 4,
+        "4.txt": 5
+    },
+    "beaten": {
+        "19.txt": 8,
+        "1.txt": 2,
+        "8.txt": 1,
+        "4.txt": 2
+    },
+    "belgian": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "beginning": {
+        "19.txt": 43,
+        "1.txt": 9,
+        "24.txt": 2,
+        "5.txt": 2,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "blooded": {
+        "19.txt": 1
+    },
+    "businessman": {
+        "19.txt": 2
+    },
+    "booked": {
+        "19.txt": 1
+    },
+    "blush": {
+        "19.txt": 3,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "bars": {
+        "19.txt": 2
+    },
+    "bedbugs": {
+        "19.txt": 3
+    },
+    "blonde": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "bald": {
+        "19.txt": 3,
+        "4.txt": 5
+    },
+    "breast": {
+        "19.txt": 15,
+        "8.txt": 22
+    },
+    "bolshoi": {
+        "19.txt": 1
+    },
+    "benefactor": {
+        "19.txt": 3
+    },
+    "brest": {
+        "19.txt": 9
+    },
+    "bird": {
+        "19.txt": 13,
+        "1.txt": 19,
+        "8.txt": 2,
+        "4.txt": 6
+    },
+    "bending": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "4.txt": 1
+    },
+    "bony": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "bone": {
+        "19.txt": 9,
+        "1.txt": 9,
+        "5.txt": 1,
+        "8.txt": 5,
+        "4.txt": 3
+    },
+    "blowing": {
+        "19.txt": 9,
+        "1.txt": 3,
+        "4.txt": 2
+    },
+    "boss": {
+        "19.txt": 7,
+        "8.txt": 1
+    },
+    "bulldog": {
+        "19.txt": 3
+    },
+    "blind": {
+        "19.txt": 5,
+        "1.txt": 4,
+        "24.txt": 4,
+        "5.txt": 2,
+        "4.txt": 2
+    },
+    "bend": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "beast": {
+        "19.txt": 14,
+        "1.txt": 2,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 2
+    },
+    "best": {
+        "19.txt": 40,
+        "1.txt": 38,
+        "24.txt": 5,
+        "5.txt": 17,
+        "8.txt": 18,
+        "4.txt": 5
+    },
+    "bit": {
+        "19.txt": 43,
+        "1.txt": 38,
+        "5.txt": 1,
+        "8.txt": 2,
+        "4.txt": 5
+    },
+    "bears": {
+        "19.txt": 4,
+        "1.txt": 3,
+        "4.txt": 1
+    },
+    "barracks": {
+        "19.txt": 4
+    },
+    "bucket": {
+        "19.txt": 5,
+        "1.txt": 4
+    },
+    "boldly": {
+        "19.txt": 1,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "bookkeeping": {
+        "19.txt": 1
+    },
+    "bread": {
+        "19.txt": 31,
+        "1.txt": 63,
+        "24.txt": 1,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "baked": {
+        "19.txt": 5,
+        "1.txt": 2
+    },
+    "basement": {
+        "19.txt": 6
+    },
+    "boiling": {
+        "19.txt": 6,
+        "8.txt": 4
+    },
+    "broke": {
+        "19.txt": 38,
+        "1.txt": 3,
+        "8.txt": 7,
+        "4.txt": 2
+    },
+    "boiler": {
+        "19.txt": 2
+    },
+    "blow": {
+        "19.txt": 11,
+        "1.txt": 12,
+        "5.txt": 3,
+        "8.txt": 10,
+        "4.txt": 5
+    },
+    "braced": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "8.txt": 2
+    },
+    "beads": {
+        "19.txt": 7
+    },
+    "brawling": {
+        "19.txt": 1
+    },
+    "blame": {
+        "19.txt": 13,
+        "1.txt": 4,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "believed": {
+        "19.txt": 15,
+        "1.txt": 1,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "block": {
+        "19.txt": 2,
+        "1.txt": 9
+    },
+    "bellowed": {
+        "19.txt": 4
+    },
+    "bastard": {
+        "19.txt": 2
+    },
+    "beheaded": {
+        "19.txt": 1
+    },
+    "benches": {
+        "19.txt": 6,
+        "8.txt": 3
+    },
+    "bent": {
+        "19.txt": 13,
+        "1.txt": 3,
+        "24.txt": 1,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "bloodshot": {
+        "19.txt": 1
+    },
+    "bodies": {
+        "19.txt": 10,
+        "1.txt": 9,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "buttons": {
+        "19.txt": 2,
+        "1.txt": 4
+    },
+    "baring": {
+        "19.txt": 1
+    },
+    "banged": {
+        "19.txt": 4
+    },
+    "boys": {
+        "19.txt": 25,
+        "1.txt": 17,
+        "5.txt": 1,
+        "8.txt": 1,
+        "4.txt": 2
+    },
+    "babbled": {
+        "19.txt": 2
+    },
+    "butchers": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "butt": {
+        "19.txt": 12
+    },
+    "borrow": {
+        "19.txt": 3
+    },
+    "brush": {
+        "19.txt": 1,
+        "1.txt": 9
+    },
+    "buckle": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "belt": {
+        "19.txt": 8,
+        "1.txt": 17,
+        "5.txt": 1
+    },
+    "broth": {
+        "19.txt": 1,
+        "1.txt": 9
+    },
+    "backwards": {
+        "19.txt": 1
+    },
+    "baton": {
+        "19.txt": 1
+    },
+    "building": {
+        "19.txt": 31,
+        "1.txt": 12,
+        "24.txt": 1,
+        "5.txt": 3,
+        "8.txt": 3
+    },
+    "borne": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "8.txt": 7
+    },
+    "backing": {
+        "19.txt": 1
+    },
+    "bounds": {
+        "19.txt": 2,
+        "24.txt": 6,
+        "5.txt": 3,
+        "8.txt": 1
+    },
+    "bunglers": {
+        "19.txt": 1
+    },
+    "buzz": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "bumblebee": {
+        "19.txt": 1
+    },
+    "bullet": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "bounded": {
+        "19.txt": 2,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "balcony": {
+        "19.txt": 4,
+        "1.txt": 5
+    },
+    "burden": {
+        "19.txt": 7,
+        "24.txt": 2,
+        "5.txt": 2,
+        "8.txt": 2,
+        "4.txt": 1
+    },
+    "bedlam": {
+        "19.txt": 2
+    },
+    "blushed": {
+        "19.txt": 2
+    },
+    "bagging": {
+        "19.txt": 1
+    },
+    "balked": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "become": {
+        "19.txt": 59,
+        "1.txt": 14,
+        "24.txt": 19,
+        "5.txt": 19,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "battle": {
+        "19.txt": 16,
+        "1.txt": 3,
+        "8.txt": 88,
+        "4.txt": 3
+    },
+    "bless": {
+        "19.txt": 8
+    },
+    "beauty": {
+        "19.txt": 28,
+        "1.txt": 4,
+        "24.txt": 2,
+        "5.txt": 4
+    },
+    "blurted": {
+        "19.txt": 2
+    },
+    "b": {
+        "19.txt": 3,
+        "24.txt": 5
+    },
+    "begged": {
+        "19.txt": 11,
+        "1.txt": 1,
+        "8.txt": 1,
+        "4.txt": 2
+    },
+    "borrowed": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "4.txt": 1
+    },
+    "bargain": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "8.txt": 3
+    },
+    "bookshop": {
+        "19.txt": 2
+    },
+    "brackets": {
+        "19.txt": 1
+    },
+    "banisters": {
+        "19.txt": 1
+    },
+    "blinds": {
+        "19.txt": 1
+    },
+    "banging": {
+        "19.txt": 7,
+        "1.txt": 2
+    },
+    "below": {
+        "19.txt": 28,
+        "1.txt": 10,
+        "24.txt": 2,
+        "5.txt": 1,
+        "8.txt": 6
+    },
+    "bared": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "brown": {
+        "19.txt": 10,
+        "1.txt": 10,
+        "8.txt": 4,
+        "4.txt": 1
+    },
+    "busy": {
+        "19.txt": 18,
+        "1.txt": 2
+    },
+    "beggarwoman": {
+        "19.txt": 1
+    },
+    "beatitudes": {
+        "19.txt": 1
+    },
+    "blessed": {
+        "19.txt": 8,
+        "24.txt": 2,
+        "8.txt": 1
+    },
+    "barricade": {
+        "19.txt": 3
+    },
+    "built": {
+        "19.txt": 11,
+        "1.txt": 7,
+        "24.txt": 1,
+        "5.txt": 2,
+        "8.txt": 3
+    },
+    "buckets": {
+        "19.txt": 12,
+        "1.txt": 1
+    },
+    "bloom": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "bundles": {
+        "19.txt": 10
+    },
+    "brat": {
+        "19.txt": 3
+    },
+    "blanks": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "bullets": {
+        "19.txt": 8
+    },
+    "brothers": {
+        "19.txt": 7,
+        "1.txt": 3,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "bedrooms": {
+        "19.txt": 2
+    },
+    "boudoir": {
+        "19.txt": 1
+    },
+    "ballroom": {
+        "19.txt": 13
+    },
+    "bosom": {
+        "19.txt": 3,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "burdens": {
+        "19.txt": 1,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "becoming": {
+        "19.txt": 11,
+        "1.txt": 6,
+        "24.txt": 4,
+        "5.txt": 7
+    },
+    "basurman": {
+        "19.txt": 1
+    },
+    "bumpkin": {
+        "19.txt": 1
+    },
+    "bottles": {
+        "19.txt": 4,
+        "1.txt": 4
+    },
+    "baskets": {
+        "19.txt": 2
+    },
+    "boring": {
+        "19.txt": 4
+    },
+    "belief": {
+        "19.txt": 4,
+        "24.txt": 3,
+        "5.txt": 3
+    },
+    "bows": {
+        "19.txt": 2,
+        "1.txt": 6,
+        "24.txt": 1
+    },
+    "blushing": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "bridge": {
+        "19.txt": 3,
+        "5.txt": 1,
+        "4.txt": 2
+    },
+    "beg": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "boulevard": {
+        "19.txt": 1
+    },
+    "bonfires": {
+        "19.txt": 1
+    },
+    "bandaged": {
+        "19.txt": 4,
+        "1.txt": 2
+    },
+    "blazing": {
+        "19.txt": 5,
+        "8.txt": 2
+    },
+    "bulging": {
+        "19.txt": 4
+    },
+    "bun": {
+        "19.txt": 1
+    },
+    "baker": {
+        "19.txt": 2,
+        "1.txt": 9
+    },
+    "balanced": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "bottle": {
+        "19.txt": 9,
+        "1.txt": 18
+    },
+    "bracket": {
+        "19.txt": 5
+    },
+    "bench": {
+        "19.txt": 6,
+        "8.txt": 13
+    },
+    "blacken": {
+        "19.txt": 1
+    },
+    "bookshelf": {
+        "19.txt": 2
+    },
+    "barley": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "boards": {
+        "19.txt": 11,
+        "1.txt": 1,
+        "8.txt": 2
+    },
+    "bruised": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "bones": {
+        "19.txt": 7,
+        "1.txt": 5,
+        "8.txt": 3
+    },
+    "bawl": {
+        "19.txt": 1
+    },
+    "bruises": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "brutally": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "basin": {
+        "19.txt": 4
+    },
+    "breathed": {
+        "19.txt": 7,
+        "8.txt": 2
+    },
+    "becomes": {
+        "19.txt": 5,
+        "1.txt": 3,
+        "24.txt": 8,
+        "5.txt": 5,
+        "8.txt": 1
+    },
+    "broadest": {
+        "19.txt": 1
+    },
+    "bends": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "bunch": {
+        "19.txt": 3,
+        "1.txt": 2,
+        "4.txt": 2
+    },
+    "bacchus": {
+        "19.txt": 19
+    },
+    "bogeyman": {
+        "19.txt": 1
+    },
+    "buckwheat": {
+        "19.txt": 3
+    },
+    "blacksmith": {
+        "19.txt": 4
+    },
+    "bedside": {
+        "19.txt": 3
+    },
+    "brewing": {
+        "19.txt": 6
+    },
+    "beehive": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "blackened": {
+        "19.txt": 4,
+        "1.txt": 4
+    },
+    "blotting": {
+        "19.txt": 1
+    },
+    "bothered": {
+        "19.txt": 5,
+        "1.txt": 6
+    },
+    "brilliant": {
+        "19.txt": 3,
+        "1.txt": 3,
+        "5.txt": 3
+    },
+    "board": {
+        "19.txt": 14,
+        "1.txt": 3,
+        "5.txt": 1,
+        "8.txt": 10
+    },
+    "barouche": {
+        "19.txt": 1
+    },
+    "birth": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "5.txt": 3,
+        "8.txt": 2
+    },
+    "boating": {
+        "19.txt": 1
+    },
+    "beer": {
+        "19.txt": 2,
+        "8.txt": 5
+    },
+    "bristles": {
+        "19.txt": 2,
+        "4.txt": 1
+    },
+    "beards": {
+        "19.txt": 3
+    },
+    "benefit": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "24.txt": 1,
+        "5.txt": 4
+    },
+    "buttonhole": {
+        "19.txt": 1
+    },
+    "beside": {
+        "19.txt": 24,
+        "1.txt": 15,
+        "8.txt": 1
+    },
+    "bother": {
+        "19.txt": 12,
+        "1.txt": 3,
+        "4.txt": 1
+    },
+    "bound": {
+        "19.txt": 16,
+        "1.txt": 2,
+        "24.txt": 4,
+        "5.txt": 17,
+        "8.txt": 9,
+        "4.txt": 2
+    },
+    "breathing": {
+        "19.txt": 8,
+        "1.txt": 3
+    },
+    "barely": {
+        "19.txt": 7,
+        "1.txt": 13
+    },
+    "boxes": {
+        "19.txt": 3
+    },
+    "bonbonni\u00e8res": {
+        "19.txt": 1
+    },
+    "backstage": {
+        "19.txt": 1
+    },
+    "burning": {
+        "19.txt": 16,
+        "1.txt": 15,
+        "5.txt": 2,
+        "8.txt": 3
+    },
+    "blossom": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "brushed": {
+        "19.txt": 4,
+        "1.txt": 2
+    },
+    "boria": {
+        "19.txt": 2
+    },
+    "bright": {
+        "19.txt": 12,
+        "1.txt": 16,
+        "5.txt": 2,
+        "8.txt": 27,
+        "4.txt": 1
+    },
+    "bandaging": {
+        "19.txt": 1
+    },
+    "bursts": {
+        "19.txt": 1,
+        "1.txt": 6
+    },
+    "balls": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "bathed": {
+        "19.txt": 5,
+        "1.txt": 1
+    },
+    "bookshelves": {
+        "19.txt": 1
+    },
+    "blocked": {
+        "19.txt": 8,
+        "1.txt": 1
+    },
+    "beggars": {
+        "19.txt": 2
+    },
+    "beckoned": {
+        "19.txt": 2
+    },
+    "bearded": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "badly": {
+        "19.txt": 9,
+        "1.txt": 8
+    },
+    "bud": {
+        "19.txt": 2
+    },
+    "brain": {
+        "19.txt": 2,
+        "1.txt": 9,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "brisker": {
+        "19.txt": 1
+    },
+    "bonus": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "brides": {
+        "19.txt": 1
+    },
+    "breakfast": {
+        "19.txt": 4,
+        "1.txt": 15
+    },
+    "bride": {
+        "19.txt": 6,
+        "8.txt": 4,
+        "4.txt": 1
+    },
+    "bridegroom": {
+        "19.txt": 1
+    },
+    "braid": {
+        "19.txt": 3,
+        "1.txt": 10
+    },
+    "boisterous": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "bundle": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "4.txt": 4
+    },
+    "bereaved": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "bag": {
+        "19.txt": 9,
+        "1.txt": 56,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "brow": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "burglar": {
+        "19.txt": 1
+    },
+    "begging": {
+        "19.txt": 5,
+        "1.txt": 3
+    },
+    "brusilov": {
+        "19.txt": 2
+    },
+    "buffeted": {
+        "19.txt": 1
+    },
+    "branch": {
+        "19.txt": 7,
+        "1.txt": 19,
+        "24.txt": 1,
+        "5.txt": 1,
+        "4.txt": 5
+    },
+    "blocks": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "begins": {
+        "19.txt": 3,
+        "1.txt": 38,
+        "24.txt": 5
+    },
+    "biting": {
+        "19.txt": 2,
+        "1.txt": 3,
+        "8.txt": 1
+    },
+    "barring": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "breathlessly": {
+        "19.txt": 1
+    },
+    "backs": {
+        "19.txt": 7,
+        "1.txt": 4
+    },
+    "barque": {
+        "19.txt": 2
+    },
+    "boats": {
+        "19.txt": 3
+    },
+    "bottoms": {
+        "19.txt": 3
+    },
+    "bluer": {
+        "19.txt": 1
+    },
+    "behave": {
+        "19.txt": 2
+    },
+    "bewildered": {
+        "19.txt": 3
+    },
+    "blotted": {
+        "19.txt": 1
+    },
+    "brightest": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "byelorussian": {
+        "19.txt": 1
+    },
+    "barren": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "broom": {
+        "19.txt": 1
+    },
+    "bayonets": {
+        "19.txt": 4
+    },
+    "bog": {
+        "19.txt": 2
+    },
+    "battery": {
+        "19.txt": 1
+    },
+    "barrage": {
+        "19.txt": 3
+    },
+    "believing": {
+        "19.txt": 2
+    },
+    "belongings": {
+        "19.txt": 6,
+        "1.txt": 1
+    },
+    "bawled": {
+        "19.txt": 3
+    },
+    "boredom": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "brave": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "8.txt": 28,
+        "4.txt": 1
+    },
+    "bewitched": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "build": {
+        "19.txt": 6,
+        "1.txt": 3,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "bunks": {
+        "19.txt": 3
+    },
+    "bang": {
+        "19.txt": 3
+    },
+    "bertha": {
+        "19.txt": 2
+    },
+    "behaving": {
+        "19.txt": 2
+    },
+    "blown": {
+        "19.txt": 7,
+        "1.txt": 5
+    },
+    "batteries": {
+        "19.txt": 1
+    },
+    "blades": {
+        "19.txt": 2,
+        "8.txt": 4
+    },
+    "battlefield": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "boisterously": {
+        "19.txt": 1
+    },
+    "baiting": {
+        "19.txt": 1
+    },
+    "basis": {
+        "19.txt": 4,
+        "1.txt": 4,
+        "24.txt": 12,
+        "5.txt": 9,
+        "8.txt": 1
+    },
+    "banalities": {
+        "19.txt": 1
+    },
+    "bogus": {
+        "19.txt": 1
+    },
+    "bursting": {
+        "19.txt": 6,
+        "1.txt": 1
+    },
+    "boilers": {
+        "19.txt": 1
+    },
+    "borrowing": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "bumping": {
+        "19.txt": 2
+    },
+    "barn": {
+        "19.txt": 15
+    },
+    "bleeding": {
+        "19.txt": 3,
+        "1.txt": 7,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "batch": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "breeze": {
+        "19.txt": 3,
+        "1.txt": 3
+    },
+    "bringing": {
+        "19.txt": 9,
+        "1.txt": 2,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "bedridden": {
+        "19.txt": 1
+    },
+    "blindman": {
+        "19.txt": 1
+    },
+    "buff": {
+        "19.txt": 1
+    },
+    "bitterly": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "behavior": {
+        "19.txt": 4,
+        "1.txt": 3
+    },
+    "boggy": {
+        "19.txt": 1
+    },
+    "biriuchi": {
+        "19.txt": 9
+    },
+    "blazheiko": {
+        "19.txt": 5
+    },
+    "beliefs": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "brood": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "bolder": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "bandit": {
+        "19.txt": 3
+    },
+    "bickering": {
+        "19.txt": 1
+    },
+    "byronic": {
+        "19.txt": 1
+    },
+    "baltic": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "bivouac": {
+        "19.txt": 1
+    },
+    "bled": {
+        "19.txt": 3,
+        "1.txt": 3
+    },
+    "brick": {
+        "19.txt": 6
+    },
+    "belladonna": {
+        "19.txt": 1
+    },
+    "barns": {
+        "19.txt": 2
+    },
+    "bolsheviks": {
+        "19.txt": 9
+    },
+    "bolshevik": {
+        "19.txt": 7
+    },
+    "balaam": {
+        "19.txt": 2
+    },
+    "blossoms": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "babe": {
+        "19.txt": 2
+    },
+    "betrayed": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "blurting": {
+        "19.txt": 1
+    },
+    "blouse": {
+        "19.txt": 6,
+        "1.txt": 7
+    },
+    "blaze": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "5.txt": 1,
+        "8.txt": 5
+    },
+    "belong": {
+        "19.txt": 11,
+        "1.txt": 1,
+        "24.txt": 20,
+        "5.txt": 5
+    },
+    "bolts": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "brooms": {
+        "19.txt": 1
+    },
+    "bicycle": {
+        "19.txt": 2
+    },
+    "brute": {
+        "19.txt": 6,
+        "5.txt": 4
+    },
+    "balking": {
+        "19.txt": 1
+    },
+    "birches": {
+        "19.txt": 7
+    },
+    "blueblood": {
+        "19.txt": 1
+    },
+    "beneath": {
+        "19.txt": 5,
+        "1.txt": 10,
+        "8.txt": 1,
+        "4.txt": 2
+    },
+    "barred": {
+        "19.txt": 2
+    },
+    "bell": {
+        "19.txt": 6,
+        "1.txt": 4,
+        "4.txt": 2
+    },
+    "boldness": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "babies": {
+        "19.txt": 6,
+        "1.txt": 1
+    },
+    "bosoms": {
+        "19.txt": 1
+    },
+    "beings": {
+        "19.txt": 5,
+        "24.txt": 60,
+        "5.txt": 13,
+        "8.txt": 1
+    },
+    "backed": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "buffers": {
+        "19.txt": 4
+    },
+    "bawling": {
+        "19.txt": 2
+    },
+    "besieging": {
+        "19.txt": 1
+    },
+    "barrelled": {
+        "19.txt": 1
+    },
+    "berth": {
+        "19.txt": 3
+    },
+    "brief": {
+        "19.txt": 6,
+        "1.txt": 8,
+        "5.txt": 4,
+        "8.txt": 3
+    },
+    "bloodshed": {
+        "19.txt": 2
+    },
+    "bloody": {
+        "19.txt": 2,
+        "1.txt": 8,
+        "8.txt": 9
+    },
+    "blamed": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "briskly": {
+        "19.txt": 1
+    },
+    "boasted": {
+        "19.txt": 2,
+        "8.txt": 2
+    },
+    "bore": {
+        "19.txt": 7,
+        "1.txt": 1,
+        "8.txt": 26
+    },
+    "bridges": {
+        "19.txt": 4
+    },
+    "blinding": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "bouncing": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "borough": {
+        "19.txt": 3
+    },
+    "blocking": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "bellies": {
+        "19.txt": 1
+    },
+    "butter": {
+        "19.txt": 5,
+        "1.txt": 1
+    },
+    "beak": {
+        "19.txt": 1,
+        "4.txt": 3
+    },
+    "bolshevized": {
+        "19.txt": 2
+    },
+    "burn": {
+        "19.txt": 4,
+        "1.txt": 17,
+        "8.txt": 3
+    },
+    "bundled": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "blanket": {
+        "19.txt": 7,
+        "1.txt": 3
+    },
+    "bandy": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "blackening": {
+        "19.txt": 1
+    },
+    "betrayal": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "backwardness": {
+        "19.txt": 2
+    },
+    "boot": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "bathroom": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "butterfly": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "bestuzhevist": {
+        "19.txt": 1
+    },
+    "barricades": {
+        "19.txt": 4
+    },
+    "beginnings": {
+        "19.txt": 1,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "brains": {
+        "19.txt": 8,
+        "1.txt": 2,
+        "5.txt": 2,
+        "4.txt": 7
+    },
+    "bestow": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "bags": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "busied": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "brings": {
+        "19.txt": 8,
+        "1.txt": 16,
+        "24.txt": 4,
+        "5.txt": 3,
+        "4.txt": 1
+    },
+    "brigands": {
+        "19.txt": 1
+    },
+    "buys": {
+        "19.txt": 1,
+        "1.txt": 4
+    },
+    "blindfold": {
+        "19.txt": 2
+    },
+    "bump": {
+        "19.txt": 3
+    },
+    "battered": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "birchwood": {
+        "19.txt": 1
+    },
+    "bark": {
+        "19.txt": 5,
+        "1.txt": 4,
+        "8.txt": 2
+    },
+    "bolshaia": {
+        "19.txt": 1
+    },
+    "bubbles": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "beam": {
+        "19.txt": 3,
+        "8.txt": 2
+    },
+    "bourgeois": {
+        "19.txt": 7
+    },
+    "breed": {
+        "19.txt": 2,
+        "8.txt": 4
+    },
+    "bonds": {
+        "19.txt": 1,
+        "8.txt": 4
+    },
+    "boycotting": {
+        "19.txt": 1
+    },
+    "boiled": {
+        "19.txt": 7,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "bake": {
+        "19.txt": 1
+    },
+    "balusters": {
+        "19.txt": 1
+    },
+    "businessmen": {
+        "19.txt": 3
+    },
+    "boarded": {
+        "19.txt": 3
+    },
+    "barracklike": {
+        "19.txt": 1
+    },
+    "bedclothes": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "belle": {
+        "19.txt": 1
+    },
+    "bedsheet": {
+        "19.txt": 1
+    },
+    "bar": {
+        "19.txt": 1
+    },
+    "bothers": {
+        "19.txt": 1
+    },
+    "barrack": {
+        "19.txt": 1
+    },
+    "blouses": {
+        "19.txt": 1
+    },
+    "bricks": {
+        "19.txt": 4
+    },
+    "brew": {
+        "19.txt": 1
+    },
+    "bastards": {
+        "19.txt": 3
+    },
+    "bleary": {
+        "19.txt": 1
+    },
+    "bath": {
+        "19.txt": 7,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "barefoot": {
+        "19.txt": 4,
+        "1.txt": 2
+    },
+    "barter": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "bunk": {
+        "19.txt": 7
+    },
+    "beef": {
+        "19.txt": 1,
+        "1.txt": 11
+    },
+    "brisk": {
+        "19.txt": 1
+    },
+    "bold": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "24.txt": 3,
+        "8.txt": 17
+    },
+    "belts": {
+        "19.txt": 2
+    },
+    "brykin": {
+        "19.txt": 2
+    },
+    "buisky": {
+        "19.txt": 4
+    },
+    "bands": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "8.txt": 5
+    },
+    "bonfire": {
+        "19.txt": 2
+    },
+    "bully": {
+        "19.txt": 2
+    },
+    "blanketed": {
+        "19.txt": 1
+    },
+    "burnt": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "besides": {
+        "19.txt": 10,
+        "1.txt": 30,
+        "24.txt": 7,
+        "5.txt": 2,
+        "8.txt": 2
+    },
+    "braided": {
+        "19.txt": 3,
+        "1.txt": 2,
+        "8.txt": 3
+    },
+    "bandages": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "bordered": {
+        "19.txt": 4
+    },
+    "belaboring": {
+        "19.txt": 1
+    },
+    "bitch": {
+        "19.txt": 2
+    },
+    "belly": {
+        "19.txt": 7,
+        "1.txt": 9,
+        "4.txt": 5
+    },
+    "bogging": {
+        "19.txt": 1
+    },
+    "brimming": {
+        "19.txt": 1
+    },
+    "bushels": {
+        "19.txt": 1
+    },
+    "blackish": {
+        "19.txt": 2
+    },
+    "banks": {
+        "19.txt": 4,
+        "1.txt": 3,
+        "5.txt": 2
+    },
+    "brushes": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "blossoming": {
+        "19.txt": 1
+    },
+    "buds": {
+        "19.txt": 3
+    },
+    "barbs": {
+        "19.txt": 1
+    },
+    "braked": {
+        "19.txt": 1
+    },
+    "barking": {
+        "19.txt": 3,
+        "4.txt": 1
+    },
+    "blackbird": {
+        "19.txt": 1
+    },
+    "baths": {
+        "19.txt": 4
+    },
+    "beached": {
+        "19.txt": 1
+    },
+    "beach": {
+        "19.txt": 4,
+        "8.txt": 1
+    },
+    "barked": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "beakers": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "bandage": {
+        "19.txt": 2,
+        "1.txt": 10
+    },
+    "brilliance": {
+        "19.txt": 6,
+        "1.txt": 1
+    },
+    "beat": {
+        "19.txt": 5,
+        "1.txt": 6,
+        "4.txt": 1
+    },
+    "beasts": {
+        "19.txt": 3,
+        "5.txt": 2,
+        "8.txt": 1,
+        "4.txt": 15
+    },
+    "blazed": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "ballad": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "bushy": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "belfries": {
+        "19.txt": 1
+    },
+    "belfry": {
+        "19.txt": 3
+    },
+    "base": {
+        "19.txt": 1,
+        "1.txt": 8,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "billboards": {
+        "19.txt": 1
+    },
+    "breaches": {
+        "19.txt": 1
+    },
+    "broomstick": {
+        "19.txt": 1
+    },
+    "brotherhood": {
+        "19.txt": 9
+    },
+    "backbone": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "blushes": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "blessing": {
+        "19.txt": 5,
+        "5.txt": 3
+    },
+    "boned": {
+        "19.txt": 2
+    },
+    "bite": {
+        "19.txt": 3,
+        "1.txt": 17,
+        "8.txt": 5,
+        "4.txt": 1
+    },
+    "bowels": {
+        "19.txt": 1
+    },
+    "bungler": {
+        "19.txt": 1
+    },
+    "blunder": {
+        "19.txt": 1
+    },
+    "bogatyr": {
+        "19.txt": 1
+    },
+    "bowl": {
+        "19.txt": 4,
+        "1.txt": 8
+    },
+    "bribe": {
+        "19.txt": 1
+    },
+    "biggest": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "bin": {
+        "19.txt": 2,
+        "1.txt": 3
+    },
+    "blankets": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "barrels": {
+        "19.txt": 1
+    },
+    "beams": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "beets": {
+        "19.txt": 1
+    },
+    "beans": {
+        "19.txt": 1,
+        "4.txt": 2
+    },
+    "breaks": {
+        "19.txt": 5,
+        "1.txt": 13,
+        "24.txt": 2,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "buries": {
+        "19.txt": 1
+    },
+    "behold": {
+        "19.txt": 3,
+        "24.txt": 1,
+        "8.txt": 2
+    },
+    "bombast": {
+        "19.txt": 1
+    },
+    "beloved": {
+        "19.txt": 3,
+        "5.txt": 1,
+        "8.txt": 12
+    },
+    "bearers": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "breadth": {
+        "19.txt": 4
+    },
+    "belongs": {
+        "19.txt": 3,
+        "1.txt": 2,
+        "24.txt": 31,
+        "5.txt": 2,
+        "8.txt": 2
+    },
+    "buttered": {
+        "19.txt": 1
+    },
+    "blinking": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "4.txt": 1
+    },
+    "blooms": {
+        "19.txt": 1
+    },
+    "brigand": {
+        "19.txt": 1
+    },
+    "based": {
+        "19.txt": 2,
+        "24.txt": 18,
+        "5.txt": 17,
+        "8.txt": 1
+    },
+    "bustling": {
+        "19.txt": 4
+    },
+    "balustrade": {
+        "19.txt": 1
+    },
+    "billowing": {
+        "19.txt": 1
+    },
+    "betray": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "brickwork": {
+        "19.txt": 1
+    },
+    "billboard": {
+        "19.txt": 2
+    },
+    "brutal": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "breathtakingly": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "bombardment": {
+        "19.txt": 2
+    },
+    "blackmail": {
+        "19.txt": 1
+    },
+    "behaved": {
+        "19.txt": 1
+    },
+    "beating": {
+        "19.txt": 7,
+        "1.txt": 9,
+        "24.txt": 1
+    },
+    "biped": {
+        "19.txt": 1
+    },
+    "betraying": {
+        "19.txt": 2
+    },
+    "buoys": {
+        "19.txt": 1
+    },
+    "breathtaking": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "ball": {
+        "19.txt": 4,
+        "1.txt": 11,
+        "5.txt": 1
+    },
+    "brimmed": {
+        "19.txt": 1
+    },
+    "backward": {
+        "19.txt": 3,
+        "1.txt": 8,
+        "24.txt": 1
+    },
+    "broader": {
+        "19.txt": 1
+    },
+    "bigger": {
+        "19.txt": 2,
+        "1.txt": 5,
+        "4.txt": 3
+    },
+    "brukhianov": {
+        "19.txt": 1
+    },
+    "boorish": {
+        "19.txt": 1
+    },
+    "berib": {
+        "19.txt": 1
+    },
+    "blazhein": {
+        "19.txt": 1
+    },
+    "blearily": {
+        "19.txt": 1
+    },
+    "buttering": {
+        "19.txt": 1
+    },
+    "banner": {
+        "19.txt": 4,
+        "8.txt": 4
+    },
+    "balalaika": {
+        "19.txt": 1
+    },
+    "blade": {
+        "19.txt": 5,
+        "1.txt": 10,
+        "8.txt": 30
+    },
+    "blazhe\u00efn": {
+        "19.txt": 1
+    },
+    "beet": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "buriat": {
+        "19.txt": 2
+    },
+    "bourgeoisie": {
+        "19.txt": 2
+    },
+    "bodyguard": {
+        "19.txt": 2
+    },
+    "bunched": {
+        "19.txt": 1
+    },
+    "braids": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "berendey": {
+        "19.txt": 1
+    },
+    "belonging": {
+        "19.txt": 2,
+        "24.txt": 28,
+        "5.txt": 3
+    },
+    "barges": {
+        "19.txt": 2
+    },
+    "buns": {
+        "19.txt": 1
+    },
+    "bowls": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "brewed": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "brazen": {
+        "19.txt": 2
+    },
+    "bolshevism": {
+        "19.txt": 3
+    },
+    "blockhead": {
+        "19.txt": 1
+    },
+    "blink": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "bloodless": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "bomb": {
+        "19.txt": 2
+    },
+    "british": {
+        "19.txt": 2,
+        "5.txt": 2
+    },
+    "bleak": {
+        "19.txt": 2
+    },
+    "belligerents": {
+        "19.txt": 1
+    },
+    "blasted": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "battles": {
+        "19.txt": 2,
+        "8.txt": 2
+    },
+    "buffoonery": {
+        "19.txt": 1
+    },
+    "betterment": {
+        "19.txt": 1
+    },
+    "benefits": {
+        "19.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "blockhouse": {
+        "19.txt": 1
+    },
+    "bristling": {
+        "19.txt": 3
+    },
+    "brewers": {
+        "19.txt": 5
+    },
+    "barrow": {
+        "19.txt": 1,
+        "8.txt": 26
+    },
+    "bedding": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "battalion": {
+        "19.txt": 3
+    },
+    "brightness": {
+        "19.txt": 1
+    },
+    "bodyguards": {
+        "19.txt": 1
+    },
+    "bumpy": {
+        "19.txt": 1
+    },
+    "band": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 23
+    },
+    "beetling": {
+        "19.txt": 1
+    },
+    "barbarism": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "5.txt": 2
+    },
+    "bullfinches": {
+        "19.txt": 1
+    },
+    "boulders": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "browning": {
+        "19.txt": 1
+    },
+    "bowing": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "bourbons": {
+        "19.txt": 1
+    },
+    "bisiurin": {
+        "19.txt": 1
+    },
+    "bassalygo": {
+        "19.txt": 3
+    },
+    "breach": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "brutes": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "boundary": {
+        "19.txt": 2
+    },
+    "bush": {
+        "19.txt": 3,
+        "1.txt": 6,
+        "4.txt": 1
+    },
+    "berry": {
+        "19.txt": 1,
+        "1.txt": 7
+    },
+    "bulls": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "bidding": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "8.txt": 2
+    },
+    "badger": {
+        "19.txt": 1
+    },
+    "boasting": {
+        "19.txt": 2,
+        "4.txt": 4
+    },
+    "blizzards": {
+        "19.txt": 1
+    },
+    "breathes": {
+        "19.txt": 1
+    },
+    "bards": {
+        "19.txt": 1
+    },
+    "blurred": {
+        "19.txt": 3
+    },
+    "bekeshin": {
+        "19.txt": 1
+    },
+    "boil": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "bitten": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "breeding": {
+        "19.txt": 1
+    },
+    "burns": {
+        "19.txt": 2,
+        "1.txt": 17
+    },
+    "buffeting": {
+        "19.txt": 1
+    },
+    "biscuits": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "bristly": {
+        "19.txt": 2
+    },
+    "blond": {
+        "19.txt": 1,
+        "1.txt": 4
+    },
+    "bartered": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "bothering": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "blindness": {
+        "19.txt": 1
+    },
+    "barber": {
+        "19.txt": 4
+    },
+    "barbershops": {
+        "19.txt": 1
+    },
+    "breeds": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "barbershop": {
+        "19.txt": 1
+    },
+    "barbers": {
+        "19.txt": 1
+    },
+    "boles": {
+        "19.txt": 1
+    },
+    "barrier": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "bottomless": {
+        "19.txt": 2
+    },
+    "botticelli": {
+        "19.txt": 1
+    },
+    "billions": {
+        "19.txt": 1
+    },
+    "buianovka": {
+        "19.txt": 2
+    },
+    "boyar": {
+        "19.txt": 1
+    },
+    "biological": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "blagoveshchensk": {
+        "19.txt": 1
+    },
+    "biblical": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "begs": {
+        "19.txt": 2
+    },
+    "blaming": {
+        "19.txt": 1
+    },
+    "brink": {
+        "19.txt": 3,
+        "8.txt": 4
+    },
+    "buffer": {
+        "19.txt": 1
+    },
+    "behalf": {
+        "19.txt": 1,
+        "5.txt": 3
+    },
+    "brightly": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "brooding": {
+        "19.txt": 1
+    },
+    "brim": {
+        "19.txt": 1
+    },
+    "blasphemy": {
+        "19.txt": 1
+    },
+    "bareness": {
+        "19.txt": 1
+    },
+    "blissful": {
+        "19.txt": 2
+    },
+    "bustled": {
+        "19.txt": 1
+    },
+    "boundless": {
+        "19.txt": 3,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "blissfully": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "bellied": {
+        "19.txt": 1
+    },
+    "baying": {
+        "19.txt": 1
+    },
+    "beats": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "ballades": {
+        "19.txt": 1
+    },
+    "blindly": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "24.txt": 1
+    },
+    "blenched": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "bereavement": {
+        "19.txt": 1
+    },
+    "bedstead": {
+        "19.txt": 1
+    },
+    "bolt": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "8.txt": 1
+    },
+    "burdened": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "birthright": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "braiding": {
+        "19.txt": 1
+    },
+    "buiskoie": {
+        "19.txt": 2
+    },
+    "bolted": {
+        "19.txt": 1
+    },
+    "basil": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "bury": {
+        "19.txt": 3,
+        "1.txt": 6
+    },
+    "bandits": {
+        "19.txt": 1
+    },
+    "ban": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "binding": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "booklets": {
+        "19.txt": 4
+    },
+    "bookshops": {
+        "19.txt": 1
+    },
+    "boils": {
+        "19.txt": 1
+    },
+    "bathtub": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "blockade": {
+        "19.txt": 1
+    },
+    "bigamy": {
+        "19.txt": 1
+    },
+    "bronnaia": {
+        "19.txt": 2
+    },
+    "bondage": {
+        "19.txt": 1
+    },
+    "bonifatii": {
+        "19.txt": 1
+    },
+    "banqueting": {
+        "19.txt": 1
+    },
+    "broughams": {
+        "19.txt": 1
+    },
+    "blinded": {
+        "19.txt": 1
+    },
+    "botkin": {
+        "19.txt": 1
+    },
+    "ballooned": {
+        "19.txt": 1
+    },
+    "budge": {
+        "19.txt": 2
+    },
+    "banked": {
+        "19.txt": 1
+    },
+    "baffling": {
+        "19.txt": 1
+    },
+    "byways": {
+        "19.txt": 1
+    },
+    "burial": {
+        "19.txt": 2
+    },
+    "breakthrough": {
+        "19.txt": 1
+    },
+    "bulge": {
+        "19.txt": 1
+    },
+    "barbed": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "billeted": {
+        "19.txt": 1
+    },
+    "bombers": {
+        "19.txt": 1
+    },
+    "barbarous": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "bezocheredeva": {
+        "19.txt": 1
+    },
+    "bezprizornaia": {
+        "19.txt": 2
+    },
+    "bezotchcheia": {
+        "19.txt": 1
+    },
+    "bryanshchina": {
+        "19.txt": 1
+    },
+    "blessedly": {
+        "19.txt": 1
+    },
+    "bryansk": {
+        "19.txt": 1
+    },
+    "boast": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "8.txt": 12
+    },
+    "beggar": {
+        "19.txt": 1
+    },
+    "beckoning": {
+        "19.txt": 2
+    },
+    "bezprizornys": {
+        "19.txt": 1
+    },
+    "binoculars": {
+        "19.txt": 1
+    },
+    "branching": {
+        "19.txt": 1
+    },
+    "burbling": {
+        "19.txt": 1
+    },
+    "begetter": {
+        "19.txt": 1
+    },
+    "butterflies": {
+        "19.txt": 1
+    },
+    "barefooted": {
+        "19.txt": 1
+    },
+    "boughs": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "bedeck": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "burying": {
+        "19.txt": 1
+    },
+    "brushing": {
+        "19.txt": 1
+    },
+    "bravado": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "brine": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "barnyard": {
+        "19.txt": 1
+    },
+    "bestirred": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "bestowing": {
+        "19.txt": 1
+    },
+    "burdocks": {
+        "19.txt": 1
+    },
+    "brimstone": {
+        "19.txt": 2
+    },
+    "beheld": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "beggared": {
+        "19.txt": 1
+    },
+    "bunny": {
+        "19.txt": 1
+    },
+    "bitterness": {
+        "19.txt": 3,
+        "5.txt": 3
+    },
+    "bravely": {
+        "19.txt": 1,
+        "8.txt": 3
+    },
+    "burin": {
+        "19.txt": 1
+    },
+    "burnished": {
+        "19.txt": 1,
+        "8.txt": 4
+    },
+    "bethlehem": {
+        "19.txt": 1
+    },
+    "bide": {
+        "19.txt": 1,
+        "8.txt": 11
+    },
+    "bickered": {
+        "19.txt": 1
+    },
+    "byre": {
+        "19.txt": 1
+    },
+    "bethany": {
+        "19.txt": 1
+    },
+    "blend": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "beget": {
+        "19.txt": 1
+    },
+    "bided": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "bereft": {
+        "19.txt": 1,
+        "8.txt": 2
+    },
+    "burnous": {
+        "19.txt": 1
+    },
+    "brook": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "bestuzhev": {
+        "19.txt": 1
+    },
+    "buttercup": {
+        "1.txt": 4
+    },
+    "blurt": {
+        "1.txt": 4
+    },
+    "bakery": {
+        "1.txt": 14
+    },
+    "brightens": {
+        "1.txt": 2
+    },
+    "blackberries": {
+        "1.txt": 3
+    },
+    "businesses": {
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "beautifully": {
+        "1.txt": 1
+    },
+    "banners": {
+        "1.txt": 1
+    },
+    "buzzards": {
+        "1.txt": 1
+    },
+    "bets": {
+        "1.txt": 3
+    },
+    "balding": {
+        "1.txt": 1
+    },
+    "bubbly": {
+        "1.txt": 1
+    },
+    "bounces": {
+        "1.txt": 3
+    },
+    "bravo": {
+        "1.txt": 1
+    },
+    "betting": {
+        "1.txt": 10
+    },
+    "boldest": {
+        "1.txt": 1,
+        "24.txt": 1,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "bye": {
+        "1.txt": 8,
+        "4.txt": 3
+    },
+    "bitterest": {
+        "1.txt": 1
+    },
+    "bug": {
+        "1.txt": 1
+    },
+    "backyards": {
+        "1.txt": 1
+    },
+    "bins": {
+        "1.txt": 4
+    },
+    "bakers": {
+        "1.txt": 9
+    },
+    "brats": {
+        "1.txt": 1
+    },
+    "buckled": {
+        "1.txt": 1
+    },
+    "bludgeon": {
+        "1.txt": 1
+    },
+    "blather": {
+        "1.txt": 1
+    },
+    "breakable": {
+        "1.txt": 1
+    },
+    "bedspread": {
+        "1.txt": 1
+    },
+    "butcher": {
+        "1.txt": 9
+    },
+    "bluish": {
+        "1.txt": 1
+    },
+    "basket": {
+        "1.txt": 4
+    },
+    "beckons": {
+        "1.txt": 1
+    },
+    "bragging": {
+        "1.txt": 1
+    },
+    "bloodred": {
+        "1.txt": 2
+    },
+    "brace": {
+        "1.txt": 3
+    },
+    "bruise": {
+        "1.txt": 4
+    },
+    "buts": {
+        "1.txt": 1
+    },
+    "bizarre": {
+        "1.txt": 1
+    },
+    "button": {
+        "1.txt": 5
+    },
+    "baggy": {
+        "1.txt": 1
+    },
+    "barbecued": {
+        "1.txt": 1
+    },
+    "babble": {
+        "1.txt": 1
+    },
+    "basing": {
+        "1.txt": 1
+    },
+    "brilliantly": {
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "blazes": {
+        "1.txt": 1
+    },
+    "beetle": {
+        "1.txt": 2
+    },
+    "broadcast": {
+        "1.txt": 4
+    },
+    "bay": {
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "birdcall": {
+        "1.txt": 1
+    },
+    "bombs": {
+        "1.txt": 1
+    },
+    "blurts": {
+        "1.txt": 1
+    },
+    "bristled": {
+        "1.txt": 1
+    },
+    "burgundy": {
+        "1.txt": 1
+    },
+    "batter": {
+        "1.txt": 1
+    },
+    "bid": {
+        "1.txt": 1,
+        "8.txt": 5
+    },
+    "baking": {
+        "1.txt": 3
+    },
+    "brutality": {
+        "1.txt": 1
+    },
+    "birthdays": {
+        "1.txt": 2
+    },
+    "backyard": {
+        "1.txt": 1
+    },
+    "banquet": {
+        "1.txt": 5,
+        "8.txt": 15
+    },
+    "breadbasket": {
+        "1.txt": 1
+    },
+    "breads": {
+        "1.txt": 3
+    },
+    "boxing": {
+        "1.txt": 1
+    },
+    "butters": {
+        "1.txt": 1
+    },
+    "burrow": {
+        "1.txt": 3
+    },
+    "burlap": {
+        "1.txt": 6
+    },
+    "banal": {
+        "1.txt": 1
+    },
+    "brighter": {
+        "1.txt": 1
+    },
+    "balconies": {
+        "1.txt": 1
+    },
+    "blackouts": {
+        "1.txt": 1
+    },
+    "bulbs": {
+        "1.txt": 1
+    },
+    "buzzer": {
+        "1.txt": 2
+    },
+    "banter": {
+        "1.txt": 3
+    },
+    "bucketful": {
+        "1.txt": 1
+    },
+    "breached": {
+        "1.txt": 1
+    },
+    "boyfriend": {
+        "1.txt": 4
+    },
+    "bluff": {
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "byes": {
+        "1.txt": 1
+    },
+    "brand": {
+        "1.txt": 2,
+        "8.txt": 10
+    },
+    "booms": {
+        "1.txt": 4
+    },
+    "bounty": {
+        "1.txt": 2
+    },
+    "bloodbath": {
+        "1.txt": 4
+    },
+    "backpack": {
+        "1.txt": 21
+    },
+    "botched": {
+        "1.txt": 1
+    },
+    "blackness": {
+        "1.txt": 1
+    },
+    "battled": {
+        "1.txt": 1
+    },
+    "brutish": {
+        "1.txt": 1
+    },
+    "birdsong": {
+        "1.txt": 2
+    },
+    "blueberries": {
+        "1.txt": 1
+    },
+    "bleed": {
+        "1.txt": 1,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "bee": {
+        "1.txt": 1
+    },
+    "bewilderment": {
+        "1.txt": 1
+    },
+    "belted": {
+        "1.txt": 1
+    },
+    "blasts": {
+        "1.txt": 1
+    },
+    "bubbling": {
+        "1.txt": 1
+    },
+    "blisters": {
+        "1.txt": 3
+    },
+    "breaths": {
+        "1.txt": 1
+    },
+    "blares": {
+        "1.txt": 1
+    },
+    "balm": {
+        "1.txt": 1
+    },
+    "beading": {
+        "1.txt": 1
+    },
+    "bat": {
+        "1.txt": 1,
+        "4.txt": 5
+    },
+    "befuddled": {
+        "1.txt": 1
+    },
+    "bowstring": {
+        "1.txt": 2
+    },
+    "balloons": {
+        "1.txt": 1
+    },
+    "blinks": {
+        "1.txt": 1
+    },
+    "boom": {
+        "1.txt": 1
+    },
+    "booby": {
+        "1.txt": 3
+    },
+    "barrel": {
+        "1.txt": 1
+    },
+    "bulk": {
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "beeline": {
+        "1.txt": 2
+    },
+    "barreling": {
+        "1.txt": 1
+    },
+    "bomber": {
+        "1.txt": 2
+    },
+    "befriending": {
+        "1.txt": 1
+    },
+    "bites": {
+        "1.txt": 2,
+        "8.txt": 1
+    },
+    "bearings": {
+        "1.txt": 1
+    },
+    "banish": {
+        "1.txt": 1
+    },
+    "boulder": {
+        "1.txt": 3
+    },
+    "bloodstains": {
+        "1.txt": 1
+    },
+    "birthday": {
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "buck": {
+        "1.txt": 2
+    },
+    "butchering": {
+        "1.txt": 1
+    },
+    "brews": {
+        "1.txt": 1
+    },
+    "bonier": {
+        "1.txt": 1
+    },
+    "backpacks": {
+        "1.txt": 2
+    },
+    "believably": {
+        "1.txt": 1
+    },
+    "bedtime": {
+        "1.txt": 1
+    },
+    "believes": {
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "blows": {
+        "1.txt": 1
+    },
+    "blob": {
+        "1.txt": 1
+    },
+    "boost": {
+        "1.txt": 1
+    },
+    "bloated": {
+        "1.txt": 1
+    },
+    "balances": {
+        "1.txt": 1
+    },
+    "blister": {
+        "1.txt": 1
+    },
+    "blackboard": {
+        "1.txt": 1
+    },
+    "bounced": {
+        "1.txt": 1
+    },
+    "blare": {
+        "1.txt": 1
+    },
+    "beverage": {
+        "1.txt": 1
+    },
+    "brows": {
+        "1.txt": 1
+    },
+    "breasts": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "benign": {
+        "1.txt": 1
+    },
+    "bodys": {
+        "1.txt": 1
+    },
+    "bobbing": {
+        "1.txt": 1
+    },
+    "berserk": {
+        "1.txt": 1
+    },
+    "basically": {
+        "1.txt": 1
+    },
+    "bids": {
+        "1.txt": 1,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "beaming": {
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "breathy": {
+        "1.txt": 1
+    },
+    "bonum": {
+        "24.txt": 97
+    },
+    "beatis": {
+        "24.txt": 1
+    },
+    "buttresses": {
+        "24.txt": 1
+    },
+    "book_1": {
+        "24.txt": 54
+    },
+    "benefiting": {
+        "24.txt": 1
+    },
+    "bodily": {
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "boundaries": {
+        "24.txt": 2
+    },
+    "benevolent": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "benevolence": {
+        "24.txt": 2
+    },
+    "boni": {
+        "24.txt": 4,
+        "5.txt": 2
+    },
+    "bose": {
+        "24.txt": 1
+    },
+    "beforehand": {
+        "24.txt": 3
+    },
+    "befitting": {
+        "24.txt": 1
+    },
+    "badness": {
+        "24.txt": 1
+    },
+    "bridle": {
+        "24.txt": 1
+    },
+    "book_2": {
+        "24.txt": 23
+    },
+    "beneficial": {
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "behaviour": {
+        "24.txt": 1,
+        "5.txt": 3,
+        "4.txt": 1
+    },
+    "beware": {
+        "24.txt": 1,
+        "4.txt": 2
+    },
+    "burdensome": {
+        "24.txt": 1
+    },
+    "beneficence": {
+        "24.txt": 2
+    },
+    "behoof": {
+        "24.txt": 2
+    },
+    "bind": {
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "binds": {
+        "24.txt": 2
+    },
+    "biographies": {
+        "24.txt": 1
+    },
+    "boleyn": {
+        "24.txt": 1
+    },
+    "betimes": {
+        "24.txt": 1,
+        "8.txt": 3
+    },
+    "betake": {
+        "24.txt": 1
+    },
+    "bull": {
+        "24.txt": 1,
+        "4.txt": 3
+    },
+    "briefest": {
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "binary": {
+        "24.txt": 1
+    },
+    "biography": {
+        "5.txt": 1
+    },
+    "berrie": {
+        "5.txt": 1
+    },
+    "berlin": {
+        "5.txt": 4
+    },
+    "britain": {
+        "5.txt": 1
+    },
+    "bogey": {
+        "5.txt": 1
+    },
+    "billed": {
+        "5.txt": 1
+    },
+    "brussels": {
+        "5.txt": 1
+    },
+    "bergson": {
+        "5.txt": 1
+    },
+    "beneficent": {
+        "5.txt": 1
+    },
+    "berliner": {
+        "5.txt": 8
+    },
+    "babel": {
+        "5.txt": 1
+    },
+    "bestia": {
+        "5.txt": 3
+    },
+    "brandenburg": {
+        "5.txt": 1
+    },
+    "brutalization": {
+        "5.txt": 1
+    },
+    "bethink": {
+        "5.txt": 1
+    },
+    "brotherly": {
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "bond": {
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "believer": {
+        "5.txt": 1
+    },
+    "buddhism": {
+        "5.txt": 1
+    },
+    "barriers": {
+        "5.txt": 2
+    },
+    "boycott": {
+        "5.txt": 2
+    },
+    "broaden": {
+        "5.txt": 1
+    },
+    "beckon": {
+        "5.txt": 1
+    },
+    "blessings": {
+        "5.txt": 1
+    },
+    "bulwark": {
+        "5.txt": 1,
+        "8.txt": 3
+    },
+    "bauer": {
+        "5.txt": 1
+    },
+    "baleful": {
+        "5.txt": 1,
+        "8.txt": 7
+    },
+    "balkanize": {
+        "5.txt": 1
+    },
+    "breakdown": {
+        "5.txt": 1
+    },
+    "beset": {
+        "5.txt": 1,
+        "8.txt": 3
+    },
+    "bureaucracy": {
+        "5.txt": 1
+    },
+    "brethren": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "belgium": {
+        "5.txt": 2
+    },
+    "barbarization": {
+        "5.txt": 1
+    },
+    "bavarian": {
+        "5.txt": 5
+    },
+    "behaves": {
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "barometer": {
+        "5.txt": 2
+    },
+    "bidder": {
+        "5.txt": 1
+    },
+    "baptized": {
+        "5.txt": 1
+    },
+    "basely": {
+        "5.txt": 1
+    },
+    "brevity": {
+        "5.txt": 1
+    },
+    "beowulf": {
+        "8.txt": 90
+    },
+    "billow": {
+        "8.txt": 2
+    },
+    "barge": {
+        "8.txt": 1
+    },
+    "breaker": {
+        "8.txt": 5
+    },
+    "breastplate": {
+        "8.txt": 16
+    },
+    "billows": {
+        "8.txt": 13
+    },
+    "bode": {
+        "8.txt": 5
+    },
+    "burg": {
+        "8.txt": 11
+    },
+    "banquets": {
+        "8.txt": 1
+    },
+    "bowers": {
+        "8.txt": 1
+    },
+    "bale": {
+        "8.txt": 7
+    },
+    "baneful": {
+        "8.txt": 2
+    },
+    "bales": {
+        "8.txt": 2
+    },
+    "bade": {
+        "8.txt": 18,
+        "4.txt": 1
+    },
+    "bosomed": {
+        "8.txt": 2
+    },
+    "boars": {
+        "8.txt": 2
+    },
+    "boar": {
+        "8.txt": 7,
+        "4.txt": 1
+    },
+    "bucklers": {
+        "8.txt": 2
+    },
+    "breastplates": {
+        "8.txt": 2
+    },
+    "bespake": {
+        "8.txt": 1
+    },
+    "boon": {
+        "8.txt": 6
+    },
+    "buckler": {
+        "8.txt": 1
+    },
+    "bugge": {
+        "8.txt": 2
+    },
+    "bairn": {
+        "8.txt": 24
+    },
+    "besprinkled": {
+        "8.txt": 1
+    },
+    "blithe": {
+        "8.txt": 8
+    },
+    "breca": {
+        "8.txt": 4
+    },
+    "battling": {
+        "8.txt": 3
+    },
+    "brondings": {
+        "8.txt": 1
+    },
+    "beanstan": {
+        "8.txt": 1
+    },
+    "booty": {
+        "8.txt": 10
+    },
+    "beacon": {
+        "8.txt": 2
+    },
+    "bane": {
+        "8.txt": 1
+    },
+    "beaker": {
+        "8.txt": 5
+    },
+    "bidest": {
+        "8.txt": 1
+    },
+    "blatant": {
+        "8.txt": 1
+    },
+    "bethought": {
+        "8.txt": 1
+    },
+    "brandished": {
+        "8.txt": 4
+    },
+    "baffled": {
+        "8.txt": 1
+    },
+    "befell": {
+        "8.txt": 2
+    },
+    "banished": {
+        "8.txt": 2
+    },
+    "bower": {
+        "8.txt": 2
+    },
+    "broidered": {
+        "8.txt": 2
+    },
+    "briny": {
+        "8.txt": 4
+    },
+    "bewailed": {
+        "8.txt": 1
+    },
+    "bemoan": {
+        "8.txt": 1
+    },
+    "balefire": {
+        "8.txt": 6
+    },
+    "brands": {
+        "8.txt": 5
+    },
+    "bewept": {
+        "8.txt": 1
+    },
+    "brightened": {
+        "8.txt": 1
+    },
+    "bairns": {
+        "8.txt": 1
+    },
+    "brisings": {
+        "8.txt": 1
+    },
+    "bolsters": {
+        "8.txt": 1
+    },
+    "betwixt": {
+        "8.txt": 1
+    },
+    "bestir": {
+        "8.txt": 1
+    },
+    "beseems": {
+        "8.txt": 1
+    },
+    "bravest": {
+        "8.txt": 2
+    },
+    "bestower": {
+        "8.txt": 1
+    },
+    "biding": {
+        "8.txt": 1
+    },
+    "ballads": {
+        "8.txt": 1
+    },
+    "blazoned": {
+        "8.txt": 1
+    },
+    "bygone": {
+        "8.txt": 3
+    },
+    "bracelets": {
+        "8.txt": 1
+    },
+    "behest": {
+        "8.txt": 1
+    },
+    "boded": {
+        "8.txt": 1
+    },
+    "blameless": {
+        "8.txt": 1
+    },
+    "boarding": {
+        "8.txt": 1
+    },
+    "bringer": {
+        "8.txt": 1
+    },
+    "besought": {
+        "8.txt": 1
+    },
+    "brighten": {
+        "8.txt": 1
+    },
+    "burnish": {
+        "8.txt": 1
+    },
+    "bicker": {
+        "8.txt": 1
+    },
+    "bearer": {
+        "8.txt": 2
+    },
+    "burgstead": {
+        "8.txt": 1
+    },
+    "barrows": {
+        "8.txt": 1
+    },
+    "belched": {
+        "8.txt": 1
+    },
+    "bulwarks": {
+        "8.txt": 1
+    },
+    "billowy": {
+        "8.txt": 1
+    },
+    "brooked": {
+        "8.txt": 1
+    },
+    "brawny": {
+        "8.txt": 1
+    },
+    "brooklet": {
+        "8.txt": 1
+    },
+    "bidden": {
+        "8.txt": 1
+    },
+    "bequest": {
+        "8.txt": 1
+    },
+    "beacons": {
+        "8.txt": 1
+    },
+    "baffle": {
+        "8.txt": 1
+    },
+    "bestowed": {
+        "8.txt": 1
+    },
+    "besieged": {
+        "8.txt": 1
+    },
+    "bedecked": {
+        "8.txt": 1
+    },
+    "bountiful": {
+        "8.txt": 1
+    },
+    "bier": {
+        "8.txt": 1
+    },
+    "balefires": {
+        "8.txt": 1
+    },
+    "blent": {
+        "8.txt": 1
+    },
+    "belling": {
+        "4.txt": 2
+    },
+    "buffoon": {
+        "4.txt": 3
+    },
+    "bacon": {
+        "4.txt": 2
+    },
+    "bill": {
+        "4.txt": 1
+    },
+    "bounding": {
+        "4.txt": 1
+    },
+    "bridled": {
+        "4.txt": 1
+    },
+    "bagpipes": {
+        "4.txt": 2
+    },
+    "bystanders": {
+        "4.txt": 1
+    },
+    "brayed": {
+        "4.txt": 1
+    },
+    "bruin": {
+        "4.txt": 1
+    },
+    "brass": {
+        "4.txt": 2
+    },
+    "betide": {
+        "4.txt": 1
+    },
+    "becomingly": {
+        "4.txt": 1
+    }
+}

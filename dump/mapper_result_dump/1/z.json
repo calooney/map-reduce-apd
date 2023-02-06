@@ -1,0 +1,64 @@
+{
+    "zip": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "20.txt": 1
+    },
+    "zero": {
+        "25.txt": 4
+    },
+    "zeal": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "22.txt": 1
+    },
+    "zeno": {
+        "25.txt": 1,
+        "16.txt": 5
+    },
+    "zealous": {
+        "25.txt": 1
+    },
+    "zop": {
+        "16.txt": 1
+    },
+    "zhn": {
+        "16.txt": 2
+    },
+    "zest": {
+        "11.txt": 1
+    },
+    "zealand": {
+        "11.txt": 1
+    },
+    "zone": {
+        "11.txt": 1
+    },
+    "zoic": {
+        "20.txt": 1
+    },
+    "zebra": {
+        "20.txt": 1
+    },
+    "zebras": {
+        "20.txt": 2
+    },
+    "zipping": {
+        "20.txt": 1
+    },
+    "zipper": {
+        "20.txt": 3
+    },
+    "zhivago": {
+        "9.txt": 1
+    },
+    "zonked": {
+        "9.txt": 1
+    },
+    "zippered": {
+        "9.txt": 1
+    },
+    "zoo": {
+        "9.txt": 1
+    }
+}

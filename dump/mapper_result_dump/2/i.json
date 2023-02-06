@@ -1,0 +1,3168 @@
+{
+    "in": {
+        "19.txt": 3645,
+        "1.txt": 1489,
+        "24.txt": 1533,
+        "5.txt": 751,
+        "8.txt": 489,
+        "4.txt": 146
+    },
+    "is": {
+        "19.txt": 1070,
+        "1.txt": 685,
+        "24.txt": 1479,
+        "5.txt": 502,
+        "8.txt": 120,
+        "4.txt": 60
+    },
+    "it": {
+        "19.txt": 3015,
+        "1.txt": 1016,
+        "24.txt": 1131,
+        "5.txt": 345,
+        "8.txt": 147,
+        "4.txt": 139
+    },
+    "interwoven": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "intellectuals": {
+        "19.txt": 5,
+        "5.txt": 2
+    },
+    "irrational": {
+        "19.txt": 3
+    },
+    "inquisition": {
+        "19.txt": 1
+    },
+    "idyll": {
+        "19.txt": 1
+    },
+    "impact": {
+        "19.txt": 1,
+        "1.txt": 3
+    },
+    "ice": {
+        "19.txt": 13,
+        "1.txt": 3,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "into": {
+        "19.txt": 524,
+        "1.txt": 306,
+        "24.txt": 85,
+        "5.txt": 34,
+        "8.txt": 10,
+        "4.txt": 36
+    },
+    "inc": {
+        "19.txt": 5
+    },
+    "its": {
+        "19.txt": 414,
+        "1.txt": 478,
+        "24.txt": 326,
+        "5.txt": 96,
+        "8.txt": 54,
+        "4.txt": 39
+    },
+    "interested": {
+        "19.txt": 9,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "italian": {
+        "19.txt": 3,
+        "5.txt": 2
+    },
+    "important": {
+        "19.txt": 35,
+        "1.txt": 5,
+        "24.txt": 9,
+        "5.txt": 20,
+        "4.txt": 1
+    },
+    "italy": {
+        "19.txt": 2,
+        "5.txt": 6
+    },
+    "information": {
+        "19.txt": 7,
+        "1.txt": 5,
+        "24.txt": 6,
+        "5.txt": 3
+    },
+    "ivanovna": {
+        "19.txt": 36
+    },
+    "ironmaster": {
+        "19.txt": 2
+    },
+    "ivan": {
+        "19.txt": 14
+    },
+    "ippolitovich": {
+        "19.txt": 16
+    },
+    "industrialist": {
+        "19.txt": 3
+    },
+    "innokentii": {
+        "19.txt": 6
+    },
+    "i": {
+        "19.txt": 2449,
+        "1.txt": 3786,
+        "24.txt": 207,
+        "5.txt": 255,
+        "8.txt": 182,
+        "4.txt": 120
+    },
+    "isn": {
+        "19.txt": 115,
+        "4.txt": 1
+    },
+    "irretrievable": {
+        "19.txt": 1
+    },
+    "insensibility": {
+        "19.txt": 1
+    },
+    "induced": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "impression": {
+        "19.txt": 16,
+        "1.txt": 9,
+        "24.txt": 5,
+        "5.txt": 5
+    },
+    "intended": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "24.txt": 6,
+        "5.txt": 2
+    },
+    "if": {
+        "19.txt": 549,
+        "1.txt": 407,
+        "24.txt": 243,
+        "5.txt": 80,
+        "8.txt": 36,
+        "4.txt": 19
+    },
+    "intercession": {
+        "19.txt": 1
+    },
+    "impress": {
+        "19.txt": 5
+    },
+    "impulse": {
+        "19.txt": 5,
+        "1.txt": 6,
+        "24.txt": 4
+    },
+    "irbit": {
+        "19.txt": 1
+    },
+    "ivanovich": {
+        "19.txt": 11
+    },
+    "innate": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "inveterate": {
+        "19.txt": 3
+    },
+    "idler": {
+        "19.txt": 1
+    },
+    "increasingly": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "ideas": {
+        "19.txt": 35,
+        "24.txt": 47,
+        "5.txt": 9
+    },
+    "ideological": {
+        "19.txt": 2
+    },
+    "idealism": {
+        "19.txt": 2
+    },
+    "idea": {
+        "19.txt": 60,
+        "1.txt": 41,
+        "24.txt": 50,
+        "5.txt": 8,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "inspired": {
+        "19.txt": 9,
+        "5.txt": 2
+    },
+    "illiterate": {
+        "19.txt": 4
+    },
+    "insert": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "4.txt": 1
+    },
+    "intervals": {
+        "19.txt": 13
+    },
+    "individuals": {
+        "19.txt": 3,
+        "5.txt": 14
+    },
+    "indeed": {
+        "19.txt": 17,
+        "24.txt": 47,
+        "5.txt": 5,
+        "8.txt": 8,
+        "4.txt": 1
+    },
+    "immortality": {
+        "19.txt": 5,
+        "24.txt": 17,
+        "5.txt": 1
+    },
+    "instance": {
+        "19.txt": 15,
+        "1.txt": 2,
+        "24.txt": 12,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "infinity": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "itself": {
+        "19.txt": 43,
+        "1.txt": 13,
+        "24.txt": 182,
+        "5.txt": 21,
+        "8.txt": 2,
+        "4.txt": 5
+    },
+    "ideals": {
+        "19.txt": 4,
+        "5.txt": 8
+    },
+    "imagined": {
+        "19.txt": 19,
+        "1.txt": 3,
+        "24.txt": 3
+    },
+    "illustrated": {
+        "19.txt": 1,
+        "5.txt": 2
+    },
+    "intoxicated": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "interrelated": {
+        "19.txt": 1
+    },
+    "improve": {
+        "19.txt": 6,
+        "5.txt": 1
+    },
+    "impotent": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "inevitable": {
+        "19.txt": 6,
+        "24.txt": 9,
+        "5.txt": 3
+    },
+    "inexplicably": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "insisted": {
+        "19.txt": 10,
+        "1.txt": 2,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "inspection": {
+        "19.txt": 5
+    },
+    "illness": {
+        "19.txt": 11,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "incessantly": {
+        "19.txt": 3
+    },
+    "imitating": {
+        "19.txt": 5,
+        "24.txt": 1,
+        "4.txt": 1
+    },
+    "insane": {
+        "19.txt": 8,
+        "1.txt": 3
+    },
+    "intensity": {
+        "19.txt": 3,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "immobility": {
+        "19.txt": 2
+    },
+    "infatuated": {
+        "19.txt": 4
+    },
+    "impossibly": {
+        "19.txt": 1
+    },
+    "inochek": {
+        "19.txt": 1
+    },
+    "indignant": {
+        "19.txt": 6
+    },
+    "indifference": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "inner": {
+        "19.txt": 9,
+        "1.txt": 1,
+        "24.txt": 8,
+        "5.txt": 4,
+        "4.txt": 1
+    },
+    "indignation": {
+        "19.txt": 3,
+        "5.txt": 2
+    },
+    "improbable": {
+        "19.txt": 3,
+        "24.txt": 1
+    },
+    "idle": {
+        "19.txt": 8,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "impatiently": {
+        "19.txt": 5
+    },
+    "imagination": {
+        "19.txt": 15,
+        "24.txt": 8,
+        "5.txt": 2
+    },
+    "invited": {
+        "19.txt": 5,
+        "4.txt": 1
+    },
+    "imperceptible": {
+        "19.txt": 1
+    },
+    "inside": {
+        "19.txt": 68,
+        "1.txt": 27,
+        "4.txt": 1
+    },
+    "industrial": {
+        "19.txt": 4,
+        "5.txt": 4
+    },
+    "iron": {
+        "19.txt": 29,
+        "1.txt": 1,
+        "8.txt": 17,
+        "4.txt": 2
+    },
+    "ignominy": {
+        "19.txt": 2
+    },
+    "impertinence": {
+        "19.txt": 2
+    },
+    "inciting": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "ignorant": {
+        "19.txt": 7,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "imitations": {
+        "19.txt": 1
+    },
+    "innumerable": {
+        "19.txt": 7,
+        "5.txt": 2
+    },
+    "invitation": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "impromptu": {
+        "19.txt": 2
+    },
+    "interruptions": {
+        "19.txt": 3
+    },
+    "impatience": {
+        "19.txt": 3
+    },
+    "individual": {
+        "19.txt": 10,
+        "1.txt": 1,
+        "24.txt": 4,
+        "5.txt": 56
+    },
+    "immemorial": {
+        "19.txt": 2
+    },
+    "irregular": {
+        "19.txt": 2,
+        "8.txt": 1,
+        "4.txt": 1
+    },
+    "ineptly": {
+        "19.txt": 1
+    },
+    "instinct": {
+        "19.txt": 4,
+        "1.txt": 3,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "intelligent": {
+        "19.txt": 9,
+        "24.txt": 2,
+        "5.txt": 3
+    },
+    "intruding": {
+        "19.txt": 3
+    },
+    "inward": {
+        "19.txt": 7,
+        "24.txt": 6,
+        "5.txt": 1
+    },
+    "irresistible": {
+        "19.txt": 5,
+        "24.txt": 1,
+        "5.txt": 3
+    },
+    "immortal": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "intimate": {
+        "19.txt": 4,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "impressing": {
+        "19.txt": 1
+    },
+    "incident": {
+        "19.txt": 8,
+        "1.txt": 3
+    },
+    "insufferably": {
+        "19.txt": 1
+    },
+    "intestinal": {
+        "19.txt": 1
+    },
+    "inhabitants": {
+        "19.txt": 3,
+        "5.txt": 3
+    },
+    "illarionovich": {
+        "19.txt": 1
+    },
+    "innocence": {
+        "19.txt": 5
+    },
+    "instead": {
+        "19.txt": 27,
+        "1.txt": 28,
+        "24.txt": 13,
+        "5.txt": 6,
+        "4.txt": 3
+    },
+    "infect": {
+        "19.txt": 2
+    },
+    "inescapable": {
+        "19.txt": 2
+    },
+    "intrusion": {
+        "19.txt": 2
+    },
+    "imitate": {
+        "19.txt": 1
+    },
+    "infatuation": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "ignoble": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "interest": {
+        "19.txt": 10,
+        "1.txt": 3,
+        "24.txt": 45,
+        "5.txt": 9
+    },
+    "influence": {
+        "19.txt": 13,
+        "24.txt": 24,
+        "5.txt": 15
+    },
+    "introduced": {
+        "19.txt": 6,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "inconsolable": {
+        "19.txt": 1
+    },
+    "ingratitude": {
+        "19.txt": 1
+    },
+    "insolently": {
+        "19.txt": 1
+    },
+    "impossible": {
+        "19.txt": 22,
+        "1.txt": 8,
+        "24.txt": 37,
+        "5.txt": 9,
+        "4.txt": 1
+    },
+    "indian": {
+        "19.txt": 3
+    },
+    "interval": {
+        "19.txt": 7
+    },
+    "imagine": {
+        "19.txt": 23,
+        "1.txt": 21,
+        "24.txt": 4,
+        "5.txt": 3
+    },
+    "interrupted": {
+        "19.txt": 12
+    },
+    "increased": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 3
+    },
+    "iodine": {
+        "19.txt": 4,
+        "1.txt": 3
+    },
+    "indecent": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "intently": {
+        "19.txt": 3
+    },
+    "ineffably": {
+        "19.txt": 1
+    },
+    "inclinations": {
+        "19.txt": 1,
+        "24.txt": 43
+    },
+    "impressionable": {
+        "19.txt": 1
+    },
+    "injections": {
+        "19.txt": 1
+    },
+    "indulgent": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "immature": {
+        "19.txt": 2
+    },
+    "interpretation": {
+        "19.txt": 2
+    },
+    "influenced": {
+        "19.txt": 4
+    },
+    "indicate": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 3,
+        "5.txt": 2
+    },
+    "indications": {
+        "19.txt": 1
+    },
+    "immense": {
+        "19.txt": 8,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "identical": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 8
+    },
+    "insomnia": {
+        "19.txt": 4
+    },
+    "identity": {
+        "19.txt": 8,
+        "1.txt": 2,
+        "24.txt": 7,
+        "5.txt": 1
+    },
+    "incantations": {
+        "19.txt": 1
+    },
+    "impenetrable": {
+        "19.txt": 7,
+        "24.txt": 1
+    },
+    "imaginary": {
+        "19.txt": 5,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "immediately": {
+        "19.txt": 10,
+        "1.txt": 18,
+        "24.txt": 11,
+        "5.txt": 4,
+        "4.txt": 3
+    },
+    "island": {
+        "19.txt": 4,
+        "24.txt": 1
+    },
+    "importantly": {
+        "19.txt": 2
+    },
+    "indignantly": {
+        "19.txt": 3
+    },
+    "infinite": {
+        "19.txt": 1,
+        "24.txt": 11,
+        "5.txt": 2
+    },
+    "independently": {
+        "19.txt": 1,
+        "24.txt": 8,
+        "5.txt": 1
+    },
+    "irritated": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "independent": {
+        "19.txt": 7,
+        "24.txt": 24,
+        "5.txt": 10
+    },
+    "independence": {
+        "19.txt": 2,
+        "24.txt": 14,
+        "5.txt": 6
+    },
+    "icicles": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "inexperienced": {
+        "19.txt": 2
+    },
+    "incompleteness": {
+        "19.txt": 1
+    },
+    "imperceptibly": {
+        "19.txt": 1
+    },
+    "imagery": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "inaccessible": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "icy": {
+        "19.txt": 7,
+        "1.txt": 9,
+        "8.txt": 1
+    },
+    "il": {
+        "19.txt": 1
+    },
+    "ices": {
+        "19.txt": 1
+    },
+    "irritably": {
+        "19.txt": 1
+    },
+    "included": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "24.txt": 8,
+        "5.txt": 2
+    },
+    "interesting": {
+        "19.txt": 8,
+        "1.txt": 5
+    },
+    "imagining": {
+        "19.txt": 5,
+        "1.txt": 3,
+        "24.txt": 1
+    },
+    "indisputable": {
+        "19.txt": 2
+    },
+    "image": {
+        "19.txt": 15,
+        "1.txt": 4,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "inaccessibly": {
+        "19.txt": 2
+    },
+    "icons": {
+        "19.txt": 1
+    },
+    "irresistibly": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "include": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 7
+    },
+    "incidents": {
+        "19.txt": 4
+    },
+    "irreparably": {
+        "19.txt": 1
+    },
+    "inspector": {
+        "19.txt": 2
+    },
+    "impersonating": {
+        "19.txt": 1
+    },
+    "ill": {
+        "19.txt": 18,
+        "1.txt": 110,
+        "24.txt": 5,
+        "5.txt": 1,
+        "8.txt": 7
+    },
+    "incredible": {
+        "19.txt": 5,
+        "1.txt": 1
+    },
+    "intimidated": {
+        "19.txt": 2
+    },
+    "international": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "5.txt": 54
+    },
+    "invented": {
+        "19.txt": 3,
+        "24.txt": 1
+    },
+    "intention": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 5,
+        "5.txt": 2
+    },
+    "impersonate": {
+        "19.txt": 1
+    },
+    "ira": {
+        "19.txt": 3
+    },
+    "intending": {
+        "19.txt": 2
+    },
+    "intervention": {
+        "19.txt": 1
+    },
+    "inquiries": {
+        "19.txt": 6,
+        "24.txt": 5
+    },
+    "inadequate": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "5.txt": 2
+    },
+    "infuriated": {
+        "19.txt": 1
+    },
+    "including": {
+        "19.txt": 17,
+        "24.txt": 11
+    },
+    "immigrant": {
+        "19.txt": 1
+    },
+    "impressed": {
+        "19.txt": 4,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "interests": {
+        "19.txt": 5,
+        "5.txt": 17
+    },
+    "intelligentsia": {
+        "19.txt": 4
+    },
+    "incorrigible": {
+        "19.txt": 1
+    },
+    "ignorance": {
+        "19.txt": 5,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "informed": {
+        "19.txt": 8
+    },
+    "innocent": {
+        "19.txt": 5,
+        "1.txt": 4,
+        "24.txt": 2,
+        "5.txt": 1,
+        "8.txt": 2
+    },
+    "interned": {
+        "19.txt": 1
+    },
+    "iodoform": {
+        "19.txt": 1
+    },
+    "inch": {
+        "19.txt": 4,
+        "1.txt": 5
+    },
+    "indebted": {
+        "19.txt": 2
+    },
+    "invalids": {
+        "19.txt": 1
+    },
+    "instructors": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "impassable": {
+        "19.txt": 3,
+        "24.txt": 1
+    },
+    "incessant": {
+        "19.txt": 6
+    },
+    "immorality": {
+        "19.txt": 1
+    },
+    "inhuman": {
+        "19.txt": 6,
+        "4.txt": 1
+    },
+    "immoral": {
+        "19.txt": 2
+    },
+    "indistinguishable": {
+        "19.txt": 6
+    },
+    "inconceivable": {
+        "19.txt": 5,
+        "5.txt": 2
+    },
+    "instruments": {
+        "19.txt": 2,
+        "4.txt": 1
+    },
+    "intact": {
+        "19.txt": 7,
+        "1.txt": 1
+    },
+    "insults": {
+        "19.txt": 3
+    },
+    "inability": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "imperial": {
+        "19.txt": 2
+    },
+    "inspected": {
+        "19.txt": 2
+    },
+    "imprison": {
+        "19.txt": 1
+    },
+    "illyrians": {
+        "19.txt": 1
+    },
+    "incontinence": {
+        "19.txt": 1
+    },
+    "intellectual": {
+        "19.txt": 4,
+        "24.txt": 18,
+        "5.txt": 29
+    },
+    "ironical": {
+        "19.txt": 2
+    },
+    "idiot": {
+        "19.txt": 5,
+        "1.txt": 1
+    },
+    "interior": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "imminent": {
+        "19.txt": 2
+    },
+    "intermittently": {
+        "19.txt": 1
+    },
+    "insurgents": {
+        "19.txt": 3
+    },
+    "ink": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "instructor": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "infantry": {
+        "19.txt": 2
+    },
+    "inspiration": {
+        "19.txt": 7,
+        "5.txt": 2
+    },
+    "illusions": {
+        "19.txt": 1
+    },
+    "instituted": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "ironic": {
+        "19.txt": 1,
+        "1.txt": 2
+    },
+    "introducing": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "intonation": {
+        "19.txt": 1
+    },
+    "interfere": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "inarticulate": {
+        "19.txt": 2
+    },
+    "invisible": {
+        "19.txt": 6,
+        "1.txt": 2,
+        "24.txt": 2
+    },
+    "indiscriminately": {
+        "19.txt": 1
+    },
+    "instigators": {
+        "19.txt": 1
+    },
+    "ironing": {
+        "19.txt": 8
+    },
+    "irons": {
+        "19.txt": 2
+    },
+    "industrious": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "instructions": {
+        "19.txt": 7,
+        "1.txt": 8,
+        "5.txt": 1
+    },
+    "inventory": {
+        "19.txt": 3,
+        "1.txt": 1
+    },
+    "indirectly": {
+        "19.txt": 4,
+        "24.txt": 4,
+        "5.txt": 6
+    },
+    "involved": {
+        "19.txt": 4,
+        "24.txt": 5,
+        "5.txt": 4
+    },
+    "intentions": {
+        "19.txt": 3,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "initials": {
+        "19.txt": 2
+    },
+    "infantrymen": {
+        "19.txt": 1
+    },
+    "irresponsible": {
+        "19.txt": 3
+    },
+    "infiltrator": {
+        "19.txt": 1
+    },
+    "impelled": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "incoherent": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "instrument": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "instant": {
+        "19.txt": 3,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "inexplicable": {
+        "19.txt": 3,
+        "1.txt": 1,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "isolated": {
+        "19.txt": 3,
+        "5.txt": 4
+    },
+    "impatient": {
+        "19.txt": 4,
+        "1.txt": 1
+    },
+    "ineluctable": {
+        "19.txt": 1
+    },
+    "idealized": {
+        "19.txt": 1
+    },
+    "inconsistent": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "indulging": {
+        "19.txt": 1
+    },
+    "incorregible": {
+        "19.txt": 1
+    },
+    "indiscreet": {
+        "19.txt": 2
+    },
+    "imperturbable": {
+        "19.txt": 1
+    },
+    "inwardly": {
+        "19.txt": 4,
+        "24.txt": 1
+    },
+    "interruption": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "intersections": {
+        "19.txt": 5
+    },
+    "interrupting": {
+        "19.txt": 4
+    },
+    "invite": {
+        "19.txt": 2,
+        "1.txt": 2
+    },
+    "impassively": {
+        "19.txt": 1
+    },
+    "inseparable": {
+        "19.txt": 3,
+        "24.txt": 3
+    },
+    "idleness": {
+        "19.txt": 1
+    },
+    "indulge": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "investigated": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "impulsively": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "interrupt": {
+        "19.txt": 7
+    },
+    "initial": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "idol": {
+        "19.txt": 1,
+        "5.txt": 1,
+        "4.txt": 2
+    },
+    "intimately": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "inspiring": {
+        "19.txt": 2,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "insistent": {
+        "19.txt": 1
+    },
+    "incredibly": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "intersection": {
+        "19.txt": 4
+    },
+    "impetuously": {
+        "19.txt": 1
+    },
+    "increasing": {
+        "19.txt": 3,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "inadvertently": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "islands": {
+        "19.txt": 1
+    },
+    "inordinate": {
+        "19.txt": 2
+    },
+    "importance": {
+        "19.txt": 4,
+        "1.txt": 2,
+        "24.txt": 9,
+        "5.txt": 8
+    },
+    "institution": {
+        "19.txt": 1,
+        "5.txt": 4,
+        "8.txt": 1
+    },
+    "injustice": {
+        "19.txt": 2,
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 3
+    },
+    "incompatible": {
+        "19.txt": 1
+    },
+    "invested": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "intimidation": {
+        "19.txt": 1
+    },
+    "imposing": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "improvised": {
+        "19.txt": 1
+    },
+    "impending": {
+        "19.txt": 2
+    },
+    "investment": {
+        "19.txt": 1
+    },
+    "inflation": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "introductory": {
+        "19.txt": 1
+    },
+    "illegal": {
+        "19.txt": 5,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "iul": {
+        "19.txt": 1
+    },
+    "identify": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "intervening": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "incarnation": {
+        "19.txt": 1
+    },
+    "interfered": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "insist": {
+        "19.txt": 3,
+        "1.txt": 4,
+        "24.txt": 1,
+        "5.txt": 4
+    },
+    "incongruously": {
+        "19.txt": 1
+    },
+    "items": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "24.txt": 1
+    },
+    "incurably": {
+        "19.txt": 2
+    },
+    "includes": {
+        "19.txt": 3,
+        "24.txt": 4,
+        "5.txt": 1
+    },
+    "influential": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "illegally": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "inspecting": {
+        "19.txt": 1
+    },
+    "ironmonger": {
+        "19.txt": 1
+    },
+    "issued": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "insulting": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "inexorable": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "ignore": {
+        "19.txt": 2,
+        "1.txt": 11,
+        "24.txt": 1
+    },
+    "illusion": {
+        "19.txt": 3,
+        "1.txt": 3,
+        "24.txt": 12,
+        "5.txt": 2
+    },
+    "infested": {
+        "19.txt": 1
+    },
+    "informers": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "iridescent": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "imprinted": {
+        "19.txt": 1
+    },
+    "infinitely": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "24.txt": 3,
+        "5.txt": 2
+    },
+    "intelligible": {
+        "19.txt": 1,
+        "24.txt": 24,
+        "5.txt": 1
+    },
+    "imposed": {
+        "19.txt": 4,
+        "24.txt": 1
+    },
+    "insubstantial": {
+        "19.txt": 1
+    },
+    "inflammation": {
+        "19.txt": 1
+    },
+    "indistinct": {
+        "19.txt": 2
+    },
+    "impetuous": {
+        "19.txt": 1
+    },
+    "imitation": {
+        "19.txt": 4,
+        "24.txt": 3,
+        "4.txt": 2
+    },
+    "imitated": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "interventions": {
+        "19.txt": 1
+    },
+    "immediate": {
+        "19.txt": 6,
+        "1.txt": 3,
+        "24.txt": 10,
+        "5.txt": 7,
+        "8.txt": 1
+    },
+    "intelligence": {
+        "19.txt": 2,
+        "24.txt": 16,
+        "5.txt": 5,
+        "4.txt": 1
+    },
+    "insight": {
+        "19.txt": 1,
+        "24.txt": 9,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "irony": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "invalid": {
+        "19.txt": 2
+    },
+    "issue": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 4,
+        "8.txt": 1
+    },
+    "infiltrate": {
+        "19.txt": 1
+    },
+    "introduce": {
+        "19.txt": 1,
+        "24.txt": 4,
+        "5.txt": 1
+    },
+    "imported": {
+        "19.txt": 1
+    },
+    "inn": {
+        "19.txt": 6
+    },
+    "inscription": {
+        "19.txt": 3
+    },
+    "investments": {
+        "19.txt": 1
+    },
+    "infallibility": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "idyllic": {
+        "19.txt": 1
+    },
+    "institute": {
+        "19.txt": 6,
+        "5.txt": 7
+    },
+    "indoctrinated": {
+        "19.txt": 1
+    },
+    "ing\u00e9nue": {
+        "19.txt": 1
+    },
+    "indestructible": {
+        "19.txt": 1
+    },
+    "idioms": {
+        "19.txt": 1
+    },
+    "invention": {
+        "19.txt": 1
+    },
+    "imposition": {
+        "19.txt": 1
+    },
+    "incomplete": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "integral": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "initiated": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "images": {
+        "19.txt": 5,
+        "1.txt": 4,
+        "8.txt": 1
+    },
+    "inverted": {
+        "19.txt": 1
+    },
+    "intuitions": {
+        "19.txt": 1,
+        "24.txt": 12
+    },
+    "inanimate": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "immaculate": {
+        "19.txt": 5
+    },
+    "isolation": {
+        "19.txt": 2,
+        "5.txt": 2
+    },
+    "irrelevant": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "ingredients": {
+        "19.txt": 1
+    },
+    "inherited": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "ignored": {
+        "19.txt": 2,
+        "1.txt": 4
+    },
+    "inkwell": {
+        "19.txt": 3
+    },
+    "intonations": {
+        "19.txt": 1
+    },
+    "implied": {
+        "19.txt": 1,
+        "24.txt": 7
+    },
+    "ideal": {
+        "19.txt": 4,
+        "1.txt": 1,
+        "24.txt": 5,
+        "5.txt": 7
+    },
+    "imploring": {
+        "19.txt": 1
+    },
+    "industry": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "5.txt": 16
+    },
+    "instantly": {
+        "19.txt": 2,
+        "1.txt": 4,
+        "24.txt": 1
+    },
+    "incompetent": {
+        "19.txt": 2,
+        "1.txt": 3,
+        "24.txt": 1
+    },
+    "ignoring": {
+        "19.txt": 3,
+        "1.txt": 2
+    },
+    "intangible": {
+        "19.txt": 2
+    },
+    "issues": {
+        "19.txt": 3,
+        "5.txt": 2
+    },
+    "incidentally": {
+        "19.txt": 2,
+        "5.txt": 1
+    },
+    "insincerity": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "idolatry": {
+        "19.txt": 1
+    },
+    "incapable": {
+        "19.txt": 3,
+        "24.txt": 8,
+        "5.txt": 1
+    },
+    "irritating": {
+        "19.txt": 1
+    },
+    "incognito": {
+        "19.txt": 1
+    },
+    "immortalize": {
+        "19.txt": 1
+    },
+    "involvement": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "icon": {
+        "19.txt": 4
+    },
+    "interaction": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "5.txt": 1
+    },
+    "idols": {
+        "19.txt": 1,
+        "4.txt": 1
+    },
+    "insolence": {
+        "19.txt": 2
+    },
+    "insurgent": {
+        "19.txt": 2
+    },
+    "impertinent": {
+        "19.txt": 2
+    },
+    "incorrectly": {
+        "19.txt": 2
+    },
+    "institutions": {
+        "19.txt": 2,
+        "5.txt": 7
+    },
+    "insides": {
+        "19.txt": 1,
+        "1.txt": 5
+    },
+    "incurable": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "ills": {
+        "19.txt": 1,
+        "5.txt": 2,
+        "8.txt": 4
+    },
+    "infectious": {
+        "19.txt": 3
+    },
+    "increase": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 3,
+        "5.txt": 3
+    },
+    "inkstand": {
+        "19.txt": 1
+    },
+    "irksome": {
+        "19.txt": 2,
+        "24.txt": 1
+    },
+    "insignificance": {
+        "19.txt": 2
+    },
+    "irregularities": {
+        "19.txt": 1
+    },
+    "inactively": {
+        "19.txt": 1
+    },
+    "improving": {
+        "19.txt": 2,
+        "5.txt": 2
+    },
+    "imperialist": {
+        "19.txt": 1
+    },
+    "interrogation": {
+        "19.txt": 1
+    },
+    "internal": {
+        "19.txt": 1,
+        "24.txt": 17,
+        "5.txt": 4
+    },
+    "injury": {
+        "19.txt": 1,
+        "1.txt": 6,
+        "24.txt": 1,
+        "5.txt": 1,
+        "4.txt": 1
+    },
+    "improvement": {
+        "19.txt": 2,
+        "1.txt": 7,
+        "24.txt": 3,
+        "5.txt": 3
+    },
+    "imagines": {
+        "19.txt": 1
+    },
+    "illnesses": {
+        "19.txt": 1
+    },
+    "insanity": {
+        "19.txt": 3
+    },
+    "ignatodvortsy": {
+        "19.txt": 1
+    },
+    "impressionist": {
+        "19.txt": 1
+    },
+    "instincts": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "5.txt": 1
+    },
+    "illicit": {
+        "19.txt": 1
+    },
+    "inaudible": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "inhumanity": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "intimacy": {
+        "19.txt": 3
+    },
+    "imprisonment": {
+        "19.txt": 1
+    },
+    "indescribable": {
+        "19.txt": 1
+    },
+    "indelibly": {
+        "19.txt": 1
+    },
+    "inactive": {
+        "19.txt": 1
+    },
+    "imaginable": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "improvising": {
+        "19.txt": 1
+    },
+    "intolerable": {
+        "19.txt": 2,
+        "5.txt": 3
+    },
+    "idolized": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "intense": {
+        "19.txt": 1
+    },
+    "investigating": {
+        "19.txt": 1
+    },
+    "iced": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "impossibility": {
+        "19.txt": 1,
+        "24.txt": 6
+    },
+    "interventionists": {
+        "19.txt": 1
+    },
+    "immobilized": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "involuntary": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "impractical": {
+        "19.txt": 1
+    },
+    "inactivity": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "irrelevance": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "investigations": {
+        "19.txt": 1,
+        "24.txt": 3
+    },
+    "informing": {
+        "19.txt": 1
+    },
+    "indifferent": {
+        "19.txt": 2,
+        "1.txt": 2,
+        "24.txt": 3,
+        "5.txt": 1
+    },
+    "incomparable": {
+        "19.txt": 1
+    },
+    "incandescent": {
+        "19.txt": 1
+    },
+    "illegible": {
+        "19.txt": 2,
+        "8.txt": 1
+    },
+    "insolent": {
+        "19.txt": 2
+    },
+    "infection": {
+        "19.txt": 1,
+        "1.txt": 7
+    },
+    "inimitable": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "integrity": {
+        "19.txt": 3,
+        "24.txt": 2
+    },
+    "informal": {
+        "19.txt": 2
+    },
+    "invaluable": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "inexperience": {
+        "19.txt": 1
+    },
+    "inferiors": {
+        "19.txt": 2
+    },
+    "insanely": {
+        "19.txt": 2
+    },
+    "irrationally": {
+        "19.txt": 1
+    },
+    "immeasurable": {
+        "19.txt": 1
+    },
+    "infected": {
+        "19.txt": 2
+    },
+    "idiotically": {
+        "19.txt": 1
+    },
+    "immensely": {
+        "19.txt": 1
+    },
+    "intuition": {
+        "19.txt": 2,
+        "24.txt": 51
+    },
+    "intrigues": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "israelites": {
+        "19.txt": 1
+    },
+    "incorrupt": {
+        "19.txt": 1
+    },
+    "interpreted": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "insignificant": {
+        "19.txt": 1,
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "individuality": {
+        "19.txt": 3,
+        "5.txt": 1
+    },
+    "infirmities": {
+        "19.txt": 1
+    },
+    "inconsequential": {
+        "19.txt": 1
+    },
+    "interpret": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "inflicting": {
+        "19.txt": 1
+    },
+    "involuntarily": {
+        "19.txt": 2
+    },
+    "insists": {
+        "19.txt": 1,
+        "1.txt": 3,
+        "24.txt": 1
+    },
+    "implored": {
+        "19.txt": 3,
+        "8.txt": 1
+    },
+    "immobile": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "impulsive": {
+        "19.txt": 1
+    },
+    "insult": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "4.txt": 1
+    },
+    "intractable": {
+        "19.txt": 1
+    },
+    "introduction": {
+        "19.txt": 3,
+        "24.txt": 2,
+        "5.txt": 5
+    },
+    "industrialists": {
+        "19.txt": 1
+    },
+    "intend": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "insistence": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "interminable": {
+        "19.txt": 1
+    },
+    "inhospitable": {
+        "19.txt": 1
+    },
+    "izot": {
+        "19.txt": 1
+    },
+    "inspire": {
+        "19.txt": 1,
+        "24.txt": 2
+    },
+    "intruder": {
+        "19.txt": 1
+    },
+    "itched": {
+        "19.txt": 1
+    },
+    "inexpressible": {
+        "19.txt": 1
+    },
+    "impetuousness": {
+        "19.txt": 1
+    },
+    "insufficiently": {
+        "19.txt": 1
+    },
+    "inevitably": {
+        "19.txt": 1,
+        "24.txt": 19,
+        "5.txt": 6
+    },
+    "improved": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "inherent": {
+        "19.txt": 1
+    },
+    "incoherently": {
+        "19.txt": 2
+    },
+    "interjecting": {
+        "19.txt": 1
+    },
+    "inexhaustible": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "imponderable": {
+        "19.txt": 1
+    },
+    "imprint": {
+        "19.txt": 1
+    },
+    "invisibly": {
+        "19.txt": 1
+    },
+    "illustration": {
+        "19.txt": 1,
+        "8.txt": 1
+    },
+    "irrevocable": {
+        "19.txt": 1
+    },
+    "impostor": {
+        "19.txt": 1
+    },
+    "invent": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "impunity": {
+        "19.txt": 2
+    },
+    "insulted": {
+        "19.txt": 1
+    },
+    "involve": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "implicated": {
+        "19.txt": 1
+    },
+    "indictment": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "indigestible": {
+        "19.txt": 1
+    },
+    "institutes": {
+        "19.txt": 1,
+        "5.txt": 1
+    },
+    "insultingly": {
+        "19.txt": 1
+    },
+    "intelligently": {
+        "19.txt": 1
+    },
+    "idealize": {
+        "19.txt": 1
+    },
+    "idiotic": {
+        "19.txt": 1
+    },
+    "inertia": {
+        "19.txt": 1
+    },
+    "impermissible": {
+        "19.txt": 1
+    },
+    "inexcusable": {
+        "19.txt": 1
+    },
+    "indefinitely": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "24.txt": 3
+    },
+    "inclined": {
+        "19.txt": 1,
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "incongruous": {
+        "19.txt": 1
+    },
+    "impressions": {
+        "19.txt": 1,
+        "5.txt": 3
+    },
+    "insulation": {
+        "19.txt": 1
+    },
+    "irreparable": {
+        "19.txt": 2,
+        "1.txt": 1
+    },
+    "irkutsk": {
+        "19.txt": 1
+    },
+    "incomprehensible": {
+        "19.txt": 1,
+        "24.txt": 3,
+        "5.txt": 2
+    },
+    "imprisoned": {
+        "19.txt": 1,
+        "1.txt": 6
+    },
+    "insights": {
+        "19.txt": 1
+    },
+    "instinctive": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "invader": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "impregnable": {
+        "19.txt": 1,
+        "24.txt": 1
+    },
+    "ingenuity": {
+        "19.txt": 1
+    },
+    "indirect": {
+        "19.txt": 1,
+        "24.txt": 3
+    },
+    "illuminates": {
+        "19.txt": 1,
+        "1.txt": 1
+    },
+    "interred": {
+        "19.txt": 1
+    },
+    "inwards": {
+        "19.txt": 1
+    },
+    "interlaced": {
+        "19.txt": 1
+    },
+    "inclement": {
+        "19.txt": 2
+    },
+    "illimitable": {
+        "19.txt": 1
+    },
+    "ivy": {
+        "19.txt": 2
+    },
+    "incoming": {
+        "19.txt": 1
+    },
+    "infant": {
+        "19.txt": 1
+    },
+    "incorporeality": {
+        "19.txt": 1
+    },
+    "intent": {
+        "19.txt": 1,
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "intervene": {
+        "19.txt": 1
+    },
+    "interlace": {
+        "19.txt": 1
+    },
+    "impart": {
+        "19.txt": 1
+    },
+    "interment": {
+        "19.txt": 1
+    },
+    "ii": {
+        "19.txt": 1,
+        "1.txt": 2,
+        "24.txt": 12,
+        "5.txt": 3,
+        "8.txt": 1
+    },
+    "illumined": {
+        "19.txt": 1
+    },
+    "interregnum": {
+        "19.txt": 1
+    },
+    "idealists": {
+        "19.txt": 1
+    },
+    "insisting": {
+        "1.txt": 4
+    },
+    "isnt": {
+        "1.txt": 37
+    },
+    "im": {
+        "1.txt": 425
+    },
+    "id": {
+        "1.txt": 73
+    },
+    "inhaling": {
+        "1.txt": 1
+    },
+    "ive": {
+        "1.txt": 167
+    },
+    "intones": {
+        "1.txt": 1
+    },
+    "inhale": {
+        "1.txt": 2
+    },
+    "injured": {
+        "1.txt": 6,
+        "8.txt": 1
+    },
+    "iftheyre": {
+        "1.txt": 1
+    },
+    "immobilizing": {
+        "1.txt": 1
+    },
+    "insurmountable": {
+        "1.txt": 1
+    },
+    "insectlike": {
+        "1.txt": 1
+    },
+    "interestingly": {
+        "1.txt": 1
+    },
+    "initially": {
+        "1.txt": 3
+    },
+    "instruction": {
+        "1.txt": 3,
+        "24.txt": 3
+    },
+    "indulgences": {
+        "1.txt": 1
+    },
+    "intensely": {
+        "1.txt": 2
+    },
+    "idiots": {
+        "1.txt": 1
+    },
+    "interview": {
+        "1.txt": 22
+    },
+    "invites": {
+        "1.txt": 1
+    },
+    "ignites": {
+        "1.txt": 2
+    },
+    "impolite": {
+        "1.txt": 1
+    },
+    "intertwines": {
+        "1.txt": 1
+    },
+    "intimidate": {
+        "1.txt": 1
+    },
+    "itching": {
+        "1.txt": 3
+    },
+    "inches": {
+        "1.txt": 8
+    },
+    "impulsiveness": {
+        "1.txt": 1
+    },
+    "irredeemably": {
+        "1.txt": 1
+    },
+    "indication": {
+        "1.txt": 3
+    },
+    "itd": {
+        "1.txt": 6
+    },
+    "impressive": {
+        "1.txt": 4
+    },
+    "interviews": {
+        "1.txt": 12
+    },
+    "instructs": {
+        "1.txt": 1
+    },
+    "intrigued": {
+        "1.txt": 1
+    },
+    "interviewer": {
+        "1.txt": 1
+    },
+    "identically": {
+        "1.txt": 1
+    },
+    "invitations": {
+        "1.txt": 1
+    },
+    "ignores": {
+        "1.txt": 2
+    },
+    "inferior": {
+        "1.txt": 1,
+        "24.txt": 1,
+        "5.txt": 3
+    },
+    "inserts": {
+        "1.txt": 1
+    },
+    "injected": {
+        "1.txt": 1
+    },
+    "instructed": {
+        "1.txt": 1,
+        "24.txt": 2
+    },
+    "indicating": {
+        "1.txt": 1
+    },
+    "intermixed": {
+        "1.txt": 1
+    },
+    "itll": {
+        "1.txt": 3
+    },
+    "imprudent": {
+        "1.txt": 1
+    },
+    "innards": {
+        "1.txt": 1
+    },
+    "inferno": {
+        "1.txt": 1
+    },
+    "injuries": {
+        "1.txt": 2,
+        "4.txt": 1
+    },
+    "intentionally": {
+        "1.txt": 1,
+        "24.txt": 2
+    },
+    "inflamed": {
+        "1.txt": 3
+    },
+    "identified": {
+        "1.txt": 1
+    },
+    "insects": {
+        "1.txt": 2
+    },
+    "ineffective": {
+        "1.txt": 1
+    },
+    "interferes": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "insufficient": {
+        "1.txt": 1
+    },
+    "inching": {
+        "1.txt": 1
+    },
+    "illuminating": {
+        "1.txt": 2
+    },
+    "interviewing": {
+        "1.txt": 1
+    },
+    "indefinite": {
+        "1.txt": 1,
+        "24.txt": 2
+    },
+    "invigorating": {
+        "1.txt": 1
+    },
+    "interspersed": {
+        "1.txt": 1
+    },
+    "inflict": {
+        "1.txt": 1
+    },
+    "impotence": {
+        "1.txt": 1,
+        "24.txt": 2
+    },
+    "infuses": {
+        "1.txt": 1
+    },
+    "inducement": {
+        "1.txt": 1
+    },
+    "inviting": {
+        "1.txt": 3
+    },
+    "iii": {
+        "1.txt": 1,
+        "24.txt": 4,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "instruct": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "incapacitated": {
+        "1.txt": 1
+    },
+    "ironically": {
+        "1.txt": 1
+    },
+    "innocently": {
+        "1.txt": 1
+    },
+    "improves": {
+        "1.txt": 1
+    },
+    "involves": {
+        "1.txt": 1,
+        "24.txt": 5,
+        "5.txt": 1
+    },
+    "intervened": {
+        "1.txt": 1
+    },
+    "idly": {
+        "1.txt": 1
+    },
+    "incoherence": {
+        "1.txt": 1
+    },
+    "inhabit": {
+        "1.txt": 1
+    },
+    "infusion": {
+        "1.txt": 1
+    },
+    "insect": {
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "ion": {
+        "1.txt": 1
+    },
+    "irreverent": {
+        "1.txt": 1
+    },
+    "immediacy": {
+        "1.txt": 1
+    },
+    "incline": {
+        "1.txt": 1
+    },
+    "ideally": {
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "imperfect": {
+        "1.txt": 1,
+        "24.txt": 1
+    },
+    "intersperse": {
+        "1.txt": 1
+    },
+    "inlaid": {
+        "1.txt": 1
+    },
+    "indeterminate": {
+        "1.txt": 1,
+        "24.txt": 4
+    },
+    "irritation": {
+        "1.txt": 1
+    },
+    "installed": {
+        "1.txt": 1,
+        "5.txt": 1
+    },
+    "interrupts": {
+        "1.txt": 1
+    },
+    "instigator": {
+        "1.txt": 1
+    },
+    "interference": {
+        "1.txt": 1,
+        "8.txt": 1
+    },
+    "insidious": {
+        "1.txt": 1
+    },
+    "immanuel": {
+        "24.txt": 4
+    },
+    "inasmuch": {
+        "24.txt": 24
+    },
+    "intrinsic": {
+        "24.txt": 1
+    },
+    "inconsistency": {
+        "24.txt": 2,
+        "8.txt": 1
+    },
+    "imply": {
+        "24.txt": 8
+    },
+    "inseparably": {
+        "24.txt": 11,
+        "5.txt": 2
+    },
+    "interpolation": {
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "indispensable": {
+        "24.txt": 5,
+        "5.txt": 1
+    },
+    "inquiry": {
+        "24.txt": 8
+    },
+    "inconsistencies": {
+        "24.txt": 1
+    },
+    "imperatives": {
+        "24.txt": 7
+    },
+    "inference": {
+        "24.txt": 4
+    },
+    "implies": {
+        "24.txt": 12,
+        "5.txt": 2
+    },
+    "infer": {
+        "24.txt": 4
+    },
+    "idealist": {
+        "24.txt": 1
+    },
+    "indubitably": {
+        "24.txt": 2
+    },
+    "immanent": {
+        "24.txt": 5
+    },
+    "imperative": {
+        "24.txt": 7,
+        "5.txt": 1
+    },
+    "involving": {
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "inquire": {
+        "24.txt": 2,
+        "5.txt": 1
+    },
+    "impels": {
+        "24.txt": 1
+    },
+    "instructive": {
+        "24.txt": 2
+    },
+    "implanted": {
+        "24.txt": 1
+    },
+    "inclination": {
+        "24.txt": 32,
+        "5.txt": 1
+    },
+    "impairs": {
+        "24.txt": 1
+    },
+    "iv": {
+        "24.txt": 4,
+        "5.txt": 2,
+        "8.txt": 1
+    },
+    "insoluble": {
+        "24.txt": 2
+    },
+    "incomprehensibilities": {
+        "24.txt": 1
+    },
+    "incorruptible": {
+        "24.txt": 1
+    },
+    "irrepressible": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "indefatigably": {
+        "24.txt": 1
+    },
+    "intercourse": {
+        "24.txt": 1,
+        "5.txt": 2
+    },
+    "infallibly": {
+        "24.txt": 1
+    },
+    "inflicts": {
+        "24.txt": 1
+    },
+    "injuring": {
+        "24.txt": 1
+    },
+    "interfering": {
+        "24.txt": 2
+    },
+    "infinitum": {
+        "24.txt": 4
+    },
+    "inquires": {
+        "24.txt": 1
+    },
+    "inscrutable": {
+        "24.txt": 1
+    },
+    "investigation": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "insensibly": {
+        "24.txt": 1
+    },
+    "irrecoverably": {
+        "24.txt": 2
+    },
+    "intelligences": {
+        "24.txt": 1
+    },
+    "injurious": {
+        "24.txt": 3
+    },
+    "intelligibility": {
+        "24.txt": 2
+    },
+    "instances": {
+        "24.txt": 4,
+        "8.txt": 1
+    },
+    "impulses": {
+        "24.txt": 4
+    },
+    "imposes": {
+        "24.txt": 4
+    },
+    "imperfections": {
+        "24.txt": 1
+    },
+    "impeding": {
+        "24.txt": 1
+    },
+    "inspires": {
+        "24.txt": 1
+    },
+    "infects": {
+        "24.txt": 1
+    },
+    "infused": {
+        "24.txt": 2
+    },
+    "insipid": {
+        "24.txt": 2
+    },
+    "insinuating": {
+        "24.txt": 1
+    },
+    "inviolable": {
+        "24.txt": 1
+    },
+    "inoffensive": {
+        "24.txt": 1
+    },
+    "incorporated": {
+        "24.txt": 2
+    },
+    "impracticable": {
+        "24.txt": 1
+    },
+    "imputation": {
+        "24.txt": 2
+    },
+    "imputes": {
+        "24.txt": 1
+    },
+    "ideality": {
+        "24.txt": 2
+    },
+    "inhering": {
+        "24.txt": 1
+    },
+    "incontestable": {
+        "24.txt": 1
+    },
+    "immutable": {
+        "24.txt": 1
+    },
+    "infallible": {
+        "24.txt": 1
+    },
+    "impartial": {
+        "24.txt": 2,
+        "5.txt": 2
+    },
+    "irreconcilable": {
+        "24.txt": 1,
+        "5.txt": 3
+    },
+    "ipso": {
+        "24.txt": 1
+    },
+    "intentioned": {
+        "24.txt": 1
+    },
+    "impelling": {
+        "24.txt": 1
+    },
+    "indicates": {
+        "24.txt": 1
+    },
+    "improperly": {
+        "24.txt": 1
+    },
+    "indulgence": {
+        "24.txt": 2
+    },
+    "infringes": {
+        "24.txt": 1
+    },
+    "inflexible": {
+        "24.txt": 1
+    },
+    "inexorably": {
+        "24.txt": 2
+    },
+    "immutability": {
+        "24.txt": 1
+    },
+    "implying": {
+        "24.txt": 1
+    },
+    "indispensably": {
+        "24.txt": 1
+    },
+    "incontrovertibly": {
+        "24.txt": 1
+    },
+    "import": {
+        "24.txt": 3
+    },
+    "inferences": {
+        "24.txt": 1
+    },
+    "indulged": {
+        "24.txt": 1
+    },
+    "inmost": {
+        "24.txt": 1
+    },
+    "inquiring": {
+        "24.txt": 1
+    },
+    "illustrates": {
+        "24.txt": 1
+    },
+    "ix": {
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "incurred": {
+        "24.txt": 1,
+        "8.txt": 1
+    },
+    "inequality": {
+        "24.txt": 1
+    },
+    "insensible": {
+        "24.txt": 1,
+        "4.txt": 1
+    },
+    "inviolability": {
+        "24.txt": 1
+    },
+    "imperfection": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "infusing": {
+        "24.txt": 1
+    },
+    "infringed": {
+        "24.txt": 1
+    },
+    "idem": {
+        "24.txt": 1
+    },
+    "integer": {
+        "24.txt": 1
+    },
+    "incertaeque": {
+        "24.txt": 1
+    },
+    "imperet": {
+        "24.txt": 1
+    },
+    "impiety": {
+        "24.txt": 1
+    },
+    "importunity": {
+        "24.txt": 1
+    },
+    "illegitimate": {
+        "24.txt": 1
+    },
+    "impaired": {
+        "24.txt": 1
+    },
+    "inhabits": {
+        "24.txt": 1
+    },
+    "inferred": {
+        "24.txt": 1
+    },
+    "incomparably": {
+        "24.txt": 1,
+        "5.txt": 1
+    },
+    "ikcpr10": {
+        "24.txt": 2
+    },
+    "ikcpr11": {
+        "24.txt": 1
+    },
+    "ikcpr10a": {
+        "24.txt": 1
+    },
+    "indexes": {
+        "24.txt": 1
+    },
+    "ibiblio": {
+        "24.txt": 2
+    },
+    "illinois": {
+        "24.txt": 1
+    },
+    "indiana": {
+        "24.txt": 1
+    },
+    "iowa": {
+        "24.txt": 1
+    },
+    "identification": {
+        "24.txt": 1
+    },
+    "inaccurate": {
+        "24.txt": 1
+    },
+    "infringement": {
+        "24.txt": 1
+    },
+    "incidental": {
+        "24.txt": 1
+    },
+    "indemnity": {
+        "24.txt": 1
+    },
+    "indemnify": {
+        "24.txt": 1
+    },
+    "introspective": {
+        "5.txt": 1
+    },
+    "interludes": {
+        "5.txt": 1
+    },
+    "indicated": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "increases": {
+        "5.txt": 2
+    },
+    "insecure": {
+        "5.txt": 1
+    },
+    "invariable": {
+        "5.txt": 1
+    },
+    "impersonal": {
+        "5.txt": 2
+    },
+    "inkling": {
+        "5.txt": 1
+    },
+    "inconsiderable": {
+        "5.txt": 2
+    },
+    "intuitive": {
+        "5.txt": 1
+    },
+    "invariably": {
+        "5.txt": 3
+    },
+    "intellect": {
+        "5.txt": 5
+    },
+    "investigator": {
+        "5.txt": 2
+    },
+    "induce": {
+        "5.txt": 2,
+        "4.txt": 1
+    },
+    "indiscretion": {
+        "5.txt": 1
+    },
+    "ins": {
+        "5.txt": 1
+    },
+    "italians": {
+        "5.txt": 1
+    },
+    "inducing": {
+        "5.txt": 1
+    },
+    "ingenious": {
+        "5.txt": 1
+    },
+    "implications": {
+        "5.txt": 1
+    },
+    "inheritance": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "illustrate": {
+        "5.txt": 1
+    },
+    "intermediate": {
+        "5.txt": 1
+    },
+    "incitement": {
+        "5.txt": 1
+    },
+    "inroads": {
+        "5.txt": 1
+    },
+    "interviewers": {
+        "5.txt": 2
+    },
+    "incredulously": {
+        "5.txt": 1
+    },
+    "ingratiating": {
+        "5.txt": 1
+    },
+    "internationalism": {
+        "5.txt": 2
+    },
+    "ineffectual": {
+        "5.txt": 1
+    },
+    "irritable": {
+        "5.txt": 1
+    },
+    "infancy": {
+        "5.txt": 1
+    },
+    "idealistic": {
+        "5.txt": 1
+    },
+    "inhabited": {
+        "5.txt": 2
+    },
+    "india": {
+        "5.txt": 1
+    },
+    "individualist": {
+        "5.txt": 1
+    },
+    "imperiously": {
+        "5.txt": 1
+    },
+    "incalculable": {
+        "5.txt": 1
+    },
+    "impoverished": {
+        "5.txt": 1
+    },
+    "inadequacy": {
+        "5.txt": 1
+    },
+    "irresponsibility": {
+        "5.txt": 1
+    },
+    "intellectually": {
+        "5.txt": 4
+    },
+    "interchange": {
+        "5.txt": 1
+    },
+    "intellectuelle": {
+        "5.txt": 1
+    },
+    "impartiality": {
+        "5.txt": 1
+    },
+    "ingrained": {
+        "5.txt": 1
+    },
+    "inventive": {
+        "5.txt": 1
+    },
+    "imperfectly": {
+        "5.txt": 1
+    },
+    "industries": {
+        "5.txt": 4
+    },
+    "insolvent": {
+        "5.txt": 1
+    },
+    "improvements": {
+        "5.txt": 1
+    },
+    "innovations": {
+        "5.txt": 1
+    },
+    "impoverishment": {
+        "5.txt": 1
+    },
+    "intolerably": {
+        "5.txt": 1
+    },
+    "income": {
+        "5.txt": 1
+    },
+    "impediments": {
+        "5.txt": 1
+    },
+    "inculcated": {
+        "5.txt": 1
+    },
+    "incorrect": {
+        "5.txt": 1
+    },
+    "intends": {
+        "5.txt": 1,
+        "8.txt": 1
+    },
+    "issuing": {
+        "5.txt": 1
+    },
+    "irrespective": {
+        "5.txt": 1
+    },
+    "incarnate": {
+        "5.txt": 1
+    },
+    "isbeing": {
+        "5.txt": 1
+    },
+    "item": {
+        "5.txt": 1
+    },
+    "indefatigable": {
+        "5.txt": 1
+    },
+    "index": {
+        "5.txt": 1
+    },
+    "insinuate": {
+        "5.txt": 1
+    },
+    "insuperable": {
+        "5.txt": 1
+    },
+    "intellects": {
+        "5.txt": 1
+    },
+    "instability": {
+        "5.txt": 1
+    },
+    "intolerant": {
+        "5.txt": 1
+    },
+    "intolerance": {
+        "5.txt": 2
+    },
+    "ia": {
+        "8.txt": 1
+    },
+    "ingeld": {
+        "8.txt": 5
+    },
+    "ireful": {
+        "8.txt": 1
+    },
+    "infernal": {
+        "8.txt": 1
+    },
+    "invade": {
+        "8.txt": 1
+    },
+    "ingwines": {
+        "8.txt": 2
+    },
+    "ing": {
+        "8.txt": 2
+    },
+    "isle": {
+        "8.txt": 1
+    },
+    "instigation": {
+        "8.txt": 1
+    },
+    "illustrating": {
+        "8.txt": 1
+    },
+    "inflicted": {
+        "8.txt": 1
+    },
+    "ire": {
+        "8.txt": 1
+    },
+    "indoors": {
+        "4.txt": 1
+    },
+    "injure": {
+        "4.txt": 1
+    },
+    "inconvenient": {
+        "4.txt": 1
+    }
+}

@@ -1,0 +1,1442 @@
+{
+    "users": {
+        "25.txt": 2,
+        "16.txt": 2
+    },
+    "understand": {
+        "25.txt": 53,
+        "16.txt": 19,
+        "11.txt": 22,
+        "20.txt": 5,
+        "22.txt": 7,
+        "9.txt": 6
+    },
+    "updated": {
+        "25.txt": 1
+    },
+    "us": {
+        "25.txt": 586,
+        "16.txt": 68,
+        "11.txt": 73,
+        "20.txt": 54,
+        "22.txt": 45,
+        "9.txt": 17
+    },
+    "unless": {
+        "25.txt": 38,
+        "16.txt": 3,
+        "11.txt": 4,
+        "20.txt": 2,
+        "22.txt": 15
+    },
+    "usually": {
+        "25.txt": 7,
+        "16.txt": 6,
+        "11.txt": 5,
+        "22.txt": 10,
+        "9.txt": 1
+    },
+    "upon": {
+        "25.txt": 383,
+        "16.txt": 152,
+        "11.txt": 16,
+        "20.txt": 17,
+        "22.txt": 26
+    },
+    "utah": {
+        "25.txt": 1
+    },
+    "university": {
+        "25.txt": 1,
+        "16.txt": 5
+    },
+    "up": {
+        "25.txt": 70,
+        "16.txt": 58,
+        "11.txt": 155,
+        "20.txt": 128,
+        "22.txt": 11,
+        "9.txt": 74
+    },
+    "use": {
+        "25.txt": 197,
+        "16.txt": 86,
+        "11.txt": 23,
+        "20.txt": 6,
+        "22.txt": 21,
+        "9.txt": 7
+    },
+    "using": {
+        "25.txt": 3,
+        "16.txt": 3,
+        "11.txt": 3,
+        "20.txt": 1,
+        "22.txt": 1,
+        "9.txt": 2
+    },
+    "united": {
+        "25.txt": 22,
+        "16.txt": 10,
+        "11.txt": 1,
+        "20.txt": 3,
+        "22.txt": 1
+    },
+    "under": {
+        "25.txt": 238,
+        "16.txt": 28,
+        "11.txt": 26,
+        "20.txt": 26,
+        "22.txt": 3,
+        "9.txt": 3
+    },
+    "underline": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "used": {
+        "25.txt": 9,
+        "16.txt": 13,
+        "11.txt": 19,
+        "20.txt": 2,
+        "9.txt": 8
+    },
+    "unable": {
+        "25.txt": 37,
+        "16.txt": 1,
+        "11.txt": 7,
+        "20.txt": 1,
+        "22.txt": 3
+    },
+    "uniform": {
+        "25.txt": 4,
+        "16.txt": 4,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "understanding": {
+        "25.txt": 701,
+        "16.txt": 41,
+        "11.txt": 6,
+        "22.txt": 8,
+        "9.txt": 2
+    },
+    "unavoidably": {
+        "25.txt": 5
+    },
+    "undertake": {
+        "25.txt": 4,
+        "22.txt": 1
+    },
+    "unchangeable": {
+        "25.txt": 8
+    },
+    "unity": {
+        "25.txt": 500,
+        "16.txt": 7
+    },
+    "undertakes": {
+        "25.txt": 2,
+        "16.txt": 1
+    },
+    "ultimate": {
+        "25.txt": 19,
+        "11.txt": 2
+    },
+    "undertaken": {
+        "25.txt": 3,
+        "11.txt": 3
+    },
+    "uncompensated": {
+        "25.txt": 1
+    },
+    "unadvisable": {
+        "25.txt": 1
+    },
+    "uninfluenced": {
+        "25.txt": 2
+    },
+    "undeviating": {
+        "25.txt": 1
+    },
+    "utmost": {
+        "25.txt": 7,
+        "16.txt": 3,
+        "11.txt": 3
+    },
+    "unvarying": {
+        "25.txt": 4,
+        "20.txt": 1
+    },
+    "utility": {
+        "25.txt": 20,
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "unconditioned": {
+        "25.txt": 133
+    },
+    "universe": {
+        "25.txt": 47,
+        "16.txt": 64
+    },
+    "undiscovered": {
+        "25.txt": 2
+    },
+    "unavoidable": {
+        "25.txt": 24,
+        "16.txt": 5
+    },
+    "unbelief": {
+        "25.txt": 1
+    },
+    "urged": {
+        "25.txt": 5,
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "unfitness": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "undisturbed": {
+        "25.txt": 3,
+        "22.txt": 1
+    },
+    "universally": {
+        "25.txt": 14
+    },
+    "useful": {
+        "25.txt": 25,
+        "16.txt": 6,
+        "11.txt": 6,
+        "22.txt": 10
+    },
+    "unalterable": {
+        "25.txt": 3
+    },
+    "uncertain": {
+        "25.txt": 7,
+        "16.txt": 3,
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 2
+    },
+    "unwilling": {
+        "25.txt": 1,
+        "16.txt": 3,
+        "22.txt": 4
+    },
+    "unfavourable": {
+        "25.txt": 1
+    },
+    "undermined": {
+        "25.txt": 1
+    },
+    "unphilosophical": {
+        "25.txt": 1
+    },
+    "universality": {
+        "25.txt": 37
+    },
+    "unlimited": {
+        "25.txt": 17
+    },
+    "universal": {
+        "25.txt": 57,
+        "16.txt": 1,
+        "11.txt": 2,
+        "22.txt": 1
+    },
+    "utterly": {
+        "25.txt": 37,
+        "11.txt": 3
+    },
+    "undertaking": {
+        "25.txt": 7,
+        "22.txt": 4
+    },
+    "unattempted": {
+        "25.txt": 1
+    },
+    "undoubtingly": {
+        "25.txt": 1
+    },
+    "unnecessary": {
+        "25.txt": 12,
+        "16.txt": 4,
+        "20.txt": 1
+    },
+    "unknown": {
+        "25.txt": 27,
+        "16.txt": 5,
+        "11.txt": 2,
+        "22.txt": 4
+    },
+    "uniting": {
+        "25.txt": 6
+    },
+    "union": {
+        "25.txt": 9,
+        "16.txt": 3,
+        "11.txt": 1
+    },
+    "units": {
+        "25.txt": 7
+    },
+    "unchanged": {
+        "25.txt": 2,
+        "11.txt": 1,
+        "9.txt": 2
+    },
+    "uncertainty": {
+        "25.txt": 5,
+        "22.txt": 1
+    },
+    "unquestionably": {
+        "25.txt": 2
+    },
+    "unceasingly": {
+        "25.txt": 4
+    },
+    "useless": {
+        "25.txt": 9,
+        "16.txt": 1,
+        "20.txt": 1,
+        "22.txt": 2
+    },
+    "undeniable": {
+        "25.txt": 1,
+        "9.txt": 1
+    },
+    "undeterred": {
+        "25.txt": 1
+    },
+    "ultimately": {
+        "25.txt": 1
+    },
+    "undetermined": {
+        "25.txt": 28
+    },
+    "understood": {
+        "25.txt": 20,
+        "16.txt": 6,
+        "11.txt": 7,
+        "20.txt": 1,
+        "22.txt": 3
+    },
+    "unconnected": {
+        "25.txt": 4
+    },
+    "unanimously": {
+        "25.txt": 3
+    },
+    "undeniably": {
+        "25.txt": 1
+    },
+    "unshaken": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "utter": {
+        "25.txt": 5,
+        "16.txt": 3,
+        "11.txt": 2,
+        "22.txt": 1
+    },
+    "unites": {
+        "25.txt": 3
+    },
+    "unanswerable": {
+        "25.txt": 3
+    },
+    "unfold": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 2
+    },
+    "usual": {
+        "25.txt": 10,
+        "16.txt": 13,
+        "11.txt": 29,
+        "20.txt": 2,
+        "9.txt": 2
+    },
+    "undoubted": {
+        "25.txt": 3
+    },
+    "unsusceptible": {
+        "25.txt": 1
+    },
+    "unguarded": {
+        "25.txt": 1
+    },
+    "unbecoming": {
+        "25.txt": 1
+    },
+    "unfortunately": {
+        "25.txt": 5
+    },
+    "until": {
+        "25.txt": 14,
+        "16.txt": 10,
+        "11.txt": 11,
+        "20.txt": 34,
+        "9.txt": 1
+    },
+    "unalloyed": {
+        "25.txt": 1
+    },
+    "unmixed": {
+        "25.txt": 2
+    },
+    "ubi": {
+        "25.txt": 1
+    },
+    "unpleasant": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "unilaterally": {
+        "25.txt": 1
+    },
+    "unum": {
+        "25.txt": 1
+    },
+    "unguardedly": {
+        "25.txt": 1
+    },
+    "unauthorized": {
+        "25.txt": 2
+    },
+    "usurped": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "undoubtedly": {
+        "25.txt": 7,
+        "16.txt": 1,
+        "11.txt": 2,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "unconscious": {
+        "25.txt": 2,
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "unaccompanied": {
+        "25.txt": 1
+    },
+    "unite": {
+        "25.txt": 5,
+        "22.txt": 1
+    },
+    "unit": {
+        "25.txt": 6,
+        "20.txt": 1
+    },
+    "understandings": {
+        "25.txt": 2,
+        "16.txt": 8
+    },
+    "unlike": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 1
+    },
+    "unbounded": {
+        "25.txt": 1
+    },
+    "uncommon": {
+        "25.txt": 1,
+        "11.txt": 1,
+        "22.txt": 3
+    },
+    "unveil": {
+        "25.txt": 1
+    },
+    "unnecessarily": {
+        "25.txt": 2,
+        "20.txt": 1
+    },
+    "unaltered": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "unworthy": {
+        "25.txt": 10,
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "unrestricted": {
+        "25.txt": 1
+    },
+    "unchangeably": {
+        "25.txt": 2
+    },
+    "undergoes": {
+        "25.txt": 1
+    },
+    "unqualified": {
+        "25.txt": 1
+    },
+    "undecided": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "unsafe": {
+        "25.txt": 1
+    },
+    "unexpected": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 2
+    },
+    "upholders": {
+        "25.txt": 1
+    },
+    "unreasonable": {
+        "25.txt": 1,
+        "16.txt": 11,
+        "20.txt": 1
+    },
+    "unobserved": {
+        "25.txt": 3
+    },
+    "uniformity": {
+        "25.txt": 3,
+        "16.txt": 1
+    },
+    "upwards": {
+        "25.txt": 3,
+        "16.txt": 8,
+        "9.txt": 1
+    },
+    "unusual": {
+        "25.txt": 1,
+        "11.txt": 3,
+        "20.txt": 2
+    },
+    "universalitas": {
+        "25.txt": 2
+    },
+    "universitas": {
+        "25.txt": 2
+    },
+    "unconditionally": {
+        "25.txt": 10
+    },
+    "unveiling": {
+        "25.txt": 1
+    },
+    "unconditional": {
+        "25.txt": 2
+    },
+    "unexceptionable": {
+        "25.txt": 2
+    },
+    "uninterrupted": {
+        "25.txt": 2
+    },
+    "undemonstrated": {
+        "25.txt": 1
+    },
+    "unimportant": {
+        "25.txt": 2,
+        "11.txt": 1
+    },
+    "unsuccessful": {
+        "25.txt": 5,
+        "20.txt": 1
+    },
+    "undiminished": {
+        "25.txt": 2
+    },
+    "unsophisticated": {
+        "25.txt": 1
+    },
+    "unsuited": {
+        "25.txt": 1
+    },
+    "unconcerned": {
+        "25.txt": 1,
+        "11.txt": 2
+    },
+    "unascertained": {
+        "25.txt": 1
+    },
+    "unluckily": {
+        "25.txt": 1
+    },
+    "umpires": {
+        "25.txt": 1
+    },
+    "undermines": {
+        "25.txt": 1
+    },
+    "unrestrained": {
+        "25.txt": 1
+    },
+    "unrighteous": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "unfair": {
+        "25.txt": 3,
+        "9.txt": 1
+    },
+    "unfairly": {
+        "25.txt": 1
+    },
+    "unaware": {
+        "25.txt": 1
+    },
+    "undermine": {
+        "25.txt": 1
+    },
+    "unconquerable": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "uniformly": {
+        "25.txt": 1
+    },
+    "uncaused": {
+        "25.txt": 1
+    },
+    "unsettled": {
+        "25.txt": 2,
+        "16.txt": 2,
+        "11.txt": 1
+    },
+    "unhappily": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "unbroken": {
+        "25.txt": 3
+    },
+    "unmistakable": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "unpopular": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "understands": {
+        "25.txt": 2
+    },
+    "unattainable": {
+        "25.txt": 5
+    },
+    "unsatisfactory": {
+        "25.txt": 3,
+        "16.txt": 1
+    },
+    "unceasing": {
+        "25.txt": 6
+    },
+    "unjust": {
+        "25.txt": 1,
+        "16.txt": 8,
+        "9.txt": 1
+    },
+    "unperceived": {
+        "25.txt": 1
+    },
+    "unseen": {
+        "25.txt": 1,
+        "11.txt": 6
+    },
+    "unattained": {
+        "25.txt": 1
+    },
+    "unexceptionably": {
+        "25.txt": 1
+    },
+    "unhappy": {
+        "25.txt": 1,
+        "16.txt": 4,
+        "11.txt": 1
+    },
+    "utters": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "uttering": {
+        "25.txt": 1
+    },
+    "uninterfered": {
+        "25.txt": 1
+    },
+    "unreal": {
+        "25.txt": 2
+    },
+    "uneducated": {
+        "25.txt": 1
+    },
+    "unanswered": {
+        "25.txt": 1,
+        "20.txt": 1
+    },
+    "unassailable": {
+        "25.txt": 1
+    },
+    "unfortunate": {
+        "25.txt": 2,
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "unconvincing": {
+        "25.txt": 1
+    },
+    "undeserving": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "unfolds": {
+        "25.txt": 1,
+        "22.txt": 1
+    },
+    "unthinkingly": {
+        "25.txt": 1,
+        "11.txt": 1
+    },
+    "unsearchable": {
+        "25.txt": 2
+    },
+    "unchanging": {
+        "25.txt": 1,
+        "11.txt": 2
+    },
+    "usteron": {
+        "25.txt": 1
+    },
+    "unessential": {
+        "25.txt": 1
+    },
+    "unskillful": {
+        "25.txt": 1
+    },
+    "unconsciously": {
+        "25.txt": 2,
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "unda": {
+        "25.txt": 1
+    },
+    "unattended": {
+        "25.txt": 1
+    },
+    "usage": {
+        "25.txt": 2
+    },
+    "undermining": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "undervalue": {
+        "25.txt": 1,
+        "16.txt": 1
+    },
+    "uncivilized": {
+        "25.txt": 1
+    },
+    "upright": {
+        "25.txt": 1,
+        "16.txt": 2,
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "uprightness": {
+        "25.txt": 1
+    },
+    "uphold": {
+        "25.txt": 2
+    },
+    "unwise": {
+        "25.txt": 1,
+        "16.txt": 2
+    },
+    "uncritical": {
+        "25.txt": 1
+    },
+    "unwarrantable": {
+        "25.txt": 1
+    },
+    "untrue": {
+        "25.txt": 1
+    },
+    "usurpation": {
+        "25.txt": 1
+    },
+    "unprofitable": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "uses": {
+        "25.txt": 1,
+        "16.txt": 1,
+        "11.txt": 1,
+        "20.txt": 1,
+        "22.txt": 1
+    },
+    "unbiased": {
+        "25.txt": 1
+    },
+    "uni": {
+        "25.txt": 1
+    },
+    "undivided": {
+        "25.txt": 1
+    },
+    "undeveloped": {
+        "25.txt": 2
+    },
+    "unprepared": {
+        "25.txt": 1
+    },
+    "unnamed": {
+        "25.txt": 1
+    },
+    "untravelled": {
+        "25.txt": 1
+    },
+    "unc": {
+        "16.txt": 1
+    },
+    "undid": {
+        "16.txt": 1
+    },
+    "unfaithfulness": {
+        "16.txt": 1
+    },
+    "upshot": {
+        "16.txt": 1
+    },
+    "unbridled": {
+        "16.txt": 1
+    },
+    "unhappiness": {
+        "16.txt": 3,
+        "11.txt": 2
+    },
+    "unto": {
+        "16.txt": 439,
+        "20.txt": 1
+    },
+    "undesirable": {
+        "16.txt": 1
+    },
+    "underlies": {
+        "16.txt": 1
+    },
+    "uncompromising": {
+        "16.txt": 1
+    },
+    "unkindness": {
+        "16.txt": 1
+    },
+    "unctuousness": {
+        "16.txt": 1
+    },
+    "unctuous": {
+        "16.txt": 1
+    },
+    "unspotted": {
+        "16.txt": 2
+    },
+    "undaunted": {
+        "16.txt": 2
+    },
+    "unwavering": {
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "unthankful": {
+        "16.txt": 6
+    },
+    "untroubled": {
+        "16.txt": 2
+    },
+    "uncaring": {
+        "16.txt": 1
+    },
+    "unsatisfying": {
+        "16.txt": 1
+    },
+    "unvariable": {
+        "16.txt": 1
+    },
+    "unsensible": {
+        "16.txt": 3
+    },
+    "unseasonably": {
+        "16.txt": 1
+    },
+    "unpassionateness": {
+        "16.txt": 2
+    },
+    "un": {
+        "16.txt": 2
+    },
+    "urgent": {
+        "16.txt": 1
+    },
+    "unseemly": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "undervalued": {
+        "16.txt": 1
+    },
+    "unchaste": {
+        "16.txt": 1
+    },
+    "upbraiding": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "unseasonable": {
+        "16.txt": 3,
+        "22.txt": 1
+    },
+    "unsociable": {
+        "16.txt": 2
+    },
+    "uncharitable": {
+        "16.txt": 3
+    },
+    "upper": {
+        "16.txt": 3,
+        "11.txt": 2,
+        "20.txt": 2
+    },
+    "unfeigned": {
+        "16.txt": 1
+    },
+    "unmanlike": {
+        "16.txt": 1
+    },
+    "unequal": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "ungodly": {
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "undertaker": {
+        "16.txt": 1
+    },
+    "unseparably": {
+        "16.txt": 1
+    },
+    "untimely": {
+        "16.txt": 1,
+        "11.txt": 1
+    },
+    "unlearned": {
+        "16.txt": 5
+    },
+    "understandeth": {
+        "16.txt": 3
+    },
+    "untoward": {
+        "16.txt": 1
+    },
+    "uncover": {
+        "16.txt": 1
+    },
+    "underminer": {
+        "16.txt": 1
+    },
+    "undergo": {
+        "16.txt": 2
+    },
+    "unjustly": {
+        "16.txt": 2
+    },
+    "unnatural": {
+        "16.txt": 2
+    },
+    "utensil": {
+        "16.txt": 1
+    },
+    "unbinding": {
+        "16.txt": 1
+    },
+    "unsensibly": {
+        "16.txt": 1
+    },
+    "unquietly": {
+        "16.txt": 1
+    },
+    "useth": {
+        "16.txt": 3
+    },
+    "unsensibie": {
+        "16.txt": 1
+    },
+    "uncharitableness": {
+        "16.txt": 1
+    },
+    "unaffected": {
+        "16.txt": 2,
+        "20.txt": 1
+    },
+    "uperfrwn": {
+        "16.txt": 1
+    },
+    "unconscionableness": {
+        "16.txt": 1
+    },
+    "upbraid": {
+        "16.txt": 2,
+        "11.txt": 1
+    },
+    "unreasonably": {
+        "16.txt": 1
+    },
+    "unwittingly": {
+        "16.txt": 1
+    },
+    "unwisely": {
+        "16.txt": 1
+    },
+    "unkindly": {
+        "16.txt": 1
+    },
+    "unsaid": {
+        "16.txt": 1
+    },
+    "unmolested": {
+        "16.txt": 1
+    },
+    "urges": {
+        "16.txt": 1,
+        "9.txt": 1
+    },
+    "unpremeditated": {
+        "16.txt": 1
+    },
+    "underhand": {
+        "16.txt": 1
+    },
+    "ungrateful": {
+        "16.txt": 1
+    },
+    "unsound": {
+        "16.txt": 1,
+        "22.txt": 1
+    },
+    "ulh": {
+        "16.txt": 1
+    },
+    "utica": {
+        "16.txt": 1
+    },
+    "urbane": {
+        "16.txt": 1
+    },
+    "utopia": {
+        "16.txt": 1,
+        "20.txt": 1
+    },
+    "uncle": {
+        "11.txt": 41,
+        "9.txt": 1
+    },
+    "unstimulating": {
+        "11.txt": 1
+    },
+    "unbridgable": {
+        "11.txt": 1
+    },
+    "unendurable": {
+        "11.txt": 1,
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "unproved": {
+        "11.txt": 1
+    },
+    "upholding": {
+        "11.txt": 1
+    },
+    "unnoticed": {
+        "11.txt": 1
+    },
+    "unmoved": {
+        "11.txt": 3
+    },
+    "uneventful": {
+        "11.txt": 2
+    },
+    "unreformed": {
+        "11.txt": 2
+    },
+    "unsoftened": {
+        "11.txt": 1
+    },
+    "unceremonious": {
+        "11.txt": 1
+    },
+    "upset": {
+        "11.txt": 10,
+        "20.txt": 2
+    },
+    "upsets": {
+        "11.txt": 1
+    },
+    "unrecorded": {
+        "11.txt": 1
+    },
+    "unduly": {
+        "11.txt": 1
+    },
+    "umbrage": {
+        "11.txt": 1
+    },
+    "unselfishly": {
+        "11.txt": 1
+    },
+    "ugly": {
+        "11.txt": 1
+    },
+    "user": {
+        "11.txt": 1
+    },
+    "unclassed": {
+        "11.txt": 1
+    },
+    "unconsidered": {
+        "11.txt": 1
+    },
+    "utterances": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "unsatisfied": {
+        "11.txt": 1
+    },
+    "unavailingly": {
+        "11.txt": 1
+    },
+    "unavailing": {
+        "11.txt": 2
+    },
+    "unlocked": {
+        "11.txt": 3,
+        "20.txt": 1
+    },
+    "unpack": {
+        "11.txt": 1
+    },
+    "unsuitable": {
+        "11.txt": 1
+    },
+    "unostentatious": {
+        "11.txt": 1
+    },
+    "unscrupulous": {
+        "11.txt": 4
+    },
+    "ugliness": {
+        "11.txt": 1
+    },
+    "urge": {
+        "11.txt": 1,
+        "9.txt": 1
+    },
+    "unbeaten": {
+        "11.txt": 1
+    },
+    "unusually": {
+        "11.txt": 1
+    },
+    "utilise": {
+        "11.txt": 1
+    },
+    "undue": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "uneasiness": {
+        "11.txt": 1,
+        "22.txt": 1
+    },
+    "uneasy": {
+        "11.txt": 1
+    },
+    "utilitarian": {
+        "11.txt": 1
+    },
+    "unconventional": {
+        "11.txt": 1
+    },
+    "unravel": {
+        "11.txt": 1
+    },
+    "underground": {
+        "11.txt": 2
+    },
+    "undergrowth": {
+        "11.txt": 4
+    },
+    "upward": {
+        "11.txt": 2
+    },
+    "unexpectedly": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "unruffled": {
+        "11.txt": 1
+    },
+    "unnerved": {
+        "11.txt": 1
+    },
+    "unnerving": {
+        "11.txt": 1
+    },
+    "untruth": {
+        "11.txt": 1
+    },
+    "understandable": {
+        "11.txt": 1
+    },
+    "unprejudiced": {
+        "11.txt": 1,
+        "22.txt": 2
+    },
+    "usefully": {
+        "11.txt": 1
+    },
+    "uneasily": {
+        "11.txt": 2,
+        "20.txt": 4
+    },
+    "unrecognised": {
+        "11.txt": 1
+    },
+    "uncivilised": {
+        "11.txt": 1
+    },
+    "utilised": {
+        "11.txt": 1
+    },
+    "unconcern": {
+        "11.txt": 1
+    },
+    "unsurpassable": {
+        "11.txt": 1
+    },
+    "unmistakably": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "unsupported": {
+        "11.txt": 1
+    },
+    "unaided": {
+        "11.txt": 1
+    },
+    "unselfish": {
+        "11.txt": 2
+    },
+    "unsuccessfully": {
+        "11.txt": 1
+    },
+    "uninspired": {
+        "11.txt": 1
+    },
+    "utterance": {
+        "11.txt": 1
+    },
+    "unaggressive": {
+        "11.txt": 1
+    },
+    "unimpeded": {
+        "11.txt": 1
+    },
+    "unshipped": {
+        "11.txt": 1
+    },
+    "upstairs": {
+        "11.txt": 1,
+        "20.txt": 10,
+        "9.txt": 1
+    },
+    "unblinded": {
+        "11.txt": 1
+    },
+    "unending": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "undress": {
+        "11.txt": 1
+    },
+    "upheaved": {
+        "11.txt": 1
+    },
+    "unbearable": {
+        "11.txt": 1,
+        "20.txt": 1
+    },
+    "unknowing": {
+        "20.txt": 1
+    },
+    "uprising": {
+        "20.txt": 1
+    },
+    "unlaced": {
+        "20.txt": 1
+    },
+    "unfamiliar": {
+        "20.txt": 1
+    },
+    "unlovely": {
+        "20.txt": 1
+    },
+    "untouched": {
+        "20.txt": 1
+    },
+    "unloaded": {
+        "20.txt": 1
+    },
+    "unafraid": {
+        "20.txt": 1
+    },
+    "unborn": {
+        "20.txt": 1
+    },
+    "undulate": {
+        "20.txt": 1
+    },
+    "underneath": {
+        "20.txt": 3
+    },
+    "unlatch": {
+        "20.txt": 1
+    },
+    "uproarious": {
+        "20.txt": 1
+    },
+    "update": {
+        "20.txt": 1
+    },
+    "unbelieving": {
+        "20.txt": 1
+    },
+    "uncomfortable": {
+        "20.txt": 1
+    },
+    "uncanny": {
+        "20.txt": 2
+    },
+    "unperturbed": {
+        "20.txt": 1
+    },
+    "upturned": {
+        "20.txt": 1
+    },
+    "upholstery": {
+        "20.txt": 1
+    },
+    "unterderseaboat": {
+        "20.txt": 13
+    },
+    "unwired": {
+        "20.txt": 1
+    },
+    "unimaginable": {
+        "20.txt": 1
+    },
+    "und": {
+        "20.txt": 1
+    },
+    "unemployed": {
+        "20.txt": 2
+    },
+    "unshaven": {
+        "20.txt": 1
+    },
+    "uno": {
+        "20.txt": 2
+    },
+    "unbelievable": {
+        "20.txt": 1
+    },
+    "undressed": {
+        "20.txt": 1,
+        "9.txt": 1
+    },
+    "upside": {
+        "20.txt": 2
+    },
+    "unacquainted": {
+        "22.txt": 1
+    },
+    "upheld": {
+        "22.txt": 1
+    },
+    "undergone": {
+        "22.txt": 1
+    },
+    "unraveling": {
+        "22.txt": 1
+    },
+    "unfit": {
+        "22.txt": 1
+    },
+    "ultra": {
+        "9.txt": 4
+    },
+    "underpass": {
+        "9.txt": 1
+    },
+    "unmuddied": {
+        "9.txt": 2
+    },
+    "unmade": {
+        "9.txt": 1
+    },
+    "unders": {
+        "9.txt": 1
+    },
+    "unlocks": {
+        "9.txt": 1
+    },
+    "undresses": {
+        "9.txt": 1
+    },
+    "underpants": {
+        "9.txt": 1
+    },
+    "unrepentant": {
+        "9.txt": 2
+    },
+    "undernourished": {
+        "9.txt": 1
+    },
+    "undrugged": {
+        "9.txt": 1
+    },
+    "unhypnotized": {
+        "9.txt": 1
+    },
+    "ummmm": {
+        "9.txt": 1
+    },
+    "um": {
+        "9.txt": 3
+    },
+    "unfavorable": {
+        "9.txt": 1
+    }
+}
